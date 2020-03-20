@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>ALEC</title>	
+	
+	<style>
+	/* body and main styles to give us a fixed footer, see https://materializecss.com/footer.html */	
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+  
+/* https://codepen.io/furnace/pen/PGygEd */
+nav.clean {
+  background: none;
+  box-shadow: none;
+  height:2em;
+  line-height:2em;
+  
+}
+nav.clean .breadcrumb {
+  color: black;
+  font-size:1em;
+}
+nav.clean .breadcrumb:before {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+header, main, footer {
+      padding-right: 300px;
+    }
+
+    @media only screen and (max-width : 992px) {
+      header, main, footer {
+        padding-left: 0;
+        padding-right: 0px;
+      }
+    }
+
+  main {
+    flex: 1 0 auto;
+  }			
+	</style>
+	
+	<!--Import Google Icon Font-->
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+    <!-- cloud -->
+    
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css">
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.js"></script>
+  	<script src="https://cdn.jsdelivr.net/npm/ejs@2.6.1/ejs.min.js" integrity="sha256-ZS2YSpipWLkQ1/no+uTJmGexwpda/op53QxO/UBJw4I=" crossorigin="anonymous"></script>	
+    
+
+   	<!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	
+
+	<!-- <script src="js/jquery-1.11.2.min.js"></script> -->
+	<!-- <script src="js/ejs.js"></script> -->
+	
+	<!-- local --->
+	<script src="js/jquery.js"></script> 
+	<script src="js/ejs.js"></script> 
+	<script src="js/citation.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="css/materialize.min.css"> 
+	<script type="text/javascript" src="js/materialize.min.js"></script>
+		
+		
+	<script>
+		const Cite = require('citation-js')
+	</script>
+	
+	
+	
+	
+
+
+	<script>
+	
+        //--------------------------------------------------------------------------------
+		var template_results = `
+		
+			<% item = item['@graph'][0]; %>
+			
+			<div>
+			
+				<% for (var i in item.dataFeedElement) { %>
+					<div class="row">
+					
+						<div class="col s12 m2 hide-on-small-only" style="text-align:center">
+						    	
+						    						    
+						    <%
+						    var thumbnailUrl = "https://via.placeholder.com/80x100";
+						    if (item.dataFeedElement[i].thumbnailUrl) {
+						    	thumbnailUrl = item.dataFeedElement[i].thumbnailUrl;
+						    }
+						    %>
+						    
+							<img class="z-depth-1" style="background:white;" height="100" src="<%- thumbnailUrl %>">
+						</div>
+					
+					
+						<div class="col s12 m10">
+							<div style="font-size:1.5em;line-height:1.2em;">
+								<%- balance(item.dataFeedElement[i].name) %>
+							</div>
+							
+							
+							<% if (item.dataFeedElement[i].creator) { %>
+								<div>
+									<% for (var j in item.dataFeedElement[i].creator) { %>
+										<div class="chip">
+											<%- item.dataFeedElement[i].creator[j] %>
+										</div>
+									<% } %>
+								</div>
+							<% } %>
+					
+							<div style="color:rgb(64,64,64);">			
+									<%- item.dataFeedElement[i].description %>
+							</div>
+					
+							<div>
+							
+								<% if (item.dataFeedElement[i].numberOfItems > 1)  {%>
+									<span class="badge new" data-badge-caption="versions"><%- item.dataFeedElement[i].numberOfItems %></span>					
+								<% } %>
+
+					
+				
+						
+
+							<% if (item.dataFeedElement[i].encoding)  {
+							      for (var j in item.dataFeedElement[i].encoding) {
+							         if (item.dataFeedElement[i].encoding[j].encodingFormat == 'application/pdf') { %>
+							         	<a class="btn" href="<%- item.dataFeedElement[i].encoding[j].url %>" target="_new"><i class="material-icons left">picture_as_pdf</i>View</a>
+							    	<%
+							         }							      
+								}
+							} %>	
+							
+							<% if (item.dataFeedElement[i].doi)  {%>
+								<a class="btn" href="https://doi.org/<%- item.dataFeedElement[i].doi %>">DOI:<%- item.dataFeedElement[i].doi %></a>
+							<% } %>											
+
+							<% if (item.dataFeedElement[i].handle)  {%>
+								<a class="btn" href="https://hdl.handle.net/<%- item.dataFeedElement[i].handle %>">HDL:<%- item.dataFeedElement[i].handle %></a>
+							<% } %>	
+							
+							
+							
+							</div>
+							
+						</div>										
+					
+					</div>
+				
+				
+				<% } %>
+			
+			</div>`;
+		
+        //--------------------------------------------------------------------------------
+			        //--------------------------------------------------------------------------------
+				var template_record = `
+				<%
+				
+			//----------------------------------------------------------------------------------------
+			// Convert ISO data to a human-readable string (PubMed-style)
+			// My databases use -00 to indicate no month or no day, and this confuses Javascript
+			// Date so we need to set the options appropriately
+			isodate_to_string = function (datestring) {
+			
+			// By default assume datestring is a year only
+			var options = {};
+			options.year = 'numeric';
+			
+			// Test for valid month, then day (because we use -00 to indicate no data)
+			var m = null;
+			
+			if (!m) {	
+				m = datestring.match(/^([0-9]{4})$/);
+				if (m) {
+					// year only
+					datestring = m[1]; 
+				}
+			}
+			
+			if (!m) {		
+				m = datestring.match(/^([0-9]{4})-([0-9]{2})-00/);
+				if (m) {
+					
+					if (m[2] == '00') {
+						// Javascript can't handle -00-00 date string so set to January 1st 
+						// which won't be output as we're only outputting the year
+						datestring = m[1] + '-01-01';
+					} else {
+						// We have a month but no day
+						datestring = m[1] + '-' + m[2] + '-01';
+						options.month = 'short';
+					}		
+				}
+			}
+			
+			if (!m) {	
+				m = datestring.match(/^([0-9]{4})-([0-9]{2})-([0-9]{2})/);
+				if (m) {
+					// we have yea, month, and day
+					options.month = 'short';
+					options.day = 'numeric';
+				}
+			}
+			
+			var d = new Date(datestring);
+			datestring = d.toLocaleString('en-gb', options);
+			
+			return datestring;		
+			}		
+			
+			%>
+			
+					<div class="row">
+					
+					<div class="col s12 m2 hide-on-small-only center-align">
+									
+						    <%
+						    var thumbnailUrl = "https://via.placeholder.com/80x100";
+						    /*
+						    if (item.dataFeedElement[i].thumbnailUrl) {
+						    	thumbnailUrl = item.dataFeedElement[i].thumbnailUrl;
+						    
+						    }
+						    */
+						    %>
+						    
+							<img class="z-depth-2" style="background:white;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+
+					</div>
+					
+					<div class="col s12 m10">
+					
+					<!-- bread crumbs -->
+					<% if (data['container-title'] && data.ISSN) { %>
+						<nav class="clean">
+							<div class="nav-wrapper">
+								<a href="./" class="breadcrumb">Home</a>
+								
+								<% 
+								var container = data['container-title'];
+								if (container.length > 30) {
+									container = container.substring(0,30) + '…';
+								}
+								%>
+								
+								<a href="./issn/<%- data.ISSN %>" class="breadcrumb">
+									<%- container %>
+								</a>
+								
+								<% if (data.issued) { %>
+									<a href="issn/<%- data.ISSN[0] %>/year/<%- data.issued['date-parts'][0][0] %>" class="breadcrumb"><%- data.issued['date-parts'][0][0] %></a>
+								<% } %>
+							</div>
+						</nav>
+					<% } %>
+								
+					<!-- headline is item name -->
+					<b style="font-size:1.5em;">				
+						<%- data.title %>				
+					</b>
+					
+					<!-- authors -->
+					<% if (data.author) { %>
+						<div class="section">					
+						<% for(var i in data.author) {
+							var parts = [];
+							if (data.author[i].literal) {
+								parts.push(data.author[i].literal);
+							} else {
+								if (data.author[i].given) {
+									parts.push(data.author[i].given);
+								}
+								if (data.author[i].family) {
+									parts.push(data.author[i].family);
+								}
+							} %>
+							<div class="chip">
+								<% if (data.author[i].ORCID) { %>
+									<img style="vertical-align:baseline" src="images/orcid_16x16.png">
+								<% } %>
+								<a href="?q=<%- encodeURIComponent(parts.join(' ')) %>">
+								<%- parts.join(' ') %>
+								</a>
+							</div>
+						<% } %>
+						</div>
+					<% } %>
+					
+					<!-- publication outlet -->
+					<div>
+						<% if (data['container-title']) { %>
+							Published in
+							<em>
+							<%- data['container-title'] %>
+							</em>
+						<% } %>
+						
+						<% if (data.volume) { %>
+							<%- data.volume %>
+						<% } %>
+			
+						<% if (data.page) { %>
+							pages
+							<%- data.page %>
+						<% } %>
+						
+						<% if (data.issued) {
+							var date_parts = [];
+							date_parts.push(data.issued['date-parts'][0][0]);
+							if (data.issued['date-parts'][0][1]) {
+								date_parts.push(String("00" + data.issued['date-parts'][0][1]).slice(-2));
+							}
+							if (data.issued['date-parts'][0][2]) {
+								date_parts.push(String("00" + data.issued['date-parts'][0][2]).slice(-2));
+							}
+						    var datestring = date_parts.join('-'); %>
+						    (
+							<%- isodate_to_string(datestring) %>
+							)
+						<% } %>
+					</div>
+													
+					<!-- actions -->
+					<div class="section" >
+						<a class="btn blue darken-3" onclick="show_cite('<%- encodeURIComponent(JSON.stringify(data)).replace(/\'/g, "\\\\'") %>')";><i class="material-icons">format_quote</i></a>					
+						
+						
+						<% if (data.DOI)  {%>
+							<a class="btn blue darken-3" href="https://doi.org/<%- data.DOI %>" onClick="ga('send', 'event', { eventCategory: 'Outbound Link', eventAction: 'DOI', eventLabel: event.target.href} );">DOI:<%- data.DOI %></a>
+						<% } %>	
+
+						
+					</div>
+					
+				`;		
+				
+		
+        //--------------------------------------------------------------------------------
+		function show_record(id) {
+		
+			$.getJSON('api.php?id=' 
+					+  id
+					+ '&callback=?',
+				function(data){ 
+					if (data) {
+	
+						// Render template 	
+						var html = ejs.render(template_record, { data: data });
+						document.getElementById('output').innerHTML = html;
+
+					}
+				}
+			);
+			
+		}
+		
+			        //--------------------------------------------------------------------------------
+				function show_cite(csl) {
+				
+					csl = decodeURIComponent(csl);
+					
+					var data = new Cite(csl);
+											
+					var template_cite = `
+					<h5>Cite</h5>
+					<table>
+						<tr>
+							<td style="vertical-align:top;font-weight:bold;">APA</td>
+							<td>
+								<%- data.format('bibliography', {format: 'html', template: 'apa', lang: 'en' }); %>
+							</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;font-weight:bold;">BibTeX</td>
+							<td>
+								<div style="font-family:monospace;white-space:pre-wrap;">
+<%=	data.format('bibtex'); %>
+								</div>
+							</td>
+						</tr>
+						<tr>
+							<td style="vertical-align:top;font-weight:bold;">RIS</td>
+							<td>
+								<div style="font-family:monospace;white-space:pre-wrap;">
+<%=	data.format('ris'); %>
+								</div>
+							</td>
+						</tr>
+					</table>										
+					`;
+					
+					var html = ejs.render(template_cite, { data: data });
+			
+					// Display
+					document.getElementById('modal-content').innerHTML = html;
+					$('#modal').modal('open');
+				}		
+						
+		
+        //--------------------------------------------------------------------------------
+		// http://stackoverflow.com/a/11407464
+		$(document).keypress(function(event){		
+			var keycode = (event.keyCode ? event.keyCode : event.which);			
+			if(keycode == '13'){
+				search();   
+			}
+		});    
+    
+        //--------------------------------------------------------------------------------
+		//http://stackoverflow.com/a/25359264
+		$.urlParam = function(name){
+			var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+			if (results==null){
+			   return null;
+			}
+			else{
+			   return results[1] || 0;
+			}
+		}        
+		
+        //--------------------------------------------------------------------------------
+		function search() {      
+      		document.activeElement.blur();
+      
+			var q = document.getElementById('query').value;
+			
+		$.getJSON('api.php?q=' 
+				+ encodeURI(q)
+				+ '&callback=?',
+			function(data){
+			
+				console.log(JSON.stringify(data, null, 2));
+				
+				html = ejs.render(template_results, { item: data });
+				document.getElementById('results').innerHTML = html;
+	
+			
+			
+			
+			 
+			
+			}
+		);  			
+
+
+		}		
+		
+		
+	
+	
+	</script>
+	
+  <script type="text/javascript">
+//<![CDATA[
+
+    window.onload=function(){
+      
+$(document).ready(function() {
+  $('#modal').modal();  
+});
+
+
+    }
+
+//]]></script>
+	
+	
+</head>
+<body>
+	<!-- <div class="container"> -->
+	<main>
+
+	<!-- search box -->
+	<div class="row">
+		<div class="input-field col s12">
+			<i class="material-icons prefix">search</i>
+			<input style="font-size:2em;" type="text" id="query"  placeholder="Search">
+		</div>
+		<!-- <button class="btn-large type="submit" style="font-size:2em;" id="search" onclick="search();">Find</button> -->
+	</div>
+	
+    <div style="padding:20px;" id="slide-out" class="sidenav sidenav-fixed right-aligned">
+     <!-- <li><a class="sidenav-close" href="#!">Clicking this will close Sidenav</a></li> -->
+      <!-- <li><a href="#!">First Sidebar Link</a></li>
+      <li><a href="#!">Second Sidebar Link</a></li> -->
+      <b style="font-size:1.5em">Cool facts</b>
+    </div>	
+	
+   
+<!-- Modal popup -->
+<div id="modal" class="modal modal-fixed-footer" style="z-index: 1003; display: none; opacity: 0; transform: scaleX(0.7); top: 4%;">
+  <div class="modal-content">    
+    <div id="modal-content">Content</div>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class=" modal-action modal-close btn-flat"><i class="material-icons left">clear</i>Close</a>
+  </div>
+</div>
+
+
+   
+	
+	<div id="results">
+	</div>
+	
+	<div id="output">
+	</div>
+	
+	</main>
+  
+  <script>
+  		// do we have a URL parameter?
+		var query = $.urlParam('q');
+		if (query) {
+		   query = decodeURIComponent(query);
+		   $('#query').val(query); 
+		   search();
+		}
+		query = $.urlParam('id');
+		if (query) {
+		   show_record(decodeURIComponent(query));
+		 
+		}
+  </script>
+  
+
+
+</body>
+</html>
+
