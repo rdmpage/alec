@@ -230,12 +230,17 @@ header, main, footer {
 									
 						    <%
 						    var thumbnailUrl = "https://via.placeholder.com/80x100";
-						    /*
-						    if (item.dataFeedElement[i].thumbnailUrl) {
-						    	thumbnailUrl = item.dataFeedElement[i].thumbnailUrl;
 						    
+						    if (data['alternative-id']) {
+						    
+						    	for (var i in data['alternative-id']) {
+						    		var m = data['alternative-id'][i].match(/\\/page\\/([0-9]+)/);
+						    		if (m) {
+						    			//alert(m[1]);
+						    			thumbnailUrl = 'https://www.biodiversitylibrary.org/pagethumb/' + m[1] + ',200,200';
+						    		}
+						    	}						    
 						    }
-						    */
 						    %>
 						    
 							<img class="z-depth-2" style="background:white;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
