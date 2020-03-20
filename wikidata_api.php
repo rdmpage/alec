@@ -15,7 +15,7 @@ require_once(dirname(__FILE__) .  '/vendor/digitalbazaar/json-ld/jsonld.php');
 //----------------------------------------------------------------------------------------
 // Get one work from Wikidata
 // Use SPARQL CONSTRUCT then convert to CSL 
-function get_work($qid)
+function get_work($qid, $debug = false)
 {
 
 	$uri = 'http://www.wikidata.org/entity/' . $qid;
@@ -256,7 +256,7 @@ WHERE
 		
 	}
 	
-	if (0)
+	if ($debug)
 	{
 		echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n";	
 	}
@@ -348,9 +348,16 @@ WHERE
 						$authors[$index]->literal = $a->name;
 					}
 					
+					// ORCID?
 					if (isset($a->{'identifiers:orcid'}))
 					{
 						$authors[$index]->ORCID = 'https://orcid.org/' . $a->{'identifiers:orcid'};
+					}
+					
+					// Wikidata?
+					if (preg_match('/https?:\/\/www.wikidata.org\/entity\/(?<id>Q\d+)/', $a->{'@id'}, $m))
+					{
+						$authors[$index]->WIKIDATA = $m['id'];
 					}
 					
 					$counter++;
@@ -492,15 +499,17 @@ if (0)
 
 	//$qid = 'Q47164672'; // Chinese
 
-	//$qid = 'Q21283951'; // DOI, PMID, PMC
+	$qid = 'Q21283951'; // DOI, PMID, PMC
 	
-	$qid = 'Q19689597';
+	//$qid = 'Q19689597';
 	
-	$qid = 'Q21189593';
+	// $qid = 'Q21189593';
 	
 	$qid = 'Q58677102';
 	
-	$citeproc_obj = get_work($qid);
+	//$qid = 'Q19689597';
+	
+	$citeproc_obj = get_work($qid, true);
 
 
 	//print_r($citeproc_obj);

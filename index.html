@@ -292,16 +292,21 @@ header, main, footer {
 								<% if (data.author[i].ORCID) { %>
 									<img style="vertical-align:baseline" src="images/orcid_16x16.png">
 								<% } %>
-								<a href="?q=<%- encodeURIComponent(parts.join(' ')) %>">
+								<% if (data.author[i].WIKIDATA) { %>
+									<a href="?id=<%- data.author[i].WIKIDATA %>">
+								<% } %>
+								<!-- <a href="?q=<%- encodeURIComponent(parts.join(' ')) %>"> -->
 								<%- parts.join(' ') %>
-								</a>
+								<% if (data.author[i].WIKIDATA) { %>
+									</a>
+								<% } %>								</a>
 							</div>
 						<% } %>
 						</div>
 					<% } %>
 					
 					<!-- publication outlet -->
-					<div>
+					<div style="color:grey;">
 						<% if (data['container-title']) { %>
 							Published in
 							<em>
@@ -336,11 +341,11 @@ header, main, footer {
 													
 					<!-- actions -->
 					<div class="section" >
-						<a class="btn blue darken-3" onclick="show_cite('<%- encodeURIComponent(JSON.stringify(data)).replace(/\'/g, "\\\\'") %>')";><i class="material-icons">format_quote</i></a>					
+						<a class="btn blue accent-3" onclick="show_cite('<%- encodeURIComponent(JSON.stringify(data)).replace(/\'/g, "\\\\'") %>')";><i class="material-icons">format_quote</i></a>					
 						
 						
 						<% if (data.DOI)  {%>
-							<a class="btn blue darken-3" href="https://doi.org/<%- data.DOI %>" onClick="ga('send', 'event', { eventCategory: 'Outbound Link', eventAction: 'DOI', eventLabel: event.target.href} );">DOI:<%- data.DOI %></a>
+							<a class="btn blue accent-3" href="https://doi.org/<%- data.DOI %>" onClick="ga('send', 'event', { eventCategory: 'Outbound Link', eventAction: 'DOI', eventLabel: event.target.href} );">DOI:<%- data.DOI %></a>
 						<% } %>	
 
 						
