@@ -13,9 +13,9 @@ require_once(dirname(__FILE__) .  '/vendor/digitalbazaar/json-ld/jsonld.php');
 
 
 //----------------------------------------------------------------------------------------
-// Get one work from Wikidata
+// Get one item from Wikidata
 // Use SPARQL CONSTRUCT then convert to CSL 
-function get_work($qid, $debug = false)
+function get_item($qid, $debug = false)
 {
 
 	$uri = 'http://www.wikidata.org/entity/' . $qid;
@@ -23,6 +23,7 @@ function get_work($qid, $debug = false)
 	$sparql = 'PREFIX schema: <http://schema.org/>
 PREFIX identifiers: <https://registry.identifiers.org/registry/>
 PREFIX bibo: <http://purl.org/ontology/bibo/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
 
 CONSTRUCT
@@ -30,8 +31,10 @@ CONSTRUCT
  ?item a ?type . 
   
  ?item schema:name ?title .
+ ?item schema:name ?label .
+ ?item schema:image ?image .
   
- # basic
+ # scholarly article
  ?item schema:name ?title .
  ?item schema:volumeNumber ?volume .
  ?item schema:issueNumber ?issue .
@@ -42,26 +45,128 @@ CONSTRUCT
   ?item schema:author ?author .
   ?author schema:name ?author_name .
   ?author schema:position ?author_order .
-  ?author identifiers:orcid ?orcid .
+  
+  ?author schema:identifier ?orcid_author_identifier .
+ ?orcid_author_identifier a <http://schema.org/PropertyValue> .
+ ?orcid_author_identifier <http://schema.org/propertyID> "orcid" .
+ ?orcid_author_identifier <http://schema.org/value> ?orcid .
+  
+  
   
  # container
   ?item schema:isPartOf ?container .
   ?container schema:name ?container_title .
   ?container schema:issn ?issn .
+  
+  
+  # person
+  ?item schema:description ?description .
+  ?item schema:alternateName ?alternateName .
+  ?item schema:birthDate ?birthDate .
+  ?item schema:deathDate ?deathDate .
  
  # identifiers
- ?item identifiers:doi ?doi .
- ?item identifiers:pubmed ?pmid .
- ?item identifiers:pmc ?pmc .
+ #?item bibo:handle ?handle .
+ #?item identifiers:doi ?doi .
+ #?item identifiers:pubmed ?pmid .
+ #?item identifiers:pmc ?pmc .
  
-  
- ?item bibo:handle ?handle .
+ # identifiers as property values
+ 
+ # bhl
+ ?item schema:identifier ?bhl_page_identifier .
+ ?bhl_page_identifier a <http://schema.org/PropertyValue> .
+ ?bhl_page_identifier <http://schema.org/propertyID> "bhl page" .
+ ?bhl_page_identifier <http://schema.org/value> ?bhl_page .
 
- ?item schema:identifier ?biostor .
- ?item schema:identifier ?bhl .
- ?item schema:identifier ?zoobank_pub .
- ?item schema:identifier ?jstor .
+ # biostor
+ ?item schema:identifier ?biostor_identifier .
+ ?biostor_identifier a <http://schema.org/PropertyValue> .
+ ?biostor_identifier <http://schema.org/propertyID> "biostor" .
+ ?biostor_identifier <http://schema.org/value> ?biostor .
 
+ # doi
+ ?item schema:identifier ?doi_identifier .
+ ?doi_identifier a <http://schema.org/PropertyValue> .
+ ?doi_identifier <http://schema.org/propertyID> "doi" .
+ ?doi_identifier <http://schema.org/value> ?doi .
+
+ # handle
+ ?item schema:identifier ?handle_identifier .
+ ?handle_identifier a <http://schema.org/PropertyValue> .
+ ?handle_identifier <http://schema.org/propertyID> "handle" .
+ ?handle_identifier <http://schema.org/value> ?handle .
+
+ # internetarchive
+ ?item schema:identifier ?internetarchive_identifier .
+ ?internetarchive_identifier a <http://schema.org/PropertyValue> .
+ ?internetarchive_identifier <http://schema.org/propertyID> "internetarchive" .
+ ?internetarchive_identifier <http://schema.org/value> ?internetarchive .
+ 
+ # IPNI author
+ ?item schema:identifier ?ipni_author_identifier .
+ ?ipni_author_identifier a <http://schema.org/PropertyValue> .
+ ?ipni_author_identifier <http://schema.org/propertyID> "ipni_author" .
+ ?ipni_author_identifier <http://schema.org/value> ?ipni_author .
+ 
+
+ # jstor
+ ?item schema:identifier ?jstor_identifier .
+ ?jstor_identifier a <http://schema.org/PropertyValue> .
+ ?jstor_identifier <http://schema.org/propertyID> "jstor" .
+ ?jstor_identifier <http://schema.org/value> ?jstor .
+ 
+ # ORCID
+ ?item schema:identifier ?orcid_identifier .
+ ?orcid_identifier a <http://schema.org/PropertyValue> .
+ ?orcid_identifier <http://schema.org/propertyID> "orcid" .
+ ?orcid_identifier <http://schema.org/value> ?orcid .
+ 
+ # pmc
+ ?item schema:identifier ?pmc_identifier .
+ ?pmc_identifier a <http://schema.org/PropertyValue> .
+ ?pmc_identifier <http://schema.org/propertyID> "pmc" .
+ ?pmc_identifier <http://schema.org/value> ?pmc .
+
+ # pmid
+ ?item schema:identifier ?pmid_identifier .
+ ?pmid_identifier a <http://schema.org/PropertyValue> .
+ ?pmid_identifier <http://schema.org/propertyID> "pmid" .
+ ?pmid_identifier <http://schema.org/value> ?pmid .
+ 
+ # ResearchGate
+ ?item schema:identifier ?rg_author_identifier .
+ ?rg_author_identifier a <http://schema.org/PropertyValue> .
+ ?rg_author_identifier <http://schema.org/propertyID> "researchgate author" .
+ ?rg_author_identifier <http://schema.org/value> ?rg_author .
+ 
+ # Twitter
+ ?item schema:identifier ?twitter_identifier .
+ ?twitter_identifier a <http://schema.org/PropertyValue> .
+ ?twitter_identifier <http://schema.org/propertyID> "twitter" .
+ ?twitter_identifier <http://schema.org/value> ?twitter .
+
+ # VIAF
+ ?item schema:identifier ?viaf_identifier .
+ ?viaf_identifier a <http://schema.org/PropertyValue> .
+ ?viaf_identifier <http://schema.org/propertyID> "viaf" .
+ ?viaf_identifier <http://schema.org/value> ?viaf .
+ 
+
+ # zoobank author
+ ?item schema:identifier ?zoobank_author_identifier .
+ ?zoobank_author_identifier a <http://schema.org/PropertyValue> .
+ ?zoobank_author_identifier <http://schema.org/propertyID> "zoobank_author" .
+ ?zoobank_author_identifier <http://schema.org/value> ?zoobank_author_uuid .
+
+
+ # zoobank publication
+ ?item schema:identifier ?zoobank_pub_identifier .
+ ?zoobank_pub_identifier a <http://schema.org/PropertyValue> .
+ ?zoobank_pub_identifier <http://schema.org/propertyID> "zoobank_pub" .
+ ?zoobank_pub_identifier <http://schema.org/value> ?zoobank_pub_uuid .
+
+ 
 # subjects
  ?item schema:about ?subject .
 
@@ -78,6 +183,15 @@ WHERE
   OPTIONAL {
    ?item wdt:P1476 ?title .
   }    
+  
+  OPTIONAL {
+   ?item rdfs:label ?label .
+  }    
+  
+  OPTIONAL {
+   ?item wdt:P18 ?image .
+  }    
+  
   
   # authors
  OPTIONAL {
@@ -102,6 +216,7 @@ WHERE
      OPTIONAL
      {
        ?author wdt:P496 ?orcid .
+  		 BIND( IRI (CONCAT (STR(?author), "#orcid")) as ?orcid_author_identifier)
      }
     }
   }    
@@ -121,6 +236,28 @@ WHERE
    ?item wdt:P577 ?date .
    BIND(STR(?date) as ?datePublished) 
   }
+  
+  # people -------------------------------------------------------------------------------
+  
+  OPTIONAL {
+   ?item schema:description ?description .
+   }  
+  
+   OPTIONAL {
+   ?item skos:altLabel ?alternateName .
+   }   
+  
+  OPTIONAL {
+   ?item wdt:P569 ?date_of_birth .
+   BIND(STR(?date_of_birth) as ?birthDate) 
+  }  
+  
+  OPTIONAL {
+   ?item wdt:P570 ?date_of_death .
+   BIND(STR(?date_of_death) as ?deathDate) 
+  }     
+  
+  # scholarly articles -------------------------------------------------------------------
   OPTIONAL {
    ?item wdt:P478 ?volume .
   }   
@@ -135,41 +272,119 @@ WHERE
   
   # identifiers
    
+#  OPTIONAL {
+#   ?item wdt:P687 ?bhl_id .
+#   BIND(CONCAT("https://www.biodiversity.org/page/", ?bhl_id) as ?bhl)    
+#  }
+#  OPTIONAL {
+#    ?item wdt:P5315 ?biostor_id .
+#    BIND(CONCAT("https://biostor.org/reference/", ?biostor_id) as ?biostor)
+#  } 
+#  
+#  OPTIONAL {
+#  	?item wdt:P356 ?doi .
+#  }  
+#  
+#  OPTIONAL {
+#   ?item wdt:P1184 ?handle .
+#  }    
+#  
+#  OPTIONAL {
+#   ?item wdt:P888 ?jstor_id .
+#   BIND(CONCAT("https://www.jstor.org/stable/", ?jstor_id) as ?jstor)   
+#  }
+#  
+#  OPTIONAL {
+#   ?item wdt:P698 ?pmid .
+#  }  
+#  
+#  OPTIONAL {
+#   ?item wdt:P932 ?pmc .
+#  }    
+  
+  # identifiers as property value pairs
+  
+ OPTIONAL {
+   ?item wdt:P687 ?bhl_page .   
+   BIND( IRI (CONCAT (STR(?item), "#bhl_page")) as ?bhl_page_identifier)
+  }    
+  
+ OPTIONAL {
+   ?item wdt:P5315 ?biostor .   
+   BIND( IRI (CONCAT (STR(?item), "#biostor")) as ?biostor_identifier)
+  }   
+  
+  # Make DOI lowercase
+ OPTIONAL {
+   ?item wdt:P356 ?doi_string .   
+   BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
+   BIND( LCASE(?doi_string) as ?doi)
+  }    
+  
+ OPTIONAL {
+   ?item wdt:P1184 ?handle .   
+   BIND( IRI (CONCAT (STR(?item), "#handle")) as ?handle_identifier)
+  } 
+
+ OPTIONAL {
+   ?item wdt:P888 ?jstor .   
+   BIND( IRI (CONCAT (STR(?item), "#jstor")) as ?jstor_identifier)
+  } 
+  
+
   OPTIONAL {
-   ?item wdt:P687 ?bhl_id .
-   BIND(CONCAT("https://www.biodiversity.org/page/", ?bhl_id) as ?bhl)    
-  }
+   ?item wdt:P724 ?internetarchive .   
+   BIND( IRI (CONCAT (STR(?item), "#internetarchive")) as ?internetarchive_identifier)
+  }  
+  
+ OPTIONAL {
+   ?item wdt:P586 ?ipni_author .   
+   BIND( IRI (CONCAT (STR(?item), "#ipni_author")) as ?ipni_author_identifier)
+  } 
+  
+ OPTIONAL {
+   ?item wdt:P496 ?orcid .   
+   BIND( IRI (CONCAT (STR(?item), "#orcid")) as ?orcid_identifier)
+  }   
+  
   OPTIONAL {
-    ?item wdt:P5315 ?biostor_id .
-    BIND(CONCAT("https://biostor.org/reference/", ?biostor_id) as ?biostor)
+   ?item wdt:P698 ?pmid .   
+   BIND( IRI (CONCAT (STR(?item), "#pmid")) as ?pmid_identifier)
   } 
   
   OPTIONAL {
-   ?item wdt:P356 ?doi .
-  }  
+   ?item wdt:P932 ?pmc .   
+   BIND( IRI (CONCAT (STR(?item), "#pmc")) as ?pmc_identifier)
+  }        
   
-  OPTIONAL {
-   ?item wdt:P1184 ?handle .
-  }    
-  
-  OPTIONAL {
-   ?item wdt:P888 ?jstor_id .
-   BIND(CONCAT("https://www.jstor.org/stable/", ?jstor_id) as ?jstor)
-   
-  }
-  
-  OPTIONAL {
-   ?item wdt:P698 ?pmid .
-  }  
-  
-  OPTIONAL {
-   ?item wdt:P932 ?pmc .
-  }    
-  
-  OPTIONAL {
-   ?item wdt:P2007 ?zoobank_pub_uuid .
-   BIND(CONCAT("http://zoobank.org/References/", ?zoobank_pub_uuid) as ?zoobank_pub)
+ OPTIONAL {
+   ?item wdt:P2038 ?rg_author .   
+   BIND( IRI (CONCAT (STR(?item), "#rg_author")) as ?rg_author_identifier)
   }   
+  
+OPTIONAL {
+   ?item wdt:P2002 ?twitter .   
+   BIND( IRI (CONCAT (STR(?item), "#twitter")) as ?twitter_identifier)
+  }    
+  
+ OPTIONAL {
+   ?item wdt:P214 ?viaf .   
+   BIND( IRI (CONCAT (STR(?item), "#viaf")) as ?viaf_identifier)
+  }   
+  
+
+ OPTIONAL {
+   ?item wdt:P2006 ?zoobank_author_uuid .   
+   BIND( IRI (CONCAT (STR(?item), "#zoobank_author")) as ?zoobank_author_identifier)
+  }   
+
+  
+ OPTIONAL {
+   ?item wdt:P2007 ?zoobank_pub_uuid .   
+   BIND( IRI (CONCAT (STR(?item), "#zoobank_pub")) as ?zoobank_pub_identifier)
+  }   
+
+  
   
    OPTIONAL {
    ?item wdt:P921 ?subject_id .
@@ -184,11 +399,19 @@ WHERE
 	
 	// Get item
 	$url = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=' . urlencode($sparql);
-	$json = get($url, 'application/ld+json');
+		
+	//$json = get($url, 'application/ld+json');
+	$json = post(
+		'https://query.wikidata.org/bigdata/namespace/wdq/sparql', 
+		'application/ld+json',
+		'query=' . $sparql
+		);
+	
+	//echo $json;
 	
 	// Frame the JSON-LD to make it easier to parse
 	$doc = json_decode($json);
-	
+		
 	$context = (object)array(
 		'@vocab' 	 	=> 'http://schema.org/',			
 		'bibo' 			=> 'http://purl.org/ontology/bibo/',			
@@ -223,6 +446,12 @@ WHERE
 
 	$context->{'about'} = $about;
 	
+	// image
+	$image = new stdclass;
+	$image->{'@id'} = "image";
+	$image->{'@type'} = "@id";
+	
+	$context->{'image'} = $image;
 
 	
 
@@ -260,6 +489,19 @@ WHERE
 	{
 		echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n";	
 	}
+	
+	return $data;
+}
+
+//----------------------------------------------------------------------------------------
+// Item as JSON-LD object
+function item_to_csl($data, $debug = true)
+{
+	
+	$id = $data->{'@graph'}[0]->{'@id'};
+	$qid = str_replace('http://www.wikidata.org/entity/', '', $id);
+	
+	$type = $data->{'@graph'}[0]->{'@type'};
 	
 	
 	// convert to CSL-JSON
@@ -491,6 +733,117 @@ WHERE
 
 }		
 
+//----------------------------------------------------------------------------------------
+// CONSTRUCT a stream, by default return as JSON-LD
+function sparql_construct_stream($sparql_endpoint, $query, $format='application/ld+json')
+{
+		
+	//$json = get($url, 'application/ld+json');
+	$response = post(
+		$sparql_endpoint, 
+		$format,
+		'query=' . $query
+		);
+		
+	//echo $response;
+	
+	//echo $sparql_endpoint;
+	//echo $query;
+
+	
+	$obj = json_decode($response);
+	if (is_array($obj))
+	{
+		$doc = $obj;
+		
+		//echo '<pre>' . print_r($obj) . '<pre>';
+		
+		
+		$context = (object)array(
+			'@vocab' => 'http://schema.org/'	,
+			'rdfs' => 'http://www.w3.org/2000/01/rdf-schema#',			
+		);
+		
+			// dataFeedElement is always an array
+			$dataFeedElement = new stdclass;
+			$dataFeedElement->{'@id'} = "dataFeedElement";
+			$dataFeedElement->{'@container'} = "@set";
+			
+			$context->{'dataFeedElement'} = $dataFeedElement;
+			
+	// identifier
+	$identifier = new stdclass;
+	$identifier->{'@id'} = "identifier";
+	$identifier->{'@container'} = "@set";
+	
+	$context->{'identifier'} = $identifier;
+
+	
+	
+		$frame = (object)array(
+			'@context' => $context,
+			'@type' => 'http://schema.org/DataFeed'
+		);
+			
+		$data = jsonld_frame($doc, $frame);
+	
+		
+		$response = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);		
+	}
+	
+
+	return $response;
+}
+
+
+if (0)
+{
+	// works by author
+	$query = 'PREFIX schema: <http://schema.org/>
+	PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+	CONSTRUCT 
+	{
+		<http://example.rss>
+		rdf:type schema:DataFeed;
+		schema:name "Publications";
+		schema:dataFeedElement ?item .
+
+		?item 
+			rdf:type schema:DataFeedItem;
+			rdf:type ?item_type;
+			schema:name ?title;
+			schema:datePublished ?datePublished;
+			schema:description ?description;					
+	}
+	WHERE
+	{
+	VALUES ?author { wd:Q19002284 }
+
+	?item wdt:P50 ?author .
+	?item wdt:P31 ?type .
+
+	?item wdt:P1476 ?title .
+
+	OPTIONAL {
+	?item wdt:P577 ?date .
+	BIND(STR(?date) as ?datePublished) 
+	}  			
+			}';
+			
+	// cited by 
+	
+			
+			//echo $query;
+	
+	$feed = sparql_construct_stream(
+		'https://query.wikidata.org/bigdata/namespace/wdq/sparql',
+		$query);
+	
+	
+	print_r($feed);
+
+}
+
 
 
 if (0)
@@ -509,7 +862,11 @@ if (0)
 	
 	//$qid = 'Q19689597';
 	
-	$citeproc_obj = get_work($qid, true);
+	$item = get_item($qid, true);
+	
+	
+	
+	$citeproc_obj = item_to_csl($item);  
 
 
 	//print_r($citeproc_obj);

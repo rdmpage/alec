@@ -1,0 +1,317 @@
+var template_work = `
+
+<%
+
+if (item['@graph']) {
+	item = item['@graph'][0];
+}
+
+var wikidata = [];
+
+%>
+
+<!-- location -->
+<div>
+
+<!-- container -->
+<% if (item.isPartOf) { %>
+	<% if (item.isPartOf['@id']) { %>
+		<a href="?uri=<%= item.isPartOf['@id'].replace('#', '%23') %>">
+	<% } %>
+
+	<%= get_literal(item.isPartOf.name) %>
+	
+	<% if (item.isPartOf['@id']) { %>
+		</a>
+	<% } %>
+	
+<% } %>
+
+<!-- date -->
+<% if (item.datePublished) {%>
+<%= isodate_to_string(item.datePublished) %>
+<% } %>
+
+<!-- volume -->
+<% if (item.volumeNumber) {%>
+<%= get_literal(item.volumeNumber) %>
+<% } %>
+
+<!-- issue -->
+<% if (item.issueNumber) {%>
+(<%= get_literal(item.issueNumber) %>)
+<% } %>
+
+<!-- pages -->
+<% if (item.pagination) {%>
+: <%= get_literal(item.pagination) %>
+<% } %>
+
+<% if (item.pageStart) {%>
+: <%=get_literal(item.pageStart)%>
+<% } %>
+
+<% if (item.pageEnd) {%>
+- <%=get_literal(item.pageEnd) %>
+<% } %>
+
+</div>
+
+<!-- title -->
+<h1>
+	<div class="logo none"></div>
+
+	<!-- <img src="images/noun_File_498570.svg" height="48" align="center"> -->
+	<%- get_literal(item.name) %>
+</h1>
+
+<div>
+	<% if (item.encoding) {
+		var formats_html = '';
+		
+		formats_html += '<ul>';
+		
+		for (var i in item.encoding) {
+			switch(item.encoding[i].fileFormat) {
+
+				case 'application/pdf':
+					formats_html += '<li><a href="js/pdfjs/web/viewer.html?file=' + encodeURIComponent('../../../pdf_proxy.php?url=' + encodeURIComponent(item.encoding[i].contentUrl)) + '" />' + 'PDF' + '</a>' + '</li>';				
+					//formats_html += '<li><a href="https://via.hypothes.is/' + encodeURIComponent(item.encoding[i].contentUrl) + '" />' + 'PDF' + '</a>' + '</li>';				
+					break;
+
+				case 'application/xml':
+					formats_html += '<li>XML</li>';
+					break;
+			
+				default:
+					break;
+			}
+		}
+		
+		formats_html += '</ul>';
+		
+		%>
+		<%- formats_html %>
+		<% 		
+	} %>
+</div>
+
+<!-- authors -->
+<div style="line-height:2em;">
+
+<% if (item.creator) {
+	var authors = [];
+		for (var i in item.creator) {
+		
+			console.log(i + ' ' + item.creator[i]['@type']);
+		
+			console.log("creator=" + JSON.stringify(item.creator[i]));
+		
+			// role
+			if (item.creator[i]['@type'] == 'Role') { 
+			
+				var string ='';
+				
+				var has_link = false;
+				
+				var sameAs = '';
+				var has_orcid = false;
+				
+				// sameAs link
+			    if (item.creator[i].creator[0].sameAs) {
+			    	if (Array.isArray(item.creator[i].creator[0].sameAs)) {
+
+			    		// just pick first sameAs to make hyperlink
+				    	sameAs = item.creator[i].creator[0].sameAs[0];
+				    	
+				    	// are any of the sameAsa links for an ORCID?
+				    	for (var j in item.creator[i].creator[0].sameAs) {
+				    		if (item.creator[i].creator[0].sameAs[j].match(/orcid/)) {
+				    			has_orcid = true;
+				    		}
+				    	}
+				    	
+				    } else {
+				    	sameAs = item.creator[i].creator[0].sameAs;
+				    	has_orcid = sameAs.match(/orcid/);
+				    }
+			    	has_link = true;
+			    }
+			    
+			    // direct link (e.g., ZooBank)
+			    if (item.creator[i].creator[0]['@id'].match(/^urn/)) {
+			    	has_link = true;
+			    	// kludge
+			    	sameAs = item.creator[i].creator[0]['@id'];
+			    
+			    }
+			    
+			    
+			    if (has_link) {
+			    	string += '<span style="background-color:white;white-space:nowrap;border-radius:4px;padding:2px;border:1px solid black;">';
+			    } else
+			    {
+			    	string += '<span style="background-color:white;white-space:nowrap;border-radius:4px;padding:2px;border:1px solid rgb(192,192,192);">';			    
+			    }
+			    
+			    if (sameAs != '') {
+			    	string += '<a href="?uri=' + sameAs.replace('#', '%23') + '">';
+			    }
+			   
+				string += get_literal(item.creator[i].creator[0].name);
+				
+				if (has_orcid) {
+					string += '&nbsp;<img style="vertical-align:baseline" src="images/orcid_16x16.png"></a>';
+				}
+								
+				if (has_link) {
+					string += '</a>';					
+				}
+				string += '</span>';
+				
+				authors.push(string);
+			}
+
+			// person
+			if (item.creator[i]['@type'] == 'Person') { 
+			    var string = get_literal(item.creator[i].name);
+				authors.push(string);
+			}
+		
+		}
+		var author_string = authors.join(' ');
+		//var author_string = authors.join('; ');
+		%>
+		<%- author_string %>
+		<%  
+		
+		
+} %>
+</div>
+
+<!-- keywords -->
+<div>
+
+<% if (item.keywords) {
+
+	var keywords_string = '';
+	
+	if (typeof item.keywords === 'string') {
+		keywords_string = item.keywords ;
+	}
+	
+	if (Array.isArray(item.keywords )) {
+		var keywords = [];
+		for (var i in item.keywords) {
+			keywords.push(item.keywords[i]);
+		}
+		keywords_string = keywords.join('; ');
+	}
+	%>
+	
+	<span class="heading">KEYWORDS:</span>
+	<%- keywords_string %>
+	<%  
+} %>
+</div>
+
+
+<!-- identifiers -->
+<div>
+<% if (item.identifier) {
+	 var id = '';
+	 
+	// BioStor
+	id = get_property_value(item.identifier, 'biostor');	  
+	if (id != '') {  %>	
+		<span class="heading">BioStor</span>
+		<a class="external" href="https://biostor.org/reference/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+		
+		<% wikidata.push('?item wdt:P5315 "' + id + '"') %> 
+		
+		
+	<% }	
+	 
+	 
+	// DOI
+	id = get_property_value(item.identifier, 'doi');	  
+	if (id != '') {  %>	
+		<span class="heading">DOI</span>
+		<a class="external" href="https://doi.org/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+		
+		<% wikidata.push('?item wdt:P356 "' + id.toUpperCase() + '"') %> 
+
+		
+	<% }
+	
+	// Handle
+	id = get_property_value(item.identifier, 'handle');	  
+	if (id != '') {  %>	
+		<span class="heading">Handle</span>
+		<a class="external" href="https://hdl.handle.net/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+	<% }
+
+	// JSTOR
+	id = get_property_value(item.identifier, 'jstor');	  
+	if (id != '') {  %>	
+		<span class="heading">JSTOR</span>
+		<a class="external" href="https://www.jstor.org/stable/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+		
+		<% wikidata.push('?item wdt:P888 "' + id + '"') %> 
+		
+		
+	<% }	
+	
+	// PMID
+	id = get_property_value(item.identifier, 'pmid');	  
+	if (id != '') {  %>	
+		<span class="heading">PMID</span>
+		<a class="external" href="https://www.ncbi.nlm.nih.gov/pubmed/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+	<% }
+	
+	// SICI
+	id = get_property_value(item.identifier, 'sici');	  
+	if (id != '') {  %>	
+		<span class="heading">SICI</span>
+		<u><%= id %></u>
+		</a>
+	<% }
+	
+	// ZooBank
+	id = get_property_value(item.identifier, 'zoobank');	  
+	if (id != '') {  %>	
+		<span class="heading">ZooBank</span>
+		<a class="external" href="http://zoobank.org/<%=id%>" target="_new">
+		<%= id %>
+		</a>
+	<% }
+		
+	
+	}
+ %>	
+ </div>	
+ 
+<!-- thumbnail -->
+<div>	
+	<% if (item.thumbnailUrl) {%>
+		<!-- http://exeg5le.cloudimg.io/s/height/100/ -->
+		<img style="float:left;height:100px;border:1px solid rgb(224,224,224);background-color:white;object-fit:contain; display:block;margin:auto;" src="<%= item.thumbnailUrl %>">
+	<% } %>
+</div>
+<div style="clear:both;"></div>
+ 
+
+
+
+
+`;

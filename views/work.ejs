@@ -1,0 +1,187 @@
+var template_work = `
+
+<%
+
+if (item['@graph']) {
+	item = item['@graph'][0];
+}
+%>
+
+<div class="row">
+
+	<div class="col s12 m2 hide-on-small-only center-align">
+				
+			<%
+			var thumbnailUrl = "https://via.placeholder.com/80x100";
+			
+			if (item.identifier) {
+				 var id = '';
+	 
+				// Internet Archive
+				id = get_property_value(item.identifier, 'internetarchive');	  
+				if (id != '') { 				
+					thumbnailUrl = "//archive.org/download/" + id + "/page/cover_thumb.jpg";
+				} 	
+			}
+
+			%>
+		
+			<img class="z-depth-2" style="background:white;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+
+	</div>
+
+	<div class="col s12 m10">
+
+	<!-- bread crumbs -->
+	<% if (item['container-title'] && item.ISSN) { %>
+		<nav class="clean">
+			<div class="nav-wrapper">
+				<a href="./" class="breadcrumb">Home</a>
+		
+				<% 
+				var container = item['container-title'];
+				if (container.length > 30) {
+					container = container.substring(0,30) + '…';
+				}
+				%>
+		
+				<a href="./issn/<%- item.ISSN %>" class="breadcrumb">
+					<%- container %>
+				</a>
+		
+				<% if (item.issued) { %>
+					<a href="issn/<%- item.ISSN[0] %>/year/<%- item.issued['date-parts'][0][0] %>" class="breadcrumb"><%- item.issued['date-parts'][0][0] %></a>
+				<% } %>
+			</div>
+		</nav>
+	<% } %>
+		
+	<!-- headline is item name -->
+	<b style="font-size:1.5em;">				
+		<%- get_literal(item.name) %>				
+	</b>
+
+	<!-- authors -->
+	<% if (item.author) { %>
+		<div class="section">					
+		<% for(var i in item.author) { %>
+			<div class="chip">
+				<% if (item.author[i].identifier && get_property_value(item.author[i].identifier, 'orcid')) { %>
+					<img style="vertical-align:baseline" src="images/logos/orcid.svg">
+				<% } %>
+				<% if (item.author[i]['@id'].match('wikidata.org/entity/Q')) { %>
+					<a href="?id=<%- item.author[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+				<% } %>
+				<%- get_literal(item.author[i].name) %>
+				<% if (item.author[i]['@id'].match(/wikidata/)) { %>
+					</a>
+				<% } %>								
+			</div>
+		<% } %>
+		</div>
+	<% } %>
+
+	<!-- publication outlet -->
+	<div style="color:grey;">
+		<% if (item.isPartOf) { 
+		%>
+				Published in
+				<em>
+				<%- get_literal(item.isPartOf.name) %>
+				</em>
+		<% } %>
+
+		<% if (item.volumeNumber) { %>
+			<%- item.volumeNumber %>
+		<% } %>
+
+		<% if (item.issueNumber) {%>
+		(<%= get_literal(item.issueNumber) %>)
+		<% } %>	
+
+		<% if (item.pagination) { %>
+			pages
+			<%- item.pagination %>
+		<% } %>
+
+		<% if (item.datePublished) {%>
+		<%= isodate_to_string(item.datePublished) %>
+		<% } %>
+
+	</div>
+								
+	<!-- actions -->
+	<div class="section" >
+	
+	
+		<% if (item.identifier) {
+			 var id = '';
+	 		%>	
+	 
+			
+			<% 
+			// DOI
+			id = get_property_value(item.identifier, 'doi');	  
+			if (id != '') {  %>
+				<a class="btn blue accent-3" href="https://doi.org/<%- id %>">DOI:<%- id %></a>
+			<% } %>	
+			
+			<% 
+			// Handle
+			id = get_property_value(item.identifier, 'handle');	  
+			if (id != '') {  %>
+				<a class="btn blue accent-3" href="https://hdl.handle.net/<%- id %>">HANDLE:<%- id %></a>
+			<% } %>				
+			
+			<% 
+			// JSTOR
+			id = get_property_value(item.identifier, 'jstor');	  
+			if (id != '') {  %>
+				<a class="btn blue accent-3" href="https://www.jstor.org/stable/<%- id %>">JSTOR:<%- id %></a>
+			<% } %>	
+			
+			<% 
+			// PMC
+			id = get_property_value(item.identifier, 'pmc');	  
+			if (id != '') {  %>
+				<a class="btn blue accent-3" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC<%- id %>">PMCID: PMC<%- id %></a>
+			<% } %>	
+			
+
+			<% 
+			// PMID
+			id = get_property_value(item.identifier, 'pmid');	  
+			if (id != '') {  %>
+				<a class="btn blue accent-3" href="https://www.ncbi.nlm.nih.gov/pubmed/<%- id %>">PMID:<%- id %></a>
+			<% } %>	
+	
+		
+		<% } %>	
+
+	
+	</div>
+
+	<!-- view work -->
+	<div class="section">
+		<% if (item.identifier) {
+			 var id = '';
+	 
+			// Internet Archive
+			id = get_property_value(item.identifier, 'internetarchive');	  
+			if (id != '') {  %>	
+		<!-- #mode/1up/zoom/fitwidth -->
+			<iframe src="//archive.org/embed/<%= id %>" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+			<% } %>	
+		<% } %>	
+
+	</div>
+	
+	</div>
+
+</div>
+
+
+
+
+
+`;

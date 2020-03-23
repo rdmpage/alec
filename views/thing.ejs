@@ -1,0 +1,58 @@
+// Generic template for a thing in Wikidata
+
+var template_thing = `
+
+<%
+
+if (item['@graph']) {
+	item = item['@graph'][0];
+}
+%>
+
+<div class="row">
+
+	<div class="col s12 m2 hide-on-small-only center-align">
+				
+			<%
+			var thumbnailUrl = "https://via.placeholder.com/80x100";
+		
+			if (item.image) {
+				if (Array.isArray(item.image)) {
+					thumbnailUrl = item.image[0];
+				} else {
+					thumbnailUrl = item.image;
+				}
+			}
+			%>
+		
+			<img class="z-depth-2" style="background:white;width:100%;height:100%;object-fit: cover;object-position: 50% 50%;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+
+	</div>
+
+	<div class="col s12 m10">
+
+		
+	<!-- headline is item name -->
+	<b style="font-size:1.5em;">				
+		<%- get_literal(item.name) %>				
+	</b>
+
+
+	<!-- description -->
+	<div style="color:grey;">
+		<% if (item.description) { %>
+			<%- get_literal(item.description) %>
+		<% } %>
+	</div>
+								
+
+	
+	</div>
+
+</div>
+
+
+
+
+
+`;
