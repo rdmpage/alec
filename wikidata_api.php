@@ -5,6 +5,7 @@
 
 error_reporting(E_ALL ^ E_DEPRECATED);
 
+require_once(dirname(__FILE__) .  '/config.inc.php');
 require_once(dirname(__FILE__) .  '/lib.php');
 
 require_once(dirname(__FILE__) .  '/vendor/digitalbazaar/json-ld/jsonld.php');
@@ -17,6 +18,8 @@ require_once(dirname(__FILE__) .  '/vendor/digitalbazaar/json-ld/jsonld.php');
 // Use SPARQL CONSTRUCT then convert to CSL 
 function get_item($qid, $debug = false)
 {
+	global $config;
+	
 
 	$uri = 'http://www.wikidata.org/entity/' . $qid;
 
@@ -64,13 +67,6 @@ CONSTRUCT
   ?item schema:alternateName ?alternateName .
   ?item schema:birthDate ?birthDate .
   ?item schema:deathDate ?deathDate .
- 
- # identifiers
- #?item bibo:handle ?handle .
- #?item identifiers:doi ?doi .
- #?item identifiers:pubmed ?pmid .
- #?item identifiers:pmc ?pmc .
- 
  # identifiers as property values
  
  # bhl
@@ -170,7 +166,6 @@ CONSTRUCT
 # subjects
  ?item schema:about ?subject .
 
-  
 }
 WHERE
 {
@@ -184,8 +179,10 @@ WHERE
    ?item wdt:P1476 ?title .
   }    
   
+  # Some entities such as Q21337383 have lots of labels and this can cause queries to take too long
   OPTIONAL {
    ?item rdfs:label ?label .
+   FILTER (lang(?label) = "en")
   }    
   
   OPTIONAL {
@@ -271,36 +268,7 @@ WHERE
   }
   
   # identifiers
-   
-#  OPTIONAL {
-#   ?item wdt:P687 ?bhl_id .
-#   BIND(CONCAT("https://www.biodiversity.org/page/", ?bhl_id) as ?bhl)    
-#  }
-#  OPTIONAL {
-#    ?item wdt:P5315 ?biostor_id .
-#    BIND(CONCAT("https://biostor.org/reference/", ?biostor_id) as ?biostor)
-#  } 
-#  
-#  OPTIONAL {
-#  	?item wdt:P356 ?doi .
-#  }  
-#  
-#  OPTIONAL {
-#   ?item wdt:P1184 ?handle .
-#  }    
-#  
-#  OPTIONAL {
-#   ?item wdt:P888 ?jstor_id .
-#   BIND(CONCAT("https://www.jstor.org/stable/", ?jstor_id) as ?jstor)   
-#  }
-#  
-#  OPTIONAL {
-#   ?item wdt:P698 ?pmid .
-#  }  
-#  
-#  OPTIONAL {
-#   ?item wdt:P932 ?pmc .
-#  }    
+    
   
   # identifiers as property value pairs
   
@@ -383,15 +351,6 @@ OPTIONAL {
    ?item wdt:P2007 ?zoobank_pub_uuid .   
    BIND( IRI (CONCAT (STR(?item), "#zoobank_pub")) as ?zoobank_pub_identifier)
   }   
-
-  
-  
-   OPTIONAL {
-   ?item wdt:P921 ?subject_id .
-    ?subject_id rdfs:label ?subject .  
-  	FILTER (lang(?subject) = "en")
-
-  }    
   
   
 }   
@@ -399,13 +358,31 @@ OPTIONAL {
 	
 	// Get item
 	$url = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=' . urlencode($sparql);
+	
+	if (0)
+	{
+		$json = get(
+			$config['sparql_endpoint']. '?query=' . urlencode($sparql), 
+			'application/ld+json'
+		);
+	}
+	else
+	{
+		$json = post(
+			$config['sparql_endpoint'], 
+			'application/ld+json',
+			'query=' . $sparql
+		);
+	}	
 		
+	/*
 	//$json = get($url, 'application/ld+json');
 	$json = post(
 		'https://query.wikidata.org/bigdata/namespace/wdq/sparql', 
 		'application/ld+json',
 		'query=' . $sparql
 		);
+		*/
 	
 	//echo $json;
 	
@@ -737,13 +714,25 @@ function item_to_csl($data, $debug = true)
 // CONSTRUCT a stream, by default return as JSON-LD
 function sparql_construct_stream($sparql_endpoint, $query, $format='application/ld+json')
 {
+	if (1)
+	{
+		$response = get(
+			$sparql_endpoint . '?query=' . urlencode($query), 
+			$format,
+			'query=' . $query
+		);
+	}
+	else
+	{
+		$response = post(
+			$sparql_endpoint, 
+			$format,
+			'query=' . $query
+		);
+	}
 		
 	//$json = get($url, 'application/ld+json');
-	$response = post(
-		$sparql_endpoint, 
-		$format,
-		'query=' . $query
-		);
+	
 		
 	//echo $response;
 	

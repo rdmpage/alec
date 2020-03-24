@@ -7,3 +7,9 @@ All Literature Electronically Catalogued
 
 [CSL JSON schema](https://github.com/citation-style-language/schema/blob/master/csl-data.json)
 
+
+## Examples
+
+### Internet Archive
+
+[Four New Species of Land Snails from New Zealand](http://localhost/~rpage/alec/?id=Q88304456)
