@@ -32,7 +32,8 @@ if (item['@graph']) {
 		
 	<!-- headline is item name -->
 	<b style="font-size:1.5em;">				
-		<%- get_literal(item.name) %>				
+		<%- get_literal(item.name) %>
+		<% document.title = get_literal(item.name); %>				
 	</b>
 
 
