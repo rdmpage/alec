@@ -72,6 +72,7 @@ function wikidata_search($query)
 	
 	$identifier = new stdclass;
 	
+	// DOI
 	if (!isset($identifier->value))
 	{
 		if (preg_match('/(https?:\/\/(dx.)?doi.org\/)?(doi:)?(?<id>10\.\d+\/.*)/i', $query, $m))
@@ -96,6 +97,33 @@ function wikidata_search($query)
 		}
 	
 	}
+	
+	// Handle
+	if (!isset($identifier->value))
+	{
+		if (preg_match('/(https?:\/\/hdl.handle.net\/)?(hdl:)?(?<id>\d+\/.*)/i', $query, $m))
+		{
+			$identifier->namespace = 'handle';
+			$identifier->value = $m['id'];
+			
+			
+			$identifier->sparql = 'SELECT * WHERE { 
+    ?item wdt:P1184 "' . strtoupper($identifier->value) . '" .
+  
+    OPTIONAL {
+     ?item rdfs:label ?label .
+     FILTER (lang(?label) = "en")
+    } 
+ 
+    OPTIONAL {
+     ?item schema:description ?description .
+     FILTER (lang(?description) = "en")
+    } 
+}';			
+		}
+	
+	}
+	
 
 	// ORCID
 	if (!isset($identifier->value))

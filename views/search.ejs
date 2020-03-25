@@ -9,16 +9,35 @@ item = item['@graph'][0];
 
 <div class="row">
 
-<div class="col s12">	
+<div class="col s12">
 
+<h5>
+<%= item.dataFeedElement.length %>
 
+<% 
+	var text = '';
+switch (item.dataFeedElement.length) {
+	case 0:
+		text = 'hits';
+		break;
+		
+	case 1:
+		text = 'hit';
+		break;
+		
+	default:
+		text = 'hits';
+		break;
+} %>
+<%= text %>
+</h5>	
 
 <!-- data feed items -->
 	<% for (var i in item.dataFeedElement) { %>
 		<div class="card-panel z-depth-1">
 			<div class="row valign-wrapper">
-            	<div class="col s4 m2">
-            		<img  class="z-depth-2" style="background:white;width:100px;height:100px;object-fit: cover;object-position: 50% 50%;" src="image/php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+				<div class="col s4 m2">
+					<img  class="z-depth-2" style="background:white;width:100px;height:100px;object-fit: cover;object-position: 50% 50%;" src="image/php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
 				</div>
 				<div class="col s8 m10">
 					<span style="font-size:1.5em;">
@@ -26,7 +45,7 @@ item = item['@graph'][0];
 						<%= get_literal(item.dataFeedElement[i].name) %>
 					</a>
 					</span>				
-				
+			
 					<p>
 					<% if (item.dataFeedElement[i].description) { 
 						var description = get_literal(item.dataFeedElement[i].description);
@@ -40,8 +59,9 @@ item = item['@graph'][0];
 				</div>				
 			</div>
 		</div>
-		
+	
 	<% } %>
+
 
 </div>
 </div>

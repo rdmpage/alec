@@ -22,6 +22,14 @@ if (item['@graph']) {
 				if (id != '') { 				
 					thumbnailUrl = "//archive.org/download/" + id + "/page/cover_thumb.jpg";
 				} 	
+
+				// BHL
+				id = get_property_value(item.identifier, 'bhl page');	  
+				if (id != '') { 				
+					thumbnailUrl = "//www.biodiversitylibrary.org/pagethumb/" + id + ",200,200";
+				} 	
+
+
 			}
 
 			%>
@@ -34,7 +42,8 @@ if (item['@graph']) {
 		
 	<!-- headline is item name -->
 	<b style="font-size:1.5em;">				
-		<%- get_literal(item.name) %>				
+		<%- get_literal(item.name) %>
+		<% document.title = get_literal(item.name); %>
 	</b>
 
 	<!-- authors -->
@@ -110,7 +119,21 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'handle');	  
 			if (id != '') {  %>
 				<a class="btn blue accent-3" href="https://hdl.handle.net/<%- id %>">HANDLE:<%- id %></a>
-			<% } %>				
+			<% } %>		
+			
+			<% 
+			// BioStor
+			id = get_property_value(item.identifier, 'biostor');	  
+			if (id != '') {  %>
+				<a class="btn blue accent-3" href="https://biostor.org/reference/<%- id %>">BIOSTOR:<%- id %></a>
+			<% } %>						
+
+			<% 
+			// BHL
+			id = get_property_value(item.identifier, 'bhl page');	  
+			if (id != '') {  %>
+				<a class="btn blue accent-3" href="https://www.biodiversitylibrary.org/page/<%- id %>">BHL:<%- id %></a>
+			<% } %>						
 			
 			<% 
 			// JSTOR
@@ -148,10 +171,19 @@ if (item['@graph']) {
 			// Internet Archive
 			id = get_property_value(item.identifier, 'internetarchive');	  
 			if (id != '') {  %>	
-		<!-- #mode/1up/zoom/fitwidth -->
-			<iframe src="//archive.org/embed/<%= id %>" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-			<% } %>	
-		<% } %>	
+				<iframe src="//archive.org/embed/<%= id %>" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+			<% }	
+			
+			if (id == '') {
+				id = get_property_value(item.identifier, 'biostor');	  
+				if (id != '') {  
+					id = 'biostor-' + id; %>					
+				<iframe src="//archive.org/embed/<%= id %>" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+			<% } 	
+			
+			}
+			
+		 } %>	
 
 	</div>
 	

@@ -265,6 +265,7 @@
 			function show_record(id) {
 			
 				clear_results();
+				$('#query').val('');
 
 			  $.getJSON('api.php?id=' +
 				id +
@@ -385,11 +386,20 @@
 								
 			        //--------------------------------------------------------------------------------
 					function search() {
+						
+					   
+					
+					
 					  clear_results();
 					
 					  document.activeElement.blur();
 					  
 					  var q = document.getElementById('query').value;
+					  
+						// Change URL and title to match this query (makes for easier bookmarking)
+						history.pushState(null, q, '?q=' + q);	
+						document.title = q;				   
+						  
 
 					  $.getJSON('api.php?q=' +
 						encodeURI(q) +
@@ -472,9 +482,6 @@
 					if (query) {
 					   query = decodeURIComponent(query);
 					   $('#query').val(query); 
-					   
-						// Change URL and title to match this query (makes for easier bookmarking)
-						history.pushState(null, null, '?q=' + query);					   
 					   
 					   search();
 					}
