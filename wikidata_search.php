@@ -122,6 +122,46 @@ function wikidata_search($query)
 	
 	}
 	
+	// UUID (could be many different namespaces)
+	// ZooBank author or publication
+	// AFD publication
+	if (!isset($identifier->value))
+	{
+		if (preg_match('/(?<id>[a-z0-9]{8}(-[a-z0-9]{4}){3}-[a-z0-9]{12})/i', $query, $m))
+		{
+			$identifier->namespace = 'uuid';
+			$identifier->value = $m['id'];
+			
+			$identifier->sparql = 'SELECT * WHERE { 
+  {
+    # ZooBank author
+    ?item wdt:P2006 "' . strtoupper($identifier->value) . '" .
+  }
+  UNION
+ {
+    # ZooBank publication
+    ?item wdt:P2007 "' . strtoupper($identifier->value) . '" .
+  }  
+  UNION
+ {
+    # AFD publication
+    ?item wdt:P6982 "' . strtolower($identifier->value) . '" .
+  }  
+  
+    OPTIONAL {
+     ?item rdfs:label ?label .
+     FILTER (lang(?label) = "en")
+    } 
+ 
+    OPTIONAL {
+     ?item schema:description ?description .
+     FILTER (lang(?description) = "en")
+    } 
+}';
+		}
+	
+	}
+	
 	
 	// print_r($identifier);
 	
