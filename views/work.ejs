@@ -31,30 +31,6 @@ if (item['@graph']) {
 	</div>
 
 	<div class="col s12 m10">
-
-	<!-- bread crumbs -->
-	<% if (item['container-title'] && item.ISSN) { %>
-		<nav class="clean">
-			<div class="nav-wrapper">
-				<a href="./" class="breadcrumb">Home</a>
-		
-				<% 
-				var container = item['container-title'];
-				if (container.length > 30) {
-					container = container.substring(0,30) + '…';
-				}
-				%>
-		
-				<a href="./issn/<%- item.ISSN %>" class="breadcrumb">
-					<%- container %>
-				</a>
-		
-				<% if (item.issued) { %>
-					<a href="issn/<%- item.ISSN[0] %>/year/<%- item.issued['date-parts'][0][0] %>" class="breadcrumb"><%- item.issued['date-parts'][0][0] %></a>
-				<% } %>
-			</div>
-		</nav>
-	<% } %>
 		
 	<!-- headline is item name -->
 	<b style="font-size:1.5em;">				
@@ -67,7 +43,7 @@ if (item['@graph']) {
 		<% for(var i in item.author) { %>
 			<div class="chip">
 				<% if (item.author[i].identifier && get_property_value(item.author[i].identifier, 'orcid')) { %>
-					<img style="vertical-align:baseline" src="images/logos/orcid.svg">
+					<img style="vertical-align:baseline" src="images/logos/ORCID-iD_icon-vector.svg">
 				<% } %>
 				<% if (item.author[i]['@id'].match('wikidata.org/entity/Q')) { %>
 					<a href="?id=<%- item.author[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
@@ -85,7 +61,12 @@ if (item['@graph']) {
 	<div style="color:grey;">
 		<% if (item.isPartOf) { 
 		%>
-				Published in
+				Published 
+		<% if (item.datePublished) {%>
+		<%= isodate_to_string(item.datePublished) %>
+		<% } %>				
+				
+				in
 				<em>
 				<%- get_literal(item.isPartOf.name) %>
 				</em>
@@ -104,9 +85,7 @@ if (item['@graph']) {
 			<%- item.pagination %>
 		<% } %>
 
-		<% if (item.datePublished) {%>
-		<%= isodate_to_string(item.datePublished) %>
-		<% } %>
+		
 
 	</div>
 								

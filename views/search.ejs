@@ -17,10 +17,10 @@ item = item['@graph'][0];
 	<% for (var i in item.dataFeedElement) { %>
 		<div class="card-panel z-depth-1">
 			<div class="row valign-wrapper">
-            	<div class="col s2">
+            	<div class="col s4 m2">
             		<img  class="z-depth-2" style="background:white;width:100px;height:100px;object-fit: cover;object-position: 50% 50%;" src="image/php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
 				</div>
-				<div class="col s10">
+				<div class="col s8 m10">
 					<span style="font-size:1.5em;">
 					<a href="?id=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
 						<%= get_literal(item.dataFeedElement[i].name) %>
