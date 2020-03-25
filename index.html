@@ -54,6 +54,19 @@
 			  	vertical-align:middle;
 			  	border-radius: 4px;
 			  	}
+			  	
+			  	
+			  	.code {
+			  		font-family:monospace;
+			  		white-space:pre;
+			  		line-height:0.9em;
+			  		font-size:0.7em;
+			  		color:rgb(64,64,64);
+			  		overflow-y:auto;
+			  		padding:10px;
+			  		/* border:1px solid rgb(192,192,192); */
+			  	
+			  	}
 			  
 			  
 			.logo  {
@@ -91,6 +104,11 @@
 			
 			.zoobank {
 			  background: url(images/logos/zoobank.svg);
+			  background-size: contain;
+			} 
+
+			.bloodhound {
+			  background: url(images/logos/bloodhound.svg);
 			  background-size: contain;
 			} 
 			  
@@ -145,7 +163,10 @@
 				<div id="feed_cited_by">
 				</div>
 				<div id="feed_related_work">
-				</div>`;
+				</div>
+				<div id="jsonld" class="code">
+				</div>				
+				`;
 			
 				document.getElementById('display').innerHTML = html;
 			}
@@ -299,6 +320,11 @@
 				function(data) {
 				  if (data) {
 
+					/*
+					var html = JSON.stringify(data, null, 2);
+					document.getElementById('jsonld').innerHTML = html;
+					*/
+
 					var types = get_entity_types(data);
 					
 					//alert(JSON.stringify(types, null, 2));
@@ -311,6 +337,8 @@
 					  }, 'output');
 
 					  // related info
+					  show_feed_cites(id);
+					   
 					  show_feed_cited_by(id);
 
 					  show_feed_related_work(id);
@@ -526,6 +554,8 @@
 				<div id="feed_cited_by">
 				</div>
 				<div id="feed_related_work">
+				</div>
+				<div id="jsonld" class="code">
 				</div>
 			</div>
 		</main>
