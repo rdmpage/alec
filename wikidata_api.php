@@ -162,6 +162,12 @@ CONSTRUCT
  ?zoobank_pub_identifier <http://schema.org/propertyID> "zoobank_pub" .
  ?zoobank_pub_identifier <http://schema.org/value> ?zoobank_pub_uuid .
 
+ # bloodhound
+ ?item schema:identifier ?bloodhound_identifier .
+ ?bloodhound_identifier a <http://schema.org/PropertyValue> .
+ ?bloodhound_identifier <http://schema.org/propertyID> "bloodhound" .
+ ?bloodhound_identifier <http://schema.org/value> ?bloodhound .
+
  
 # subjects
  ?item schema:about ?subject .
@@ -350,7 +356,12 @@ OPTIONAL {
  OPTIONAL {
    ?item wdt:P2007 ?zoobank_pub_uuid .   
    BIND( IRI (CONCAT (STR(?item), "#zoobank_pub")) as ?zoobank_pub_identifier)
-  }   
+  }  
+  
+ OPTIONAL {
+   ?item wdt:P6944 ?bloodhound .   
+   BIND( IRI (CONCAT (STR(?item), "#bloodhound")) as ?bloodhound_identifier)
+  }    
   
   
 }   
@@ -459,6 +470,28 @@ OPTIONAL {
 			);
 		
 		$data = jsonld_frame($doc, $frame);
+		
+		
+		
+		// OK, RDF doesn't have a notion of order,
+		// and for this app I want authors in the correct order. So, SPARQL stores 
+		// order in "schema:positoon" so we use that to build an ordered array.
+		
+		if (isset($data->{'@graph'}[0]->author))
+		{
+			$author_list = array();
+			
+			foreach ($data->{'@graph'}[0]->author as $author)
+			{
+				$index = (Integer)$author->position;
+				unset($author->position);
+				$author_list[$index] = $author;
+			
+			}
+			ksort($author_list, SORT_NUMERIC);
+	
+			$data->{'@graph'}[0]->author = array_values($author_list);
+		}
 		
 	}
 	

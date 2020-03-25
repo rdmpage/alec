@@ -69,16 +69,15 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'viaf');	  
 			if (id != '') {  %>
 				
-				<a href="https://viaf.org/viaf/<%- id %>"><div class="logo oclc"></div></a>
-			<% } %>	
-	 
+				<a href="https://viaf.org/viaf/<%- id %>" target="_new"><div class="logo oclc"></div></a>
+			<% } %>		 
 			
 			<% 
 			// ORCID
 			id = get_property_value(item.identifier, 'orcid');	  
 			if (id != '') {  %>
 				
-				<a href="https://orcid.org/<%- id %>"><div class="logo orcid"></div></a>
+				<a href="https://orcid.org/<%- id %>" target="_new"><div class="logo orcid"></div></a>
 			<% } %>	
 			
 			<% 
@@ -86,7 +85,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'ipni_author');	  
 			if (id != '') {  %>
 				
-				<a href="https://www.ipni.org/a/<%- id %>"><div class="logo ipni"></div></a>
+				<a href="https://www.ipni.org/a/<%- id %>" target="_new"><div class="logo ipni"></div></a>
 			<% } %>	
 
 			<% 
@@ -94,8 +93,17 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'zoobank_author');	  
 			if (id != '') {  %>
 				
-				<a href="http://zoobank.org/Authors/<%- id %>"><div class="logo zoobank"></div></a>
+				<a href="http://zoobank.org/Authors/<%- id %>" target="_new"><div class="logo zoobank"></div></a>
 			<% } %>	
+			
+			<% 
+			// Bloodhound
+			id = get_property_value(item.identifier, 'bloodhound');	  
+			if (id != '') {  %>
+				
+				<a href="https://bloodhound-tracker.net/<%- id %>" target="_new"><div class="logo bloodhound"></div></a>
+			<% } %>		 
+			
 			
 			
 		<% } %>	
