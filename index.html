@@ -129,9 +129,20 @@
 		</script>
 		<script src="views/person.ejs">
 		</script>
+		<script src="views/search.ejs">
+		</script>		
 		<script src="views/work.ejs">
 		</script>
 		<script>
+			//----------------------------------------------------------------------------
+			function clear_results() {
+				document.getElementById('output').innerHTML = "";
+				document.getElementById('feed_works').innerHTML = "";
+				document.getElementById('feed_cited_by').innerHTML = "";
+				document.getElementById('feed_related_work').innerHTML = "";
+			}
+		
+			//----------------------------------------------------------------------------
 			function render(template, data, element_id) {
 			
 				// Render template 	
@@ -252,6 +263,8 @@
 		
 			//----------------------------------------------------------------------------
 			function show_record(id) {
+			
+				clear_results();
 
 			  $.getJSON('api.php?id=' +
 				id +
@@ -372,8 +385,10 @@
 								
 			        //--------------------------------------------------------------------------------
 					function search() {
+					  clear_results();
+					
 					  document.activeElement.blur();
-
+					  
 					  var q = document.getElementById('query').value;
 
 					  $.getJSON('api.php?q=' +
@@ -383,10 +398,9 @@
 
 						  console.log(JSON.stringify(data, null, 2));
 
-						  html = ejs.render(template_results, {
+						 render(template_search, {
 							item: data
-						  });
-						  document.getElementById('results').innerHTML = html;
+					  		}, 'output');
 						}
 					  );
 					}
@@ -441,15 +455,15 @@
 					</a>
 				</div>
 			</div>
-			<div id="results">
-			</div>
-			<div id="output">
-			</div>
-			<div id="feed_works">
-			</div>
-			<div id="feed_cited_by">
-			</div>
-			<div id="feed_related_work">
+			<div class="row">
+				<div id="output">
+				</div>
+				<div id="feed_works">
+				</div>
+				<div id="feed_cited_by">
+				</div>
+				<div id="feed_related_work">
+				</div>
 			</div>
 		</main>
 		<script>
@@ -458,6 +472,10 @@
 					if (query) {
 					   query = decodeURIComponent(query);
 					   $('#query').val(query); 
+					   
+						// Change URL and title to match this query (makes for easier bookmarking)
+						history.pushState(null, null, '?q=' + query);					   
+					   
 					   search();
 					}
 					query = $.urlParam('id');

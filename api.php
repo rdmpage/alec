@@ -4,6 +4,7 @@ error_reporting(E_ALL);
 
 require_once (dirname(__FILE__) . '/api_utils.php');
 require_once (dirname(__FILE__) . '/wikidata_api.php');
+require_once (dirname(__FILE__) . '/wikidata_search.php');
 
 // require_once (dirname(__FILE__) . '/search.php');
 
@@ -70,7 +71,7 @@ function display_search ($q, $callback = '')
 	else
 	{	
 		$status = 200;
-		//$obj = do_search($q);	
+		$obj = wikidata_search($q);	
 	}
 	
 	api_output($obj, $callback, 200);
