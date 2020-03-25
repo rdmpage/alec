@@ -76,7 +76,7 @@ item = item['@graph'][0];
 				// DOI
 				id = get_property_value(properties[j], 'doi');	  
 				if (id != '') {  %>	
-					<a class="badge new blue accent-3" style="padding:4px;color:white;" href="https://doi.org/<%=id%>" target="_new">
+					<a class="btn-small blue accent-3" style="text-overflow: ellipsis;word-break: break-all;" href="https://doi.org/<%=id%>" target="_new">
 					DOI:
 					<%= id %>
 					</a>

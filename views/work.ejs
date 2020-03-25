@@ -112,42 +112,42 @@ if (item['@graph']) {
 			// DOI
 			id = get_property_value(item.identifier, 'doi');	  
 			if (id != '') {  %>
-				<a class="btn blue accent-3" href="https://doi.org/<%- id %>" target="_new">DOI:<%- id %></a>
+				<a class="btn-small blue accent-3" href="https://doi.org/<%- id %>" target="_new">DOI:<%- id %></a>
 			<% } %>	
 			
 			<% 
 			// Handle
 			id = get_property_value(item.identifier, 'handle');	  
 			if (id != '') {  %>
-				<a class="btn blue accent-3" href="https://hdl.handle.net/<%- id %>" target="_new">HANDLE:<%- id %></a>
+				<a class="btn-small blue accent-3" href="https://hdl.handle.net/<%- id %>" target="_new">HANDLE:<%- id %></a>
 			<% } %>		
 			
 			<% 
 			// BioStor
 			id = get_property_value(item.identifier, 'biostor');	  
 			if (id != '') {  %>
-				<a class="btn blue accent-3" href="https://biostor.org/reference/<%- id %>" target="_new">BIOSTOR:<%- id %></a>
+				<a class="btn-small blue accent-3" href="https://biostor.org/reference/<%- id %>" target="_new">BIOSTOR:<%- id %></a>
 			<% } %>						
 
 			<% 
 			// BHL
 			id = get_property_value(item.identifier, 'bhl page');	  
 			if (id != '') {  %>
-				<a class="btn blue accent-3" href="https://www.biodiversitylibrary.org/page/<%- id %>" target="_new">BHL:<%- id %></a>
+				<a class="btn-small blue accent-3" href="https://www.biodiversitylibrary.org/page/<%- id %>" target="_new">BHL:<%- id %></a>
 			<% } %>						
 			
 			<% 
 			// JSTOR
 			id = get_property_value(item.identifier, 'jstor');	  
 			if (id != '') {  %>
-				<a class="btn blue accent-3" href="https://www.jstor.org/stable/<%- id %>" target="_new">JSTOR:<%- id %></a>
+				<a class="btn-small blue accent-3" href="https://www.jstor.org/stable/<%- id %>" target="_new">JSTOR:<%- id %></a>
 			<% } %>	
 			
 			<% 
 			// PMC
 			id = get_property_value(item.identifier, 'pmc');	  
 			if (id != '') {  %>
-				<a class="btn blue accent-3" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC<%- id %>" target="_new">PMCID: PMC<%- id %></a>
+				<a class="btn-small blue accent-3" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC<%- id %>" target="_new">PMCID: PMC<%- id %></a>
 			<% } %>	
 			
 
@@ -155,7 +155,7 @@ if (item['@graph']) {
 			// PMID
 			id = get_property_value(item.identifier, 'pmid');	  
 			if (id != '') {  %>
-				<a class="btn blue accent-3" href="https://www.ncbi.nlm.nih.gov/pubmed/<%- id %>" target="_new">PMID:<%- id %></a>
+				<a class="btn-small blue accent-3" href="https://www.ncbi.nlm.nih.gov/pubmed/<%- id %>" target="_new">PMID:<%- id %></a>
 			<% } %>	
 	
 		
