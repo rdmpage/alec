@@ -136,10 +136,18 @@
 		<script>
 			//----------------------------------------------------------------------------
 			function clear_results() {
-				document.getElementById('output').innerHTML = "";
-				document.getElementById('feed_works').innerHTML = "";
-				document.getElementById('feed_cited_by').innerHTML = "";
-				document.getElementById('feed_related_work').innerHTML = "";
+				var html = `<div id="output">
+				</div>
+				<div id="feed_works">
+				</div>
+				<div id="feed_cites">
+				</div>				
+				<div id="feed_cited_by">
+				</div>
+				<div id="feed_related_work">
+				</div>`;
+			
+				document.getElementById('display').innerHTML = html;
 			}
 		
 			//----------------------------------------------------------------------------
@@ -225,7 +233,25 @@
 				  }
 				}
 			  );
-			}		
+			}	
+			
+			//----------------------------------------------------------------------------
+			function show_feed_cites(id) {
+			  $.getJSON('api_work_cites.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_cites');
+					}
+				  }
+				}
+			  );
+			}	
+				
 					
 			//----------------------------------------------------------------------------
 			function show_feed_cited_by(id) {
@@ -386,9 +412,6 @@
 								
 			        //--------------------------------------------------------------------------------
 					function search() {
-						
-					   
-					
 					
 					  clear_results();
 					
@@ -465,11 +488,13 @@
 					</a>
 				</div>
 			</div>
-			<div class="row">
+			<div id="display" class="row">
 				<div id="output">
 				</div>
 				<div id="feed_works">
 				</div>
+				<div id="feed_cites">
+				</div>				
 				<div id="feed_cited_by">
 				</div>
 				<div id="feed_related_work">

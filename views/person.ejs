@@ -34,6 +34,7 @@ if (item['@graph']) {
 	<b style="font-size:1.5em;">				
 		<%- get_literal(item.name) %>
 		<% document.title = get_literal(item.name); %>				
+		(<a href="<%- item['@id'] %>" target="_new"><%- item['@id'].replace('http://www.wikidata.org/entity/', '') %></a>)
 	</b>
 
 
