@@ -38,7 +38,7 @@ $query = 'CONSTRUCT
 WHERE
 {
     {
-		SELECT ?item ?item_type ?title ?datePublished ?description ?doi (COUNT(?item) AS ?c)		
+		SELECT ?item ?item_type ?title ?datePublished ?description ?doi ?doi_identifier (COUNT(?item) AS ?c)		
 		WHERE 
 		{
 			VALUES ?work { wd:' . $id . ' }
@@ -74,7 +74,7 @@ WHERE
       
       		FILTER (?work != ?item)
 		}
-       	GROUP BY ?item ?item_type ?title ?datePublished ?description ?doi
+       	GROUP BY ?item ?item_type ?title ?datePublished ?description ?doi_identifier ?doi
     }
     FILTER (?c >= 5)
 }';
