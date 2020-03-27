@@ -103,6 +103,22 @@ if (item['@graph']) {
 				
 				<a href="https://bloodhound-tracker.net/<%- id %>" target="_new"><div class="logo bloodhound"></div></a>
 			<% } %>		 
+
+			<% 
+			// Twitter
+			id = get_property_value(item.identifier, 'twitter');	  
+			if (id != '') {  %>
+				
+				<a href="https://twitter.com/<%- id %>" target="_new"><div class="logo twitter"></div></a>
+			<% } %>		 
+
+			<% 
+			// Flickr
+			id = get_property_value(item.identifier, 'flickr');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.flickr.com/photos/<%- id %>" target="_new"><div class="logo flickr"></div></a>
+			<% } %>		 
 			
 			
 			

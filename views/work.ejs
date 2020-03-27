@@ -157,12 +157,44 @@ if (item['@graph']) {
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://www.ncbi.nlm.nih.gov/pubmed/<%- id %>" target="_new">PMID:<%- id %></a>
 			<% } %>	
+			
+			<% 
+			// ZOOBANK
+			id = get_property_value(item.identifier, 'zoobank_pub');	  
+			if (id != '') {  %>
+				<a class="btn-small blue accent-3" href="http://zoobank.org/<%- id %>" target="_new">ZOOBANK:<%- id %></a>
+			<% } %>				
 	
 		
 		<% } %>	
 
 	
 	</div>
+	
+	<!-- license -->
+	<div class="section" >
+		<% if (item.license) { %>
+		
+			<% if (item.license.match("creativecommons.org")) { %>	
+			
+				<div class="license cc"></div>
+				
+				<% if (item.license.match("by")) { %>	
+					<div class="license by"></div>
+				<% } %>	
+
+				<% if (item.license.match("nc")) { %>	
+					<div class="license nc"></div>
+				<% } %>	
+				
+				<% if (item.license.match("nd")) { %>	
+					<div class="license nd"></div>
+				<% } %>					
+				
+			<% } %>	
+		<% } %>	
+	</div>	
+	
 
 	<!-- view work -->
 	<div class="section">

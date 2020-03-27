@@ -168,9 +168,24 @@ CONSTRUCT
  ?bloodhound_identifier <http://schema.org/propertyID> "bloodhound" .
  ?bloodhound_identifier <http://schema.org/value> ?bloodhound .
 
+ # twitter
+ ?item schema:identifier ?twitter_identifier .
+ ?twitter_identifier a <http://schema.org/PropertyValue> .
+ ?twitter_identifier <http://schema.org/propertyID> "twitter" .
+ ?twitter_identifier <http://schema.org/value> ?twitter .
+
+ # flickr
+ ?item schema:identifier ?flickr_identifier .
+ ?flickr_identifier a <http://schema.org/PropertyValue> .
+ ?flickr_identifier <http://schema.org/propertyID> "flickr" .
+ ?flickr_identifier <http://schema.org/value> ?flickr .
+
  
 # subjects
  ?item schema:about ?subject .
+ 
+# licensing
+ ?item schema:license ?license_url .
 
 }
 WHERE
@@ -361,8 +376,24 @@ OPTIONAL {
  OPTIONAL {
    ?item wdt:P6944 ?bloodhound .   
    BIND( IRI (CONCAT (STR(?item), "#bloodhound")) as ?bloodhound_identifier)
-  }    
+  }   
   
+ OPTIONAL {
+   ?item wdt:P2002 ?twitter .   
+   BIND( IRI (CONCAT (STR(?item), "#twitter")) as ?twitter_identifier)
+  }   
+  
+ OPTIONAL {
+   ?item wdt:P3267 ?flickr .   
+   BIND( IRI (CONCAT (STR(?item), "#flickr")) as ?flickr_identifier)
+  }        
+  
+  # license
+  OPTIONAL {
+   ?item wdt:P275 ?license .  
+   ?license wdt:P856 ?license_url .  
+  }   
+
   
 }   
 ';
@@ -401,9 +432,10 @@ OPTIONAL {
 	$doc = json_decode($json);
 		
 	$context = (object)array(
-		'@vocab' 	 	=> 'http://schema.org/',			
-		'bibo' 			=> 'http://purl.org/ontology/bibo/',			
-		'identifiers' 	=> 'https://registry.identifiers.org/registry/'
+		'@vocab' 	 	=> 'http://schema.org/'			
+		//'bibo' 			=> 'http://purl.org/ontology/bibo/',			
+		//'identifiers' 	=> 'https://registry.identifiers.org/registry/'
+		//'wd' 			=> 'http://www.wikidata.org/entity/'
 	);
 		
 	// author is always an array
@@ -440,6 +472,14 @@ OPTIONAL {
 	$image->{'@type'} = "@id";
 	
 	$context->{'image'} = $image;
+	
+	// license
+	$license = new stdclass;
+	$license->{'@id'} = "license";
+	$license->{'@type'} = "@id";
+	
+	$context->{'license'} = $license;
+	
 
 	
 
