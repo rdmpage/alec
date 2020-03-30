@@ -79,6 +79,60 @@ WHERE
     FILTER (?c >= 5)
 }';
 
+// Simpler query, just count number of documents that cite work and another work
+$query = 'CONSTRUCT 
+{
+	<http://example.rss>
+	rdf:type schema:DataFeed;
+	schema:name "Related";
+	schema:dataFeedElement ?item .
+
+	?item 
+		rdf:type schema:DataFeedItem;
+		rdf:type ?item_type;
+		schema:name ?title;
+		schema:datePublished ?datePublished;
+		schema:description ?description;	
+		
+	# doi
+		schema:identifier ?doi_identifier .
+		 ?doi_identifier rdf:type schema:PropertyValue .
+		 ?doi_identifier schema:propertyID "doi" .
+		 ?doi_identifier schema:value ?doi .							
+}
+WHERE 
+{
+    {
+        SELECT ?item ?title ?datePublished ?description ?doi ?doi_identifier (COUNT(?item) AS ?c)		
+		WHERE 
+		{
+			VALUES ?work { wd:' . $id . ' }
+
+			?citing_work wdt:P2860 ?work .
+			?citing_work wdt:P2860 ?item .
+
+			?item wdt:P1476 ?title .
+
+			OPTIONAL {
+				?item wdt:P577 ?date .
+				BIND(STR(?date) as ?datePublished) 
+			}  			
+	
+			# Make DOI lowercase
+			OPTIONAL {
+				?item wdt:P356 ?doi_string .   
+				BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
+				BIND( LCASE(?doi_string) as ?doi)
+			}   	      
+      
+      		FILTER (?work != ?item)
+		}
+        GROUP BY ?item ?title ?datePublished ?description ?doi ?doi_identifier
+  }
+  FILTER (?c >= 5)
+}
+ ';
+
 
 $callback = '';
 if (isset($_GET['callback']))
