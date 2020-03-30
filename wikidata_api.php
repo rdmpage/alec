@@ -259,6 +259,14 @@ WHERE
   
   OPTIONAL {
    ?item schema:description ?description .
+   # filter languages otherwise we can be inundated
+  FILTER(
+       LANG(?description) = "en" 
+  	|| LANG(?description) = "fr" 
+  	|| LANG(?description) = "de" 
+  	|| LANG(?description) = "es" 
+  	|| LANG(?description) = "zh"
+  	)
    }  
   
    OPTIONAL {
