@@ -1,0 +1,646 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" /> 
+		<title>
+			ALEC
+		</title>
+		<style>
+			/* body and main styles to give us a fixed footer, see https://materializecss.com/footer.html */	
+			body {
+			    display: flex;
+			    min-height: 100vh;
+			    flex-direction: column;
+			  }
+			  
+			/* https://codepen.io/furnace/pen/PGygEd */
+			nav.clean {
+			  background: none;
+			  box-shadow: none;
+			  height:2em;
+			  line-height:2em;
+			  
+			}
+			nav.clean .breadcrumb {
+			  color: black;
+			  font-size:1em;
+			}
+			nav.clean .breadcrumb:before {
+			  color: rgba(0, 0, 0, 0.7);
+			}
+			
+			header, main, footer {
+			      padding-right: 300px;
+			    }
+			
+			    @media only screen and (max-width : 992px) {
+			      header, main, footer {
+			        padding-left: 0;
+			        padding-right: 0px;
+			      }
+			    }
+			
+			  main {
+			    flex: 1 0 auto;
+			  }			
+			  
+			  /* hack for missing "square" class for avatars */
+			  .square {
+			  	position:absolute;
+			  	width:48px;
+			  	height:48px;
+			  	left:15px;
+			  	display:inline-block;
+			  	vertical-align:middle;
+			  	border-radius: 4px;
+			  	}
+			  	
+			  	
+			  	.code {
+			  		font-family:monospace;
+			  		white-space:pre;
+			  		line-height:0.9em;
+			  		font-size:0.7em;
+			  		color:rgb(64,64,64);
+			  		overflow-y:auto;
+			  		padding:10px;
+			  		/* border:1px solid rgb(192,192,192); */
+			  	
+			  	}
+			  
+			  
+			.logo  {
+				margin: 10px;
+			
+			  		display: block; 
+			  		float:left;
+			  
+			  /*text-indent: -9999px;*/
+			  width: 48px;
+			  height: 48px;
+			  opacity: 0.6; 
+			  border-radius: 4px;
+			  /* border:1px solid rgb(192,192,192); */
+			}
+			
+			.none {
+			background-color: black;
+			}
+			
+			.ipni {
+			  background: url(images/logos/ipni.svg);
+			  background-size: contain;
+			}  
+			
+			.oclc {
+			  background: url(images/logos/oclc.svg);
+			  background-size: contain;
+			}  
+			  
+			.orcid {
+			  background: url(images/logos/orcid.svg);
+			  background-size: contain;
+			}  
+			
+			.zoobank {
+			  background: url(images/logos/zoobank.svg);
+			  background-size: contain;
+			} 
+
+			.bloodhound {
+			  background: url(images/logos/bloodhound.svg);
+			  background-size: contain;
+			} 
+
+			.flickr {
+			  background: url(images/logos/flickr.svg);
+			  background-size: contain;
+			} 
+
+			.twitter {
+			  background: url(images/logos/twitter.svg);
+			  background-size: contain;
+			} 
+			
+			
+			.license  {
+				display: block; 
+				float:left;
+				margin: 4px;
+ 
+ 			  width: 24px;
+			  height: 24px;
+			}
+			
+			.cc {
+			  background: url(images/cc-icons-png/cc.xlarge.png);
+			  background-size: contain;
+			}  			
+			.by {
+			  background: url(images/cc-icons-png/by.xlarge.png);
+			  background-size: contain;
+			}  			
+			.nc {
+			  background: url(images/cc-icons-png/nc.xlarge.png);
+			  background-size: contain;
+			}  			
+			.nd {
+			  background: url(images/cc-icons-png/nd.xlarge.png);
+			  background-size: contain;
+			}  			
+			.sa {
+			  background: url(images/cc-icons-png/sa.xlarge.png);
+			  background-size: contain;
+			}  			
+			
+			  
+			  
+		</style>
+<!--Import Google Icon Font-->
+		<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"> 
+<!-- cloud -->
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.js">
+		</script>
+		<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css"> 
+		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.js">
+		</script>
+		<script src="https://cdn.jsdelivr.net/npm/ejs@2.6.1/ejs.min.js" integrity="sha256-ZS2YSpipWLkQ1/no+uTJmGexwpda/op53QxO/UBJw4I=" crossorigin="anonymous">
+		</script>
+<!--Let browser know website is optimized for mobile-->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+<!-- <script src="js/jquery-1.11.2.min.js"></script> -->
+<!-- <script src="js/ejs.js"></script> -->
+<!-- local --->
+		<script src="js/jquery.js">
+		</script>
+		<script src="js/ejs.js">
+		</script>
+		<script src="js/citation.js" type="text/javascript">
+		</script>
+		<link rel="stylesheet" type="text/css" href="css/materialize.min.css"> 
+		<script type="text/javascript" src="js/materialize.min.js">
+		</script>
+<!-- templates -->
+		<script src="views/partials/utils.ejs">
+		</script>
+		<script src="views/feed.ejs">
+		</script>
+		<script src="views/thing.ejs">
+		</script>
+		<script src="views/person.ejs">
+		</script>
+		<script src="views/search.ejs">
+		</script>		
+		<script src="views/work.ejs">
+		</script>
+		<script>
+			//----------------------------------------------------------------------------
+			function clear_results() {
+				var html = `<div id="output">
+				</div>
+				<div id="feed_works">
+				</div>
+				<div id="feed_cites">
+				</div>				
+				<div id="feed_cited_by">
+				</div>
+				<div id="feed_related_work">
+				</div>
+				<div id="jsonld" class="code">
+				</div>				
+				`;
+				
+				
+				html = `
+				<div id="output">
+				</div>
+	<ul class="collapsible">
+    <li>
+      <div class="collapsible-header">Cites</div>
+      <div class="collapsible-body" id="feed_cites"></span></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Cited by</div>
+      <div class="collapsible-body" id="feed_cited_by"></div>
+    </li>
+    <li>
+      <div class="collapsible-header">Related</div>
+      <div class="collapsible-body" id="feed_related_work><</div>
+    </li>
+  </ul>
+				
+				`;
+			
+				document.getElementById('display').innerHTML = html;
+				
+				$('.collapsible').collapsible();
+			}
+		
+			//----------------------------------------------------------------------------
+			function render(template, data, element_id) {
+			
+				// Render template 	
+				html = ejs.render(template, data);
+				
+				// Display
+				document.getElementById(element_id).innerHTML = html;
+				}
+		</script>
+		<script>
+			const Cite = require('citation-js')
+		</script>
+		<script>
+			
+			//----------------------------------------------------------------------------
+			function get_entity_types(entity) {
+			  var types = [];
+
+			  if (entity['@graph']) {
+				if (Array.isArray(entity['@graph'][0]['@type'])) {
+				  types = entity['@graph'][0]['@type'];
+				}
+				else {
+				  types.push(entity['@graph'][0]['@type']);
+				}
+
+			  }
+			  else {
+				if (Array.isArray(entity['@type'])) {
+				  types = entity['@type'];
+				}
+				else {
+				  types.push(entity['@type']);
+				}
+			  }
+
+			  // map to schema
+			  var schema_types = [];
+
+			  for (var i in types) {
+				switch (types[i]) {
+
+				  case 'http://www.wikidata.org/entity/Q5':
+					schema_types.push('http://schema.org/Person');
+					break;
+
+					// article
+				  case 'http://www.wikidata.org/entity/Q13442814':
+					schema_types.push('http://schema.org/ScholarlyArticle');
+					break;
+					
+					// obituary
+				  case 'http://www.wikidata.org/entity/Q309481':
+					// eat this
+					break;
+					
+
+				  default:
+					schema_types.push('http://schema.org/Thing');
+					break;
+
+				}
+			  }
+			  return schema_types;
+			}
+	
+			//----------------------------------------------------------------------------
+			function show_feed_works(id) {
+
+			  $.getJSON('api_person_works.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+					 	 item: data
+						}, 'feed_works');
+					}
+				  }
+				}
+			  );
+			}	
+			
+			//----------------------------------------------------------------------------
+			function show_feed_cites(id) {
+			  $.getJSON('api_work_cites.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_cites');
+					}
+				  }
+				}
+			  );
+			}	
+				
+					
+			//----------------------------------------------------------------------------
+			function show_feed_cited_by(id) {
+			  $.getJSON('api_work_cited_by.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_cited_by');
+					}
+				  }
+				}
+			  );
+			}	
+	
+			//----------------------------------------------------------------------------
+			function show_feed_related_work(id) {
+			  $.getJSON('api_work_related.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_related_work');
+					}
+				  }
+				}
+			  );
+			}				
+		
+			//----------------------------------------------------------------------------
+			function show_record(id) {
+			
+				clear_results();
+				$('#query').val('');
+
+			  $.getJSON('api.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+
+					/*
+					var html = JSON.stringify(data, null, 2);
+					document.getElementById('jsonld').innerHTML = html;
+					*/
+
+					var types = get_entity_types(data);
+					
+					//alert(JSON.stringify(types, null, 2));
+
+					if (types.indexOf('http://schema.org/ScholarlyArticle') !== -1) {
+
+					  // display article
+					  render(template_work, {
+						item: data
+					  }, 'output');
+
+					  // related info
+					  show_feed_cites(id);
+					   
+					  show_feed_cited_by(id);
+
+					  show_feed_related_work(id);
+
+					}
+
+					if (types.indexOf('http://schema.org/Person') !== -1) {
+
+					  // display article
+					  render(template_person, {
+						item: data
+					  }, 'output');
+
+					  // related info
+					  show_feed_works(id);
+
+					}
+
+					if (types.indexOf('http://schema.org/Thing') !== -1) {
+
+					  // display article
+					  render(template_thing, {
+						item: data
+					  }, 'output');
+
+
+					  // related info
+
+					}
+				  }
+				}
+			  );
+
+			}
+				
+					        //--------------------------------------------------------------------------------
+						function show_cite(csl) {
+						
+							csl = decodeURIComponent(csl);
+							
+							var data = new Cite(csl);
+													
+							var template_cite = `
+							<h5>Cite</h5>
+							<table>
+								<tr>
+									<td style="vertical-align:top;font-weight:bold;">APA</td>
+									<td>
+										<%- data.format('bibliography', {format: 'html', template: 'apa', lang: 'en' }); %>
+									</td>
+								</tr>
+								<tr>
+									<td style="vertical-align:top;font-weight:bold;">BibTeX</td>
+									<td>
+										<div style="font-family:monospace;white-space:pre-wrap;">
+			<%=	data.format('bibtex'); %>
+										</div>
+									</td>
+								</tr>
+								<tr>
+									<td style="vertical-align:top;font-weight:bold;">RIS</td>
+									<td>
+										<div style="font-family:monospace;white-space:pre-wrap;">
+			<%=	data.format('ris'); %>
+										</div>
+									</td>
+								</tr>
+							</table>										
+							`;
+							
+							var html = ejs.render(template_cite, { data: data });
+					
+							// Display
+							document.getElementById('modal-content').innerHTML = html;
+							$('#modal').modal('open');
+						}		
+								
+				
+			        //--------------------------------------------------------------------------------
+					// http://stackoverflow.com/a/11407464
+					$(document).keypress(function(event) {
+					  var keycode = (event.keyCode ? event.keyCode : event.which);
+					  if (keycode == '13') {
+						search();
+					  }
+					});		
+						    
+			        //--------------------------------------------------------------------------------
+					//http://stackoverflow.com/a/25359264
+					$.urlParam = function(name) {
+					  var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+					  if (results == null) {
+						return null;
+					  }
+					  else {
+						return results[1] || 0;
+					  }
+					}	
+								
+			        //--------------------------------------------------------------------------------
+					function search() {
+					
+					  clear_results();
+					
+					  document.activeElement.blur();
+					  
+					  var q = document.getElementById('query').value;
+					  
+						// Change URL and title to match this query (makes for easier bookmarking)
+						history.pushState(null, q, '?q=' + q);	
+						document.title = q;				   
+						  
+
+					  $.getJSON('api.php?q=' +
+						encodeURI(q) +
+						'&callback=?',
+						function(data) {
+
+						  console.log(JSON.stringify(data, null, 2));
+
+						 render(template_search, {
+							item: data
+					  		}, 'output');
+						}
+					  );
+					}
+			
+		</script>
+		
+		<script type="text/javascript">
+			//<![CDATA[			
+			    window.onload=function(){
+			      $(document).ready(function() {
+			        $('#modal').modal();
+			      });
+			      }			
+			//]]>
+		</script>
+		
+	</head>
+	<body>
+<!-- <div class="container"> -->
+		<main>
+<!-- search box -->
+			<div class="row">
+				<div class="input-field col s2 m1">
+				<a href=".">
+					<i class="medium material-icons">
+						home
+					</i>
+					</a>
+				
+				</div>
+				<div class="input-field col s10 m11">
+					
+					<i class="material-icons prefix">
+						search
+					</i>
+					<input style="font-size:2em;" type="text" id="query" placeholder="Search"> 
+				</div>
+<!-- <button class="btn-large type="submit" style="font-size:2em;" id="search" onclick="search();">Find</button> -->
+			</div>
+			<div style="padding:20px;" id="slide-out" class="sidenav sidenav-fixed right-aligned">
+<!-- <li><a class="sidenav-close" href="#!">Clicking this will close Sidenav</a></li> -->
+<!-- <li><a href="#!">First Sidebar Link</a></li>
+      <li><a href="#!">Second Sidebar Link</a></li> -->
+				<b style="font-size:1.0em">
+					Cool facts
+				</b>
+			</div>
+<!-- Modal popup -->
+			<div id="modal" class="modal modal-fixed-footer" style="z-index: 1003; display: none; opacity: 0; transform: scaleX(0.7); top: 4%;">
+				<div class="modal-content">
+					<div id="modal-content">
+						Content
+					</div>
+				</div>
+				<div class="modal-footer">
+					<a href="#!" class=" modal-action modal-close btn-flat">
+						<i class="material-icons left">
+							clear
+						</i>
+						Close
+					</a>
+				</div>
+			</div>
+			<div id="display" class="row">
+				<div id="output">
+					<div class="col s1"></div>
+					<div class="col s10">
+					<h3>ALEC (A List of Everything Cool)</h3>
+					
+					<h5>Examples</h5>
+					<ul>
+					<li><a href="?id=Q57311469">List of species of Mammalia sent from the Aru Islands by Mr A.R. Wallace to the British Museum</a></li>
+					<li><a href="?id=Q88304578">Descriptions of Six New Species of Land Snails from the Far North of New Zealand</a></li>
+					<li><a href="?id=Q21340007">David Yeates</a></li>
+					<li><a href="?q=0000-0002-7975-1450">Search for ORCID 0000-0002-7975-1450</a></li>
+					<li><a href="?id=Q33896177">A New Clade of Insect-Specific Flaviviruses from Australian Anopheles Mosquitoes Displays Species-Specific Host Restriction</a></li> 
+					<li><a href="?id=Q66411568">The marine fauna of New Zealand: Crustacea: Brachyura</a></li>
+					</ul>
+					
+					
+					</div>
+					</section>
+					<div class="col s1"></div>
+				
+				</div>
+				<div id="feed_works">
+				</div>
+				<div id="feed_cites">
+				</div>				
+				<div id="feed_cited_by">
+				</div>
+				<div id="feed_related_work">
+				</div>
+				<div id="jsonld" class="code">
+				</div>
+				
+			</div>
+		</main>
+		<script>
+			// do we have a URL parameter?
+					var query = $.urlParam('q');
+					if (query) {
+					   query = decodeURIComponent(query);
+					   $('#query').val(query); 
+					   
+					   search();
+					}
+					query = $.urlParam('id');
+					if (query) {
+					   show_record(decodeURIComponent(query));
+					 
+					}
+			
+			
+		</script>
+	</body>
+</html>
