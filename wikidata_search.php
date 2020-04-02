@@ -191,6 +191,31 @@ function wikidata_search($query)
 	}
 	
 	
+	// URL
+	if (!isset($identifier->value))
+	{
+		if (preg_match('/https?:\/\//i', $query, $m))
+		{
+			$identifier->namespace = 'http';
+			$identifier->value = $query;
+			
+			$identifier->sparql = 'SELECT * WHERE { 
+    ?item wdt:P953 "' . $identifier->value . '" .
+  
+    OPTIONAL {
+     ?item rdfs:label ?label .
+     FILTER (lang(?label) = "en")
+    } 
+ 
+    OPTIONAL {
+     ?item schema:description ?description .
+     FILTER (lang(?description) = "en")
+    } 
+}';
+		}
+	
+	}	
+	
 	// print_r($identifier);
 	
 	$go = true;
@@ -314,7 +339,8 @@ function wikidata_search($query)
 			$item->name = html_entity_decode($item->name, ENT_QUOTES | ENT_HTML5, 'UTF-8');
 			if ($hit->snippet != '')
 			{
-				$item->description = $hit->snippet;
+				$item->description = strip_tags($hit->snippet);
+				$item->description = html_entity_decode($item->description, ENT_QUOTES | ENT_HTML5, 'UTF-8');
 			}
 		}
 		else
