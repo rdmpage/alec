@@ -120,6 +120,13 @@ if (item['@graph']) {
 				<a href="https://www.flickr.com/photos/<%- id %>" target="_new"><div class="logo flickr"></div></a>
 			<% } %>		 
 			
+			<% 
+			// ResearchGate
+			id = get_property_value(item.identifier, 'researchgate author');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.researchgate.net/profile/<%- id %>" target="_new"><div class="logo rg"></div></a>
+			<% } %>		 
 			
 			
 		<% } %>	
