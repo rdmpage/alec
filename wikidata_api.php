@@ -449,7 +449,8 @@ OPTIONAL {
 	// author is always an array
 	$author = new stdclass;
 	$author->{'@id'} = "author";
-	$author->{'@container'} = "@set";
+	//$author->{'@author'} = "@set";
+	$author->{'@author'} = "@list"; 
 
 	$context->{'author'} = $author;
 
@@ -519,6 +520,11 @@ OPTIONAL {
 		
 		$data = jsonld_frame($doc, $frame);
 		
+		/*
+		echo '<pre>';
+		print_r($data);
+		echo '</pre>';
+		*/
 		
 		
 		// OK, RDF doesn't have a notion of order,
@@ -529,14 +535,27 @@ OPTIONAL {
 		{
 			$author_list = array();
 			
-			foreach ($data->{'@graph'}[0]->author as $author)
+			if (is_object($data->{'@graph'}[0]->author))
 			{
-				$index = (Integer)$author->position;
+				// one author
 				unset($author->position);
-				$author_list[$index] = $author;
-			
+				$author_list[] = $data->{'@graph'}[0]->author;			
 			}
-			ksort($author_list, SORT_NUMERIC);
+			else
+			{
+				// array of authors
+				foreach ($data->{'@graph'}[0]->author as $author_item)
+				{
+					if (isset($author_item->position))
+					{
+						$index = (Integer)$author_item->position;
+						unset($author_item->position);
+						$author_list[$index] = $author_item;
+					}
+			
+				}
+				ksort($author_list, SORT_NUMERIC);
+			}
 	
 			$data->{'@graph'}[0]->author = array_values($author_list);
 		}
