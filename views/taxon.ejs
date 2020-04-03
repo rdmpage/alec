@@ -1,0 +1,224 @@
+var template_taxon = `
+
+<%
+
+if (item['@graph']) {
+	item = item['@graph'][0];
+}
+%>
+
+<div class="row">
+
+	<div class="col s12 m2 hide-on-small-only center-align">
+				
+			<%
+			var thumbnailUrl = "https://via.placeholder.com/80x100";
+		
+			if (item.image) {
+				if (Array.isArray(item.image)) {
+					thumbnailUrl = item.image[0];
+				} else {
+					thumbnailUrl = item.image;
+				}
+			}
+			%>
+		
+			<img class="z-depth-2" style="background:white;width:80px;height:100px;object-fit: cover;object-position: 50% 50%;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+
+	</div>
+
+	<div class="col s12 m10">
+
+		
+	<!-- headline is item name -->
+	<b style="font-size:1.5em;">				
+		<%- get_literal(item.name) %>
+		<% document.title = get_literal(item.name); %>				
+		(<a href="<%- item['@id'] %>" target="_new"><%- item['@id'].replace('http://www.wikidata.org/entity/', '') %></a>)
+	</b>
+
+
+	<!-- description -->
+	<div style="color:grey;">
+		<% if (item.description) { %>
+			<%- get_literal(item.description) %>
+		<% } %>
+	</div>
+	
+	<div style="color:grey;">
+		<% if (item.birthDate) { %>
+			<%- isodate_to_string(item.birthDate) %>
+			-
+		<% } %>
+		<% if (item.deathDate) { %>
+			<%- isodate_to_string(item.deathDate) %>
+		<% } %>
+	</div>
+	
+	
+	<!-- actions -->
+	<div class="section" >
+	
+	
+		<% if (item.identifier) {
+			 var id = '';
+	 		%>	
+	 
+			<% 
+			// VIAF
+			id = get_property_value(item.identifier, 'viaf');	  
+			if (id != '') {  %>
+				
+				<a href="https://viaf.org/viaf/<%- id %>" target="_new"><div class="logo oclc"></div></a>
+			<% } %>		 
+			
+			<% 
+			// ORCID
+			id = get_property_value(item.identifier, 'orcid');	  
+			if (id != '') {  %>
+				
+				<a href="https://orcid.org/<%- id %>" target="_new"><div class="logo orcid"></div></a>
+			<% } %>	
+			
+			<% 
+			// IPNI
+			id = get_property_value(item.identifier, 'ipni_author');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.ipni.org/a/<%- id %>" target="_new"><div class="logo ipni"></div></a>
+			<% } %>	
+
+			<% 
+			// ZooBank
+			id = get_property_value(item.identifier, 'zoobank_author');	  
+			if (id != '') {  %>
+				
+				<a href="http://zoobank.org/Authors/<%- id %>" target="_new"><div class="logo zoobank"></div></a>
+			<% } %>	
+			
+			<% 
+			// Bloodhound
+			id = get_property_value(item.identifier, 'bloodhound');	  
+			if (id != '') {  %>
+				
+				<a href="https://bloodhound-tracker.net/<%- id %>" target="_new"><div class="logo bloodhound"></div></a>
+			<% } %>		 
+
+			<% 
+			// Twitter
+			id = get_property_value(item.identifier, 'twitter');	  
+			if (id != '') {  %>
+				
+				<a href="https://twitter.com/<%- id %>" target="_new"><div class="logo twitter"></div></a>
+			<% } %>		 
+
+			<% 
+			// Flickr
+			id = get_property_value(item.identifier, 'flickr');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.flickr.com/photos/<%- id %>" target="_new"><div class="logo flickr"></div></a>
+			<% } %>		 
+			
+			<% 
+			// ResearchGate
+			id = get_property_value(item.identifier, 'researchgate author');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.researchgate.net/profile/<%- id %>" target="_new"><div class="logo rg"></div></a>
+			<% } %>		
+			
+			<% 
+			// GBIF
+			id = get_property_value(item.identifier, 'gbif');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.gbif.org/species/<%- id %>" target="_new"><div class="logo gbif"></div></a>
+			<% } %>				 
+
+			<% 
+			// EOL
+			id = get_property_value(item.identifier, 'eol');	  
+			if (id != '') {  %>
+				
+				<a href="https://eol.org/pages/<%- id %>" target="_new"><div class="logo eol"></div></a>
+			<% } %>				 
+
+			<% 
+			// NCBI
+			id = get_property_value(item.identifier, 'ncbi');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=<%- id %>" target="_new"><div class="logo ncbi"></div></a>
+			<% } %>				 
+
+			<% 
+			// WoRMS
+			id = get_property_value(item.identifier, 'worms');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=<%- id %>" target="_new"><div class="logo worms"></div></a>
+			<% } %>				 
+
+			<% 
+			// World Spider Catalog 
+			id = get_property_value(item.identifier, 'wsc');	  
+			if (id != '') {  %>
+				
+				<a href="http://www.wsc.nmbe.ch/lsid/<%- id %>" target="_new"><div class="logo wsc"></div></a>
+			<% } %>		
+			
+			<% 
+			// IPNI
+			id = get_property_value(item.identifier, 'ipni_name');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.ipni.org/a/<%- id %>" target="_new"><div class="logo ipni"></div></a>
+			<% } %>	
+
+			<% 
+			// ZooBank
+			id = get_property_value(item.identifier, 'zoobank_name');	  
+			if (id != '') {  %>
+				
+				<a href="http://zoobank.org/Authors/<%- id %>" target="_new"><div class="logo zoobank"></div></a>
+			<% } %>	
+					 
+
+			
+			
+		<% } %>	
+		
+	</div>						
+
+	
+	</div>
+
+</div>
+
+
+<div class="row">
+	<table>
+	
+	<% if (item.hasMap) { %>
+		<tr>
+			<th>Key</th>
+			<th>Value</th>
+		</tr>
+		<tr>
+			<td>
+				Map
+			</td>
+			<td>
+				<img width="90%" src="<%= item.hasMap %>">
+			</td>
+		</tr>
+	<% } %>
+	
+
+
+	</table>
+</div>
+
+
+`;

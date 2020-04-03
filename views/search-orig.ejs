@@ -11,9 +11,7 @@ item = item['@graph'][0];
 
 <div class="col s12">
 
-<!--
-<div class="col s12">
-<div class="chip">
+<h5>
 <%= item.dataFeedElement.length %>
 
 <% 
@@ -32,27 +30,22 @@ switch (item.dataFeedElement.length) {
 		break;
 } %>
 <%= text %>
-</div>
-</div>	
--->
+</h5>	
 
 <!-- data feed items -->
 	<% for (var i in item.dataFeedElement) { %>
-		<div class="col s12">
-			<div class="mycard z-depth-0">
-				<span class="mycard-title">
+		<div class="card-panel z-depth-1">
+			<div class="row valign-wrapper">
+				<div class="col s4 m2">
+					<img  class="z-depth-2" style="background:white;width:100px;height:100px;object-fit: cover;object-position: 50% 50%;" src="image.php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+				</div>
+				<div class="col s8 m10">
+					<span style="font-size:1.5em;">
 					<a href="?id=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
 						<%= get_literal(item.dataFeedElement[i].name) %>
-					</a>				
-				</span>
-				<br />
-				<span>
-					<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>
-				</span>
-				
-				<div class="mycard-details">
+					</a>
+					</span>				
 			
-					<img class="mycard-thumbnail" src="image.php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>" />
 					<p>
 					<% if (item.dataFeedElement[i].description) { 
 						var description = get_literal(item.dataFeedElement[i].description);
@@ -63,10 +56,8 @@ switch (item.dataFeedElement.length) {
 						<%=  description %>
 					<% } %>
 					</p>
-				</div>
-				<div style="clear:both" /> 				
+				</div>				
 			</div>
-		</div>
 		</div>
 	
 	<% } %>
