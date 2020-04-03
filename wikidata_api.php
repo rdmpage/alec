@@ -180,12 +180,71 @@ CONSTRUCT
  ?flickr_identifier <http://schema.org/propertyID> "flickr" .
  ?flickr_identifier <http://schema.org/value> ?flickr .
 
+ # taxa
+ # GBIF
+ ?item schema:identifier ?gbif_identifier .
+ ?gbif_identifier a <http://schema.org/PropertyValue> .
+ ?gbif_identifier <http://schema.org/propertyID> "gbif" .
+ ?gbif_identifier <http://schema.org/value> ?gbif .
+ 
+ ?item schema:sameAs ?gbif_url .
+ 
+ # EOL
+ ?item schema:identifier ?eol_identifier .
+ ?eol_identifier a <http://schema.org/PropertyValue> .
+ ?eol_identifier <http://schema.org/propertyID> "eol" .
+ ?eol_identifier <http://schema.org/value> ?eol .
+ 
+ ?item schema:sameAs ?eol_url .
+
+ # NCBI
+ ?item schema:identifier ?ncbi_identifier .
+ ?ncbi_identifier a <http://schema.org/PropertyValue> .
+ ?ncbi_identifier <http://schema.org/propertyID> "ncbi" .
+ ?ncbi_identifier <http://schema.org/value> ?ncbi .
+ 
+ ?item schema:sameAs ?ncbi_url .
+ 
+ 
+  # worms
+ ?item schema:identifier ?worms_identifier .
+ ?worms_identifier a <http://schema.org/PropertyValue> .
+ ?worms_identifier <http://schema.org/propertyID> "worms" .
+ ?worms_identifier <http://schema.org/value> ?worms .
+
+ # wsc
+ ?item schema:identifier ?wsc_identifier .
+ ?wsc_identifier a <http://schema.org/PropertyValue> .
+ ?wsc_identifier <http://schema.org/propertyID> "wsc" .
+ ?wsc_identifier <http://schema.org/value> ?wsc .
+
+ # ipni_name
+ ?item schema:identifier ?ipni_name_identifier .
+ ?ipni_name_identifier a <http://schema.org/PropertyValue> .
+ ?ipni_name_identifier <http://schema.org/propertyID> "ipni_name" .
+ ?ipni_name_identifier <http://schema.org/value> ?ipni_name .
+
+ # zoobank_name
+ ?item schema:identifier ?zoobank_name_identifier .
+ ?zoobank_name_identifier a <http://schema.org/PropertyValue> .
+ ?zoobank_name_identifier <http://schema.org/propertyID> "zoobank_name" .
+ ?zoobank_name_identifier <http://schema.org/value> ?zoobank_name .
+
+
  
 # subjects
  ?item schema:about ?subject .
  
 # licensing
  ?item schema:license ?license_url .
+ 
+ # taxon
+ ?item schema:hasMap ?map .
+ ?item schema:scientificName ?scientificName .
+ ?item schema:taxonRank ?taxonRank .
+ ?item schema:parentTaxon ?parentTaxon .
+ 
+     
 
 }
 WHERE
@@ -271,6 +330,14 @@ WHERE
   
    OPTIONAL {
    ?item skos:altLabel ?alternateName .
+  # filter languages otherwise we can be inundated
+  FILTER(
+       LANG(?alternateName) = "en" 
+  	|| LANG(?alternateName) = "fr" 
+  	|| LANG(?alternateName) = "de" 
+  	|| LANG(?alternateName) = "es" 
+  	|| LANG(?alternateName) = "zh"
+  	)   
    }   
   
   OPTIONAL {
@@ -296,7 +363,26 @@ WHERE
    ?item wdt:P304 ?page .
   }
   
-  # identifiers
+  # taxa ---------------------------------------------------------------------------------
+  OPTIONAL {
+   ?item wdt:P181 ?map .
+  }   
+  
+  OPTIONAL {
+   ?item wdt:P225 ?scientificName .
+  }  
+  
+  OPTIONAL {
+   ?item wdt:P105 ?taxonRankProperty .
+   ?taxonRankProperty rdfs:label ?taxonRank
+   FILTER (LANG(?taxonRank) = "en" )
+  } 
+  
+  OPTIONAL {
+   ?item wdt:P171 ?parentTaxon .
+  }    
+  
+  # identifiers --------------------------------------------------------------------------
     
   
   # identifiers as property value pairs
@@ -396,6 +482,45 @@ OPTIONAL {
    BIND( IRI (CONCAT (STR(?item), "#flickr")) as ?flickr_identifier)
   }        
   
+  # taxon identifiers
+ OPTIONAL {
+   ?item wdt:P846 ?gbif .   
+   BIND( IRI (CONCAT (STR(?item), "#gbif")) as ?gbif_identifier)
+  BIND( IRI (CONCAT ("https://www.gbif.org/species/", ?gbif)) as ?gbif_url)
+  }
+   
+ OPTIONAL {
+   ?item wdt:P830 ?eol .   
+   BIND( IRI (CONCAT (STR(?item), "#eol")) as ?eol_identifier)
+   BIND( IRI (CONCAT ("https://eol.org/pages/", ?eol)) as ?eol_url)
+  }  
+  
+ OPTIONAL {
+   ?item wdt:P685 ?ncbi .   
+   BIND( IRI (CONCAT (STR(?item), "#ncbi")) as ?ncbi_identifier)
+   BIND( IRI (CONCAT ("https://www.ncbi.nlm.nih.gov/Taxonomy/wwwtax.cgi%3Fmode%3DInfo%26id=", ?ncbi)) as ?ncbi_url)
+  }       
+
+ OPTIONAL {
+   ?item wdt:P850 ?worms .   
+   BIND( IRI (CONCAT (STR(?item), "#worms")) as ?worms_identifier)
+  }  
+       
+ OPTIONAL {
+   ?item wdt:P3288 ?wsc .   
+   BIND( IRI (CONCAT (STR(?item), "#wsc")) as ?wsc_identifier)
+  }  
+
+ OPTIONAL {
+   ?item wdt:P961 ?ipni_name .   
+   BIND( IRI (CONCAT (STR(?item), "#ipni_name")) as ?ipni_name_identifier)
+  }   
+          
+ OPTIONAL {
+   ?item wdt:P1746 ?zoobank_name .   
+   BIND( IRI (CONCAT (STR(?item), "#zoobank_name")) as ?zoobank_name_identifier)
+  } 
+  
   # license
   OPTIONAL {
    ?item wdt:P275 ?license .  
@@ -434,7 +559,12 @@ OPTIONAL {
 		);
 		*/
 	
-	//echo $json;
+	if (0)
+	{
+		echo '<pre>';
+		echo $json;
+		echo '</pre>';
+	}
 	
 	// Frame the JSON-LD to make it easier to parse
 	$doc = json_decode($json);
@@ -490,6 +620,19 @@ OPTIONAL {
 	$context->{'license'} = $license;
 	
 
+	// map
+	$hasMap = new stdclass;
+	$hasMap->{'@id'} = "hasMap";
+	$hasMap->{'@type'} = "@id";
+	
+	$context->{'hasMap'} = $hasMap;
+
+	// sameAs
+	$sameas = new stdclass;
+	$sameas->{'@id'} = "sameAs";
+	$sameas->{'@type'} = "@id";
+	
+	$context->{'sameAs'} = $sameas;
 	
 
 	// Find work type
