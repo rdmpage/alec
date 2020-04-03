@@ -11,7 +11,41 @@
 			    display: flex;
 			    min-height: 100vh;
 			    flex-direction: column;
+			    background: white; /*#efefef;  */ /* #cfd8dc; */
 			  }
+			  
+			  
+    
+			  
+			 /* me */
+			  
+			.mycard {
+				padding:12px;
+				border-radius:4px;
+				margin-bottom:20px;
+				background:white;			
+			}
+			
+			.mycard-title {
+				font-size:1.5em;
+			}
+			
+			.mycard-thumbnail {
+				padding:10px;
+				float:right;
+				background:white;
+				width:100px;
+				height:100px;
+				object-fit: cover;
+				object-position: 50% 50%;
+			}
+			
+			.mycard-details {
+				display:block;
+				border-top:1px solid rgb(192,192,192);
+			}
+			  
+			  
 			  
 			/* https://codepen.io/furnace/pen/PGygEd */
 			nav.clean {
@@ -29,9 +63,11 @@
 			  color: rgba(0, 0, 0, 0.7);
 			}
 			
+			/*
 			header, main, footer {
 			      padding-right: 300px;
 			    }
+			    */
 			
 			    @media only screen and (max-width : 992px) {
 			      header, main, footer {
@@ -42,6 +78,8 @@
 			
 			  main {
 			    flex: 1 0 auto;
+			    
+			    padding:10px;
 			  }			
 			  
 			  /* hack for missing "square" class for avatars */
@@ -76,8 +114,8 @@
 			  		float:left;
 			  
 			  /*text-indent: -9999px;*/
-			  width: 48px;
-			  height: 48px;
+			  width: 32px;
+			  height: 32px;
 			  opacity: 0.6; 
 			  border-radius: 4px;
 			  /* border:1px solid rgb(192,192,192); */
@@ -121,6 +159,37 @@
 			  background: url(images/logos/twitter.svg);
 			  background-size: contain;
 			} 
+			
+			.rg {
+			  background: url(images/logos/researchgate.svg);
+			  background-size: contain;
+			} 
+
+			.gbif {
+			  background: url(images/logos/gbif.svg);
+			  background-size: contain;
+			} 
+
+			.eol {
+			  background: url(images/logos/eol.svg);
+			  background-size: contain;
+			} 
+
+			.ncbi {
+			  background: url(images/logos/ncbi.svg);
+			  background-size: contain;
+			} 
+
+			.worms {
+			  background: url(images/logos/worms.svg);
+			  background-size: contain;
+			} 
+
+			.wsc {
+			  background: url(images/logos/world-spider-catalog.svg);
+			  background-size: contain;
+			} 
+
 			
 			
 			.license  {
@@ -168,8 +237,6 @@
 		</script>
 <!--Let browser know website is optimized for mobile-->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
-<!-- <script src="js/jquery-1.11.2.min.js"></script> -->
-<!-- <script src="js/ejs.js"></script> -->
 <!-- local --->
 		<script src="js/jquery.js">
 		</script>
@@ -185,33 +252,22 @@
 		</script>
 		<script src="views/feed.ejs">
 		</script>
+		<script src="views/feed-collapsible.ejs">
+		</script>
 		<script src="views/thing.ejs">
 		</script>
 		<script src="views/person.ejs">
 		</script>
 		<script src="views/search.ejs">
 		</script>		
+		<script src="views/taxon.ejs">
+		</script>
 		<script src="views/work.ejs">
 		</script>
-		<script>
-			//----------------------------------------------------------------------------
-			function clear_results() {
-				var html = `<div id="output">
-				</div>
-				<div id="feed_works">
-				</div>
-				<div id="feed_cites">
-				</div>				
-				<div id="feed_cited_by">
-				</div>
-				<div id="feed_related_work">
-				</div>
-				<div id="jsonld" class="code">
-				</div>				
-				`;
-			
-				document.getElementById('display').innerHTML = html;
-			}
+
+		
+		<script type="text/javascript">
+		
 		
 			//----------------------------------------------------------------------------
 			function render(template, data, element_id) {
@@ -221,12 +277,7 @@
 				
 				// Display
 				document.getElementById(element_id).innerHTML = html;
-				}
-		</script>
-		<script>
-			const Cite = require('citation-js')
-		</script>
-		<script>
+			}
 			
 			//----------------------------------------------------------------------------
 			function get_entity_types(entity) {
@@ -256,6 +307,7 @@
 			  for (var i in types) {
 				switch (types[i]) {
 
+					// Person
 				  case 'http://www.wikidata.org/entity/Q5':
 					schema_types.push('http://schema.org/Person');
 					break;
@@ -269,7 +321,13 @@
 				  case 'http://www.wikidata.org/entity/Q309481':
 					// eat this
 					break;
-					
+	
+	
+					// Taxon
+				  case 'http://www.wikidata.org/entity/Q16521':
+					schema_types.push('http://schema.org/Taxon'); // BioSchemas
+					break;
+				
 
 				  default:
 					schema_types.push('http://schema.org/Thing');
@@ -306,7 +364,7 @@
 				function(data) {
 				  if (data) {
 				  	if (data['@graph'].length > 0) {
-						render(template_datafeed, {
+						render(template_datafeed_collapsible, {
 						  item: data
 						}, 'feed_cites');
 					}
@@ -324,7 +382,7 @@
 				function(data) {
 				  if (data) {
 				  	if (data['@graph'].length > 0) {
-						render(template_datafeed, {
+						render(template_datafeed_collapsible, {
 						  item: data
 						}, 'feed_cited_by');
 					}
@@ -341,19 +399,38 @@
 				function(data) {
 				  if (data) {
 				  	if (data['@graph'].length > 0) {
-						render(template_datafeed, {
+						render(template_datafeed_collapsible, {
 						  item: data
 						}, 'feed_related_work');
 					}
 				  }
 				}
 			  );
-			}				
-		
+			}	
+			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
 			
-				clear_results();
+				document.getElementById('output').innerHTML = '';
+				
+				var html = `<div id="details"></div>
+				<div class="row">
+	 
+		 	
+				<ul class="collapsible white">
+					<li id="feed_cites">
+					</li>
+					<li id="feed_cited_by">
+					</li>
+					<li id="feed_related_work">
+					</li>
+			  	</ul>   
+			  
+			</div>`;
+			
+			document.getElementById('output').innerHTML = html;
+				
+				
 				$('#query').val('');
 
 			  $.getJSON('api.php?id=' +
@@ -376,7 +453,7 @@
 					  // display article
 					  render(template_work, {
 						item: data
-					  }, 'output');
+					  }, 'details');
 
 					  // related info
 					  show_feed_cites(id);
@@ -388,23 +465,42 @@
 					}
 
 					if (types.indexOf('http://schema.org/Person') !== -1) {
+					
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_works"></div>';
 
 					  // display article
 					  render(template_person, {
 						item: data
-					  }, 'output');
+					  }, 'details');
 
 					  // related info
 					  show_feed_works(id);
 
 					}
+					
+					if (types.indexOf('http://schema.org/Taxon') !== -1) {
+
+						document.getElementById('output').innerHTML = '<div id="details"></div>';
+
+					  // display article
+					  render(template_taxon, {
+						item: data
+					  }, 'details');
+
+
+					  // related info
+
+					}
+					
 
 					if (types.indexOf('http://schema.org/Thing') !== -1) {
+
+						document.getElementById('output').innerHTML = '<div id="details"></div>';
 
 					  // display article
 					  render(template_thing, {
 						item: data
-					  }, 'output');
+					  }, 'details');
 
 
 					  // related info
@@ -414,107 +510,71 @@
 				}
 			  );
 
-			}
-				
-					        //--------------------------------------------------------------------------------
-						function show_cite(csl) {
-						
-							csl = decodeURIComponent(csl);
-							
-							var data = new Cite(csl);
-													
-							var template_cite = `
-							<h5>Cite</h5>
-							<table>
-								<tr>
-									<td style="vertical-align:top;font-weight:bold;">APA</td>
-									<td>
-										<%- data.format('bibliography', {format: 'html', template: 'apa', lang: 'en' }); %>
-									</td>
-								</tr>
-								<tr>
-									<td style="vertical-align:top;font-weight:bold;">BibTeX</td>
-									<td>
-										<div style="font-family:monospace;white-space:pre-wrap;">
-			<%=	data.format('bibtex'); %>
-										</div>
-									</td>
-								</tr>
-								<tr>
-									<td style="vertical-align:top;font-weight:bold;">RIS</td>
-									<td>
-										<div style="font-family:monospace;white-space:pre-wrap;">
-			<%=	data.format('ris'); %>
-										</div>
-									</td>
-								</tr>
-							</table>										
-							`;
-							
-							var html = ejs.render(template_cite, { data: data });
-					
-							// Display
-							document.getElementById('modal-content').innerHTML = html;
-							$('#modal').modal('open');
-						}		
-								
-				
-			        //--------------------------------------------------------------------------------
-					// http://stackoverflow.com/a/11407464
-					$(document).keypress(function(event) {
-					  var keycode = (event.keyCode ? event.keyCode : event.which);
-					  if (keycode == '13') {
-						search();
-					  }
-					});		
-						    
-			        //--------------------------------------------------------------------------------
-					//http://stackoverflow.com/a/25359264
-					$.urlParam = function(name) {
-					  var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
-					  if (results == null) {
-						return null;
-					  }
-					  else {
-						return results[1] || 0;
-					  }
-					}	
-								
-			        //--------------------------------------------------------------------------------
-					function search() {
-					
-					  clear_results();
-					
-					  document.activeElement.blur();
-					  
-					  var q = document.getElementById('query').value;
-					  
-						// Change URL and title to match this query (makes for easier bookmarking)
-						history.pushState(null, q, '?q=' + q);	
-						document.title = q;				   
-						  
+			}						
 
-					  $.getJSON('api.php?q=' +
-						encodeURI(q) +
-						'&callback=?',
-						function(data) {
-
-						  console.log(JSON.stringify(data, null, 2));
-
-						 render(template_search, {
-							item: data
-					  		}, 'output');
-						}
-					  );
-					}
+			//--------------------------------------------------------------------------------
+			function search() {
 			
-		</script>
+			  document.getElementById('output').innerHTML = '';
+			  
+			  var html = '<div class="progress"><div class="indeterminate"></div></div>';
+			  
+			  document.getElementById('output').innerHTML = html;
+			  
+			
+			  document.activeElement.blur();
+			  
+			  var q = document.getElementById('query').value;
+			  
+				// Change URL and title to match this query (makes for easier bookmarking)
+				history.pushState(null, q, '?q=' + q);	
+				document.title = q;				   
+				  
+
+			  $.getJSON('api.php?q=' +
+				encodeURI(q) +
+				'&callback=?',
+				function(data) {
+
+				  console.log(JSON.stringify(data, null, 2));
+
+				 render(template_search, {
+					item: data
+					}, 'output');
+				}
+			  );
+			}
+
+			//--------------------------------------------------------------------------------
+			// http://stackoverflow.com/a/11407464
+			$(document).keypress(function(event) {
+			  var keycode = (event.keyCode ? event.keyCode : event.which);
+			  if (keycode == '13') {
+				search();
+				// stop the event propogating beyond here
+				event.preventDefault();				
+			  }
+			});		
+					
+			//--------------------------------------------------------------------------------
+			//http://stackoverflow.com/a/25359264
+			$.urlParam = function(name) {
+			  var results = new RegExp('[\?&]' + name + '=([^&#]*)').exec(window.location.href);
+			  if (results == null) {
+				return null;
+			  }
+			  else {
+				return results[1] || 0;
+			  }
+			}	
+
 		
-		<script type="text/javascript">
 			//<![CDATA[			
 			    window.onload=function(){
 			      $(document).ready(function() {
 			        $('#modal').modal();
+			        $('.collapsible').collapsible();
+			        $('select').formSelect();
 			      });
 			      }			
 			//]]>
@@ -522,36 +582,129 @@
 		
 	</head>
 	<body>
-<!-- <div class="container"> -->
+
+
+<div class="navbar-fixed">
+	<nav>
+		<div class="nav-wrapper white black-text">
+			<form>
+				<div class="input-field">
+					<input type="search" id="query">
+					<label class="label-icon" for="search"><i class="material-icons">search</i></label> <i class="material-icons">close</i> 
+				</div>
+			</form>
+		</div>
+	</nav>
+</div>
+
+ 
 		<main>
-<!-- search box -->
 			<div class="row">
-				<div class="input-field col s2 m1">
-				<a href=".">
-					<i class="medium material-icons">
-						home
-					</i>
-					</a>
-				
-				</div>
-				<div class="input-field col s10 m11">
-					
-					<i class="material-icons prefix">
-						search
-					</i>
-					<input style="font-size:2em;" type="text" id="query" placeholder="Search"> 
-				</div>
-<!-- <button class="btn-large type="submit" style="font-size:2em;" id="search" onclick="search();">Find</button> -->
-			</div>
-			<div style="padding:20px;" id="slide-out" class="sidenav sidenav-fixed right-aligned">
-<!-- <li><a class="sidenav-close" href="#!">Clicking this will close Sidenav</a></li> -->
-<!-- <li><a href="#!">First Sidebar Link</a></li>
-      <li><a href="#!">Second Sidebar Link</a></li> -->
-				<b style="font-size:1.0em">
-					Cool facts
-				</b>
-			</div>
+
+			
+			<!-- main panel -->
+      <div class="col s12 m9">
+      
+      
+      
+      
+       <div class="row">
+		  	<div id ="output">
+		  	
+		  	
+					<h5>Examples</h5>
+					<table>
+					<tr><td><a href="?id=Q57311469">List of species of Mammalia sent from the Aru Islands by Mr A.R. Wallace to the British Museum</a></td></tr>
+					<tr><td><a href="?id=Q88304578">Descriptions of Six New Species of Land Snails from the Far North of New Zealand</a></td></tr>
+					<tr><td><a href="?id=Q21340007">David Yeates</a></td></tr>
+					<tr><td><a href="?q=0000-0002-7975-1450">Search for ORCID 0000-0002-7975-1450</a></td></tr>
+					<tr><td><a href="?id=Q33896177">A New Clade of Insect-Specific Flaviviruses from Australian Anopheles Mosquitoes Displays Species-Specific Host Restriction</a></td></tr> 
+					<tr><td><a href="?id=Q66411568">The marine fauna of New Zealand: Crustacea: Brachyura</a></td></tr>
+					<tr><td><a href="?q=Pterocyclos">Pterocyclos</a></td></tr>
+					</table>
+		  	
+		  	
+		  	
+		  	
+		  	</div>
+		</div>
+      
+      <!-- experimental -->
+<!-- 
+   
+		  <h4>Stuff</h4>
+		  <button onclick="$('#modal').modal('open');">Modal</button>
+
+	
+		  
+		  <div class="row">
+	 
+		 	<span>collapsible lists</span>
+				<ul class="collapsible white">
+				<li>
+				  <div class="collapsible-header">Cites</div>
+				  <div class="collapsible-body" id="feed_cites"></span></div>
+				</li>
+				<li>
+				  <div class="collapsible-header">Cited by</div>
+				  <div class="collapsible-body" id="feed_cited_by"></div>
+				</li>
+				<li>
+				  <div class="collapsible-header">Related</div>
+				  <div class="collapsible-body" id="feed_related_work"></div>
+				</li>
+			  </ul>   
+			  
+			</div>   
+	  
+		  <span> nested item browser e.g. journal articles </span>
+	  <div class="row white">
+		<div class="input-field col s6 m4 l1 ">
+		<select>
+		   <option value="2019">2019</option>
+		  <option value="2018">2018</option>
+		  <option value="2017">2017</option>
+		</select>
+		<label>Year</label>
+	  </div>
+  
+		<div class="input-field col s6 m4 l1">
+		<select>
+		   <option value="1">Option 1</option>
+		  <option value="2">Option 2</option>
+		  <option value="3">Option 3</option>
+		</select>
+		<label>Volume</label>
+	  </div>
+      </div>
+      
+ -->
+   
+   <!-- end experimental -->
+      
+       </div> <!-- end main panel -->
+
+		<!-- side panel -->
+      <div class="col s12 m3" >
+      <span>(Related stuff will appear here (one day)</span>
+      </div>
+      
+      </div>
+			
+</div>	
+		</main>
+		
+		<footer class="page-footer white black-text" >
+			<div class="container">
+            	<div class="row">
+  					About this project...
+            	</div>
+  			</div>
+		
+		</footer>		
+		
 <!-- Modal popup -->
+
 			<div id="modal" class="modal modal-fixed-footer" style="z-index: 1003; display: none; opacity: 0; transform: scaleX(0.7); top: 4%;">
 				<div class="modal-content">
 					<div id="modal-content">
@@ -566,46 +719,15 @@
 						Close
 					</a>
 				</div>
-			</div>
-			<div id="display" class="row">
-				<div id="output">
-					<div class="col s1"></div>
-					<div class="col s10">
-					<h3>ALEC (A List of Everything Cool)</h3>
-					
-					<h5>Examples</h5>
-					<ul>
-					<li><a href="?id=Q57311469">List of species of Mammalia sent from the Aru Islands by Mr A.R. Wallace to the British Museum</a></li>
-					<li><a href="?id=Q88304578">Descriptions of Six New Species of Land Snails from the Far North of New Zealand</a></li>
-					<li><a href="?id=Q21340007">David Yeates</a></li>
-					<li><a href="?q=0000-0002-7975-1450">Search for ORCID 0000-0002-7975-1450</a></li>
-					<li><a href="?id=Q33896177">A New Clade of Insect-Specific Flaviviruses from Australian Anopheles Mosquitoes Displays Species-Specific Host Restriction</a></li> 
-					<li><a href="?id=Q66411568">The marine fauna of New Zealand: Crustacea: Brachyura</a></li>
-					</ul>
-					
-					
-					</div>
-					</section>
-					<div class="col s1"></div>
-				
-				</div>
-				<div id="feed_works">
-				</div>
-				<div id="feed_cites">
-				</div>				
-				<div id="feed_cited_by">
-				</div>
-				<div id="feed_related_work">
-				</div>
-				<div id="jsonld" class="code">
-				</div>
-			</div>
-		</main>
+			</div>		
+	
+		
 		<script>
 			// do we have a URL parameter?
 					var query = $.urlParam('q');
 					if (query) {
 					   query = decodeURIComponent(query);
+					   
 					   $('#query').val(query); 
 					   
 					   search();
