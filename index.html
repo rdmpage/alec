@@ -114,8 +114,8 @@
 			  		float:left;
 			  
 			  /*text-indent: -9999px;*/
-			  width: 32px;
-			  height: 32px;
+			  width: 48px;
+			  height: 48px;
 			  opacity: 0.6; 
 			  border-radius: 4px;
 			  /* border:1px solid rgb(192,192,192); */
@@ -174,6 +174,12 @@
 			  background: url(images/logos/eol.svg);
 			  background-size: contain;
 			} 
+			
+			.fossilworks {
+			  background: url(images/logos/fossilworks.svg);
+			  background-size: contain;
+			} 
+			
 
 			.ncbi {
 			  background: url(images/logos/ncbi.svg);
@@ -220,7 +226,40 @@
 			.sa {
 			  background: url(images/cc-icons-png/sa.xlarge.png);
 			  background-size: contain;
-			}  			
+			}  		
+			
+.item {
+	position:relative;
+	float:left;
+	width:100px;
+	height:100px;
+	margin:4px;
+	background-color:rgb(228,228,228); 
+}
+
+.item img {
+	width:100%;
+	height:100%;
+	object-fit: cover;
+	object-position: 50% 50%;
+}
+
+.item span {
+	font-size:10px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	width:100%;
+	height:44%;
+	background-color:rgba(0, 0, 0, 0.4);
+	color:white;
+	z-index:10;
+	
+	/* https://stackoverflow.com/a/20505159 */
+	/* make sure padding doesn't expand size of div */
+	box-sizing: border-box;
+	padding:4px;
+}				
 			
 			  
 			  
@@ -247,20 +286,32 @@
 		<link rel="stylesheet" type="text/css" href="css/materialize.min.css"> 
 		<script type="text/javascript" src="js/materialize.min.js">
 		</script>
+
+		<script type="text/javascript" src="js/dbpedia.js">
+		</script>
+
+
+
 <!-- templates -->
 		<script src="views/partials/utils.ejs">
 		</script>
+		<script src="views/decade_feed.ejs">
+		</script>		
 		<script src="views/feed.ejs">
 		</script>
 		<script src="views/feed-collapsible.ejs">
 		</script>
 		<script src="views/thing.ejs">
 		</script>
+		<script src="views/periodical.ejs">
+		</script>		
 		<script src="views/person.ejs">
 		</script>
 		<script src="views/search.ejs">
 		</script>		
 		<script src="views/taxon.ejs">
+		</script>
+		<script src="views/thumbnails.ejs">
 		</script>
 		<script src="views/work.ejs">
 		</script>
@@ -322,19 +373,32 @@
 					// eat this
 					break;
 	
-	
 					// Taxon
 				  case 'http://www.wikidata.org/entity/Q16521':
+				  case 'http://www.wikidata.org/entity/Q310890': // monotypic taxon e.g., Notostraca
+				  case 'http://www.wikidata.org/entity/Q713623': // clade e.g., Testudinata
+				  case 'http://www.wikidata.org/entity/Q23038290': // fossil taxon e.g., Triceratops
+				  
 					schema_types.push('http://schema.org/Taxon'); // BioSchemas
 					break;
-				
 
-				  default:
-					schema_types.push('http://schema.org/Thing');
+					// journal
+				  case 'http://www.wikidata.org/entity/Q5633421':
+					schema_types.push('http://schema.org/Periodical'); 
+					break;
+				
+				  default:					
 					break;
 
 				}
 			  }
+			  
+			  // If we haven't got a type we know something about...
+			  if (schema_types.length == 0) {
+			  	schema_types.push('http://schema.org/Thing');
+			  }
+			  
+			  
 			  return schema_types;
 			}
 	
@@ -406,12 +470,48 @@
 				  }
 				}
 			  );
+			}
+			
+			//----------------------------------------------------------------------------
+			function show_children(id) {
+			  $.getJSON('api_taxon_children.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_thumbnail_feed, {
+						  item: data
+						}, 'children');
+					}
+				  }
+				}
+			  );
 			}	
+				
+				
+			//----------------------------------------------------------------------------
+			function show_parts(id) {
+			  $.getJSON('api_periodical_works.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_decade_feed, {
+						  item: data
+						}, 'parts');
+					}
+				  }
+				}
+			  );
+			}					
 			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
 			
 				document.getElementById('output').innerHTML = '';
+				document.getElementById('dbpedia').innerHTML = '';
 				
 				var html = `<div id="details"></div>
 				<div class="row">
@@ -448,6 +548,7 @@
 					
 					//alert(JSON.stringify(types, null, 2));
 
+					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/ScholarlyArticle') !== -1) {
 
 					  // display article
@@ -464,6 +565,7 @@
 
 					}
 
+					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Person') !== -1) {
 					
 						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_works"></div>';
@@ -478,9 +580,10 @@
 
 					}
 					
+					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Taxon') !== -1) {
 
-						document.getElementById('output').innerHTML = '<div id="details"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"></div>';
 
 					  // display article
 					  render(template_taxon, {
@@ -489,10 +592,30 @@
 
 
 					  // related info
+					  show_children(id);
+					  
+					 
 
 					}
 					
+					//--------------------------------------------------------------------
+					if (types.indexOf('http://schema.org/Periodical') !== -1) {
 
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="parts"></div>';
+
+					  // display journal
+					  render(template_periodical, {
+						item: data
+					  }, 'details');
+
+
+					  // related info
+					  show_parts(id);
+
+					}
+										
+					
+					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Thing') !== -1) {
 
 						document.getElementById('output').innerHTML = '<div id="details"></div>';
@@ -506,6 +629,23 @@
 					  // related info
 
 					}
+					
+					
+					// Enhance
+					if (data['@graph'][0].sameAs) {
+						for (var i in data['@graph'][0].sameAs) {
+							var m = data['@graph'][0].sameAs[i].match(/https:\/\/en.wikipedia.org\/wiki\/(.*)/);
+							if (m) {
+							 	dbpedia_summary(m[1], 'dbpedia');
+							}
+						
+						}
+					
+					}
+					
+	
+					
+					
 				  }
 				}
 			  );
@@ -516,6 +656,8 @@
 			function search() {
 			
 			  document.getElementById('output').innerHTML = '';
+			  document.getElementById('sidepanel').innerHTML = '';
+
 			  
 			  var html = '<div class="progress"><div class="indeterminate"></div></div>';
 			  
@@ -685,8 +827,9 @@
        </div> <!-- end main panel -->
 
 		<!-- side panel -->
-      <div class="col s12 m3" >
-      <span>(Related stuff will appear here (one day)</span>
+      <div id="sidepanel" class="col s12 m3" >
+      <!-- <span>(Related stuff will appear here (one day)</span> -->
+      <div id="dbpedia"></div>
       </div>
       
       </div>
@@ -697,7 +840,7 @@
 		<footer class="page-footer white black-text" >
 			<div class="container">
             	<div class="row">
-  					About this project...
+  					[<a href=".">Home</a>] About this project...
             	</div>
   			</div>
 		
