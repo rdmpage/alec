@@ -3,6 +3,7 @@
 // Do a simple search of Wikidata and return a data feed 
 
 error_reporting(E_ALL);
+error_reporting(0);
 
 require_once(dirname(__FILE__) . '/config.inc.php');
 require_once(dirname(__FILE__) . '/lib.php');

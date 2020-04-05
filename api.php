@@ -1,6 +1,7 @@
 <?php
 
 error_reporting(E_ALL);
+error_reporting(0);
 
 require_once (dirname(__FILE__) . '/api_utils.php');
 require_once (dirname(__FILE__) . '/wikidata_api.php');

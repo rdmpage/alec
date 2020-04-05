@@ -4,6 +4,7 @@
 
 
 error_reporting(E_ALL ^ E_DEPRECATED);
+error_reporting(0);
 
 require_once(dirname(__FILE__) .  '/config.inc.php');
 require_once(dirname(__FILE__) .  '/lib.php');
@@ -36,6 +37,8 @@ CONSTRUCT
  ?item schema:name ?title .
  ?item schema:name ?label .
  ?item schema:image ?image .
+ 
+ ?item schema:url ?url .
   
  # scholarly article
  ?item schema:name ?title .
@@ -230,6 +233,18 @@ CONSTRUCT
  ?zoobank_name_identifier <http://schema.org/propertyID> "zoobank_name" .
  ?zoobank_name_identifier <http://schema.org/value> ?zoobank_name .
 
+ # fossilworks
+ ?item schema:identifier ?fossilworks_identifier .
+ ?fossilworks_identifier a <http://schema.org/PropertyValue> .
+ ?fossilworks_identifier <http://schema.org/propertyID> "fossilworks" .
+ ?fossilworks_identifier <http://schema.org/value> ?fossilworks .
+
+ # irmng
+ ?item schema:identifier ?irmng_identifier .
+ ?irmng_identifier a <http://schema.org/PropertyValue> .
+ ?irmng_identifier <http://schema.org/propertyID> "irmng" .
+ ?irmng_identifier <http://schema.org/value> ?irmng .
+
 
  
 # subjects
@@ -242,9 +257,24 @@ CONSTRUCT
  ?item schema:hasMap ?map .
  ?item schema:scientificName ?scientificName .
  ?item schema:taxonRank ?taxonRank .
- ?item schema:parentTaxon ?parentTaxon .
  
-     
+ ?item schema:parentTaxon ?parentTaxon .
+ ?parentTaxon schema:scientificName ?parentTaxonName .
+
+  # periodical
+  ?item schema:issn ?issn .
+  ?item schema:startDate ?startDate .
+  ?item schema:endDate ?endDate .
+  ?item schema:logo ?logo .
+  
+  # publisher
+  ?item schema:publisher ?publisher .
+  ?publisher schema:name ?publisher_name .
+  
+  # Wikis
+  ?item schema:sameAs ?en_wikipedia .
+  ?item schema:sameAs ?species_wiki .
+  
 
 }
 WHERE
@@ -380,6 +410,7 @@ WHERE
   
   OPTIONAL {
    ?item wdt:P171 ?parentTaxon .
+   ?parentTaxon wdt:P225 ?parentTaxonName .
   }    
   
   # identifiers --------------------------------------------------------------------------
@@ -521,13 +552,70 @@ OPTIONAL {
    BIND( IRI (CONCAT (STR(?item), "#zoobank_name")) as ?zoobank_name_identifier)
   } 
   
+ OPTIONAL {
+   ?item wdt:P842 ?fossilworks .   
+   BIND( IRI (CONCAT (STR(?item), "#fossilworks")) as ?fossilworks_identifier)
+  } 
+  
+ OPTIONAL {
+   ?item wdt:P5055 ?irmng .   
+   BIND( IRI (CONCAT (STR(?item), "#irmng")) as ?irmng_identifier)
+  }   
+    
+  
   # license
   OPTIONAL {
    ?item wdt:P275 ?license .  
    ?license wdt:P856 ?license_url .  
   }   
-
   
+    # periodical
+  OPTIONAL {
+   ?item wdt:P236 ?issn .  
+  }   
+  OPTIONAL {
+   ?item wdt:P154 ?logo .  
+  }   
+  # inception
+  OPTIONAL {
+   ?item wdt:P571 ?startDateValue . 
+   BIND(STR(?startDateValue) as ?startDate)  
+  }   
+  # dissolved, abolished or demolished
+  OPTIONAL {
+   ?item wdt:P576 ?endDateValue .  
+   BIND(STR(?endDateValue) as ?endDate) 
+  }   
+  
+  OPTIONAL {
+   ?item wdt:P123 ?publisher .  
+   ?publisher rdfs:label  ?publisher_name .
+   # filter languages otherwise we can be inundated
+  FILTER(
+       LANG(?publisher_name) = "en" 
+  	|| LANG(?publisher_name) = "fr" 
+  	|| LANG(?publisher_name) = "de" 
+  	|| LANG(?publisher_name) = "es" 
+  	|| LANG(?publisher_name) = "zh"
+  	)
+  }  
+    
+ OPTIONAL {
+   ?item wdt:P856 ?url .  
+  }     
+  
+  # Wiki projects
+  
+ OPTIONAL {
+   ?en_wikipedia schema:about ?item; 
+   	schema:isPartOf <https://en.wikipedia.org/>;
+  }  
+     
+ OPTIONAL {
+   ?species_wiki schema:about ?item; 
+   	schema:isPartOf <https://species.wikimedia.org/>;
+   
+  } 
 }   
 ';
 	
@@ -597,6 +685,14 @@ OPTIONAL {
 	$identifier->{'@container'} = "@set";
 	
 	$context->{'identifier'} = $identifier;
+
+	// ISSN
+	$issn = new stdclass;
+	$issn->{'@id'} = "issn";
+	$issn->{'@container'} = "@set";
+	
+	$context->{'issn'} = $issn;
+
 	
 	// about
 	$about = new stdclass;
@@ -633,6 +729,14 @@ OPTIONAL {
 	$sameas->{'@type'} = "@id";
 	
 	$context->{'sameAs'} = $sameas;
+	
+	// logo
+	$logo = new stdclass;
+	$logo->{'@id'} = "logo";
+	$logo->{'@type'} = "@id";
+	
+	$context->{'logo'} = $logo;
+	
 	
 
 	// Find work type
@@ -1009,6 +1113,12 @@ function sparql_construct_stream($sparql_endpoint, $query, $format='application/
 	$identifier->{'@container'} = "@set";
 	
 	$context->{'identifier'} = $identifier;
+
+	// image
+	$image = new stdclass;
+	$image->{'@id'} = "image";
+	$image->{'@type'} = "@id";
+	$context->{'image'} = $image;
 
 	
 	
