@@ -1,0 +1,66 @@
+var template_thumbnail_feed = `
+
+<%
+
+
+item = item['@graph'][0];
+
+%>
+
+<div class="row">
+
+<div class="col s12">	
+
+<!-- title -->
+<% if (item.name) { %>
+	<div>
+	<b>
+		<%= get_literal(item.name) %>
+		(<%= item.dataFeedElement.length %>)
+	</b>
+	</div>
+<% } %>
+	
+	
+<div>
+
+
+<!-- data feed items -->
+	<% for (var i in item.dataFeedElement) { %>
+	
+		<div class="item">
+		
+		<a href="?id=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+
+		<span>
+			<%= item.dataFeedElement[i].name %>
+		</span>
+		
+			<%
+			var thumbnailUrl = "https://via.placeholder.com/100x100";
+		
+			if (item.dataFeedElement[i].image) {
+				if (Array.isArray(item.dataFeedElement[i].image)) {
+					thumbnailUrl = item.dataFeedElement[i].image[0];
+				} else {
+					thumbnailUrl = item.dataFeedElement[i].image;
+				}
+			}
+			%>
+		
+			<img src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+		
+			</a>
+		
+		</div>	
+	
+		
+	<% } %>
+</ul>
+
+</div>
+</div>
+
+
+
+`;

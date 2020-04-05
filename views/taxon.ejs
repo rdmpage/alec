@@ -181,7 +181,15 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'zoobank_name');	  
 			if (id != '') {  %>
 				
-				<a href="http://zoobank.org/Authors/<%- id %>" target="_new"><div class="logo zoobank"></div></a>
+				<a href="http://zoobank.org/NomenclaturalActs/<%- id %>" target="_new"><div class="logo zoobank"></div></a>
+			<% } %>	
+
+			<% 
+			// Fossilworks
+			id = get_property_value(item.identifier, 'fossilworks');	  
+			if (id != '') {  %>
+				
+				<a href="http://fossilworks.org/bridge.pl?a=taxonInfo&taxon_no=<%- id %>" target="_new"><div class="logo fossilworks"></div></a>
 			<% } %>	
 					 
 
@@ -197,6 +205,33 @@ if (item['@graph']) {
 </div>
 
 
+<div class="row">
+	<% if (item.parentTaxon) { 
+		var parentTaxon = '';
+		if (Array.isArray(item.parentTaxon)) {
+			parentTaxon = item.parentTaxon[0];
+		} else {
+			parentTaxon = item.parentTaxon;
+		} %>
+		
+		<div class="col s12">
+		
+		<nav class="clean">
+			<div class="nav-wrapper">
+			 <a class="breadcrumb" href="?id=<%= parentTaxon['@id'].replace('http://www.wikidata.org/entity/', '') %>"><%= parentTaxon.scientificName %></a>
+		
+			 <span class="breadcrumb"><%= item.scientificName %></a></span>
+			</div>
+		</nav>
+	
+		</div>
+
+
+	<% } %>	
+
+</div>
+
+<!--
 <div class="row">
 	<table>
 	
@@ -214,11 +249,9 @@ if (item['@graph']) {
 			</td>
 		</tr>
 	<% } %>
-	
-
 
 	</table>
 </div>
-
+-->
 
 `;

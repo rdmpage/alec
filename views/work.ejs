@@ -78,7 +78,9 @@ if (item['@graph']) {
 				
 				in
 				<em>
+				<a href="?id=<%= item.isPartOf['@id'].replace('http://www.wikidata.org/entity/', '') %>">
 				<%- get_literal(item.isPartOf.name) %>
+				</a>
 				</em>
 		<% } %>
 

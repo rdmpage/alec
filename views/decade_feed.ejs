@@ -1,0 +1,121 @@
+/*
+
+Feed of dated objects, grouped into decades, e.g. list of publications
+
+
+*/
+
+
+var template_decade_feed = `
+
+<%
+
+
+
+//----------------------------------------------------------------------------------------
+
+// group items into decadal groups
+
+
+group_into_decades = function(item) {
+	var decades = {};
+
+	for (var i in item.dataFeedElement) {
+
+		console.log(item.dataFeedElement[i].name);
+	
+		if (item.dataFeedElement[i].datePublished) {
+			var datePublished = item.dataFeedElement[i].datePublished;
+			datePublished = datePublished.toString();
+			var m = datePublished.match(/^([0-9]{4})/);
+			if (m) {
+				var year = m[1];
+				var decade = Math.floor(year / 10);
+			
+				if (!decades[decade]) {
+					decades[decade] = {};
+				}
+				if (!decades[decade][year]) {
+					decades[decade][year] = [];
+				}
+				decades[decade][year].push(item.dataFeedElement[i]);
+				//decades[decade][year].push("1");
+			}
+	
+	
+		}
+	}
+	
+	return decades;
+
+}
+
+%>
+
+
+<%
+
+item = item['@graph'][0];
+
+%>
+
+<div class="row">
+
+<div class="col s12">	
+
+
+<!-- title -->
+<% if (item.name) { %>
+	<b>
+		<%= get_literal(item.name) %>
+		(<%= item.dataFeedElement.length %>)
+	</b>
+	<br />
+<% } %>
+
+
+<!-- data feed items -->
+
+<%
+var decades = group_into_decades(item);
+
+for (var decade in decades) { %>
+	<hb><%= (decade * 10) %></b>
+	
+
+	<div style="position:relative;background-color:#eee;">
+	
+	<% for (var year in decades[decade]) { %>
+		
+		<div class="z-depth-1" style="text-align:center;line-height:100px;background-color:rgb(222,222,222);border:1px solid rgb(222,222,222);float:left;position:relative;width:80px;height:100px;margin:8px;padding:4px;">
+		
+		<%= year %>
+		
+		</div>
+	
+		<% for (var i in decades[decade][year]) { %>
+			<div class="z-depth-1" style="background-color:white;border:1px solid rgb(222,222,222);overflow-wrap:break-word;overflow:hidden;font-size:0.7em;line-height:1em;float:left;position:relative;width:80px;height:100px;margin:8px;padding:4px;">
+				<a href="?id=<%= decades[decade][year][i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+			
+				<%= get_literal(decades[decade][year][i].name) %>	
+				
+				</a>		
+			</div>
+		<% } %>	
+	
+	<% } %>	
+	<br style="clear: both;" />
+	</div>
+
+
+	
+<% } %>	
+	
+
+
+</div>
+</div>
+
+
+
+`;
