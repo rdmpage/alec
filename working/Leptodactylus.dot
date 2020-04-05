@@ -1,0 +1,36 @@
+digraph G {
+
+Bilateria -> Animalia;
+Deuterostomia -> Bilateria;
+Anura -> Amphibia;
+Lissamphibia -> Amphibia;
+Vertebrata -> Chordata;
+Olfactores -> Chordata;
+Animalia -> Eukaryota;
+Amphibia -> Tetrapoda;
+Gnathostomata -> Vertebrata;
+Sarcopterygii -> Vertebrata;
+Tetrapoda -> Gnathostomata;
+Osteichthyes -> Gnathostomata;
+Teleostomi -> Gnathostomata;
+Euteleostomi -> Gnathostomata;
+Eugnathostomata -> Gnathostomata;
+Sarcopterygii -> Osteichthyes;
+Leptodactylidae -> Anura;
+Neobatrachia -> Anura;
+Osteichthyes -> Teleostomi;
+Euteleostomi -> Teleostomi;
+Hyloidea -> Neobatrachia;
+Anura -> Lissamphibia;
+Tetrapodomorpha -> Rhipidistia;
+Chordata -> Deuterostomia;
+Rhipidistia -> Sarcopterygii;
+Dipnotetrapodomorpha -> Sarcopterygii;
+Tetrapoda -> Tetrapodomorpha;
+Sarcopterygii -> Euteleostomi;
+Eukaryota -> Biota;
+Teleostomi -> Eugnathostomata;
+Gnathostomata -> Olfactores;
+Leptodactylidae -> Hyloidea;
+Tetrapodomorpha -> Dipnotetrapodomorpha;
+}
