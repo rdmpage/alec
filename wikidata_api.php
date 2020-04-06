@@ -46,6 +46,7 @@ CONSTRUCT
  ?item schema:issueNumber ?issue .
  ?item schema:pagination ?page .
  ?item schema:datePublished ?datePublished .
+  ?item schema:abstract ?abstract . # pending https://schema.org/abstract
   
  # author(s)
   ?item schema:author ?author .
@@ -393,6 +394,16 @@ WHERE
    ?item wdt:P304 ?page .
   }
   
+  # first line as proxy for abstract
+  OPTIONAL {
+   ?item wdt:P1922 ?abstract .
+  }  
+  
+  # full text
+   OPTIONAL {
+   ?item wdt:P953 ?url .  
+  }
+  
   # taxa ---------------------------------------------------------------------------------
   OPTIONAL {
    ?item wdt:P181 ?map .
@@ -736,6 +747,13 @@ OPTIONAL {
 	$logo->{'@type'} = "@id";
 	
 	$context->{'logo'} = $logo;
+	
+	// url
+	$url = new stdclass;
+	$url->{'@id'} = "url";
+	$url->{'@type'} = "@id";
+	
+	$context->{'url'} = $url;
 	
 	
 
