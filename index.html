@@ -196,6 +196,35 @@
 			  background-size: contain;
 			} 
 
+			.doi {
+			  background: url(images/logos/doi.svg);
+			  background-size: contain;
+			} 
+			.handle {
+			  background: url(images/logos/hdl.svg);
+			  background-size: contain;
+			} 
+			.pmc {
+			  background: url(images/logos/pmc.svg);
+			  background-size: contain;
+			} 
+			.internetarchive {
+			  background: url(images/logos/internetarchive.svg);
+			  background-size: contain;
+			} 
+			.jstor {
+			  background: url(images/logos/jstor.svg);
+			  background-size: contain;
+			} 
+			.bhl {
+			  background: url(images/logos/bhl.svg);
+			  background-size: contain;
+			} 
+			.link {
+			  background: url(images/logos/link.svg);
+			  background-size: contain;
+			} 
+
 			
 			
 			.license  {
@@ -261,6 +290,12 @@
 	padding:4px;
 }				
 			
+	/* keep our action buttons nicely spaced */
+	/* https://stackoverflow.com/a/6507081/9684 */
+	#actions > * {
+    /* display: block; */
+    margin: 5px 5px;
+	}
 			  
 			  
 		</style>
@@ -513,23 +548,6 @@
 				document.getElementById('output').innerHTML = '';
 				document.getElementById('dbpedia').innerHTML = '';
 				
-				var html = `<div id="details"></div>
-				<div class="row">
-	 
-		 	
-				<ul class="collapsible white">
-					<li id="feed_cites">
-					</li>
-					<li id="feed_cited_by">
-					</li>
-					<li id="feed_related_work">
-					</li>
-			  	</ul>   
-			  
-			</div>`;
-			
-			document.getElementById('output').innerHTML = html;
-				
 				
 				$('#query').val('');
 
@@ -550,6 +568,22 @@
 
 					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/ScholarlyArticle') !== -1) {
+					
+					document.getElementById('output').innerHTML = `<div id="details"></div>
+<div class="row">
+<ul class="collapsible white">
+	<li id="feed_cites">
+	</li>
+	<li id="feed_cited_by">
+	</li>
+	<li id="feed_related_work">
+	</li>
+</ul>   
+</div>`;
+
+$('.collapsible').collapsible();
+		
+					
 
 					  // display article
 					  render(template_work, {
@@ -651,6 +685,74 @@
 			  );
 
 			}						
+			
+		//--------------------------------------------------------------------------------
+/*		function show_cite(csl) {
+		
+			csl = decodeURIComponent(csl);
+			
+			var data = new Cite(csl);
+									
+			var template_cite = `
+			<h5>Cite</h5>
+			<table>
+				<tr>
+					<td style="vertical-align:top;font-weight:bold;">APA</td>
+					<td>
+						<%- data.format('bibliography', {format: 'html', template: 'apa', lang: 'en' }); %>
+					</td>
+				</tr>
+				<tr>
+					<td style="vertical-align:top;font-weight:bold;">BibTeX</td>
+					<td>
+						<div style="font-family:monospace;white-space:pre;">
+<%=	data.format('bibtex'); %>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="vertical-align:top;font-weight:bold;">RIS</td>
+					<td>
+						<div style="font-family:monospace;white-space:pre;">
+<%=	data.format('ris'); %>
+						</div>
+					</td>
+				</tr>
+			</table>										
+			`;
+			
+			var html = ejs.render(template_cite, { data: data });
+	
+			// Display
+			document.getElementById('modal-content').innerHTML = html;
+			$('#modal').modal('open');
+		} */
+		
+		//--------------------------------------------------------------------------------
+		function show_fulltext(links) {
+		
+			var data = JSON.parse(decodeURIComponent(links));
+			
+									
+			var template_links = `
+			<h5>Full-text Links</h5>
+			<div>
+			<% for (var i in data) { 
+				for (var j in data[i]) { %>
+					<a href="<%= data[i][j] %>" target="_new"><div class="logo <%= i %>"></div></a>	
+				<% }  %>		
+			<% }  %>
+			</div>
+			
+									
+			`;
+			
+			var html = ejs.render(template_links, { data: data });
+	
+			// Display
+			document.getElementById('modal-content').innerHTML = html;
+			$('#modal').modal('open');
+		}								
 
 			//--------------------------------------------------------------------------------
 			function search() {

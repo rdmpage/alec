@@ -66,6 +66,14 @@ if (item['@graph']) {
 		<% } %>
 		</div>
 	<% } %>
+	
+	<!-- abstract -->
+	<% if (item.abstract) { %>
+			<blockquote>					
+			<%- get_literal(item.abstract) %>
+			</blockquote>
+	<% } %>
+	
 
 	<!-- publication outlet -->
 	<div style="color:grey;">
@@ -102,8 +110,9 @@ if (item['@graph']) {
 	</div>
 								
 	<!-- actions -->
-	<div class="section" >
+	<div id="actions" class="section" >
 	
+		<% var fulltext_links = {}; %>
 	
 		<% if (item.identifier) {
 			 var id = '';
@@ -115,6 +124,14 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'doi');	  
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://doi.org/<%- id %>" target="_new">DOI:<%- id %></a>
+				
+				<% 
+					if (!fulltext_links['doi']) {
+						fulltext_links['doi'] = [];
+					} 
+					fulltext_links['doi'].push('https://doi.org/' + id);
+				%>
+				
 			<% } %>	
 			
 			<% 
@@ -122,6 +139,14 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'handle');	  
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://hdl.handle.net/<%- id %>" target="_new">HANDLE:<%- id %></a>
+				
+				<% 
+					if (!fulltext_links['handle']) {
+						fulltext_links['handle'] = [];
+					} 
+					fulltext_links['handle'].push('https://hdl.handle.net/' + id);
+				%>
+				
 			<% } %>		
 			
 			<% 
@@ -136,13 +161,45 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'bhl page');	  
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://www.biodiversitylibrary.org/page/<%- id %>" target="_new">BHL:<%- id %></a>
-			<% } %>						
+
+				<% 
+					if (!fulltext_links['bhl']) {
+						fulltext_links['bhl'] = [];
+					} 
+					fulltext_links['bhl'].push('https://www.biodiversitylibrary.org/page/' + id);
+				%>
+
+
+			<% } %>		
+			
+			<% 
+			// Internet Archive
+			id = get_property_value(item.identifier, 'internetarchive');	  
+			if (id != '') {  %>
+
+				<% 
+					if (!fulltext_links['internetarchive']) {
+						fulltext_links['internetarchive'] = [];
+					} 
+					fulltext_links['internetarchive'].push('https://archive.org/details/' + id);
+				%>
+
+			<% } %>								
 			
 			<% 
 			// JSTOR
 			id = get_property_value(item.identifier, 'jstor');	  
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://www.jstor.org/stable/<%- id %>" target="_new">JSTOR:<%- id %></a>
+
+				<% 
+					if (!fulltext_links['jstor']) {
+						fulltext_links['jstor'] = [];
+					} 
+					fulltext_links['jstor'].push('https://www.jstor.org/stable/' + id);
+				%>
+
+
 			<% } %>	
 			
 			<% 
@@ -150,6 +207,15 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'pmc');	  
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC<%- id %>" target="_new">PMCID: PMC<%- id %></a>
+
+				<% 
+					if (!fulltext_links['pmc']) {
+						fulltext_links['pmc'] = [];
+					} 
+					fulltext_links['pmc'].push('https://www.ncbi.nlm.nih.gov/pmc/articles/PMC' + id);
+				%>
+
+
 			<% } %>	
 			
 
@@ -169,13 +235,28 @@ if (item['@graph']) {
 	
 		
 		<% } %>	
+				
+		<% if (item.url) {
+			fulltext_links['link'] = [];
+			for (var i in item.url) {
+				fulltext_links['link'].push(item.url[i]);
+			}
+		 } %>	
+		
+		
+		
+		<% if (Object.keys(fulltext_links).length != 0) { %>
+			<a class="btn-small blue accent-3" onclick="show_fulltext('<%- encodeURIComponent(JSON.stringify(fulltext_links)).replace(/\'/g, "\\\\'") %>')">Full-text links</a>	
+		<% } %>				
+
 
 	
 	</div>
 	
 	<!-- license -->
-	<div class="section" >
+	
 		<% if (item.license) { %>
+			<div class="section" >
 		
 			<% if (item.license.match("creativecommons.org")) { %>	
 			
@@ -194,8 +275,10 @@ if (item['@graph']) {
 				<% } %>					
 				
 			<% } %>	
+			
+			</div>	
 		<% } %>	
-	</div>	
+	
 	
 
 	<!-- view work -->
