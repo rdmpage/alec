@@ -250,6 +250,8 @@ CONSTRUCT
  
 # subjects
  ?item schema:about ?subject .
+ ?subject schema:name ?subject_name .
+ ?subject schema:image ?subject_image .
  
 # licensing
  ?item schema:license ?license_url .
@@ -613,7 +615,19 @@ OPTIONAL {
     
  OPTIONAL {
    ?item wdt:P856 ?url .  
-  }     
+  }   
+  
+  # main subject
+  OPTIONAL {
+   ?item wdt:P921 ?subject .  
+   ?subject rdfs:label ?subject_name
+   FILTER (LANG(?subject_name) = "en" )
+   OPTIONAL {
+   	 ?subject wdt:P18 ?subject_image .
+   
+   }
+   
+  }   
   
   # Wiki projects
   
@@ -738,6 +752,7 @@ OPTIONAL {
 	$sameas = new stdclass;
 	$sameas->{'@id'} = "sameAs";
 	$sameas->{'@type'} = "@id";
+	$sameas->{'@container'} = "@set";
 	
 	$context->{'sameAs'} = $sameas;
 	
@@ -752,6 +767,7 @@ OPTIONAL {
 	$url = new stdclass;
 	$url->{'@id'} = "url";
 	$url->{'@type'} = "@id";
+	$url->{'@container'} = "@set";
 	
 	$context->{'url'} = $url;
 	

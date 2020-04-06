@@ -12,7 +12,7 @@ if (item['@graph']) {
 	<div class="col s12 m2 hide-on-small-only center-align">
 				
 			<%
-			var thumbnailUrl = "https://via.placeholder.com/80x100";
+			var thumbnailUrl = "https://via.placeholder.com/80x100/EEEEEE/EEEEEE";
 		
 			if (item.image) {
 				if (Array.isArray(item.image)) {
@@ -23,7 +23,7 @@ if (item['@graph']) {
 			}
 			%>
 		
-			<img class="z-depth-2" style="background:white;width:80px;height:100px;object-fit: cover;object-position: 50% 50%;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+			<img style="background:white;width:80px;height:100px;object-fit: cover;object-position: 50% 50%;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
 
 	</div>
 

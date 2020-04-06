@@ -1,5 +1,7 @@
 # Taxonomic hierarchy in Wikidata
 
+## path from taxon to root
+
 ```
 select ?parent_name ?grand_parent_name
 where
@@ -15,4 +17,6 @@ where
 [Try it](https://w.wiki/M2B)
 
 Instead of a single path we have a complex graph.
+
+## original description(?) of a taxon
 

@@ -12,7 +12,7 @@ if (item['@graph']) {
 	<div class="col s12 m2 hide-on-small-only center-align">
 				
 			<%
-			var thumbnailUrl = "https://via.placeholder.com/80x100";
+			var thumbnailUrl = "https://via.placeholder.com/80x100/EEEEEE/EEEEEE";
 			
 			if (item.identifier) {
 				 var id = '';
@@ -304,6 +304,49 @@ if (item['@graph']) {
 		 } %>	
 
 	</div>
+	
+	
+	<!-- subject(s) -->
+	
+		<% if (item.about) { %>
+			<div class="section">
+				<b>Subject(s)</b><br />
+		
+			<% for (var i in item.about) { %>
+				<div class="item">
+		
+				<a href="?id=<%= item.about[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+
+				<span>
+					<%= get_literal(item.about[i].name) %>
+				</span>
+		
+					<%
+					var thumbnailUrl = "https://via.placeholder.com/100x100/EEEEEE/EEEEEE";
+		
+					if (item.about[i].image) {
+						if (Array.isArray(item.about[i].image)) {
+							thumbnailUrl = item.about[i].image[0];
+						} else {
+							thumbnailUrl = item.about[i].image;
+						}
+					}
+					%>
+		
+					<img src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+		
+					</a>
+		
+				</div>	
+			
+			
+			<% } %>
+			</div>
+		<% } %>	
+
+	
+
+	
 	
 	</div>
 
