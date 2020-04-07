@@ -224,6 +224,10 @@
 			  background: url(images/logos/link.svg);
 			  background-size: contain;
 			} 
+			.cnki {
+			  background: url(images/logos/cnki.svg);
+			  background-size: contain;
+			} 
 
 			
 			
@@ -419,6 +423,7 @@
 
 					// journal
 				  case 'http://www.wikidata.org/entity/Q5633421':
+				  case 'http://www.wikidata.org/entity/Q1002697': // periodical
 					schema_types.push('http://schema.org/Periodical'); 
 					break;
 				
@@ -833,7 +838,7 @@ $('.collapsible').collapsible();
 		<div class="nav-wrapper white black-text">
 			<form>
 				<div class="input-field">
-					<input type="search" id="query">
+					<input type="search" id="query" placeholder="Search by word, phrase, Wikidata item, DOI, and more...">
 					<label class="label-icon" for="search"><i class="material-icons">search</i></label> <i class="material-icons">close</i> 
 				</div>
 			</form>
@@ -855,20 +860,88 @@ $('.collapsible').collapsible();
        <div class="row">
 		  	<div id ="output">
 		  	
+		  		<p>ALEC (A List of Everything Cool) is a tool to explore biodiversity content in <a href="https://www.wikifdata.org/">Wikidata</a></p>
 		  	
-					<h5>Examples</h5>
-					<table>
-					<tr><td><a href="?id=Q57311469">List of species of Mammalia sent from the Aru Islands by Mr A.R. Wallace to the British Museum</a></td></tr>
-					<tr><td><a href="?id=Q88304578">Descriptions of Six New Species of Land Snails from the Far North of New Zealand</a></td></tr>
-					<tr><td><a href="?id=Q21340007">David Yeates</a></td></tr>
-					<tr><td><a href="?q=0000-0002-7975-1450">Search for ORCID 0000-0002-7975-1450</a></td></tr>
-					<tr><td><a href="?id=Q33896177">A New Clade of Insect-Specific Flaviviruses from Australian Anopheles Mosquitoes Displays Species-Specific Host Restriction</a></td></tr> 
-					<tr><td><a href="?id=Q66411568">The marine fauna of New Zealand: Crustacea: Brachyura</a></td></tr>
-					<tr><td><a href="?q=Pterocyclos">Pterocyclos</a></td></tr>
-					</table>
-		  	
-		  	
-		  	
+					<h6>Examples</h6>
+					
+					<div class="item">
+						<a href="?id=Q57311469">
+							<span>List of species of Mammalia sent from the Aru Islands by Mr A.R. Wallace to the British Museum</span>
+							<img src="image.php?qid=Q57311469" >
+						</a>
+					</div>
+					
+					<div class="item">
+						<a href="?id=Q6753679">
+							<span>Maoricicada</span>
+							<img src="image.php?qid=Q6753679" >
+						</a>
+					</div>
+					
+					<div class="item">
+						<a href="?id=Q19060876">
+							<span>Victoria Ann Funk </span>
+							<img src="image.php?qid=Q19060876" >
+						</a>
+					</div>
+
+					<div class="item">
+						<a href="?id=Q89630947">
+							<span>Original watercolours donated by Cornelius Sittardus to Conrad Gesner</span>
+							<img src="image.php?qid=Q89630947" >
+						</a>
+					</div>
+					
+					<div class="item">
+						<a href="?id=Q26708122">
+							<span>Pterocyclos</span>
+							<img src="image.php?qid=Q26708122" >
+						</a>
+					</div>
+
+				   <div class="item">
+						<a href="?id=Q15831345">
+							<span>Vojtěch Novotný</span>
+							<img src="image.php?qid=Q15831345" >
+						</a>
+					</div>
+
+				  <div class="item">
+						<a href="?q=0000-0002-7975-1450">
+							<span>Search for ORCID 0000-0002-7975-1450</span>
+						</a>
+					</div>
+
+				   <div class="item">
+						<a href="?id=Q88304456">
+							<span>Four New Species of Land Snails from New Zealand</span>
+							<img src="image.php?qid=Q88304456" >
+						</a>
+					</div>
+					
+
+				   <div class="item">
+						<a href="?id=Q28535616">
+							<span>Transactions of the Royal Society of New Zealand. Zoology</span>
+							<img src="image.php?qid=Q28535616" >
+						</a>
+					</div>
+
+				   <div class="item">
+						<a href="?id=Q30582014">
+							<span>Finding needles in haystacks: linking scientific names, reference specimens and molecular data for Fungi</span>
+							<img src="image.php?qid=Q30582014" >
+						</a>
+					</div>
+
+				   <div class="item">
+						<a href="?id=Q89665527">
+							<span>悼念福建省昆虫分类区系研究开拓者马骏超先生</span>
+							<img src="image.php?qid=Q89665527" >
+						</a>
+					</div>
+					
+					
 		  	
 		  	</div>
 		</div>

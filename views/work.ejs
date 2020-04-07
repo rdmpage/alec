@@ -170,7 +170,22 @@ if (item['@graph']) {
 				%>
 
 
-			<% } %>		
+			<% } %>	
+			
+			<% 
+			// CNKI
+			id = get_property_value(item.identifier, 'cnki');	  
+			if (id != '') {  %>
+
+				<% 
+					if (!fulltext_links['cnki']) {
+						fulltext_links['cnki'] = [];
+					} 
+					fulltext_links['cnki'].push('http://www.cnki.com.cn/Article/CJFDTOTAL-' + id + '.htm');
+				%>
+
+			<% } %>								
+				
 			
 			<% 
 			// Internet Archive

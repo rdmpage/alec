@@ -134,6 +134,12 @@ CONSTRUCT
  ?pmid_identifier <http://schema.org/propertyID> "pmid" .
  ?pmid_identifier <http://schema.org/value> ?pmid .
  
+ # CNKI
+ ?item schema:identifier ?cnki_identifier .
+ ?cnki_identifier a <http://schema.org/PropertyValue> .
+ ?cnki_identifier <http://schema.org/propertyID> "cnki" .
+ ?cnki_identifier <http://schema.org/value> ?cnki . 
+ 
  # ResearchGate
  ?item schema:identifier ?rg_author_identifier .
  ?rg_author_identifier a <http://schema.org/PropertyValue> .
@@ -463,6 +469,14 @@ WHERE
    ?item wdt:P724 ?internetarchive .   
    BIND( IRI (CONCAT (STR(?item), "#internetarchive")) as ?internetarchive_identifier)
   }  
+  
+ OPTIONAL {
+   ?item wdt:P6769 ?cnki .   
+   BIND( IRI (CONCAT (STR(?item), "#cnki")) as ?cnki_identifier)
+  } 
+  
+  
+  # people
   
  OPTIONAL {
    ?item wdt:P586 ?ipni_author .   
