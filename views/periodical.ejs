@@ -63,6 +63,14 @@ if (item['@graph']) {
 			<% } %>
 		</div>	
 	<% } %>
+	
+	<% if (item.webFeed) { %>
+		<div>
+			<!-- RSS -->
+			<a href="<%- item.webFeed %>" target="_new"><div class="logo rss"></div></a>
+		</div>		
+	<% } %>	
+	
 				
 
 	

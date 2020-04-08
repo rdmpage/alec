@@ -280,6 +280,9 @@ CONSTRUCT
   ?item schema:publisher ?publisher .
   ?publisher schema:name ?publisher_name .
   
+  # RSS feed (schema.org is intended for podcasts, but hey...)
+  ?item schema:webFeed ?feed .
+ 
   # Wikis
   ?item schema:sameAs ?en_wikipedia .
   ?item schema:sameAs ?species_wiki .
@@ -643,6 +646,11 @@ OPTIONAL {
    
   }   
   
+  # Feed
+  OPTIONAL {
+   	 ?item wdt:P1019 ?feed .
+   }
+  
   # Wiki projects
   
  OPTIONAL {
@@ -784,6 +792,14 @@ OPTIONAL {
 	$url->{'@container'} = "@set";
 	
 	$context->{'url'} = $url;
+	
+	// webFeed 
+	$webFeed = new stdclass;
+	$webFeed->{'@id'} = "webFeed";
+	$webFeed->{'@type'} = "@id";
+	
+	$context->{'webFeed'} = $webFeed;
+	
 	
 	
 
