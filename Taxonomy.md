@@ -96,6 +96,41 @@ WHERE
 }
 ```
 
+# BHL pages that are references for taxon names
+
+```
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX pr: <http://www.wikidata.org/prop/reference/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT *
+WHERE
+{
+
+  # BHL
+  ?provenance pr:P687 ?bhl .
+  
+  ?statement prov:wasDerivedFrom ?provenance .
+  ?taxon p:P225 ?statement. 
+  ?taxon wdt:P31 wd:Q16521 .
+  ?taxon wdt:P225 ?taxon_name .
+    
+  # work
+  OPTIONAL
+  {
+    ?provenance pr:P248 ?work .
+    ?work wdt:P1476 ?title .
+  }
+  
+ OPTIONAL
+  {
+    ?provenance pr:P304 ?page .
+   }  
+  
+} LIMIT 1000
+```
+
 
 
 

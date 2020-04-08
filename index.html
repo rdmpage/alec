@@ -344,6 +344,8 @@
 		</script>
 		<script src="views/feed-collapsible.ejs">
 		</script>
+		<script src="views/feed-with-thumbnails.ejs">
+		</script>
 		<script src="views/thing.ejs">
 		</script>
 		<script src="views/periodical.ejs">
@@ -559,7 +561,7 @@
 				function(data) {
 				  if (data) {
 				  	if (data['@graph'].length > 0) {
-						render(template_datafeed, {
+						render(template_datafeed_thumbnails, {
 						  item: data
 						}, 'feed_work_taxon_names');
 					}
@@ -622,10 +624,10 @@
 	<li id="feed_cited_by">
 	</li>
 	<li id="feed_related_work">
-	</li>
-	<li id="feed_work_taxon_names">
-	</li>	
+	</li>		
 </ul>   
+<div id="feed_work_taxon_names">
+</div>
 </div>`;
 
 $('.collapsible').collapsible();

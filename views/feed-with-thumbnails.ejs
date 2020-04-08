@@ -1,0 +1,111 @@
+var template_datafeed_thumbnails = `
+
+<%
+
+
+item = item['@graph'][0];
+
+%>
+
+<div class="row">
+
+<div class="col s12">	
+<ul class="collection with-header">
+	
+
+
+<!-- title -->
+<% if (item.name) { %>
+	<li class="collection-header">
+	<b>
+		<%= get_literal(item.name) %>
+		(<%= item.dataFeedElement.length %>)
+	</b>
+	</li>
+<% } %>
+
+
+<!-- data feed items -->
+	<% for (var i in item.dataFeedElement) { %>
+		
+		<li class="collection-item avatar">		
+			<img src="image.php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>" alt="" class="square"> 
+			
+		<span class="title">
+		<a href="?id=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+		
+		<%- get_literal(item.dataFeedElement[i].name) %>
+		
+		</a>
+		</span>
+		<p>
+		<% if (item.dataFeedElement[i].description) { 
+			var description = get_literal(item.dataFeedElement[i].description);
+			if (description.length > 512) {
+				description = description.substring(0, 512)  + '...';
+			}
+		%>
+			<%=  description %>
+			<br />
+		<% } %>
+				
+		<!-- date -->
+		<% if (item.dataFeedElement[i].datePublished) {%>
+
+			<%= isodate_to_string(item.dataFeedElement[i].datePublished) %>
+
+		<% } %>
+		</p>
+		
+		<!-- identifiers -->
+		<div>
+		<% if (item.dataFeedElement[i].identifier) {
+		
+			var properties = [];
+			
+			if (Array.isArray(item.dataFeedElement[i].identifier)) {
+				properties = item.dataFeedElement[i].identifier;
+			} else {
+				properties.push(item.dataFeedElement[i].identifier);
+			}
+			
+			for (var j in properties) {
+			
+				 var id = '';
+	 
+				// DOI
+				id = get_property_value(properties[j], 'doi');	  
+				if (id != '') {  %>	
+					<a class="btn-small blue accent-3" style="text-overflow: ellipsis;word-break: break-all;" href="https://doi.org/<%=id%>" target="_new">
+					DOI:
+					<%= id %>
+					</a>
+				<% }
+			
+				// JSTOR
+				id = get_property_value(properties[j], 'jstor');	  
+				if (id != '') {  %>	
+					JSTOR:
+					<a href="https://www.jstor.org/stable/<%=id%>">
+					<%= id %>
+					</a>
+				<% }
+				}
+			}
+		 %>	
+		 </div>			
+
+
+		
+		
+		</li>
+		
+	<% } %>
+</ul>
+
+</div>
+</div>
+
+
+
+`;
