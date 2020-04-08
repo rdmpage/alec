@@ -228,6 +228,10 @@
 			  background: url(images/logos/cnki.svg);
 			  background-size: contain;
 			} 
+			.rss {
+			  background: url(images/logos/rss.svg);
+			  background-size: contain;
+			} 
 
 			
 			
@@ -561,6 +565,8 @@
 				'&callback=?',
 				function(data) {
 				  if (data) {
+				  
+				  	history.pushState(null, id, '?id=' + id);	
 
 					/*
 					var html = JSON.stringify(data, null, 2);
