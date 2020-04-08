@@ -549,7 +549,41 @@
 				  }
 				}
 			  );
-			}					
+			}	
+			
+			//----------------------------------------------------------------------------
+			function show_feed_work_taxon_names(id) {
+			  $.getJSON('api_work_taxon_names.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_work_taxon_names');
+					}
+				  }
+				}
+			  );
+			}
+							
+			//----------------------------------------------------------------------------
+			function show_feed_taxon_name_works(id) {
+			  $.getJSON('api_taxon_name_works.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_works');
+					}
+				  }
+				}
+			  );
+			}
 			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
@@ -589,6 +623,8 @@
 	</li>
 	<li id="feed_related_work">
 	</li>
+	<li id="feed_work_taxon_names">
+	</li>	
 </ul>   
 </div>`;
 
@@ -607,6 +643,8 @@ $('.collapsible').collapsible();
 					  show_feed_cited_by(id);
 
 					  show_feed_related_work(id);
+					  
+					  show_feed_work_taxon_names(id);
 
 					}
 
@@ -628,7 +666,7 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Taxon') !== -1) {
 
-						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"><div id="feed_works"></div>';
 
 					  // display article
 					  render(template_taxon, {
@@ -639,7 +677,8 @@ $('.collapsible').collapsible();
 					  // related info
 					  show_children(id);
 					  
-					 
+					  // references
+					  show_feed_taxon_name_works(id);
 
 					}
 					
@@ -946,6 +985,15 @@ $('.collapsible').collapsible();
 							<img src="image.php?qid=Q89665527" >
 						</a>
 					</div>
+
+				   <div class="item">
+						<a href="?id=Q79381426">
+							<span>Sulawesimetopus henryi</span>
+							<img src="image.php?qid=Q79381426" >
+						</a>
+					</div>
+					
+			
 					
 					
 		  	

@@ -33,6 +33,69 @@ SELECT * WHERE {
 }
 ```
 
+## Names that a work is the source for
+
+```
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX pr: <http://www.wikidata.org/prop/reference/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT *
+WHERE
+{
+	VALUES ?work { wd:Q59328831 }
+	
+	?provenance pr:P248 ?work . 
+    ?statement prov:wasDerivedFrom ?provenance .
+    ?taxon p:P225 ?statement . 
+    ?taxon wdt:P31 wd:Q16521 .
+    ?taxon wdt:P225 ?taxon_name .
+
+}
+```
+
+# Reference for name
+
+```
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX pr: <http://www.wikidata.org/prop/reference/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+
+SELECT *
+WHERE
+{
+  # taxon name
+  ?wikidata wdt:P225 "Cactaceae" .
+  
+  # reference
+  ?wikidata p:P225 ?statement. 
+  ?statement prov:wasDerivedFrom ?provenance .
+  
+  # is it stated in a Wikidata item?
+  ?provenance pr:P248 ?reference .
+   OPTIONAL
+  {
+    ?reference wdt:P1476 ?title .
+  }
+  
+  
+  # page(s)
+  OPTIONAL
+  {
+    ?provenance pr:P304 ?pages .
+  }
+  
+  # BHL
+ OPTIONAL
+  {
+    ?provenance pr:P687 ?bhl .
+  }  
+  
+}
+```
+
 
 
 
