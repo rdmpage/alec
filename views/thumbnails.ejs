@@ -30,7 +30,7 @@ item = item['@graph'][0];
 	
 		<div class="item">
 		
-		<a href="?id=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+		<a href="?id=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>">
 
 		<span>
 			<%= item.dataFeedElement[i].name %>

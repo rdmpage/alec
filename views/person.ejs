@@ -34,7 +34,7 @@ if (item['@graph']) {
 	<b style="font-size:1.5em;">				
 		<%- get_literal(item.name) %>
 		<% document.title = get_literal(item.name); %>				
-		(<a href="<%- item['@id'] %>" target="_new"><%- item['@id'].replace('http://www.wikidata.org/entity/', '') %></a>)
+		(<a href="<%- item['@id'] %>" target="_new"><%- wikidata_uri_to_qid(item['@id']) %></a>)
 	</b>
 
 
@@ -59,7 +59,9 @@ if (item['@graph']) {
 	<!-- actions -->
 	<div class="section" >
 	
-	
+		<!-- scholia -->
+		<a href="https://tools.wmflabs.org/scholia/author/<%- wikidata_uri_to_qid(item['@id']) %>" target="_new"><div class="logo scholia"></div></a>
+		
 		<% if (item.identifier) {
 			 var id = '';
 	 		%>	

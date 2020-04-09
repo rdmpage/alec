@@ -1,6 +1,12 @@
 // Define functions in template, see https://stackoverflow.com/a/40968695/9684
 
+//----------------------------------------------------------------------------------------
+function wikidata_uri_to_qid(id) {
 
+	id = id.replace(/https?:\/\/www.wikidata.org\/entity\//, '');
+
+	return id;
+}
 
 //----------------------------------------------------------------------------------------
 function uri_to_clickable_url(uri) {

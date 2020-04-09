@@ -48,7 +48,11 @@ $query = 'PREFIX schema: <http://schema.org/>
 	WHERE
 	{
 	
-		VALUES ?taxon { wd:' . $id . ' }
+		VALUES ?taxon { wd:' . $id . ' } 
+	
+		# filter by type of work
+		# wd:Q13442814 article
+		VALUES ?item_type { wd:Q13442814 } 
   
  		 # Wikidata reference
   		?taxon p:P225 ?statement. 

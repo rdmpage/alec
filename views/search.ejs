@@ -41,18 +41,18 @@ switch (item.dataFeedElement.length) {
 		<div class="col s12">
 			<div class="mycard z-depth-0">
 				<span class="mycard-title">
-					<a href="?id=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+					<a href="?id=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>">
 						<%= get_literal(item.dataFeedElement[i].name) %>
 					</a>				
 				</span>
 				<br />
 				<span>
-					<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>
+					<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>
 				</span>
 				
 				<div class="mycard-details">
 			
-					<img class="mycard-thumbnail" src="image.php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>" />
+					<img class="mycard-thumbnail" src="image.php?qid=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>" />
 					<p>
 					<% if (item.dataFeedElement[i].description) { 
 						var description = get_literal(item.dataFeedElement[i].description);

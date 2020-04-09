@@ -44,7 +44,7 @@ if (item['@graph']) {
 	<b style="font-size:1.5em;">				
 		<%- get_literal(item.name) %>
 		<% document.title = get_literal(item.name); %>
-		(<a href="<%- item['@id'] %>" target="_new"><%- item['@id'].replace('http://www.wikidata.org/entity/', '') %></a>)
+		(<a href="<%- item['@id'] %>" target="_new"><%- wikidata_uri_to_qid(item['@id']) %></a>)
 	</b>
 
 	<!-- authors -->
@@ -56,7 +56,7 @@ if (item['@graph']) {
 					<img style="vertical-align:baseline" src="images/logos/ORCID-iD_icon-vector.svg">
 				<% } %>
 				<% if (item.author[i]['@id'].match('wikidata.org/entity/Q')) { %>
-					<a href="?id=<%- item.author[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+					<a href="?id=<%- wikidata_uri_to_qid(item.author[i]['@id']) %>">
 				<% } %>
 				<%- get_literal(item.author[i].name) %>
 				<% if (item.author[i]['@id'].match(/wikidata/)) { %>
@@ -86,7 +86,7 @@ if (item['@graph']) {
 				
 				in
 				<em>
-				<a href="?id=<%= item.isPartOf['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+				<a href="?id=<%= wikidata_uri_to_qid(item.isPartOf['@id']) %>">
 				<%- get_literal(item.isPartOf.name) %>
 				</a>
 				</em>
@@ -268,6 +268,14 @@ if (item['@graph']) {
 	
 	</div>
 	
+	<!-- Wikis -->
+	<div class="section" >
+		<!-- scholia -->
+		<a href="https://tools.wmflabs.org/scholia/work/<%- wikidata_uri_to_qid(item['@id']) %>" target="_new"><div class="logo scholia"></div></a>
+		
+		
+	</div>
+	
 	<!-- license -->
 	
 		<% if (item.license) { %>
@@ -330,7 +338,7 @@ if (item['@graph']) {
 			<% for (var i in item.about) { %>
 				<div class="item">
 		
-				<a href="?id=<%= item.about[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+				<a href="?id=<%= wikidata_uri_to_qid(item.about[i]['@id']) %>">
 
 				<span>
 					<%= get_literal(item.about[i].name) %>

@@ -29,10 +29,10 @@ item = item['@graph'][0];
 	<% for (var i in item.dataFeedElement) { %>
 		
 		<li class="collection-item avatar">		
-			<img src="image.php?qid=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>" alt="" class="square"> 
+			<img src="image.php?qid=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>" alt="" class="square"> 
 			
 		<span class="title">
-		<a href="?id=<%= item.dataFeedElement[i]['@id'].replace('http://www.wikidata.org/entity/', '') %>">
+		<a href="?id=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>">
 		
 		<%- get_literal(item.dataFeedElement[i].name) %>
 		
