@@ -217,6 +217,31 @@ function wikidata_search($query)
 	
 	}	
 	
+	// ISSN
+	if (!isset($identifier->value))
+	{
+		if (preg_match('/[0-9]{4}\-[0-9]{3}[0-9X]/i', $query, $m))
+		{
+			$identifier->namespace = 'issn';
+			$identifier->value = $query;
+			
+			$identifier->sparql = 'SELECT * WHERE { 
+    ?item wdt:P236 "' . $identifier->value . '" .
+  
+    OPTIONAL {
+     ?item rdfs:label ?label .
+     FILTER (lang(?label) = "en")
+    } 
+ 
+    OPTIONAL {
+     ?item schema:description ?description .
+     FILTER (lang(?description) = "en")
+    } 
+}';
+		}
+	
+	}		
+	
 	// print_r($identifier);
 	
 	$go = true;
