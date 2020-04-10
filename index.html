@@ -470,9 +470,18 @@
 				function(data) {
 				  if (data) {
 				  	if (data['@graph'].length > 0) {
-						render(template_datafeed, {
-					 	 item: data
-						}, 'feed_works');
+				  	
+				  		// which template to use?
+				  		if (data['@graph'][0].dataFeedElement.length > 10) {
+							render(template_decade_feed, {
+							 item: data
+							}, 'feed_works');				  						  						  		
+				  		} else {
+							render(template_datafeed, {
+							 item: data
+							}, 'feed_works');				  						  		
+				  		}
+						
 					}
 				  }
 				}
