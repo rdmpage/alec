@@ -48,7 +48,10 @@ get_literal = function(key) {
 				if (typeof key[i] === 'object') {
 				
 					switch (key[i]['@language']) {
+						case 'de':
 						case 'en':
+						case 'es':
+						case 'nl':
 						case 'zh':
 						case 'ja':
 							strings.push(key[i]['@value']);
