@@ -44,16 +44,7 @@ if (item['@graph']) {
 			<%- get_literal(item.description) %>
 		<% } %>
 	</div>
-	
-	<div style="color:grey;">
-		<% if (item.birthDate) { %>
-			<%- isodate_to_string(item.birthDate) %>
-			-
-		<% } %>
-		<% if (item.deathDate) { %>
-			<%- isodate_to_string(item.deathDate) %>
-		<% } %>
-	</div>
+
 	
 	
 	<!-- actions -->
@@ -64,71 +55,7 @@ if (item['@graph']) {
 			 var id = '';
 	 		%>	
 	 
-			<% 
-			// VIAF
-			id = get_property_value(item.identifier, 'viaf');	  
-			if (id != '') {  %>
-				
-				<a href="https://viaf.org/viaf/<%- id %>" target="_new"><div class="logo oclc"></div></a>
-			<% } %>		 
-			
-			<% 
-			// ORCID
-			id = get_property_value(item.identifier, 'orcid');	  
-			if (id != '') {  %>
-				
-				<a href="https://orcid.org/<%- id %>" target="_new"><div class="logo orcid"></div></a>
-			<% } %>	
-			
-			<% 
-			// IPNI
-			id = get_property_value(item.identifier, 'ipni_author');	  
-			if (id != '') {  %>
-				
-				<a href="https://www.ipni.org/a/<%- id %>" target="_new"><div class="logo ipni"></div></a>
-			<% } %>	
-
-			<% 
-			// ZooBank
-			id = get_property_value(item.identifier, 'zoobank_author');	  
-			if (id != '') {  %>
-				
-				<a href="http://zoobank.org/Authors/<%- id %>" target="_new"><div class="logo zoobank"></div></a>
-			<% } %>	
-			
-			<% 
-			// Bloodhound
-			id = get_property_value(item.identifier, 'bloodhound');	  
-			if (id != '') {  %>
-				
-				<a href="https://bloodhound-tracker.net/<%- id %>" target="_new"><div class="logo bloodhound"></div></a>
-			<% } %>		 
-
-			<% 
-			// Twitter
-			id = get_property_value(item.identifier, 'twitter');	  
-			if (id != '') {  %>
-				
-				<a href="https://twitter.com/<%- id %>" target="_new"><div class="logo twitter"></div></a>
-			<% } %>		 
-
-			<% 
-			// Flickr
-			id = get_property_value(item.identifier, 'flickr');	  
-			if (id != '') {  %>
-				
-				<a href="https://www.flickr.com/photos/<%- id %>" target="_new"><div class="logo flickr"></div></a>
-			<% } %>		 
-			
-			<% 
-			// ResearchGate
-			id = get_property_value(item.identifier, 'researchgate author');	  
-			if (id != '') {  %>
-				
-				<a href="https://www.researchgate.net/profile/<%- id %>" target="_new"><div class="logo rg"></div></a>
-			<% } %>		
-			
-			<% 
+				<% 
 			// GBIF
 			id = get_property_value(item.identifier, 'gbif');	  
 			if (id != '') {  %>
@@ -191,8 +118,14 @@ if (item['@graph']) {
 				
 				<a href="http://fossilworks.org/bridge.pl?a=taxonInfo&taxon_no=<%- id %>" target="_new"><div class="logo fossilworks"></div></a>
 			<% } %>	
-					 
 
+			<% 
+			// iNaturalist
+			id = get_property_value(item.identifier, 'inaturalist');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.inaturalist.org/taxa/<%- id %>" target="_new"><div class="logo inaturalist"></div></a>
+			<% } %>	
 			
 			
 		<% } %>	
@@ -202,6 +135,27 @@ if (item['@graph']) {
 	
 	</div>
 
+</div>
+
+<div class="row">
+	<table>
+	
+	<% if (item.hasMap) { %>
+		<tr>
+			<th>Key</th>
+			<th>Value</th>
+		</tr>
+		<tr>
+			<td>
+				Map
+			</td>
+			<td>
+				<img width="360" src="<%= item.hasMap %>">
+			</td>
+		</tr>
+	<% } %>
+
+	</table>
 </div>
 
 
@@ -231,27 +185,8 @@ if (item['@graph']) {
 
 </div>
 
-<!--
-<div class="row">
-	<table>
-	
-	<% if (item.hasMap) { %>
-		<tr>
-			<th>Key</th>
-			<th>Value</th>
-		</tr>
-		<tr>
-			<td>
-				Map
-			</td>
-			<td>
-				<img width="90%" src="<%= item.hasMap %>">
-			</td>
-		</tr>
-	<% } %>
 
-	</table>
-</div>
--->
+
+
 
 `;

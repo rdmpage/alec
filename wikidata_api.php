@@ -252,6 +252,12 @@ CONSTRUCT
  ?irmng_identifier <http://schema.org/propertyID> "irmng" .
  ?irmng_identifier <http://schema.org/value> ?irmng .
 
+ # inaturalist
+ ?item schema:identifier ?inaturalist_identifier .
+ ?inaturalist_identifier a <http://schema.org/PropertyValue> .
+ ?inaturalist_identifier <http://schema.org/propertyID> "inaturalist" .
+ ?inaturalist_identifier <http://schema.org/value> ?inaturalist .
+
 
  
 # subjects
@@ -590,7 +596,12 @@ OPTIONAL {
  OPTIONAL {
    ?item wdt:P5055 ?irmng .   
    BIND( IRI (CONCAT (STR(?item), "#irmng")) as ?irmng_identifier)
-  }   
+  } 
+  
+ OPTIONAL {
+   ?item wdt:P3151 ?inaturalist .   
+   BIND( IRI (CONCAT (STR(?item), "#inaturalist")) as ?inaturalist_identifier)
+  }     
     
   
   # license
