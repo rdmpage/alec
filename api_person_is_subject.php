@@ -21,7 +21,7 @@ $query = 'PREFIX schema: <http://schema.org/>
 	{
 		<http://example.rss>
 		rdf:type schema:DataFeed;
-		schema:name "Publications by";
+		schema:name "Publications about";
 		schema:dataFeedElement ?item .
 
 		?item 
@@ -39,10 +39,14 @@ $query = 'PREFIX schema: <http://schema.org/>
  							
 	}
 	WHERE
-	{
-	VALUES ?author { wd:' . $id . ' }
-
-	?item wdt:P50 ?author .
+{
+  # person
+  VALUES ?person { wd:' . $id . ' }
+  
+  # just get works that are about this person(?)
+  #VALUES ?type { wd:Q309481 wd:Q13442814 }
+  
+	?item wdt:P921 ?person .
 	?item wdt:P31 ?type .
 
 	?item wdt:P1476 ?title .
@@ -57,8 +61,8 @@ $query = 'PREFIX schema: <http://schema.org/>
    ?item wdt:P356 ?doi_string .   
    BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
    BIND( LCASE(?doi_string) as ?doi)
-  }   		
-			}';
+  }
+ }';
 
 
 

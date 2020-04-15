@@ -494,6 +494,24 @@
 			}	
 			
 			//----------------------------------------------------------------------------
+			function show_feed_person_is_subject(id) {
+			  $.getJSON('api_person_is_subject.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_is_subject');
+					}
+				  }
+				}
+			  );
+			}	
+							
+			
+			//----------------------------------------------------------------------------
 			function show_feed_cites(id) {
 			  $.getJSON('api_work_cites.php?id=' +
 				id +
@@ -680,7 +698,7 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Person') !== -1) {
 					
-						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_works"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_works"></div><div id="feed_is_subject"></div>';
 
 					  // display article
 					  render(template_person, {
@@ -689,6 +707,9 @@ $('.collapsible').collapsible();
 
 					  // related info
 					  show_feed_works(id);
+					  
+					  // works about this person (e.g., obituaries)
+					  show_feed_person_is_subject(id);
 
 					}
 					
