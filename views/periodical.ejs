@@ -64,6 +64,26 @@ if (item['@graph']) {
 		</div>	
 	<% } %>
 	
+	<% if (item.predecessorOf) { %>
+		<div>
+			<b>Succeeded by </b>
+			<a href="?id=<%= wikidata_uri_to_qid(item.predecessorOf['@id']) %>">
+			<%= get_literal(item.predecessorOf.name) %>
+			</a>
+		</div>	
+	<% } %>
+
+	<% if (item.successorOf) { %>
+		<div>
+			<b>Preceeded by </b>
+			<a href="?id=<%= wikidata_uri_to_qid(item.successorOf['@id']) %>">
+			<%= get_literal(item.successorOf.name) %>
+			</a>
+		</div>	
+	<% } %>
+	
+	
+	
 	<% if (item.webFeed) { %>
 		<div>
 			<!-- RSS -->

@@ -282,6 +282,13 @@ CONSTRUCT
   ?item schema:endDate ?endDate .
   ?item schema:logo ?logo .
   
+  ?item schema:successorOf ?predecessor .
+  ?predecessor schema:name ?predecessor_name .
+  
+  ?item schema:predecessorOf ?successor .
+  ?successor schema:name ?successor_name .
+  
+  
   # publisher
   ?item schema:publisher ?publisher .
   ?publisher schema:name ?publisher_name .
@@ -627,6 +634,37 @@ OPTIONAL {
    ?item wdt:P576 ?endDateValue .  
    BIND(STR(?endDateValue) as ?endDate) 
   }   
+  
+  # replaces
+  OPTIONAL {
+   ?item wdt:P1365 ?predecessor .  
+   ?predecessor rdfs:label  ?predecessor_name .
+   # filter languages otherwise we can be inundated
+  FILTER(
+       LANG(?predecessor_name) = "en" 
+  	|| LANG(?predecessor_name) = "fr" 
+  	|| LANG(?predecessor_name) = "de" 
+  	|| LANG(?predecessor_name) = "es" 
+  	|| LANG(?predecessor_name) = "zh"
+  	)     
+  } 
+
+  # replaced by
+  OPTIONAL {
+   ?item wdt:P1366 ?successor .  
+   ?successor rdfs:label  ?successor_name .
+   # filter languages otherwise we can be inundated
+  FILTER(
+       LANG(?successor_name) = "en" 
+  	|| LANG(?successor_name) = "fr" 
+  	|| LANG(?successor_name) = "de" 
+  	|| LANG(?successor_name) = "es" 
+  	|| LANG(?successor_name) = "zh"
+  	)   
+  } 
+     
+  
+  
   
   OPTIONAL {
    ?item wdt:P123 ?publisher .  
