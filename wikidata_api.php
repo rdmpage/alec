@@ -849,6 +849,22 @@ OPTIONAL {
 	
 	$context->{'webFeed'} = $webFeed;
 	
+
+	// successorOf
+	$successorOf = new stdclass;
+	$successorOf->{'@id'} = "successorOf";
+	$successorOf->{'@type'} = "@id";
+	$successorOf->{'@container'} = "@set";
+	
+	$context->{'successorOf'} = $successorOf;
+
+	// predecessorOf
+	$predecessorOf = new stdclass;
+	$predecessorOf->{'@id'} = "predecessorOf";
+	$predecessorOf->{'@type'} = "@id";
+	$predecessorOf->{'@container'} = "@set";
+	
+	$context->{'predecessorOf'} = $predecessorOf;
 	
 	
 
