@@ -242,3 +242,19 @@ LIMIT 100
 
 
 
+## Parent child pairs from MSW by Andra Waagmeester
+
+```
+SELECT ?taxon ?taxonLabel ?parentTaxon WHERE {
+   ?taxon wdt:P31 wd:Q16521 ;
+          p:P171* [
+          ps:P171 ?parentTaxon ;
+          prov:wasDerivedFrom [
+            pr:P248 wd:Q1538807
+            ] ;
+     ]
+   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+}
+```
+
+[Try it](https://w.wiki/NVK)
