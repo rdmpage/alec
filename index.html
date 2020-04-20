@@ -436,18 +436,18 @@
 					break;
 	
 					// Taxon
-				  case 'http://www.wikidata.org/entity/Q16521':
-				  case 'http://www.wikidata.org/entity/Q310890': // monotypic taxon e.g., Notostraca
-				  case 'http://www.wikidata.org/entity/Q713623': // clade e.g., Testudinata
-				  case 'http://www.wikidata.org/entity/Q23038290': // fossil taxon e.g., Triceratops
-				  
-					schema_types.push('http://schema.org/Taxon'); // BioSchemas
+				  case 'http://www.wikidata.org/entity/Q16521':		// taxon
+				  case 'http://www.wikidata.org/entity/Q310890': 	// monotypic taxon e.g., Notostraca
+				  case 'http://www.wikidata.org/entity/Q713623': 	// clade e.g., Testudinata
+				  case 'http://www.wikidata.org/entity/Q23038290': 	// fossil taxon e.g., Triceratops
+				  case 'http://www.wikidata.org/entity/Q1040689': 	// synonym (taxonomy)
+					schema_types.push('http://schema.org/Taxon'); 	// BioSchemas
 					break;
 
 					// journal
-				  case 'http://www.wikidata.org/entity/Q5633421': // scientific journal
-				  case 'http://www.wikidata.org/entity/Q1002697': // periodical
-				  case 'http://www.wikidata.org/entity/Q737498': // academic journal
+				  case 'http://www.wikidata.org/entity/Q5633421': 	// scientific journal
+				  case 'http://www.wikidata.org/entity/Q1002697': 	// periodical
+				  case 'http://www.wikidata.org/entity/Q737498': 	// academic journal
 					schema_types.push('http://schema.org/Periodical'); 
 					break;
 				
@@ -1042,6 +1042,22 @@ $('.collapsible').collapsible();
 							<img src="image.php?qid=Q79381426" >
 						</a>
 					</div>
+
+
+				   <div class="item">
+						<a href="?id=Q7860244">
+							<span>Tylomelania</span>
+							<img src="image.php?qid=Q7860244" >
+						</a>
+					</div>
+
+				   <div class="item">
+						<a href="?id=Q44978282">
+							<span>Auchenorrhyncha (Insecta: Hemiptera): catalogue</span>
+							<img src="image.php?qid=Q44978282" >
+						</a>
+					</div>
+					
 					
 			
 					

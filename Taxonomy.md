@@ -132,6 +132,112 @@ WHERE
 ```
 
 
+## Synonyms, replacements, etc.
+
+```
+SELECT * WHERE
+{
+  
+  # Q67947916
+  # Q39135925 plant
+  # Q14400 Allosaurus
+  # Q131421 Mononykus
+  # Q2575797 Leptocleidus Müller, 1936 later homonym
+  # Q5414606 Lilliput Wesołowska & Russell-Smith, 2008
+  VALUES ?taxon { wd:Q5414606 }
+  
+  # botany
+  
+  # has basionym?
+  OPTIONAL {   
+    ?taxon wdt:P566 ?basionym .
+    ?basionym wdt:P225 ?basionym_name .
+  }
+  
+  # is basionym?
+   OPTIONAL {   
+    ?taxon p:P2868 ?statement .
+    ?statement ps:P2868 wd:Q810198 .
+    ?statement pq:P642 ?basionym_for .
+    ?basionym_for wdt:P225 ?basionym_for_name .
+  }
+  
+  # zoology
+  # has protonym (original combination)?
+  OPTIONAL {   
+    ?taxon wdt:P1403 ?protonym .
+    ?protonym wdt:P225 ?protonym_name .
+  }  
+  
+   # is protonym?
+   OPTIONAL {   
+    ?taxon p:P2868 ?statement .
+    ?statement ps:P2868 wd:Q14192851 .
+    ?statement pq:P642 ?protonym_for .
+    ?protonym_for wdt:P225 ?protonym_for_name .
+  } 
+  
+  # has replacement name(s)
+  OPTIONAL  
+    {
+     ?taxon wdt:P694 ?replaced_synonym .
+      ?replaced_synonym rdfs:label ?replaced_synonym_name .
+      FILTER (LANG(?replaced_synonym_name) = "en")
+     # ?replaced_synonym wdt:P31 wd:Q17276484 .
+     #?replaced_synonym p:P31 ?replaced_synonym_statement .
+     # ?replaced_synonym_statement pq:P1366 ?replaced_by .
+    }  
+  
+  # has been replaced
+  OPTIONAL  
+    {
+     ?taxon  wdt:P31 wd:Q17276484 .
+     ?taxon p:P31 ?replaced_statement .
+      {
+      ?replaced_statement pq:P1366 ?replaced_by .
+       ?replaced_by rdfs:label ?replaced_by_name .
+        FILTER (LANG(?replaced_by_name) = "en")
+      }
+      UNION
+      {
+        ?replaced_statement pq:P1889 ?different_from .
+        ?different_from rdfs:label ?different_from_name .
+        FILTER (LANG(?different_from_name) = "en")
+      }
+     
+    }
+  
+  # other related names...
+  
+  # taxon synonym 
+  OPTIONAL { 
+    {
+    ?taxon wdt:P1420 ?synonym .
+    ?synonym wdt:P225 ?synonym_name .
+    }
+    UNION
+    {
+      ?synonym wdt:P1420 ?taxon .
+      ?synonym wdt:P225 ?synonym_name .
+    }
+  }
+ 
+  
+}
+
+
+```
+
+Get a list of later homonyms
+
+```
+select * where
+{
+  ?x wdt:P31 wd:Q17276484 .
+  
+}
+LIMIT 100
+```
 
 
 
