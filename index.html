@@ -349,6 +349,8 @@
 
 		<script type="text/javascript" src="js/dbpedia.js">
 		</script>
+		<script type="text/javascript" src="js/blame.js">
+		</script>
 
 
 
@@ -637,6 +639,7 @@
 			
 				document.getElementById('output').innerHTML = '';
 				document.getElementById('dbpedia').innerHTML = '';
+				document.getElementById('blame').innerHTML = '';
 				
 				
 				$('#query').val('');
@@ -764,6 +767,10 @@ $('.collapsible').collapsible();
 
 					}
 					
+					// blame
+					show_blame(id, 'blame');
+						
+					
 					
 					// Enhance
 					if (data['@graph'][0].sameAs) {
@@ -777,6 +784,7 @@ $('.collapsible').collapsible();
 					
 					}
 					
+						
 	
 					
 					
@@ -1125,6 +1133,7 @@ $('.collapsible').collapsible();
       <div id="sidepanel" class="col s12 m3" >
       <!-- <span>(Related stuff will appear here (one day)</span> -->
       <div id="dbpedia"></div>
+      <div id="blame"></div>
       </div>
       
       </div>
