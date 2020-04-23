@@ -258,6 +258,23 @@ CONSTRUCT
  ?inaturalist_identifier <http://schema.org/propertyID> "inaturalist" .
  ?inaturalist_identifier <http://schema.org/value> ?inaturalist .
 
+ # ror
+ ?item schema:identifier ?ror_identifier .
+ ?ror_identifier a <http://schema.org/PropertyValue> .
+ ?ror_identifier <http://schema.org/propertyID> "ror" .
+ ?ror_identifier <http://schema.org/value> ?ror .
+
+ # biodiversity repository
+ ?item schema:identifier ?biodivrep_identifier .
+ ?biodivrep_identifier a <http://schema.org/PropertyValue> .
+ ?biodivrep_identifier <http://schema.org/propertyID> "biodivrep" .
+ ?biodivrep_identifier <http://schema.org/value> ?biodivrep .
+
+ # Index Herbariorum
+ ?item schema:identifier ?ih_identifier .
+ ?ih_identifier a <http://schema.org/PropertyValue> .
+ ?ih_identifier <http://schema.org/propertyID> "index herbariorum" .
+ ?ih_identifier <http://schema.org/value> ?ih .
 
  
 # subjects
@@ -608,7 +625,25 @@ OPTIONAL {
  OPTIONAL {
    ?item wdt:P3151 ?inaturalist .   
    BIND( IRI (CONCAT (STR(?item), "#inaturalist")) as ?inaturalist_identifier)
-  }     
+  }  
+  
+  # ror
+ OPTIONAL {
+   ?item wdt:P6782 ?ror .   
+   BIND( IRI (CONCAT (STR(?item), "#ror")) as ?ror_identifier)
+  }  
+  
+  # biodiversity
+ OPTIONAL {
+   ?item wdt:P4090 ?biodivrep .   
+   BIND( IRI (CONCAT (STR(?item), "#biodivrep")) as ?biodivrep_identifier)
+  }  
+  
+  # Index Herbariorum
+ OPTIONAL {
+   ?item wdt:P5858 ?ih .   
+   BIND( IRI (CONCAT (STR(?item), "#ih")) as ?ih_identifier)
+  }           
     
   
   # license
@@ -866,6 +901,13 @@ OPTIONAL {
 	
 	$context->{'predecessorOf'} = $predecessorOf;
 	
+	// publisher
+	$publisher = new stdclass;
+	$publisher->{'@id'} = "publisher";
+	$publisher->{'@type'} = "@id";
+	$publisher->{'@container'} = "@set";
+	
+	$context->{'publisher'} = $publisher;
 	
 
 	// Find work type

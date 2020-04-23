@@ -1,0 +1,168 @@
+// Generic template for a thing in Wikidata
+
+var template_organisation = `
+
+<%
+
+if (item['@graph']) {
+	item = item['@graph'][0];
+}
+%>
+
+<div class="row">
+
+	<div class="col s12 m2 hide-on-small-only center-align">
+				
+			<%
+			var thumbnailUrl = '';
+		
+			if (thumbnailUrl == '') {
+				if (item.logo) {
+					if (Array.isArray(item.logo)) {
+						thumbnailUrl = item.logo[0];
+					} else {
+						thumbnailUrl = item.logo;
+					}
+				}
+			}
+			
+			if (thumbnailUrl == '') {
+				if (item.image) {
+					if (Array.isArray(item.image)) {
+						thumbnailUrl = item.image[0];
+					} else {
+						thumbnailUrl = item.image;
+					}
+				}
+			}
+			
+			if (thumbnailUrl == '') {				
+				thumbnailUrl = "https://via.placeholder.com/80x100/EEEEEE/EEEEEE";
+			}
+
+			
+			%>
+		
+			<img style="background:white;width:100%;height:100%;object-fit: cover;object-position: 50% 50%;" src="http://exeg5le.cloudimg.io/s/height/100/<%- thumbnailUrl %>" >
+
+	</div>
+
+	<div class="col s12 m10">
+
+		
+	<!-- headline is item name -->
+	<b style="font-size:1.5em;">				
+		<%- get_literal(item.name) %>	
+		<% document.title = get_literal(item.name); %>			
+		(<a href="<%- item['@id'] %>" target="_new"><%- wikidata_uri_to_qid(item['@id']) %></a>)
+	</b>
+
+
+	<!-- description -->
+	<div style="color:grey;">
+		<% if (item.description) { %>
+			<%- get_literal(item.description) %>
+		<% } %>
+	</div>
+	
+	<!-- actions -->
+	<div class="row" >
+	
+		
+		<% if (item.identifier) {
+			 var id = '';
+	 		%>	
+	 
+			<% 
+			// ROR
+			id = get_property_value(item.identifier, 'ror');	  
+			if (id != '') {  %>
+				
+				<a href="https://ror.org/<%- id %>" target="_new"><div class="logo ror"></div></a>
+			<% } %>	
+			
+
+			<% 
+			// Twitter
+			id = get_property_value(item.identifier, 'twitter');	  
+			if (id != '') {  %>
+				
+				<a href="https://twitter.com/<%- id %>" target="_new"><div class="logo twitter"></div></a>
+			<% } %>		 
+				 
+	
+		<% } %>	
+		
+	</div>
+	
+	<!-- key, value pairs -->
+	<div class="row" >
+		
+	<% if (item.successorOf) { %>
+		<div>
+			<b>Preceeded by </b>
+			<ul>
+			<% for (var i in item.successorOf) { %>
+				<li>
+				<a href="?id=<%= wikidata_uri_to_qid(item.successorOf[i]['@id']) %>">
+				<%= get_literal(item.successorOf[i].name) %>
+				</a>
+				</li>
+			<% } %>
+			</ul>
+		</div>	
+	<% } %>	
+	
+	<% if (item.identifier) { 
+		var id = '';
+
+		// codes
+	 	id = get_property_value(item.identifier, 'biodivrep');	  
+		if (id != '') {
+
+			var value = [];
+			if (Array.isArray(id)) {
+				value = id;
+			} else {
+				value.push(id);
+			} %>
+			
+			<div>
+				<b>Biodiversity Repository ID </b>
+				<%= value.join(',') %>
+			</div>	
+		<% } 
+		
+		// IH
+	 	id = get_property_value(item.identifier, 'index herbariorum');	  
+		if (id != '') {
+
+			var value = [];
+			if (Array.isArray(id)) {
+				value = id;
+			} else {
+				value.push(id);
+			} %>
+			
+			<div>
+				<b>Index Herbariorum </b>
+				<%= value.join(',') %>
+			</div>	
+	
+		<% } %>
+		
+		
+	<% } %>	
+	
+	
+	</div>
+
+</div>
+
+
+
+
+
+
+
+`;
