@@ -889,12 +889,26 @@ $('.collapsible').collapsible();
 									
 			var template_links = `
 			<h5>Full-text Links</h5>
-			<div>
+			<div class="row">
 			<% for (var i in data) { 
-				for (var j in data[i]) { %>
-					<a href="<%= data[i][j] %>" target="_new"><div class="logo <%= i %>"></div></a>	
-				<% }  %>		
-			<% }  %>
+				for (var j in data[i]) { 
+				   switch (i) {
+				   	 case 'cnkiapp':
+				   		break;
+				   		
+				   	default: %>
+				   		<a href="<%= data[i][j] %>" target="_new"><div class="logo <%= i %>"></div></a>	
+				   	<% break;
+				   }
+					
+				 }  		
+			 }  %>
+			</div>
+			
+			<div class="row">
+				<% if (data['cnkiapp']) { %>
+					<img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=<%= encodeURIComponent(data['cnkiapp'][0]) %>">				
+				<% } %>
 			</div>
 			
 									
