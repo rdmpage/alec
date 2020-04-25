@@ -181,7 +181,14 @@ if (item['@graph']) {
 					if (!fulltext_links['cnki']) {
 						fulltext_links['cnki'] = [];
 					} 
+					// web site
 					fulltext_links['cnki'].push('http://www.cnki.com.cn/Article/CJFDTOTAL-' + id + '.htm');
+
+					if (!fulltext_links['cnkiapp']) {
+						fulltext_links['cnkiapp'] = [];
+					} 
+					// mobile site with link to app
+					fulltext_links['cnkiapp'].push('http://m.cnki.net/cnkiday/appdownzwj.html?type=CJFD&id=' + id);
 				%>
 
 			<% } %>								
