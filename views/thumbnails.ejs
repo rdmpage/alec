@@ -24,6 +24,35 @@ item = item['@graph'][0];
 	
 <div>
 
+<!-- sort items by name -->
+
+<%
+
+	function compare_names (i, j) {
+		var name_i = get_literal(i.name);
+		var name_j = get_literal(j.name);
+		
+		console.log(i);
+		
+		if (name_i < name_j) {
+			return -1;
+		}
+		if (name_i > name_j) {
+			return 1;
+		}
+		return 0;	
+	}
+
+	console.log('sort');
+	item.dataFeedElement.sort(compare_names);
+
+
+
+
+%>
+
+
+
 
 <!-- data feed items -->
 	<% for (var i in item.dataFeedElement) { %>
