@@ -56,7 +56,17 @@ get_literal = function(key) {
 						case 'zh':
 						case 'ja':
 						case 'ru':
-							strings.push(key[i]['@value']);
+							// strings in different languages might be the same
+							// e.g., a French string might be used as the English title
+							// for a journal, so still need to check that strings are unique 
+							var u = convertToAscii(key[i]['@value']);
+							u = u.toLowerCase();
+					
+							if (unique.indexOf(u) == -1) {
+								strings.push(key[i]['@value']);
+								unique.push(u);
+							}
+							
 							break;
 							
 						default:
