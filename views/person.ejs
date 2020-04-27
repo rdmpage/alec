@@ -128,7 +128,18 @@ if (item['@graph']) {
 			if (id != '') {  %>
 				
 				<a href="https://www.researchgate.net/profile/<%- id %>" target="_new"><div class="logo rg"></div></a>
-			<% } %>		 
+			<% } %>	
+
+			<%
+			// persee
+			id = get_property_value(item.identifier, 'persee');	  
+			if (id != '') {  %>
+				
+				<a href="https://www.persee.fr/authority/<%- id %>" target="_new"><div class="logo persee"></div></a>
+			<% } %>	
+			
+			
+				 
 			
 			
 		<% } %>	

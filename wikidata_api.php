@@ -190,6 +190,12 @@ CONSTRUCT
  ?flickr_identifier <http://schema.org/propertyID> "flickr" .
  ?flickr_identifier <http://schema.org/value> ?flickr .
 
+ # persee
+ ?item schema:identifier ?persee_identifier .
+ ?persee_identifier a <http://schema.org/PropertyValue> .
+ ?persee_identifier <http://schema.org/propertyID> "persee" .
+ ?persee_identifier <http://schema.org/value> ?persee .
+
  # taxa
  # GBIF
  ?item schema:identifier ?gbif_identifier .
@@ -571,6 +577,11 @@ OPTIONAL {
  OPTIONAL {
    ?item wdt:P3267 ?flickr .   
    BIND( IRI (CONCAT (STR(?item), "#flickr")) as ?flickr_identifier)
+  }   
+  
+ OPTIONAL {
+   ?item wdt:P2732 ?persee .   
+   BIND( IRI (CONCAT (STR(?item), "#persee")) as ?persee_identifier)
   }        
   
   # taxon identifiers
