@@ -546,6 +546,23 @@
 				}
 			  );
 			}	
+			
+			//----------------------------------------------------------------------------
+			function show_feed_person_taxon_names(id) {
+			  $.getJSON('api_person_taxon_names.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed_thumbnails, {
+						  item: data
+						}, 'feed_taxon_names');
+					}
+				  }
+				}
+			  );
+			}				
 							
 			
 			//----------------------------------------------------------------------------
@@ -736,7 +753,7 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Person') !== -1) {
 					
-						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_works"></div><div id="feed_is_subject"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_works"></div><div id="feed_is_subject"></div><div id="feed_taxon_names"></div>';
 
 					  // display article
 					  render(template_person, {
@@ -744,10 +761,15 @@ $('.collapsible').collapsible();
 					  }, 'details');
 
 					  // related info
+					  
+					  // works authored
 					  show_feed_works(id);
 					  
 					  // works about this person (e.g., obituaries)
 					  show_feed_person_is_subject(id);
+					  
+					  // taxon names in auhtored publications
+					  show_feed_person_taxon_names(id);					  
 
 					}
 					
