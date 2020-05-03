@@ -483,10 +483,20 @@
 					schema_types.push('http://schema.org/Organization');					
 					break;
 					
+					// scientific society
+	  			  case 'http://www.wikidata.org/entity/Q748019': 	// scientific society
+					schema_types.push('http://schema.org/Organization');					
+					break;
+					
 					// publisher
 				  case 'http://www.wikidata.org/entity/Q2085381': // publisher
 					schema_types.push('http://schema.org/Organization');
-					break;					
+					break;		
+					
+					// organization
+	  			  case 'http://www.wikidata.org/entity/Q43229': 	// organization
+					schema_types.push('http://schema.org/Organization');					
+					break;
 				
 				  default:					
 					break;
@@ -686,6 +696,24 @@
 			  );
 			}
 			
+			
+			//----------------------------------------------------------------------------
+			function show_publisher_publications(id) {
+			  $.getJSON('api_publisher_publications.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_publisher_publications');
+					}
+				  }
+				}
+			  );
+			}				
+			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
 			
@@ -811,7 +839,7 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Organization') !== -1) {
 
-						document.getElementById('output').innerHTML = '<div id="details"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_publisher_publications"></div>';
 
 					  // display organisation
 					  render(template_organisation, {
@@ -820,6 +848,7 @@ $('.collapsible').collapsible();
 
 
 					  // related info
+					  show_publisher_publications(id);
 
 					}
 							
