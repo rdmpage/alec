@@ -1279,7 +1279,8 @@ function sparql_construct_stream($sparql_endpoint, $query, $format='application/
 		
 		$context = (object)array(
 			'@vocab' => 'http://schema.org/'	,
-			'rdfs' => 'http://www.w3.org/2000/01/rdf-schema#',			
+			'rdfs' => 'http://www.w3.org/2000/01/rdf-schema#',	
+			'dwc' => 'http://rs.tdwg.org/dwc/terms/'
 		);
 		
 			// dataFeedElement is always an array

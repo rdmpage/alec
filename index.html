@@ -459,6 +459,7 @@
 				  case 'http://www.wikidata.org/entity/Q713623': 	// clade e.g., Testudinata
 				  case 'http://www.wikidata.org/entity/Q23038290': 	// fossil taxon e.g., Triceratops
 				  case 'http://www.wikidata.org/entity/Q1040689': 	// synonym (taxonomy)
+				  case 'http://www.wikidata.org/entity/Q17276484':  // later homonym
 					schema_types.push('http://schema.org/Taxon'); 	// BioSchemas
 					break;
 
@@ -469,11 +470,12 @@
 					schema_types.push('http://schema.org/Periodical'); 
 					break;
 					
-					// organsiatuons (for now, pretty much everything is an organisation)
+					// organsiations (for now, pretty much everything is an organisation)
 					
 					// museum, herbarium, etc.
 				  case 'http://www.wikidata.org/entity/Q1970365': 	// natural history museum
 				  case 'http://www.wikidata.org/entity/Q17431399': 	// national museum
+				  case 'http://www.wikidata.org/entity/Q33506': 	// museum
 				  	schema_types.push('http://schema.org/Organization');
 					schema_types.push('http://schema.org/Museum'); 
 					break;
@@ -696,6 +698,24 @@
 			  );
 			}
 			
+			//----------------------------------------------------------------------------
+			function show_feed_taxon_related(id) {
+			  $.getJSON('api_taxon_related.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed_thumbnails, {
+						  item: data
+						}, 'feed_related');
+					}
+				  }
+				}
+			  );
+			}
+			
+			
 			
 			//----------------------------------------------------------------------------
 			function show_publisher_publications(id) {
@@ -804,7 +824,7 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (types.indexOf('http://schema.org/Taxon') !== -1) {
 
-						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"><div id="feed_works"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"></div><div id="feed_related"></div><div id="feed_works"></div>';
 
 					  // display article
 					  render(template_taxon, {
@@ -814,6 +834,8 @@ $('.collapsible').collapsible();
 
 					  // related info
 					  show_children(id);
+					  
+					  show_feed_taxon_related(id);
 					  
 					  // references
 					  show_feed_taxon_name_works(id);
@@ -1181,6 +1203,23 @@ $('.collapsible').collapsible();
 							<img src="image.php?qid=Q44978282" >
 						</a>
 					</div>
+					
+				   <div class="item">
+						<a href="?id=Q93091690">
+							<span>A new family of Laniatores from northwestern South America (Arachnida, Opiliones)</span>
+							<img src="image.php?qid=Q93091690" >
+						</a>
+					</div>
+	
+						
+				   <div class="item">
+						<a href="?id=Q21003923">
+							<span>Making Mosquito Taxonomy Useful: A Stable Classification of Tribe Aedini that Balances Utility with Current Knowledge of Evolutionary Relationships</span>
+							<img src="image.php?qid=Q21003923" >
+						</a>
+					</div>
+				
+					
 					
 					
 			
