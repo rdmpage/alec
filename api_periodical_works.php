@@ -58,7 +58,7 @@ $query = 'PREFIX schema: <http://schema.org/>
    BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
    BIND( LCASE(?doi_string) as ?doi)
   }   		
-			} LIMIT 1000';
+			} LIMIT 2000';
 
 
 
