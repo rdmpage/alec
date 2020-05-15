@@ -350,6 +350,10 @@
 		</script>
 <!--Let browser know website is optimized for mobile-->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+		
+<!-- Google Books -->
+	<!-- <script type="text/javascript" src="//books.google.com/books/previewlib.js"></script>	-->
+		
 <!-- local --->
 		<script src="js/jquery.js">
 		</script>
@@ -499,6 +503,15 @@
 	  			  case 'http://www.wikidata.org/entity/Q43229': 	// organization
 					schema_types.push('http://schema.org/Organization');					
 					break;
+					
+					// book
+					// note that "book" is controversial in Wikidata
+				  case 'http://www.wikidata.org/entity/Q47461344': 	// written work
+				  case 'http://www.wikidata.org/entity/Q571':		// book
+				  case 'http://www.wikidata.org/entity/Q3331189': 	// version, edition, or translation
+					schema_types.push('http://schema.org/Book');
+					break;
+					
 				
 				  default:					
 					break;
@@ -732,7 +745,24 @@
 				  }
 				}
 			  );
-			}				
+			}			
+			
+			//----------------------------------------------------------------------------
+			function show_feed_book_is_subject(id) {
+			  $.getJSON('api_book_is_subject.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_is_subject');
+					}
+				  }
+				}
+			  );
+			}					
 			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
@@ -816,7 +846,7 @@ $('.collapsible').collapsible();
 					  // works about this person (e.g., obituaries)
 					  show_feed_person_is_subject(id);
 					  
-					  // taxon names in auhtored publications
+					  // taxon names in authored publications
 					  show_feed_person_taxon_names(id);					  
 
 					}
@@ -873,6 +903,24 @@ $('.collapsible').collapsible();
 					  show_publisher_publications(id);
 
 					}
+					
+							
+					//--------------------------------------------------------------------
+					if (types.indexOf('http://schema.org/Book') !== -1) {
+
+					  document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_is_subject"></div>';
+
+					  // display organisation
+					  render(template_work, {
+						item: data
+					  }, 'details');
+
+
+					  // related info (is subject = reviews, versions, editions, translations, etc.)
+					  show_feed_book_is_subject(id);
+
+					}
+					
 							
 										
 					

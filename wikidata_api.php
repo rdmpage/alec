@@ -281,6 +281,19 @@ CONSTRUCT
  ?ih_identifier a <http://schema.org/PropertyValue> .
  ?ih_identifier <http://schema.org/propertyID> "index herbariorum" .
  ?ih_identifier <http://schema.org/value> ?ih .
+ 
+ # Book identifiers
+  
+  # Google Books
+ ?item schema:identifier ?googlebooks_identifier .
+ ?googlebooks_identifier a <http://schema.org/PropertyValue> .
+ ?googlebooks_identifier <http://schema.org/propertyID> "google books" .
+ ?googlebooks_identifier <http://schema.org/value> ?googlebooks .     
+  
+  # ISBNs
+  ?item schema:isbn ?isbn13 .
+  ?item schema:isbn ?isbn10 .
+
 
  
 # subjects
@@ -654,8 +667,23 @@ OPTIONAL {
  OPTIONAL {
    ?item wdt:P5858 ?ih .   
    BIND( IRI (CONCAT (STR(?item), "#ih")) as ?ih_identifier)
-  }           
+  }      
+  
+  # Book identifiers
+  
+  # Google Books
+ OPTIONAL {
+   ?item wdt:P675 ?googlebooks .   
+   BIND( IRI (CONCAT (STR(?item), "#googlebooks")) as ?googlebooks_identifier)
+  }        
     
+    # ISBN
+ OPTIONAL {
+   ?item wdt:P212 ?isbn13 .   
+  }  
+ OPTIONAL {
+   ?item wdt:P957 ?isbn10 .   
+  }        
   
   # license
   OPTIONAL {

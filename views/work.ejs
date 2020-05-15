@@ -105,6 +105,19 @@ if (item['@graph']) {
 			<%- item.pagination %>
 		<% } %>
 
+		<% if (item.isbn) { %>
+			ISBN			
+			<%
+			 var isbn = '';
+			 if (Array.isArray(item.isbn)) {
+			 	isbn = item.isbn.join(', ');
+			 } else {
+			 	isbn = item.isbn;
+			 }	
+			 %>		
+			<%- isbn %>
+		<% } %>
+
 		
 
 	</div>
@@ -254,7 +267,15 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'zoobank_pub');	  
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="http://zoobank.org/<%- id %>" target="_new">ZOOBANK:<%- id %></a>
+			<% } %>			
+			
+			<% 
+			// Google Books
+			id = get_property_value(item.identifier, 'google books');	  
+			if (id != '') {  %>
+				<a class="btn-small blue accent-3" href="https://books.google.com/books?id=<%- id %>" target="_new">Google Books:<%- id %></a>
 			<% } %>				
+					
 	
 		
 		<% } %>	
@@ -328,8 +349,14 @@ if (item['@graph']) {
 				if (id != '') {  
 					id = 'biostor-' + id; %>					
 				<iframe src="//archive.org/embed/<%= id %>" width="100%" height="400" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-			<% } 	
+			<% } 
+			}	
 			
+			if (id == '') {
+				id = get_property_value(item.identifier, 'google books');	  
+				if (id != '') { %>	
+						
+			<% } 	
 			}
 			
 		 } %>	
