@@ -353,6 +353,9 @@
 		
 <!-- Google Books -->
 	<!-- <script type="text/javascript" src="//books.google.com/books/previewlib.js"></script>	-->
+	
+<!-- altmetric -->
+	<script type="text/javascript" src="//d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
 		
 <!-- local --->
 		<script src="js/jquery.js">
@@ -491,6 +494,7 @@
 					
 					// scientific society
 	  			  case 'http://www.wikidata.org/entity/Q748019': 	// scientific society
+	  			  case 'http://www.wikidata.org/entity/Q955824': 	// learned society
 					schema_types.push('http://schema.org/Organization');					
 					break;
 					
@@ -825,6 +829,8 @@ $('.collapsible').collapsible();
 					  show_feed_related_work(id);
 					  
 					  show_feed_work_taxon_names(id);
+					  
+					  _altmetric_embed_init();
 
 					}
 
@@ -1114,6 +1120,7 @@ $('.collapsible').collapsible();
 			        $('.collapsible').collapsible();
 			        $('select').formSelect();
 			      });
+			    
 			      }			
 			//]]>
 		</script>
@@ -1266,11 +1273,38 @@ $('.collapsible').collapsible();
 							<img src="image.php?qid=Q21003923" >
 						</a>
 					</div>
-				
+
+				   <div class="item">
+						<a href="?id=Q94499626">
+							<span>Taxonomy of Australian Mammals</span>
+							<img src="image.php?qid=Q94499626" >
+						</a>
+					</div>
+
+				   <div class="item">
+						<a href="?id=Q3817064">
+							<span>Kristofer M. Helgen</span>
+							<img src="image.php?qid=Q3817064" >
+						</a>
+					</div>
+
+
+				   <div class="item">
+						<a href="?id=Q1333409">
+							<span>Norman I. Platnick</span>
+							<img src="image.php?qid=Q1333409" >
+						</a>
+					</div>
+
+
+				   <div class="item">
+						<a href="?id=Q64023509">
+							<span>Diversity of mantids (Dictyoptera: Mantodea) of Sangha-Mbaere Region, Central African Republic, with some ecological data and DNA barcoding</span>
+							<img src="image.php?qid=Q64023509" >
+						</a>
+					</div>
 					
-					
-					
-			
+					 
 					
 					
 		  	

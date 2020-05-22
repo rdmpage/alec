@@ -121,6 +121,16 @@ if (item['@graph']) {
 		
 
 	</div>
+	
+	<!-- metrics -->
+	<div class="section" >
+		<% 
+			var doi = get_property_value(item.identifier, 'doi');
+			if (doi) { %>
+				<div data-badge-type="donut" data-doi="<%- doi %>" data-hide-no-mentions="true" data-badge-popover="right" class="altmetric-embed"></div>
+			<% } %>	
+	</div>
+	
 								
 	<!-- actions -->
 	<div id="actions" class="section" >
@@ -301,9 +311,8 @@ if (item['@graph']) {
 	<div class="section" >
 		<!-- scholia -->
 		<a href="https://tools.wmflabs.org/scholia/work/<%- wikidata_uri_to_qid(item['@id']) %>" target="_new"><div class="logo scholia"></div></a>
-		
-		
 	</div>
+	
 	
 	<!-- license -->
 	
