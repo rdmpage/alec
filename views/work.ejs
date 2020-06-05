@@ -85,11 +85,26 @@ if (item['@graph']) {
 		<% } %>				
 				
 				in
-				<em>
-				<a href="?id=<%= wikidata_uri_to_qid(item.isPartOf['@id']) %>">
-				<%- get_literal(item.isPartOf.name) %>
-				</a>
-				</em>
+				
+				<% if (Array.isArray(item.isPartOf)) { 
+					for (var k in item.isPartOf ) { %>
+						<em>
+						<a href="?id=<%= wikidata_uri_to_qid(item.isPartOf[k]['@id']) %>">
+						<%- get_literal(item.isPartOf[k].name) %>
+						</a>
+						</em>
+					<%  }
+				} else { %>
+				
+					<em>
+					<a href="?id=<%= wikidata_uri_to_qid(item.isPartOf['@id']) %>">
+					<%- get_literal(item.isPartOf.name) %>
+					</a>
+					</em>
+				
+				<% } %>
+				
+				
 		<% } %>
 
 		<% if (item.volumeNumber) { %>
