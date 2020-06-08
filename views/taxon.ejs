@@ -126,6 +126,15 @@ if (item['@graph']) {
 				
 				<a href="https://www.inaturalist.org/taxa/<%- id %>" target="_new"><div class="logo inaturalist"></div></a>
 			<% } %>	
+
+
+			<% 
+			// BOLD
+			id = get_property_value(item.identifier, 'bold');	  
+			if (id != '') {  %>
+				
+				<a href="https://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=<%- id %>" target="_new"><div class="logo bold"></div></a>
+			<% } %>	
 			
 			
 		<% } %>	

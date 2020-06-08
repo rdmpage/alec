@@ -263,6 +263,13 @@ CONSTRUCT
  ?inaturalist_identifier a <http://schema.org/PropertyValue> .
  ?inaturalist_identifier <http://schema.org/propertyID> "inaturalist" .
  ?inaturalist_identifier <http://schema.org/value> ?inaturalist .
+ 
+ # bold
+ ?item schema:identifier ?bold_identifier .
+ ?bold_identifier a <http://schema.org/PropertyValue> .
+ ?bold_identifier <http://schema.org/propertyID> "bold" .
+ ?bold_identifier <http://schema.org/value> ?bold .
+ 
 
  # ror
  ?item schema:identifier ?ror_identifier .
@@ -651,6 +658,13 @@ OPTIONAL {
    BIND( IRI (CONCAT (STR(?item), "#inaturalist")) as ?inaturalist_identifier)
   }  
   
+  
+ OPTIONAL {
+   ?item wdt:P3606 ?bold .   
+   BIND( IRI (CONCAT (STR(?item), "#bold")) as ?bold_identifier)
+  }  
+  
+    
   # ror
  OPTIONAL {
    ?item wdt:P6782 ?ror .   
