@@ -239,6 +239,80 @@ select * where
 LIMIT 100
 ```
 
+### Tweaked subset version using “item”
+
+```
+PREFIX dwc: <http://rs.tdwg.org/dwc/terms/>
+SELECT * WHERE
+{
+  # Examples to play with 
+  # Q67947916 Pionus chalcopterus
+  # Q39135925 Tephrosia heterantha
+  # Q15542377 Poissonia heterantha
+  # Q14400 Allosaurus
+  # Q131421 Mononykus (replacement)
+  # Q2575797 Leptocleidus Müller, 1936 later homonym
+  # Q5414606 Lilliput Wesołowska & Russell-Smith, 2008
+  # Q21357142 Heraclides rumiko
+  # Q19636617 Papilio rumiko
+  VALUES ?taxon { wd:Q19636617 }
+  
+  # First we see if this name is a new combination,
+  # or is the original combination for other name(s)
+  # protonym = zoology, basionym = botany
+  
+  # original name
+  # has basionym or protonym
+  {   
+    ?taxon wdt:P566|wdt:P1403 ?item .
+    ?item wdt:P225 ?name . 
+    BIND ("tax. nov." AS ?state)
+  }
+  
+  UNION
+  
+  # is protonym or basionym (via subject has role)
+  {   
+    ?taxon p:P2868 ?statement .
+    { ?statement ps:P2868 wd:Q810198} UNION { ?statement ps:P2868 wd:Q14192851 } .
+    ?statement pq:P642 ?item .
+    ?item wdt:P225 ?name .
+    BIND ("comb. nov." AS ?state)
+  }
+  
+  # has replacement name(s)
+  UNION 
+    {
+     ?taxon wdt:P694 ?item .
+      ?item rdfs:label ?name .
+      FILTER (LANG(?name) = "en")
+      BIND ("nom. nov." AS ?state)
+     }    
+
+   # has been replaced
+  UNION  
+    {
+     ?taxon  wdt:P31 wd:Q17276484 .
+     ?taxon p:P31 ?replaced_statement .
+      {
+      ?replaced_statement pq:P1366 ?item .
+       ?item rdfs:label ?name .
+        FILTER (LANG(?name) = "en")
+        BIND ("nom. nov." AS ?state)
+      }
+      
+      UNION
+      {
+        ?replaced_statement pq:P1889 ?item .
+        ?item rdfs:label ?name .
+        ?item dwc:nomenclaturalStatus "homonym" . 
+        FILTER (LANG(?name) = "en")
+       
+      }     
+    }  
+}
+```
+
 
 
 
