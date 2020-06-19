@@ -172,11 +172,11 @@ CONSTRUCT
  ?zoobank_pub_identifier <http://schema.org/propertyID> "zoobank_pub" .
  ?zoobank_pub_identifier <http://schema.org/value> ?zoobank_pub_uuid .
 
- # bloodhound
- ?item schema:identifier ?bloodhound_identifier .
- ?bloodhound_identifier a <http://schema.org/PropertyValue> .
- ?bloodhound_identifier <http://schema.org/propertyID> "bloodhound" .
- ?bloodhound_identifier <http://schema.org/value> ?bloodhound .
+ # bionomia
+ ?item schema:identifier ?bionomia_identifier .
+ ?bionomia_identifier a <http://schema.org/PropertyValue> .
+ ?bionomia_identifier <http://schema.org/propertyID> "bionomia" .
+ ?bionomia_identifier <http://schema.org/value> ?bionomia .
 
  # twitter
  ?item schema:identifier ?twitter_identifier .
@@ -585,8 +585,8 @@ OPTIONAL {
   }  
   
  OPTIONAL {
-   ?item wdt:P6944 ?bloodhound .   
-   BIND( IRI (CONCAT (STR(?item), "#bloodhound")) as ?bloodhound_identifier)
+   ?item wdt:P6944 ?bionomia .   
+   BIND( IRI (CONCAT (STR(?item), "#bionomia")) as ?bionomia_identifier)
   }   
   
  OPTIONAL {
