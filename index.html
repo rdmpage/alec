@@ -266,6 +266,11 @@
 			  background-size: contain;
 			} 
 			
+			.sudoc {
+			  background: url(images/logos/sudoc.svg);
+			  background-size: contain;
+			} 			
+			
 			.license  {
 				display: block; 
 				float:left;
@@ -451,7 +456,8 @@
 					break;
 
 					// article
-				  case 'http://www.wikidata.org/entity/Q13442814':
+				  case 'http://www.wikidata.org/entity/Q1348305': // erratum
+				  case 'http://www.wikidata.org/entity/Q13442814': // scholarly article
 				  case 'http://www.wikidata.org/entity/Q18918145': // academic journal article
 				  case 'http://www.wikidata.org/entity/Q191067': // article
 					schema_types.push('http://schema.org/ScholarlyArticle');
