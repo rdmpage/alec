@@ -150,7 +150,9 @@ if (item['@graph']) {
 	<!-- actions -->
 	<div id="actions" class="section" >
 	
+		<!--
 		<% var fulltext_links = {}; %>
+		-->
 	
 		<% if (item.identifier) {
 			 var id = '';
@@ -163,12 +165,14 @@ if (item['@graph']) {
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://doi.org/<%- id %>" target="_new">DOI:<%- id %></a>
 				
+				<!--
 				<% 
 					if (!fulltext_links['doi']) {
 						fulltext_links['doi'] = [];
 					} 
 					fulltext_links['doi'].push('https://doi.org/' + id);
 				%>
+				-->
 				
 			<% } %>	
 			
@@ -178,12 +182,14 @@ if (item['@graph']) {
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://hdl.handle.net/<%- id %>" target="_new">HANDLE:<%- id %></a>
 				
+				<!--
 				<% 
 					if (!fulltext_links['handle']) {
 						fulltext_links['handle'] = [];
 					} 
 					fulltext_links['handle'].push('https://hdl.handle.net/' + id);
 				%>
+				-->
 				
 			<% } %>		
 			
@@ -214,7 +220,9 @@ if (item['@graph']) {
 			// CNKI
 			id = get_property_value(item.identifier, 'cnki');	  
 			if (id != '') {  %>
+				<a class="btn-small blue accent-3" href="http://www.cnki.com.cn/Article/CJFDTOTAL-<%- id %>.htm" target="_new">CNKI:<%- id %></a>
 
+				<!--
 				<% 
 					if (!fulltext_links['cnki']) {
 						fulltext_links['cnki'] = [];
@@ -229,6 +237,7 @@ if (item['@graph']) {
 					// mobile site with link to app
 					fulltext_links['cnkiapp'].push('http://m.cnki.net/cnkiday/appdownzwj.html?type=CJFD&id=' + id);
 				%>
+				-->
 
 			<% } %>								
 				
@@ -238,12 +247,14 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'internetarchive');	  
 			if (id != '') {  %>
 
+				<!--
 				<% 
 					if (!fulltext_links['internetarchive']) {
 						fulltext_links['internetarchive'] = [];
 					} 
 					fulltext_links['internetarchive'].push('https://archive.org/details/' + id);
 				%>
+				-->
 
 			<% } %>								
 			
@@ -253,12 +264,14 @@ if (item['@graph']) {
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://www.jstor.org/stable/<%- id %>" target="_new">JSTOR:<%- id %></a>
 
+				<!--
 				<% 
 					if (!fulltext_links['jstor']) {
 						fulltext_links['jstor'] = [];
 					} 
 					fulltext_links['jstor'].push('https://www.jstor.org/stable/' + id);
 				%>
+				-->
 
 
 			<% } %>	
@@ -269,12 +282,14 @@ if (item['@graph']) {
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC<%- id %>" target="_new">PMCID: PMC<%- id %></a>
 
+				<!--
 				<% 
 					if (!fulltext_links['pmc']) {
 						fulltext_links['pmc'] = [];
 					} 
 					fulltext_links['pmc'].push('https://www.ncbi.nlm.nih.gov/pmc/articles/PMC' + id);
 				%>
+				-->
 
 
 			<% } %>	
@@ -305,6 +320,7 @@ if (item['@graph']) {
 		
 		<% } %>	
 				
+		<!--
 		<% if (item.url) {
 			fulltext_links['link'] = [];
 			for (var i in item.url) {
@@ -312,15 +328,28 @@ if (item['@graph']) {
 			}
 		 } %>	
 		
-		
-		
 		<% if (Object.keys(fulltext_links).length != 0) { %>
 			<a class="btn-small blue accent-3" onclick="show_fulltext('<%- encodeURIComponent(JSON.stringify(fulltext_links)).replace(/\'/g, "\\\\'") %>')">Full-text links</a>	
-		<% } %>				
+		<% } %>	
+		-->			
 
 
 	
 	</div>
+	
+	<!-- PDF -->
+	
+	<% if (item.encoding) { %>
+		<div class="section" >
+		<%
+		for (var i in item.encoding) {
+			if (item.encoding[i].encodingFormat == "application/pdf") { %>
+				<a class="btn blue accent-3" href="<%- item.encoding[i].contentUrl.replace("/http", "if_/http") %>" target="_new"><i class="material-icons left">picture_as_pdf</i>View</a>
+			<% }		
+		} %>
+		</div>
+	<% } %>	
+
 	
 	<!-- Wikis -->
 	<div class="section" >

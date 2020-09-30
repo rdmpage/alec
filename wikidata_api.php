@@ -71,6 +71,14 @@ CONSTRUCT
   ?item schema:alternateName ?alternateName .
   ?item schema:birthDate ?birthDate .
   ?item schema:deathDate ?deathDate .
+
+  # PDF 
+  ?item schema:encoding ?encoding .
+  ?encoding a <http://schema.org/MediaObject> .
+  ?encoding <http://schema.org/encodingFormat> "application/pdf" .
+  ?encoding <http://schema.org/contentUrl> ?pdf_url . 
+
+
  # identifiers as property values
  
  # bhl
@@ -470,6 +478,16 @@ WHERE
    OPTIONAL {
    ?item wdt:P953 ?url .  
   }
+  
+  # PDF
+  
+  OPTIONAL {
+  	?item p:P953 ?encoding .
+  	?encoding ps:P953 ?source_url . # URL
+  	?encoding pq:P2701 wd:Q42332 .    # PDF
+   	?encoding pq:P1065 ?pdf_url . 	# Archive URL   	
+  }  
+  
   
   # taxa ---------------------------------------------------------------------------------
   OPTIONAL {
@@ -929,6 +947,22 @@ OPTIONAL {
 	$url->{'@container'} = "@set";
 	
 	$context->{'url'} = $url;
+		
+	// contentUrl
+	$contentUrl = new stdclass;
+	$contentUrl->{'@id'} = "contentUrl";
+	$contentUrl->{'@type'} = "@id";
+	
+	$context->{'contentUrl'} = $contentUrl;
+	
+	// encoding
+	$encoding = new stdclass;
+	$encoding->{'@id'} = "encoding";
+	$encoding->{'@type'} = "@id";
+	$encoding->{'@container'} = "@set";
+	
+	$context->{'encoding'} = $encoding;
+	
 	
 	// webFeed 
 	$webFeed = new stdclass;
