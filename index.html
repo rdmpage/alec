@@ -792,7 +792,24 @@
 				  }
 				}
 			  );
-			}								
+			}			
+			
+			//----------------------------------------------------------------------------
+			function show_feed_translations(id) {
+			  $.getJSON('api_work_translations.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_translations');
+					}
+				  }
+				}
+			  );
+			}										
 			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
@@ -820,9 +837,11 @@
 					var types = get_entity_types(data);
 					
 					//alert(JSON.stringify(types, null, 2));
+					
+					var have_type = false;
 
 					//--------------------------------------------------------------------
-					if (types.indexOf('http://schema.org/ScholarlyArticle') !== -1) {
+					if (!have_type && types.indexOf('http://schema.org/ScholarlyArticle') !== -1) {
 					
 					document.getElementById('output').innerHTML = `<div id="details"></div>
 <div class="row">
@@ -834,6 +853,8 @@
 	<li id="feed_related_work">
 	</li>		
 </ul>   
+<div id="feed_translations">
+</div>
 <div id="feed_work_taxon_names">
 </div>
 </div>`;
@@ -854,14 +875,18 @@ $('.collapsible').collapsible();
 
 					  show_feed_related_work(id);
 					  
+					  show_feed_translations(id);
+					  
 					  show_feed_work_taxon_names(id);
 					  
 					  _altmetric_embed_init();
+					  
+					  have_type = true;
 
 					}
 
 					//--------------------------------------------------------------------
-					if (types.indexOf('http://schema.org/Person') !== -1) {
+					if (!have_type && types.indexOf('http://schema.org/Person') !== -1) {
 					
 						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_works"></div><div id="feed_is_subject"></div><div id="feed_taxon_names"></div>';
 
@@ -879,12 +904,14 @@ $('.collapsible').collapsible();
 					  show_feed_person_is_subject(id);
 					  
 					  // taxon names in authored publications
-					  show_feed_person_taxon_names(id);					  
+					  show_feed_person_taxon_names(id);	
+					  
+					  have_type = true;				  
 
 					}
 					
 					//--------------------------------------------------------------------
-					if (types.indexOf('http://schema.org/Taxon') !== -1) {
+					if (!have_type && types.indexOf('http://schema.org/Taxon') !== -1) {
 
 						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"></div><div id="feed_related"></div><div id="feed_works"></div>';
 
@@ -901,11 +928,13 @@ $('.collapsible').collapsible();
 					  
 					  // references
 					  show_feed_taxon_name_works(id);
+					  
+					  have_type = true;
 
 					}
 					
 					//--------------------------------------------------------------------
-					if (types.indexOf('http://schema.org/Periodical') !== -1) {
+					if (!have_type && types.indexOf('http://schema.org/Periodical') !== -1) {
 
 						document.getElementById('output').innerHTML = '<div id="details"></div><div id="parts"></div><div id="feed_is_subject"></div>';
 
@@ -919,11 +948,13 @@ $('.collapsible').collapsible();
 					  show_parts(id);
 					  
 					  show_feed_periodical_is_subject(id);
+					  
+					  have_type = true;
 
 					}
 							
 					//--------------------------------------------------------------------
-					if (types.indexOf('http://schema.org/Organization') !== -1) {
+					if (!have_type && types.indexOf('http://schema.org/Organization') !== -1) {
 
 						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_publisher_publications"></div>';
 
@@ -935,12 +966,14 @@ $('.collapsible').collapsible();
 
 					  // related info
 					  show_publisher_publications(id);
+					  
+					  have_type = true;
 
 					}
 					
 							
 					//--------------------------------------------------------------------
-					if (types.indexOf('http://schema.org/Book') !== -1) {
+					if (!have_type && types.indexOf('http://schema.org/Book') !== -1) {
 
 					  document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_is_subject"></div>';
 
@@ -952,6 +985,8 @@ $('.collapsible').collapsible();
 
 					  // related info (is subject = reviews, versions, editions, translations, etc.)
 					  show_feed_book_is_subject(id);
+					  
+					  have_type = true;
 
 					}
 					
@@ -959,7 +994,7 @@ $('.collapsible').collapsible();
 										
 					
 					//--------------------------------------------------------------------
-					if (types.indexOf('http://schema.org/Thing') !== -1) {
+					if (!have_type && types.indexOf('http://schema.org/Thing') !== -1) {
 
 						document.getElementById('output').innerHTML = '<div id="details"></div>';
 
@@ -1348,6 +1383,23 @@ $('.collapsible').collapsible();
 							<img src="image.php?qid=Q6791427" >
 						</a>
 					</div>
+					
+					<!-- English translation of Russian paper -->
+					<div class="item">
+						<a href="?id=Q99837830">
+							<span>Two New Species of the Weevil Genus Mecysmoderes...</span>
+							<img src="image.php?qid=Q99837830" >
+						</a>
+					</div>	
+					
+					<!-- Russian paper -->
+					<div class="item">
+						<a href="?id=Q99838137">
+							<span>ДВА НОВЫХ ВИДА ДОЛГОНОСИКОВ РОДА MECYSMODERES...</span>
+							<img src="image.php?qid=Q99838137" >
+						</a>
+					</div>					
+				 									
 				 
 					
 					
