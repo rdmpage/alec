@@ -1151,7 +1151,7 @@ function sparql_construct_stream($sparql_endpoint, $query, $format='application/
 		$data = jsonld_frame($doc, $frame);
 	
 		
-		$response = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);		
+		$response = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);		
 	}
 	
 
