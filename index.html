@@ -809,7 +809,24 @@
 				  }
 				}
 			  );
-			}										
+			}		
+			
+			//----------------------------------------------------------------------------
+			function show_feed_errata(id) {
+			  $.getJSON('api_work_errata.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'feed_errata');
+					}
+				  }
+				}
+			  );
+			}												
 			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
@@ -844,6 +861,8 @@
 					if (!have_type && types.indexOf('http://schema.org/ScholarlyArticle') !== -1) {
 					
 					document.getElementById('output').innerHTML = `<div id="details"></div>
+<div id="feed_errata">
+</div>
 <div class="row">
 <ul class="collapsible white">
 	<li id="feed_cites">
@@ -876,6 +895,8 @@ $('.collapsible').collapsible();
 					  show_feed_related_work(id);
 					  
 					  show_feed_translations(id);
+					  
+					  show_feed_errata(id);
 					  
 					  show_feed_work_taxon_names(id);
 					  
@@ -1398,7 +1419,15 @@ $('.collapsible').collapsible();
 							<span>ДВА НОВЫХ ВИДА ДОЛГОНОСИКОВ РОДА MECYSMODERES...</span>
 							<img src="image.php?qid=Q99838137" >
 						</a>
-					</div>					
+					</div>		
+					
+					<!-- has erratum -->
+					<div class="item">
+						<a href="?id=Q99931585">
+							<span>The first African record of Artolenzites...</span>
+							<img src="image.php?qid=Q99931585" >
+						</a>
+					</div>										
 				 									
 				 
 					
