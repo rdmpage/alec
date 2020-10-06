@@ -316,6 +316,14 @@ if (item['@graph']) {
 				<a class="btn-small blue accent-3" href="https://books.google.com/books?id=<%- id %>" target="_new">Google Books:<%- id %></a>
 			<% } %>				
 					
+					
+			<% 
+			// AFD publication
+			id = get_property_value(item.identifier, 'afd');	  
+			if (id != '') {  %>
+				<a class="btn-small blue accent-3" href="https://biodiversity.org.au/afd/publication/<%- id %>" target="_new">AFD:<%- id %></a>
+			<% } %>				
+										
 	
 		
 		<% } %>	

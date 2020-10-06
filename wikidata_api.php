@@ -148,6 +148,12 @@ CONSTRUCT
  ?cnki_identifier <http://schema.org/propertyID> "cnki" .
  ?cnki_identifier <http://schema.org/value> ?cnki . 
  
+# AFD publications
+ ?item schema:identifier ?afd_identifier .
+ ?afd_identifier a <http://schema.org/PropertyValue> .
+ ?afd_identifier <http://schema.org/propertyID> "afd" .
+ ?afd_identifier <http://schema.org/value> ?afd .  
+ 
  # ResearchGate
  ?item schema:identifier ?rg_author_identifier .
  ?rg_author_identifier a <http://schema.org/PropertyValue> .
@@ -552,6 +558,10 @@ WHERE
    BIND( IRI (CONCAT (STR(?item), "#cnki")) as ?cnki_identifier)
   } 
   
+ OPTIONAL {
+   ?item wdt:P6982 ?afd .   
+   BIND( IRI (CONCAT (STR(?item), "#afd")) as ?afd_identifier)
+  } 
   
   # people
   
