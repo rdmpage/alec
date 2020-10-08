@@ -525,6 +525,11 @@
 					schema_types.push('http://schema.org/Book');
 					break;
 					
+					// thesis
+	  			  case 'http://www.wikidata.org/entity/Q1266946': 	// thesis
+	  			  case 'http://www.wikidata.org/entity/Q187685': 	// PhD thesis
+					schema_types.push('http://schema.org/Thesis');					
+					break;					
 				
 				  default:					
 					break;
@@ -1011,6 +1016,25 @@ $('.collapsible').collapsible();
 
 					}
 					
+					
+					//--------------------------------------------------------------------
+					if (!have_type && types.indexOf('http://schema.org/Thesis') !== -1) {
+
+					  document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_is_subject"></div>';
+
+					  // display organisation
+					  render(template_work, {
+						item: data
+					  }, 'details');
+
+
+					  // related info (is subject = reviews, versions, editions, translations, etc.)
+					  show_feed_book_is_subject(id);
+					  
+					  have_type = true;
+
+					}
+										
 							
 										
 					
