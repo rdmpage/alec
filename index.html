@@ -866,9 +866,12 @@
 					if (!have_type && types.indexOf('http://schema.org/ScholarlyArticle') !== -1) {
 					
 					document.getElementById('output').innerHTML = `<div id="details"></div>
+
+<div class="row">
 <div id="feed_errata">
 </div>
-<div class="row">
+<div id="feed_translations">
+</div>
 <ul class="collapsible white">
 	<li id="feed_cites">
 	</li>
@@ -877,8 +880,6 @@
 	<li id="feed_related_work">
 	</li>		
 </ul>   
-<div id="feed_translations">
-</div>
 <div id="feed_work_taxon_names">
 </div>
 </div>`;
