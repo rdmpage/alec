@@ -284,6 +284,12 @@ CONSTRUCT
  ?bold_identifier <http://schema.org/propertyID> "bold" .
  ?bold_identifier <http://schema.org/value> ?bold .
  
+ # wfo
+ ?item schema:identifier ?wfo_identifier .
+ ?wfo_identifier a <http://schema.org/PropertyValue> .
+ ?wfo_identifier <http://schema.org/propertyID> "wfo" .
+ ?wfo_identifier <http://schema.org/value> ?wfo .
+ 
 
  # ror
  ?item schema:identifier ?ror_identifier .
@@ -691,6 +697,11 @@ OPTIONAL {
    ?item wdt:P3606 ?bold .   
    BIND( IRI (CONCAT (STR(?item), "#bold")) as ?bold_identifier)
   }  
+  
+ OPTIONAL {
+   ?item wdt:P7715 ?wfo .   
+   BIND( IRI (CONCAT (STR(?item), "#wfo")) as ?wfo_identifier)
+  }   
   
     
   # ror

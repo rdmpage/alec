@@ -60,7 +60,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'gbif');	  
 			if (id != '') {  %>
 				
-				<a href="https://www.gbif.org/species/<%- id %>" target="_new"><div class="logo gbif"></div></a>
+				<a href="https://www.gbif.org/species/<%- id %>" target="_new" title="GBIF"><div class="logo gbif"></div></a>
 			<% } %>				 
 
 			<% 
@@ -68,7 +68,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'eol');	  
 			if (id != '') {  %>
 				
-				<a href="https://eol.org/pages/<%- id %>" target="_new"><div class="logo eol"></div></a>
+				<a href="https://eol.org/pages/<%- id %>" target="_new" title="EOL"><div class="logo eol"></div></a>
 			<% } %>				 
 
 			<% 
@@ -76,7 +76,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'ncbi');	  
 			if (id != '') {  %>
 				
-				<a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=<%- id %>" target="_new"><div class="logo ncbi"></div></a>
+				<a href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=<%- id %>" target="_new" title="NCBI"><div class="logo ncbi"></div></a>
 			<% } %>				 
 
 			<% 
@@ -84,7 +84,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'worms');	  
 			if (id != '') {  %>
 				
-				<a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=<%- id %>" target="_new"><div class="logo worms"></div></a>
+				<a href="https://www.marinespecies.org/aphia.php?p=taxdetails&id=<%- id %>" target="_new" title="WoRMS"><div class="logo worms"></div></a>
 			<% } %>				 
 
 			<% 
@@ -92,7 +92,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'wsc');	  
 			if (id != '') {  %>
 				
-				<a href="http://www.wsc.nmbe.ch/lsid/<%- id %>" target="_new"><div class="logo wsc"></div></a>
+				<a href="http://www.wsc.nmbe.ch/lsid/<%- id %>" target="_new" title="World Spider Catalog"><div class="logo wsc"></div></a>
 			<% } %>		
 			
 			<% 
@@ -100,7 +100,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'ipni_name');	  
 			if (id != '') {  %>
 				
-				<a href="https://www.ipni.org/n/<%- id %>" target="_new"><div class="logo ipni"></div></a>
+				<a href="https://www.ipni.org/n/<%- id %>" target="_new" title="IPNI"><div class="logo ipni"></div></a>
 			<% } %>	
 
 			<% 
@@ -108,7 +108,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'zoobank_name');	  
 			if (id != '') {  %>
 				
-				<a href="http://zoobank.org/NomenclaturalActs/<%- id %>" target="_new"><div class="logo zoobank"></div></a>
+				<a href="http://zoobank.org/NomenclaturalActs/<%- id %>" target="_new" title="ZooBank"><div class="logo zoobank"></div></a>
 			<% } %>	
 
 			<% 
@@ -116,7 +116,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'fossilworks');	  
 			if (id != '') {  %>
 				
-				<a href="http://fossilworks.org/bridge.pl?a=taxonInfo&taxon_no=<%- id %>" target="_new"><div class="logo fossilworks"></div></a>
+				<a href="http://fossilworks.org/bridge.pl?a=taxonInfo&taxon_no=<%- id %>" target="_new" title="Fossilworks"><div class="logo fossilworks"></div></a>
 			<% } %>	
 
 			<% 
@@ -124,7 +124,7 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'inaturalist');	  
 			if (id != '') {  %>
 				
-				<a href="https://www.inaturalist.org/taxa/<%- id %>" target="_new"><div class="logo inaturalist"></div></a>
+				<a href="https://www.inaturalist.org/taxa/<%- id %>" target="_new" title="iNaturalist"><div class="logo inaturalist"></div></a>
 			<% } %>	
 
 
@@ -133,7 +133,15 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'bold');	  
 			if (id != '') {  %>
 				
-				<a href="https://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=<%- id %>" target="_new"><div class="logo bold"></div></a>
+				<a href="https://v4.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=<%- id %>" target="_new" title="BOLD"><div class="logo bold"></div></a>
+			<% } %>	
+
+			<% 
+			// World Flora Online
+			id = get_property_value(item.identifier, 'wfo');	  
+			if (id != '') {  %>
+				
+				<a href="http://www.worldfloraonline.org/taxon/<%- id %>" target="_new" title="World Flora Online"><div class="logo wfo"></div></a>
 			<% } %>	
 			
 			
