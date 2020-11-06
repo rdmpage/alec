@@ -142,6 +142,13 @@ CONSTRUCT
  ?pmid_identifier <http://schema.org/propertyID> "pmid" .
  ?pmid_identifier <http://schema.org/value> ?pmid .
  
+ # CiNii NAID
+ ?item schema:identifier ?naid_identifier .
+ ?naid_identifier a <http://schema.org/PropertyValue> .
+ ?naid_identifier <http://schema.org/propertyID> "naid" .
+ ?naid_identifier <http://schema.org/value> ?naid . 
+ 
+ 
  # CNKI
  ?item schema:identifier ?cnki_identifier .
  ?cnki_identifier a <http://schema.org/PropertyValue> .
@@ -558,6 +565,11 @@ WHERE
    ?item wdt:P724 ?internetarchive .   
    BIND( IRI (CONCAT (STR(?item), "#internetarchive")) as ?internetarchive_identifier)
   }  
+  
+ OPTIONAL {
+   ?item wdt:P2409 ?naid .   
+   BIND( IRI (CONCAT (STR(?item), "#naid")) as ?naid_identifier)
+  } 
   
  OPTIONAL {
    ?item wdt:P6769 ?cnki .   

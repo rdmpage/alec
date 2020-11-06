@@ -217,6 +217,14 @@ if (item['@graph']) {
 			<% } %>	
 			
 			<% 
+			// CiNii NAID
+			id = get_property_value(item.identifier, 'naid');	  
+			if (id != '') {  %>
+				<a class="btn-small blue accent-3" href="https://ci.nii.ac.jp/naid/<%- id %>" target="_new">CINII:<%- id %></a>
+			<% } %>						
+			
+			
+			<% 
 			// CNKI
 			id = get_property_value(item.identifier, 'cnki');	  
 			if (id != '') {  %>
@@ -344,6 +352,18 @@ if (item['@graph']) {
 
 	
 	</div>
+	
+	<!-- CNKI -->
+	<% if (item.identifier) { 
+		var id = get_property_value(item.identifier, 'cnki');
+		if (id != '') {
+	%>
+		<div class="section" >
+			<img src="https://chart.googleapis.com/chart?chs=200x200&cht=qr&chl=<%= encodeURIComponent('http://m.cnki.net/cnkiday/appdownzwj.html?type=CJFD&id=' + id) %>">				
+		</div>
+	<% }
+	} %>	
+	
 	
 	<!-- PDF -->
 	
