@@ -118,8 +118,46 @@ SELECT * WHERE
  
  	return $result;
 }
+
+//----------------------------------------------------------------------------------------
+function get_start(&$G, $qid)
+{
+	$query = 'PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX wd: <http://www.wikidata.org/entity/>
+SELECT * WHERE
+{ 
+  VALUES ?node { wd:' . $qid . '}
+  ?node rdfs:label ?node_label .
+  
+  FILTER(LANG(?node_label) = "en" )
+ }';
+ 
+ 
+	$url = 'https://query.wikidata.org/bigdata/namespace/wdq/sparql?query=' . urlencode($query);
+ 	$json = get($url, 'application/json');
+ 	$obj = json_decode($json);
+ 
+ 	$result = array();
+ 	
+ 	// sources
+	foreach ($obj->results->bindings as $binding)
+	{
+		if (isset($binding->node->value))
+		{
+			$node_id = str_replace('http://www.wikidata.org/entity/', '', $binding->node->value);
+			$node_label = $binding->node_label->value;
+		
+			$G->AddNode($node_id, $node_label);
+		}
+	}	
+}
+
+
  
 $G = new Graph();
+
+// Make sure we at least have the node for the current container
+get_start($G, $id);
 
 $stack = array();
 $done = array();
