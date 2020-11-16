@@ -32,7 +32,7 @@ class Graph {
 		{
 			$tokens[] = $w;
 			
-			$length += mb_strlen($w) + 1;
+			$length += strlen($w) + 1;
 			
 			if ($length > 20)
 			{
