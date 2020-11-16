@@ -14,10 +14,18 @@
 			    background: white; /*#efefef;  */ /* #cfd8dc; */
 			  }
 			  
-			  
-    
-			  
+		  
 			 /* me */
+			 
+			  /* https://stackoverflow.com/a/2160005/9684 */
+			.section:after {
+			  content: "Foo";
+			  visibility: hidden;
+			  display: block;
+			  height: 0px;
+			  clear: both;
+			}
+				 
 			  
 			.mycard {
 				padding:12px;
@@ -384,6 +392,8 @@
 		<script type="text/javascript" src="js/blame.js">
 		</script>
 
+		<script type="text/javascript" src="js/viz.js">
+		</script>
 
 
 <!-- templates -->
@@ -838,7 +848,22 @@
 				  }
 				}
 			  );
-			}												
+			}				
+			
+			//----------------------------------------------------------------------------
+			function show_history_graph(id) {
+			  $.get('api_periodical_history.php?id=' +
+				id,
+				function(dot) {
+				  if (dot) {
+				  	var graph = Viz(dot, "svg", "dot");
+				  	var html = '<b>History</b><br/>';
+				  	html += graph;
+		  			$('#history').html(html);
+				  }
+				}
+			  );
+			}																										
 			
 			//----------------------------------------------------------------------------
 			function show_record(id) {
@@ -970,7 +995,7 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (!have_type && types.indexOf('http://schema.org/Periodical') !== -1) {
 
-						document.getElementById('output').innerHTML = '<div id="details"></div><div id="parts"></div><div id="feed_is_subject"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="history"></div><div id="parts"></div><div id="feed_is_subject"></div>';
 
 					  // display journal
 					  render(template_periodical, {
@@ -982,6 +1007,8 @@ $('.collapsible').collapsible();
 					  show_parts(id);
 					  
 					  show_feed_periodical_is_subject(id);
+					  
+					  show_history_graph(id);
 					  
 					  have_type = true;
 
