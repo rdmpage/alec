@@ -426,7 +426,7 @@ WHERE
   
   # container
   OPTIONAL {
-   ?item wdt:P1433 ?container .
+   ?item wdt:P1433|wdt:P361 ?container .
    ?container wdt:P1476 ?container_title .
    OPTIONAL {
      ?container wdt:P236 ?issn .

@@ -546,7 +546,13 @@
 	  			  case 'http://www.wikidata.org/entity/Q1266946': 	// thesis
 	  			  case 'http://www.wikidata.org/entity/Q187685': 	// PhD thesis
 					schema_types.push('http://schema.org/Thesis');					
-					break;					
+					break;	
+					
+					// book chapter
+				  case 'http://www.wikidata.org/entity/Q1980247':
+					schema_types.push('http://schema.org/Chapter'); // book chapter
+					break;
+									
 				
 				  default:					
 					break;
@@ -711,6 +717,24 @@
 				}
 			  );
 			}	
+			
+				
+			//----------------------------------------------------------------------------
+			function show_chapters(id) {
+			  $.getJSON('api_book_chapters.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed, {
+						  item: data
+						}, 'parts');
+					}
+				  }
+				}
+			  );
+			}				
 			
 			//----------------------------------------------------------------------------
 			function show_feed_work_taxon_names(id) {
@@ -943,6 +967,52 @@ $('.collapsible').collapsible();
 					  have_type = true;
 
 					}
+					
+					//--------------------------------------------------------------------
+					if (!have_type && types.indexOf('http://schema.org/Chapter') !== -1) {
+					
+					document.getElementById('output').innerHTML = `<div id="details"></div>
+
+<div class="row">
+<ul class="collapsible white">
+	<li id="feed_cites">
+	</li>
+	<li id="feed_cited_by">
+	</li>
+	<li id="feed_related_work">
+	</li>		
+</ul>   
+<div id="feed_work_taxon_names">
+</div>
+</div>`;
+
+$('.collapsible').collapsible();
+		
+					
+
+					  // display chapter (which for a modern book may have a DOI and citations)
+					  render(template_work, {
+						item: data
+					  }, 'details');
+
+					  // related info
+					  show_feed_cites(id);
+					   
+					  show_feed_cited_by(id);
+
+					  show_feed_related_work(id);
+					  
+					  //show_feed_translations(id);
+					  
+					  //show_feed_errata(id);
+					  
+					  show_feed_work_taxon_names(id);
+					  
+					  _altmetric_embed_init();
+					  
+					  have_type = true;
+
+					}					
 
 					//--------------------------------------------------------------------
 					if (!have_type && types.indexOf('http://schema.org/Person') !== -1) {
@@ -1036,13 +1106,15 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (!have_type && types.indexOf('http://schema.org/Book') !== -1) {
 
-					  document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_is_subject"></div>';
+					  document.getElementById('output').innerHTML = '<div id="details"></div><div id="parts"></div><div id="feed_is_subject"></div>';
 
 					  // display organisation
 					  render(template_work, {
 						item: data
 					  }, 'details');
 
+						// chapters
+						show_chapters(id);
 
 					  // related info (is subject = reviews, versions, editions, translations, etc.)
 					  show_feed_book_is_subject(id);
