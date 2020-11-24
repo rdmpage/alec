@@ -371,8 +371,12 @@ if (item['@graph']) {
 		<div class="section" >
 		<%
 		for (var i in item.encoding) {
-			if (item.encoding[i].encodingFormat == "application/pdf") { %>
-				<a class="btn blue accent-3" href="<%- item.encoding[i].contentUrl.replace("/http", "if_/http") %>" target="_new"><i class="material-icons left">picture_as_pdf</i>View</a>
+			if (item.encoding[i].encodingFormat == "application/pdf") { 
+				var proxy_url = 'http://localhost/~rpage/all-the-species-o/pdfproxy.php?url=';	
+				var pdf_url = item.encoding[i].contentUrl.replace("/http", "if_/http");
+			%>
+				<a class="btn blue accent-3" href="pdfjs/web/viewer.html?file=<%- encodeURIComponent(proxy_url + encodeURIComponent(pdf_url)) %>"><i class="material-icons left">picture_as_pdf</i>View</a>
+				<!-- <a class="btn blue accent-3" href="<%- item.encoding[i].contentUrl.replace("/http", "if_/http") %>" target="_new"><i class="material-icons left">picture_as_pdf</i>View</a> -->
 			<% }		
 		} %>
 		</div>
