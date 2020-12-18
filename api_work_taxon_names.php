@@ -42,10 +42,19 @@ $query = 'PREFIX schema: <http://schema.org/>
 	VALUES ?work { wd:' . $id . ' }
 	VALUES ?item_type { wd:Q16521 }
 	
-	?provenance pr:P248 ?work . 
-    ?statement prov:wasDerivedFrom ?provenance .
+	{
+		# reference for taxon name
+		?provenance pr:P248 ?work . 
+    	?statement prov:wasDerivedFrom ?provenance .
     
-    ?item p:P225 ?statement . 
+	    ?item p:P225 ?statement . 
+	}
+	UNION
+    {
+      # publication in which this taxon name was established
+      ?item wdt:P5326 ?work . 
+    }  
+    
     ?item wdt:P31 ?item_type .
     ?item wdt:P225 ?name .	
   	

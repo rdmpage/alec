@@ -53,13 +53,20 @@ $query = 'PREFIX schema: <http://schema.org/>
 		# filter by type of work
 		# wd:Q13442814 article
 		VALUES ?item_type { wd:Q13442814 } 
+		
+		{ 
+ 			# Wikidata reference
+  			?taxon p:P225 ?statement. 
+  			?statement prov:wasDerivedFrom ?provenance .
   
- 		 # Wikidata reference
-  		?taxon p:P225 ?statement. 
-  		?statement prov:wasDerivedFrom ?provenance .
-  
-  		# is it stated in a Wikidata item?
-  		?provenance pr:P248 ?item .
+  			# is it stated in a Wikidata item?
+  			?provenance pr:P248 ?item .
+  		}
+		UNION
+      	{
+      		# publication in which this taxon name was established
+        	?taxon wdt:P5326 ?item . 
+      	}  		
   		
   		?item wdt:P31 ?item_type .
   		
