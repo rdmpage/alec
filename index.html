@@ -417,6 +417,8 @@
 		</script>
 		<script src="views/search.ejs">
 		</script>		
+		<script src="views/specimen.ejs">
+		</script>		
 		<script src="views/taxon.ejs">
 		</script>
 		<script src="views/thumbnails.ejs">
@@ -551,6 +553,13 @@
 					// book chapter
 				  case 'http://www.wikidata.org/entity/Q1980247':
 					schema_types.push('http://schema.org/Chapter'); // book chapter
+					break;
+
+					// specimen
+				  case 'http://www.wikidata.org/entity/Q51255340': // type specimen
+				  case 'http://www.wikidata.org/entity/Q2075980': // biological specimen
+				  case 'http://www.wikidata.org/entity/Q2114846': // zoological specimen
+					schema_types.push('http://rs.tdwg.org/dwc/terms/PreservedSpecimen'); // specimen
 					break;
 									
 				
@@ -769,6 +778,40 @@
 				}
 			  );
 			}
+			
+			//----------------------------------------------------------------------------
+			function show_feed_taxon_name_types(id) {
+			  $.getJSON('api_taxon_name_types.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed_thumbnails, {
+						  item: data
+						}, 'feed_types');
+					}
+				  }
+				}
+			  );
+			}		
+			
+			//----------------------------------------------------------------------------
+			function show_feed_types_taxon_name(id) {
+			  $.getJSON('api_type_taxon_name.php?id=' +
+				id +
+				'&callback=?',
+				function(data) {
+				  if (data) {
+				  	if (data['@graph'].length > 0) {
+						render(template_datafeed_thumbnails, {
+						  item: data
+						}, 'feed_work_taxon_names');
+					}
+				  }
+				}
+			  );
+			}						
 			
 			//----------------------------------------------------------------------------
 			function show_feed_taxon_related(id) {
@@ -1042,12 +1085,16 @@ $('.collapsible').collapsible();
 					//--------------------------------------------------------------------
 					if (!have_type && types.indexOf('http://schema.org/Taxon') !== -1) {
 
-						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"></div><div id="feed_related"></div><div id="feed_works"></div>';
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="children"></div><div id="feed_types"></div><div id="feed_related"></div><div id="feed_works"></div>';
 
 					  // display article
 					  render(template_taxon, {
 						item: data
 					  }, 'details');
+
+
+					  // types
+					  show_feed_taxon_name_types(id);
 
 
 					  // related info
@@ -1139,6 +1186,26 @@ $('.collapsible').collapsible();
 					  show_feed_book_is_subject(id);
 					  
 					  have_type = true;
+
+					}
+					
+					//--------------------------------------------------------------------
+					// http://rs.tdwg.org/dwc/terms/PreservedSpecimen
+					if (!have_type && types.indexOf('http://rs.tdwg.org/dwc/terms/PreservedSpecimen') !== -1) {
+
+						document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_work_taxon_names"></div>';
+
+					  // display thing
+					  render(template_specimen, {
+						item: data
+					  }, 'details');
+
+
+					  // related info
+					  
+					  // taxa for which this is a type
+					  show_feed_types_taxon_name(id);
+							  
 
 					}
 										
@@ -1573,6 +1640,31 @@ $('.collapsible').collapsible();
 						<a href="?id=Q28300019">
 							<span>Herbaria are a major frontier for species discovery</span>
 							<img src="image.php?qid=Q28300019" >
+						</a>
+					</div>	
+
+					<!-- Elsevier journal with lots of cited literature -->								
+					<div class="item">
+						<a href="?id=Q28300019">
+							<span>Molecular phylogenetics of the genus Costularia...</span>
+							<img src="image.php?qid=Q52572891" >
+						</a>
+					</div>	
+
+
+					<!-- Nice thumbnail -->								
+					<div class="item">
+						<a href="?id=Q105118008">
+							<span>Une nouvelle tribu de Cerambycinae...</span>
+							<img src="image.php?qid=Q105118008" >
+						</a>
+					</div>	
+
+					<!-- Type specimens -->								
+					<div class="item">
+						<a href="?id=Q21276570">
+							<span>Leucothoe amamiensis</span>
+							<img src="image.php?qid=Q21276570" >
 						</a>
 					</div>	
 				 									
