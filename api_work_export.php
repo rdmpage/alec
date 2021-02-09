@@ -14,9 +14,11 @@ $id = 'Q35800184';
 
 $id = 'Q89665527'; // Chinese text
 
-$id = 'Q30582014'; // ORCIDs
+//$id = 'Q30582014'; // ORCIDs
 
-$id = 'Q94499626'; // book
+//$id = 'Q94499626'; // book
+
+$id = 'Q99572444';
 
 if (isset($_REQUEST['id']))
 {
@@ -192,6 +194,11 @@ CONSTRUCT
 
 # licensing
  ?item schema:license ?license_url .
+ 
+	# PDF
+	?item schema:encoding ?encoding .
+	?encoding schema:fileFormat "application/pdf" .
+	?encoding schema:contentUrl ?citation_pdf_url .
  
 
 
@@ -448,6 +455,25 @@ WHERE
    	schema:isPartOf <https://species.wikimedia.org/>;
    
   } 
+  
+   # full text as PDF we can view
+  OPTIONAL {
+    {
+  		# Wayback machine
+  		?item p:P953 ?encoding .
+  		?encoding ps:P953 ?fulltext_url . # URL
+  		?encoding pq:P2701 wd:Q42332 . # PDF
+  		?encoding pq:P1065 ?citation_pdf_url . # Archive URL
+  	}
+  	UNION
+  	{
+  		# Internet Archive
+  		?item wdt:P724 ?archive .
+  		?item p:P724 ?encoding .
+  		BIND( IRI(CONCAT("https://archive.org/download/", ?archive, "/", $archive, ".pdf")) as ?citation_pdf_url)
+
+  	}
+  } 
 }   
 ';
 	
@@ -560,6 +586,19 @@ WHERE
 	$publisher->{'@container'} = "@set";
 	
 	$context->{'publisher'} = $publisher;
+	
+	
+		// encoding
+		$encoding = new stdclass;
+		$encoding->{'@id'} = "encoding";
+		$encoding->{'@container'} = "@set";
+		$context->{'encoding'} = $encoding;
+
+	
+	// contentUrl
+	$context->contentUrl = new stdclass;
+	$context->contentUrl->{'@type'} = '@id';
+	$context->contentUrl->{'@id'} = 'contentUrl';
 	
 
 	// Find work type
@@ -874,6 +913,10 @@ function item_to_csl($data, $debug = true)
 							case 'doi':
 								$citeproc_obj['DOI'] = $identifier->value;
 								break;
+								
+							case 'handle':
+								$citeproc_obj['HANDLE'] = $identifier->value;
+								break;
 
 							case 'pmid':
 								$citeproc_obj['PMID'] = $identifier->value;
@@ -881,6 +924,10 @@ function item_to_csl($data, $debug = true)
 
 							case 'pmc':
 								$citeproc_obj['PMCID'] = 'PMC' . $identifier->value;
+								break;
+
+							case 'zoobank_pub':
+								$citeproc_obj['ZOOBANK'] = $identifier->value;
 								break;
 								
 							default:
@@ -907,6 +954,13 @@ function item_to_csl($data, $debug = true)
 			# URL(s)	
 		
 			# PDF	
+			case 'encoding':
+				$citeproc_obj['PDF'] = array();
+				foreach ($v as $pdf)
+				{
+					$citeproc_obj['PDF'][] = $pdf->contentUrl;
+				}
+				break;
 	
 			default:
 				break;
@@ -925,6 +979,8 @@ $debug = false;
 
 
 $item = get_work($id, $debug);
+
+//print_r($item);
 
 // CSL
 
