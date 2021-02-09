@@ -17,7 +17,10 @@ function dbpedia_summary(wikipedia, element_id) {
 					}
 				}
 			}
+			if (html != "") {
+			 document.getElementById(element_id).style.display = "block";
 			 document.getElementById(element_id).innerHTML = html;
+			}
 		  }
 		}
 	);
