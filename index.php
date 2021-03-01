@@ -775,42 +775,42 @@ function default_display($error_msg = '')
 					<h6>Examples</h6>
 					
 					<div class="item">
-						<a href="?id=Q57311469">
+						<a href="Q57311469">
 							<span>List of species of Mammalia sent from the Aru Islands by Mr A.R. Wallace to the British Museum</span>
 							<img src="image.php?qid=Q57311469" >
 						</a>
 					</div>
 					
 					<div class="item">
-						<a href="?id=Q6753679">
+						<a href="Q6753679">
 							<span>Maoricicada</span>
 							<img src="image.php?qid=Q6753679" >
 						</a>
 					</div>
 					
 					<div class="item">
-						<a href="?id=Q19060876">
+						<a href="Q19060876">
 							<span>Victoria Ann Funk </span>
 							<img src="image.php?qid=Q19060876" >
 						</a>
 					</div>
 
 					<div class="item">
-						<a href="?id=Q89630947">
+						<a href="Q89630947">
 							<span>Original watercolours donated by Cornelius Sittardus to Conrad Gesner</span>
 							<img src="image.php?qid=Q89630947" >
 						</a>
 					</div>
 					
 					<div class="item">
-						<a href="?id=Q26708122">
+						<a href="Q26708122">
 							<span>Pterocyclos</span>
 							<img src="image.php?qid=Q26708122" >
 						</a>
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q15831345">
+						<a href="Q15831345">
 							<span>Vojtěch Novotný</span>
 							<img src="image.php?qid=Q15831345" >
 						</a>
@@ -823,7 +823,7 @@ function default_display($error_msg = '')
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q88304456">
+						<a href="Q88304456">
 							<span>Four New Species of Land Snails from New Zealand</span>
 							<img src="image.php?qid=Q88304456" >
 						</a>
@@ -831,28 +831,28 @@ function default_display($error_msg = '')
 					
 
 				   <div class="item">
-						<a href="?id=Q28535616">
+						<a href="Q28535616">
 							<span>Transactions of the Royal Society of New Zealand. Zoology</span>
 							<img src="image.php?qid=Q28535616" >
 						</a>
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q30582014">
+						<a href="Q30582014">
 							<span>Finding needles in haystacks: linking scientific names, reference specimens and molecular data for Fungi</span>
 							<img src="image.php?qid=Q30582014" >
 						</a>
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q89665527">
+						<a href="Q89665527">
 							<span>悼念福建省昆虫分类区系研究开拓者马骏超先生</span>
 							<img src="image.php?qid=Q89665527" >
 						</a>
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q79381426">
+						<a href="Q79381426">
 							<span>Sulawesimetopus henryi</span>
 							<img src="image.php?qid=Q79381426" >
 						</a>
@@ -860,21 +860,21 @@ function default_display($error_msg = '')
 
 
 				   <div class="item">
-						<a href="?id=Q7860244">
+						<a href="Q7860244">
 							<span>Tylomelania</span>
 							<img src="image.php?qid=Q7860244" >
 						</a>
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q44978282">
+						<a href="Q44978282">
 							<span>Auchenorrhyncha (Insecta: Hemiptera): catalogue</span>
 							<img src="image.php?qid=Q44978282" >
 						</a>
 					</div>
 					
 				   <div class="item">
-						<a href="?id=Q93091690">
+						<a href="Q93091690">
 							<span>A new family of Laniatores from northwestern South America (Arachnida, Opiliones)</span>
 							<img src="image.php?qid=Q93091690" >
 						</a>
@@ -882,21 +882,21 @@ function default_display($error_msg = '')
 	
 						
 				   <div class="item">
-						<a href="?id=Q21003923">
+						<a href="Q21003923">
 							<span>Making Mosquito Taxonomy Useful: A Stable Classification of Tribe Aedini that Balances Utility with Current Knowledge of Evolutionary Relationships</span>
 							<img src="image.php?qid=Q21003923" >
 						</a>
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q94499626">
+						<a href="Q94499626">
 							<span>Taxonomy of Australian Mammals</span>
 							<img src="image.php?qid=Q94499626" >
 						</a>
 					</div>
 
 				   <div class="item">
-						<a href="?id=Q3817064">
+						<a href="Q3817064">
 							<span>Kristofer M. Helgen</span>
 							<img src="image.php?qid=Q3817064" >
 						</a>
@@ -904,7 +904,7 @@ function default_display($error_msg = '')
 
 
 				   <div class="item">
-						<a href="?id=Q1333409">
+						<a href="Q1333409">
 							<span>Norman I. Platnick</span>
 							<img src="image.php?qid=Q1333409" >
 						</a>
@@ -912,7 +912,7 @@ function default_display($error_msg = '')
 
 
 				   <div class="item">
-						<a href="?id=Q64023509">
+						<a href="Q64023509">
 							<span>Diversity of mantids (Dictyoptera: Mantodea) of Sangha-Mbaere Region, Central African Republic, with some ecological data and DNA barcoding</span>
 							<img src="image.php?qid=Q64023509" >
 						</a>
@@ -921,7 +921,7 @@ function default_display($error_msg = '')
 					
 					<!-- red dot map -->
 					<div class="item">
-						<a href="?id=Q15354073">
+						<a href="Q15354073">
 							<span>Psittacanthus cordatus</span>
 							<img src="image.php?qid=Q15354073" >
 						</a>
@@ -929,7 +929,7 @@ function default_display($error_msg = '')
 					
 					<!-- malacologist with linked paper listing all his works -->
 					<div class="item">
-						<a href="?id=Q6791427">
+						<a href="Q6791427">
 							<span>Matthew William Kemble Connolly</span>
 							<img src="image.php?qid=Q6791427" >
 						</a>
@@ -937,7 +937,7 @@ function default_display($error_msg = '')
 					
 					<!-- English translation of Russian paper -->
 					<div class="item">
-						<a href="?id=Q99837830">
+						<a href="Q99837830">
 							<span>Two New Species of the Weevil Genus Mecysmoderes...</span>
 							<img src="image.php?qid=Q99837830" >
 						</a>
@@ -945,7 +945,7 @@ function default_display($error_msg = '')
 					
 					<!-- Russian paper -->
 					<div class="item">
-						<a href="?id=Q99838137">
+						<a href="Q99838137">
 							<span>ДВА НОВЫХ ВИДА ДОЛГОНОСИКОВ РОДА MECYSMODERES...</span>
 							<img src="image.php?qid=Q99838137" >
 						</a>
@@ -953,7 +953,7 @@ function default_display($error_msg = '')
 					
 					<!-- has erratum -->
 					<div class="item">
-						<a href="?id=Q99931585">
+						<a href="Q99931585">
 							<span>The first African record of Artolenzites...</span>
 							<img src="image.php?qid=Q99931585" >
 						</a>
@@ -961,7 +961,7 @@ function default_display($error_msg = '')
 					
 					<!-- death by COVID-19 -->								
 					<div class="item">
-						<a href="?id=Q21518323">
+						<a href="Q21518323">
 							<span>Pakshirajan Lakshminarasimhan</span>
 							<img src="image.php?qid=Q21518323" >
 						</a>
@@ -969,7 +969,7 @@ function default_display($error_msg = '')
 
 					<!-- good selection of related papers -->								
 					<div class="item">
-						<a href="?id=Q28300019">
+						<a href="Q28300019">
 							<span>Herbaria are a major frontier for species discovery</span>
 							<img src="image.php?qid=Q28300019" >
 						</a>
@@ -977,7 +977,7 @@ function default_display($error_msg = '')
 
 					<!-- Elsevier journal with lots of cited literature -->								
 					<div class="item">
-						<a href="?id=Q28300019">
+						<a href="Q28300019">
 							<span>Molecular phylogenetics of the genus Costularia...</span>
 							<img src="image.php?qid=Q52572891" >
 						</a>
@@ -986,7 +986,7 @@ function default_display($error_msg = '')
 
 					<!-- Nice thumbnail -->								
 					<div class="item">
-						<a href="?id=Q105118008">
+						<a href="Q105118008">
 							<span>Une nouvelle tribu de Cerambycinae...</span>
 							<img src="image.php?qid=Q105118008" >
 						</a>
@@ -994,7 +994,7 @@ function default_display($error_msg = '')
 
 					<!-- Type specimens -->								
 					<div class="item">
-						<a href="?id=Q21276570">
+						<a href="Q21276570">
 							<span>Leucothoe amamiensis</span>
 							<img src="image.php?qid=Q21276570" >
 						</a>
@@ -1002,7 +1002,7 @@ function default_display($error_msg = '')
 				 				
 				 	<!-- person linked to obituaries -->
 					<div class="item">
-						<a href="?id=Q3562793">
+						<a href="Q3562793">
 							<span>Volker Mahnert</span>
 							<img src="image.php?qid=Q3562793" >
 						</a>
