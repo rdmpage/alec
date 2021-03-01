@@ -250,7 +250,7 @@ while (count($stack) > 0)
 	
 }
 
-//print_r($dist);
+print_r($dist);
 print_r($path);
 
 $s = array_shift($path);

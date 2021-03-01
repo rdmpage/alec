@@ -149,6 +149,10 @@ class Node
 		$this->id = $id;
 	}
 	
+	function SetLabel($label)
+	{
+		$this->label = $label;
+	}	
 
 	function SetSibling($p)
 	{
@@ -433,7 +437,7 @@ class Tree
 	}
 	
 	//----------------------------------------------------------------------------------------------
-	function WriteTree($tags, $ids = NULL, $url = '')
+	function WriteTree()
 	{
 		global $config;
 		
@@ -461,32 +465,10 @@ class Tree
 				{
 					$html .= '<span style="padding-left:8px;';
 					$html .= 'background-image: url(' . $config['web_root'] . 'images/notlast16.gif);background-repeat: no-repeat;';
-				}
-				
-				$is_tag = false;
-				if (in_array($cur->GetLabel(), $tags))
-				{
-					$is_tag = true;
-				}
-				
-				if (!$is_tag)
-				{
-					$html .= 'color:rgb(192,192,192);';
-				}
-				
+				}				
 				$html .= '">';
 				
-				$linked = ($ids != NULL) && $is_tag;
-				if ($linked)
-				{
-//					$html .= '<a href="' . $config['web_root'] . $url . $ids[$cur->GetLabel()] . '">';
-					$html .= '<a href="' . $config['web_root'] . $url . $cur->GetLabel() . '">';
-				}				
 				$html .= $cur->GetLabel();
-				if ($linked)
-				{
-					$html .= '</a>';
-				}				
 				$html .= '</span>';
 				array_push($stack, $cur);
 				$cur = $cur->GetChild();
@@ -509,30 +491,9 @@ class Tree
 					$html .= '<span style="padding-left:8px;';
 					$html .= 'background-image: url(' . $config['web_root'] . 'images/notlast16.gif);background-repeat: no-repeat;';
 				}
-				$is_tag = false;
-				if (in_array($cur->GetLabel(), $tags))
-				{
-					$is_tag = true;
-				}
-				
-				if (!$is_tag)
-				{
-					$html .= 'color:rgb(192,192,192);';
-				}
-				
 				$html .= '">';
 
-				$linked = ($ids != NULL) && $is_tag;
-				if ($linked)
-				{
-//					$html .= '<a href="' . $config['web_root'] . $url . $ids[$cur->GetLabel()] . '">';
-					$html .= '<a href="' . $config['web_root'] . $url . $cur->GetLabel() . '">';
-				}				
 				$html .= $cur->GetLabel();
-				if ($linked)
-				{
-					$html .= '</a>';
-				}				
 				$html .= '</span>';
 				$html .= '</div>';
 				while ((count($stack) > 0) && ($cur->GetSibling() == NULL))
@@ -551,8 +512,192 @@ class Tree
 			}
 		}
 		$html .= '</div>';
+		
 		return $html;
 	}
+	
+	//----------------------------------------------------------------------------------------------
+	function WriteTreeList()
+	{
+		global $config;
+		
+		$html = '<html>
+		<head>
+			<style>
+				.genus { font-style: italic; }
+				.subgenus { font-style: italic; }
+				.species {font-style: italic; }
+				.subspecies {font-style: italic; }
+				.variety {font-style: italic; }
+				.family { font-variant: small-caps; }
+				.subfamily { font-variant: small-caps; }
+			</style>
+		</head>
+		<body>
+		';
+		
+		$html .= '<ul>';
+		
+		$stack = array();
+		$cur = $this->root;
+		
+		while ($cur)
+		{
+			if ($cur->GetChild())
+			{							
+				$html .= '<li class="' . $cur->GetAttribute('rank') . '">'; 
+				if ($cur->GetAttribute('extinct'))
+				{
+					$html .= '†';
+				}
+				$html .= $cur->GetLabel() . '</li>';
+				array_push($stack, $cur);
+				$html .= '<ul>';
+				$cur = $cur->GetChild();
+			}
+			else
+			{
+				$html .= '<li class="' . $cur->GetAttribute('rank') . '">';
+				if ($cur->GetAttribute('extinct'))
+				{
+					$html .= '†';
+				}
+				$html .= $cur->GetLabel() . '</li>';
+				while ((count($stack) > 0) && ($cur->GetSibling() == NULL))
+				{
+					$html .= '</ul>' . "\n";
+					$cur = array_pop($stack);
+				}
+				if (count($stack) == 0)
+				{
+					$cur = NULL;
+				}
+				else
+				{
+					$cur = $cur->GetSibling();
+				}
+			}
+		}
+		$html .= '</ul>';
+		
+		$html .= '</body></head>';
+		
+		return $html;
+	}	
+		
+
+
+/*
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><!-- <editor>
+      <sidebar width="210"/>
+      <column name="text" width="662"/>
+    </editor> -->
+    <title>test</title>
+    <dateCreated>Fri, 05 Jun 2020 12:41:21 GMT</dateCreated>
+    <expansionState>0,1,3,5,8</expansionState>
+    <vertScrollState>0</vertScrollState>
+    <windowTop>-1713</windowTop>
+    <windowLeft>-16</windowLeft>
+    <windowRight>667</windowRight>
+    <windowBottom>-1029</windowBottom>
+  </head>
+  <body>
+    <outline text="September">
+      <outline text="Web Site">
+        <outline text="Review site map"/>
+        <outline text="Verify W3C XHTML compliance">
+          <outline text="validator.w3.org"/>
+        </outline>
+      </outline>
+      <outline text="Recording">
+        <outline text="Add euphonium solo to track 4"/>
+        <outline text="Apply gratuitous reverb"/>
+      </outline>
+      <outline text="Personal">
+        <outline text="Buy index cards"/>
+        <outline text="Organize desk"/>
+        <outline text="Fidget"/>
+        <outline text="Plan commute"/>
+      </outline>
+      <outline text="Shopping"/>
+      <outline text="Reading"/>
+      <outline text="Programming"/>
+    </outline>
+  </body>
+</opml>
+*/
+
+	//----------------------------------------------------------------------------------------------
+	function WriteOPML()
+	{
+		global $config;
+		
+		$html = '<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+  </head>
+		<body>
+		';
+		
+		
+		$stack = array();
+		$cur = $this->root;
+		
+		while ($cur)
+		{
+			if ($cur->GetChild())
+			{							
+				$html .= '<outline text="'; 
+				if ($cur->GetAttribute('extinct'))
+				{
+					$html .= '†';
+				}
+				$html .= $cur->GetLabel() . '">';
+				
+				if ($cur->IsLeaf())
+				{
+					$html .= '</outline>' . "\n";
+				}
+				array_push($stack, $cur);
+				$cur = $cur->GetChild();
+			}
+			else
+			{
+				$html .= '<outline text="';
+				if ($cur->GetAttribute('extinct'))
+				{
+					$html .= '†';
+				}
+				$html .= $cur->GetLabel() . '">';
+				if ($cur->IsLeaf())
+				{
+					$html .= '</outline>' . "\n";
+				}
+				
+				
+				while ((count($stack) > 0) && ($cur->GetSibling() == NULL))
+				{
+					$html .= '</outline>' . "\n";
+					$cur = array_pop($stack);
+				}
+				if (count($stack) == 0)
+				{
+					$cur = NULL;
+				}
+				else
+				{
+					$cur = $cur->GetSibling();
+				}
+			}
+		}
+		//$html .= '</outline>';
+		
+		$html .= '</body></opml>';
+		
+		return $html;
+	}	
 		
 }
 
