@@ -32,7 +32,7 @@ item = item['@graph'][0];
 			<img src="image.php?qid=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>" alt="" class="square"> 
 			
 		<span class="title">
-		<a href="?id=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>">
+		<a href="<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>">
 		
 		<%- get_literal(item.dataFeedElement[i].name) %>
 		

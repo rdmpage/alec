@@ -70,7 +70,7 @@ if (item['@graph']) {
 			<ul>
 			<% for (var i in item.predecessorOf) { %>
 				<li>
-				<a href="?id=<%= wikidata_uri_to_qid(item.predecessorOf[i]['@id']) %>">
+				<a href="<%= wikidata_uri_to_qid(item.predecessorOf[i]['@id']) %>">
 				<%= get_literal(item.predecessorOf[i].name) %>
 				</a>
 				</li>
@@ -85,7 +85,7 @@ if (item['@graph']) {
 			<ul>
 			<% for (var i in item.successorOf) { %>
 				<li>
-				<a href="?id=<%= wikidata_uri_to_qid(item.successorOf[i]['@id']) %>">
+				<a href="<%= wikidata_uri_to_qid(item.successorOf[i]['@id']) %>">
 				<%= get_literal(item.successorOf[i].name) %>
 				</a>
 				</li>
@@ -100,7 +100,7 @@ if (item['@graph']) {
 			<ul>
 			<% for (var i in item.publisher) { %>
 				<li>
-				<a href="?id=<%= wikidata_uri_to_qid(item.publisher[i]['@id']) %>">
+				<a href="<%= wikidata_uri_to_qid(item.publisher[i]['@id']) %>">
 				<%= get_literal(item.publisher[i].name) %>
 				</a>
 				</li>

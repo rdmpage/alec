@@ -798,48 +798,6 @@ function show_record(data) {
 
 
 //--------------------------------------------------------------------------------
-/*		function show_cite(csl) {
-		
-			csl = decodeURIComponent(csl);
-			
-			var data = new Cite(csl);
-									
-			var template_cite = `
-			<h5>Cite</h5>
-			<table>
-				<tr>
-					<td style="vertical-align:top;font-weight:bold;">APA</td>
-					<td>
-						<%- data.format('bibliography', {format: 'html', template: 'apa', lang: 'en' }); %>
-					</td>
-				</tr>
-				<tr>
-					<td style="vertical-align:top;font-weight:bold;">BibTeX</td>
-					<td>
-						<div style="font-family:monospace;white-space:pre;">
-<%=	data.format('bibtex'); %>
-						</div>
-					</td>
-				</tr>
-				<tr>
-					<td style="vertical-align:top;font-weight:bold;">RIS</td>
-					<td>
-						<div style="font-family:monospace;white-space:pre;">
-<%=	data.format('ris'); %>
-						</div>
-					</td>
-				</tr>
-			</table>										
-			`;
-			
-			var html = ejs.render(template_cite, { data: data });
-	
-			// Display
-			document.getElementById('modal-content').innerHTML = html;
-			$('#modal').modal('open');
-		} */
-
-//--------------------------------------------------------------------------------
 function show_fulltext(links) {
 
   var data = JSON.parse(decodeURIComponent(links));
@@ -881,37 +839,3 @@ function show_fulltext(links) {
   $('#modal').modal('open');
 }
 
-//--------------------------------------------------------------------------------
-function search() {
-
-  document.getElementById('output').innerHTML = '';
-  document.getElementById('sidepanel').innerHTML = '';
-
-
-  var html = '<div class="progress"><div class="indeterminate"></div></div>';
-
-  document.getElementById('output').innerHTML = html;
-
-
-  document.activeElement.blur();
-
-  var q = document.getElementById('query').value;
-
-  // Change URL and title to match this query (makes for easier bookmarking)
-  history.pushState(null, q, '?q=' + q);
-  document.title = q;
-
-
-  $.getJSON('api.php?q=' +
-	encodeURI(q) +
-	'&callback=?',
-	function(data) {
-
-	  console.log(JSON.stringify(data, null, 2));
-
-	  render(template_search, {
-		item: data
-	  }, 'output');
-	}
-  );
-}

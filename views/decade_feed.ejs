@@ -95,7 +95,7 @@ for (var decade in decades) { %>
 	
 		<% for (var i in decades[decade][year]) { %>
 			<div class="z-depth-1" style="background-color:white;border:1px solid rgb(222,222,222);overflow-wrap:break-word;overflow:hidden;font-size:0.7em;line-height:1em;float:left;position:relative;width:80px;height:100px;margin:8px;padding:4px;">
-				<a href="?id=<%= wikidata_uri_to_qid(decades[decade][year][i]['@id']) %>">
+				<a href="<%= wikidata_uri_to_qid(decades[decade][year][i]['@id']) %>">
 			
 				<%= get_literal(decades[decade][year][i].name) %>	
 				
