@@ -12,24 +12,23 @@ global $config;
 // Date timezone
 date_default_timezone_set('UTC');
 
-/*
+
 $site = 'local';
+$site = 'heroku';
 
 switch ($site)
 {
+	case 'heroku':
+		$config['web_root']		= '/';
+		$config['site_name'] 	= 'ALEC';
+		break;	
 
 	case 'local':
 	default:
-		// Server-------------------------------------------------------------------------
-		$config['web_server']	= 'http://localhost'; 
-		$config['site_name']	= 'LOIS';
-
-		// Files--------------------------------------------------------------------------
-		$config['web_dir']		= dirname(__FILE__);
-		$config['web_root']		= '/~rpage/lois-kg/www/';
+		$config['web_root']		= '/~rpage/alec/';
+		$config['site_name'] 	= 'ALEC';
 		break;
 }
-*/
 
 $config['sparql_endpoint'] 	= 'https://query.wikidata.org/bigdata/namespace/wdq/sparql';
 
