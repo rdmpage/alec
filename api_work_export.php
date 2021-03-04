@@ -25,11 +25,20 @@ if (isset($_REQUEST['id']))
 	$id = $_REQUEST['id'];
 }
 
+$callback = '';
+if (isset($_GET['callback']))
+{
+	$callback = $_GET['callback'];
+}
+
+
 //----------------------------------------------------------------------------------------
 // Get one item from Wikidata
 function get_work($qid, $debug = false)
 {
 	global $config;	
+	
+	$data = null;
 
 	$uri = 'http://www.wikidata.org/entity/' . $qid;
 
@@ -977,40 +986,33 @@ function item_to_csl($data, $debug = true)
 $debug = false;
 //$debug = true;
 
+$citeproc_obj = new stdclass;
 
 $item = get_work($id, $debug);
 
-//print_r($item);
-
-// CSL
-
-$citeproc_obj = item_to_csl($item);  
-
-
-$csljson = json_encode($citeproc_obj, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);	
-echo $csljson;
-
-echo "\n";
-
-
-
-/*
-$callback = '';
-if (isset($_GET['callback']))
+if ($item)
 {
-	$callback = $_GET['callback'];
+	$citeproc_obj = item_to_csl($item);
 }
+
+
+header("Content-type: application/json");
 
 if ($callback != '')
 {
 	echo $callback . '(';
 }
-echo sparql_construct_stream($config['sparql_endpoint'], $query);
+
+
+$csljson = json_encode($citeproc_obj, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);	
+echo $csljson;
+
 if ($callback != '')
 {
 	echo ')';
 }
-*/
+
+
 
 
 ?>
