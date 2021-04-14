@@ -1007,6 +1007,18 @@ function default_display($error_msg = '')
 							<img src="image.php?qid=Q3562793" >
 						</a>
 					</div>	
+					
+					
+					<!-- interesting related papers on barcoding and diet -->
+					<div class="item">
+						<a href="Q35015550">
+							<span>Who\'s for dinner? High-throughput sequencing...</span>
+							<img src="image.php?qid=Q35015550" >
+						</a>
+					</div>	
+					
+					
+					
 		  	</div>
 	  </div><!-- end main panel -->
 
