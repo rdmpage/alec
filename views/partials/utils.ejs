@@ -48,15 +48,18 @@ get_literal = function(key) {
 				if (typeof key[i] === 'object') {
 				
 					switch (key[i]['@language']) {
+						case 'cs':
 						case 'de':
 						case 'en':
 						case 'es':
 						case 'fr':
-						case 'nl':
-						case 'zh':
-						case 'ja':
-						case 'ru':
+						case 'hu':
 						case 'la':
+						case 'ja':
+						case 'nl':
+						case 'pt':
+						case 'ru':
+						case 'zh':
 							// strings in different languages might be the same
 							// e.g., a French string might be used as the English title
 							// for a journal, so still need to check that strings are unique 
