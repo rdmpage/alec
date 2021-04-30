@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56092739</title>
+    <ns>0</ns>
+    <id>56038816</id>
+    <revision>
+      <id>726146026</id>
+      <timestamp>2018-08-15T03:47:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56092739","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ruqgrzyzq6d6jp0t2uqa3lem3mkc2u7</sha1>
+    </revision>
+    <revision>
+      <id>726146030</id>
+      <parentid>726146026</parentid>
+      <timestamp>2018-08-15T03:47:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Beiträge zur Vogelfauna Nordostafrikas</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="178" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dguxnhyi1i0yt02fyid3u90b2egyndf</sha1>
+    </revision>
+    <revision>
+      <id>726146034</id>
+      <parentid>726146030</parentid>
+      <timestamp>2018-08-15T03:47:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Beiträge zur Vogelfauna Nordostafrikas</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="255" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>h36sb5svhxp9948qcdtm70f5r876ogz</sha1>
+    </revision>
+    <revision>
+      <id>726146037</id>
+      <parentid>726146034</parentid>
+      <timestamp>2018-08-15T03:47:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1007/BF02094925</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="514" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qli3wgyvb189z3e1ijathqpjpllttgj</sha1>
+    </revision>
+    <revision>
+      <id>726146043</id>
+      <parentid>726146037</parentid>
+      <timestamp>2018-08-15T03:47:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 142986</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="763" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n8ew6ccikd6jddx1rnkt5q9l5ks9ikc</sha1>
+    </revision>
+    <revision>
+      <id>726146049</id>
+      <parentid>726146043</parentid>
+      <timestamp>2018-08-15T03:47:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1072" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bvnby4c0f4mw0w4d8q23l2dux8iuxyr</sha1>
+    </revision>
+    <revision>
+      <id>726146053</id>
+      <parentid>726146049</parentid>
+      <timestamp>2018-08-15T03:47:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Beiträge zur Vogelfauna Nordostafrikas</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1392" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fi6bnbh277sd8ey7nec6u2vbzii2d1m</sha1>
+    </revision>
+    <revision>
+      <id>726146056</id>
+      <parentid>726146053</parentid>
+      <timestamp>2018-08-15T03:47:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 53</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1635" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m7bfy7gpe78fvq4g0zc16auxpxlck2j</sha1>
+    </revision>
+    <revision>
+      <id>726146062</id>
+      <parentid>726146056</parentid>
+      <timestamp>2018-08-15T03:47:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 433–499</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1888" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ttr3bf98bgqnu6xs3hiz5s95y207ain</sha1>
+    </revision>
+    <revision>
+      <id>726146068</id>
+      <parentid>726146062</parentid>
+      <timestamp>2018-08-15T03:47:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2130" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0jv3ozvwg7olkruunagx78s05mubjtf</sha1>
+    </revision>
+    <revision>
+      <id>726146071</id>
+      <parentid>726146068</parentid>
+      <timestamp>2018-08-15T03:47:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: July 1905</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2510" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5nhn0be3gxpehpclxupvczd2wygaxvk</sha1>
+    </revision>
+    <revision>
+      <id>726146077</id>
+      <parentid>726146071</parentid>
+      <timestamp>2018-08-15T03:47:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Carlo Freiherr</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2767" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8h19wl6kjucjktu26ahs6hnjbx519bp</sha1>
+    </revision>
+    <revision>
+      <id>726146080</id>
+      <parentid>726146077</parentid>
+      <timestamp>2018-08-15T03:47:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2953" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rimrvm4roxv6eb81rufe1zeljnxdhgw</sha1>
+    </revision>
+    <revision>
+      <id>726146086</id>
+      <parentid>726146080</parentid>
+      <timestamp>2018-08-15T03:47:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q473337]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3262" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$8A99D5C3-5B6F-4989-B95F-C4A47837FC42","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1wi7hk6hc03iq4qa6lbm5n8kzdcg7gn</sha1>
+    </revision>
+    <revision>
+      <id>952261720</id>
+      <parentid>726146086</parentid>
+      <timestamp>2019-05-30T20:40:41Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559142680556; Based on 1905 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3569" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$8A99D5C3-5B6F-4989-B95F-C4A47837FC42","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$DB9CAEF7-A9C6-4D4F-B2F5-0C21948A98FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cqvfnumlpfn14por6m1ffmpnsd19gor</sha1>
+    </revision>
+    <revision>
+      <id>952261741</id>
+      <parentid>952261720</parentid>
+      <timestamp>2019-05-30T20:40:45Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559142680556</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3812" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$8A99D5C3-5B6F-4989-B95F-C4A47837FC42","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56092739$DB9CAEF7-A9C6-4D4F-B2F5-0C21948A98FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s5kzg0qg4wwocqcjueoxkz47w17758j</sha1>
+    </revision>
+    <revision>
+      <id>952261777</id>
+      <parentid>952261741</parentid>
+      <timestamp>2019-05-30T20:40:50Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559142680556</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4028" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$8A99D5C3-5B6F-4989-B95F-C4A47837FC42","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56092739$DB9CAEF7-A9C6-4D4F-B2F5-0C21948A98FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>42o9a9hifscr6foyx7d7n2hl9ok6euq</sha1>
+    </revision>
+    <revision>
+      <id>967509300</id>
+      <parentid>952261777</parentid>
+      <timestamp>2019-06-23T13:25:43Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в липні 1905, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4257" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 1905"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$8A99D5C3-5B6F-4989-B95F-C4A47837FC42","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56092739$DB9CAEF7-A9C6-4D4F-B2F5-0C21948A98FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1jpmube8h3v9mg6byk75l2uaukobtcz</sha1>
+    </revision>
+    <revision>
+      <id>1079331852</id>
+      <parentid>967509300</parentid>
+      <timestamp>2019-12-18T23:17:42Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Juli 1905 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24108|batch #24108]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4352" xml:space="preserve">{"type":"item","id":"Q56092739","labels":{"de":{"language":"de","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"},"en":{"language":"en","value":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 1905"},"de":{"language":"de","value":"im Juli 1905 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"02832d1c540ef48db7db7ac0e1d6b9b053395c6a","datavalue":{"value":"10.1007\/BF02094925","type":"string"}},"type":"statement","id":"Q56092739$76B624C9-5A54-4144-8462-E7D95F853B0E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"282e9171c11d96dde9320c8828f594a6a4c7096d","datavalue":{"value":"142986","type":"string"}},"type":"statement","id":"Q56092739$FC3753F8-5851-4AF9-921E-F6F297A019A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$972551AD-2EA5-4529-982F-4F59F56ABF61","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"161ed8a92147f59c92415e4bf0f7ce152657fe4d","datavalue":{"value":{"text":"Beitr\u00e4ge zur Vogelfauna Nordostafrikas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56092739$B2F82B39-0706-44FC-92E8-D7371360D155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e08f2b47ef56ed945d06c8c1f062ad02fa3b7277","datavalue":{"value":"53","type":"string"}},"type":"statement","id":"Q56092739$4E2E5CB0-3116-47AB-974F-D7B828DF4D0A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d37b2b1ddb0fc904d84ae0f34595167ac1231fd4","datavalue":{"value":"433\u2013499","type":"string"}},"type":"statement","id":"Q56092739$6C1AADD0-D684-4EF5-B772-D594E12BAF14","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56092739$FEDD03F3-A112-4615-9232-3ED5DD067A83","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8802f7db3bda6988dd854d73aa483debf1f58f0e","datavalue":{"value":{"time":"+1905-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56092739$21E354ED-B911-48F5-A6AB-B697260F1005","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"432140cb99202ef5904548eeeff4966001f09a1d","datavalue":{"value":"Carlo Freiherr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56092739$0E770093-14EE-40EE-BF04-EB2457728D52","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56092739$8A99D5C3-5B6F-4989-B95F-C4A47837FC42","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56092739$DB9CAEF7-A9C6-4D4F-B2F5-0C21948A98FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e2uelrnx5sae4ftff7lcmi99bp0h6dv</sha1>
+    </revision>
+  </page>
+</mediawiki>

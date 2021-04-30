@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q102182660</title>
+    <ns>0</ns>
+    <id>98968272</id>
+    <revision>
+      <id>1310264223</id>
+      <timestamp>2020-11-21T17:17:15Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1605979004534</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5858" xml:space="preserve">{"type":"item","id":"Q102182660","labels":{"en":{"language":"en","value":"A New Species Of Pseudolambrus (Brachyura, Parthenopidae) From New Caledonia"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"382a908bcd3d85945f094d401bc121a0010c83ef","datavalue":{"value":"10.1163\/EJ.9789004170865.I-366.195","type":"string"}},"type":"statement","id":"Q102182660$D9E2B6FE-8262-4B5B-A81C-7CDB4073FE7A","rank":"normal","references":[{"hash":"eeb228644d0f366c5deec87b037f959338e95918","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"6412e20785daba8cc41a42247b78e4dfb674f149","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.195","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"e4725a00a8fa14f4f3d493cff608200fb0f7cf74","datavalue":{"value":{"entity-type":"item","numeric-id":1980247,"id":"Q1980247"},"type":"wikibase-entityid"}},"type":"statement","id":"Q102182660$03699E20-07DD-4EFA-A58B-C75FEB25916F","rank":"normal","references":[{"hash":"eeb228644d0f366c5deec87b037f959338e95918","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"6412e20785daba8cc41a42247b78e4dfb674f149","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.195","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d2ae84decd802b503708fe80e13e315d883c7013","datavalue":{"value":"329-334","type":"string"}},"type":"statement","id":"Q102182660$6DFE7D8C-D36A-48C3-A006-2FABB29B6997","rank":"normal","references":[{"hash":"eeb228644d0f366c5deec87b037f959338e95918","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"6412e20785daba8cc41a42247b78e4dfb674f149","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.195","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q102182660$89537988-3D23-4BD8-8921-58B3C13273BF","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab4e1b6edb85f096bb8921ef016967bc44f4450d","datavalue":{"value":{"text":"A New Species Of Pseudolambrus (Brachyura, Parthenopidae) From New Caledonia","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q102182660$3FE84A78-98B5-45F6-9888-D43E6A2A5D6C","rank":"normal","references":[{"hash":"eeb228644d0f366c5deec87b037f959338e95918","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"6412e20785daba8cc41a42247b78e4dfb674f149","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.195","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1888786f7310b7802e4b9053380c6764923b6c28","datavalue":{"value":{"time":"+2010-01-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q102182660$FC30B597-EC6E-4D8B-84E5-2BB6AC8D390E","rank":"normal","references":[{"hash":"eeb228644d0f366c5deec87b037f959338e95918","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"6412e20785daba8cc41a42247b78e4dfb674f149","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.195","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P361":[{"mainsnak":{"snaktype":"value","property":"P361","hash":"6813e508e455080ee2a601b625c61b4b5c7e3768","datavalue":{"value":{"entity-type":"item","numeric-id":102181870,"id":"Q102181870"},"type":"wikibase-entityid"}},"type":"statement","id":"Q102182660$D86BE251-2CA3-427D-A247-0C557D7B0530","rank":"normal","references":[{"hash":"eeb228644d0f366c5deec87b037f959338e95918","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"6412e20785daba8cc41a42247b78e4dfb674f149","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.195","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"afd69dc21b4b0a25740eb7758921769145ebefd6","datavalue":{"value":"http:\/\/dx.doi.org\/10.1163\/ej.9789004170865.i-366.195","type":"string"}},"type":"statement","id":"Q102182660$4D39050B-C3ED-45BA-A66F-251DA1D027CC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sx5z6qu6z895eif3gng7jt9qwvw0jy8</sha1>
+    </revision>
+  </page>
+</mediawiki>

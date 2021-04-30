@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q54765580</title>
+    <ns>0</ns>
+    <id>54876607</id>
+    <revision>
+      <id>689732536</id>
+      <timestamp>2018-06-03T13:23:32Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */ #quickstatements; invoked by SourceMD:CreateFromWikispeciesDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2948" xml:space="preserve">{"type":"item","id":"Q54765580","labels":{"en":{"language":"en","value":"A New Species of the Genus Dermacentor (Ixodidae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5d6102364935d9e0b3172a027a8516e8ad68295","datavalue":{"value":"10.1017\/S0031182000005540","type":"string"}},"type":"statement","id":"Q54765580$8E2941DA-B190-4F8A-A6C6-4C3D8ED495BA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$152D2E36-DB99-42B4-888F-3A9F06601CF7","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"62ba9e75b5e288b1c731d47d6dfb4b94713032f8","datavalue":{"value":{"text":"A New Species of the Genus Dermacentor (Ixodidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54765580$DAA380E4-6093-4AD2-88D4-42A07DB69499","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q54765580$7F18E037-C531-466D-9926-52A876B7400A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c6d512c48926ffe971440406cdac3f31987cde0","datavalue":{"value":"84","type":"string"}},"type":"statement","id":"Q54765580$FB662C8C-94EC-45A8-8F65-59F273254E1E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q54765580$8950FA90-9DB5-4D2F-B7E7-2146CECDAF15","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a2861d622ef0b13a2ade6d4d52647066d00b899d","datavalue":{"value":{"time":"+1927-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54765580$40F8B1C0-6D2A-4E3F-BDD2-52F5E30645BF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d7812ccf6c46ecda58f6dee030fda55e1b937e10","datavalue":{"value":{"entity-type":"item","numeric-id":15753259,"id":"Q15753259"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$785D5DF4-F518-43DE-A56F-450C45F26654","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5840050a8be2663712e5c98b7a8b3a5b2fb1300d","datavalue":{"value":"N. O. Olenev","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54765580$F0B36C61-859B-46F1-961D-C9A08FE59FEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5zf6hd1kuex2fzk775e1t25oz6sl35h</sha1>
+    </revision>
+    <revision>
+      <id>705853298</id>
+      <parentid>689732536</parentid>
+      <timestamp>2018-07-04T01:27:59Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3077" xml:space="preserve">{"type":"item","id":"Q54765580","labels":{"en":{"language":"en","value":"A New Species of the Genus Dermacentor (Ixodidae)"},"nl":{"language":"nl","value":"A New Species of the Genus Dermacentor"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5d6102364935d9e0b3172a027a8516e8ad68295","datavalue":{"value":"10.1017\/S0031182000005540","type":"string"}},"type":"statement","id":"Q54765580$8E2941DA-B190-4F8A-A6C6-4C3D8ED495BA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$152D2E36-DB99-42B4-888F-3A9F06601CF7","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"62ba9e75b5e288b1c731d47d6dfb4b94713032f8","datavalue":{"value":{"text":"A New Species of the Genus Dermacentor (Ixodidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54765580$DAA380E4-6093-4AD2-88D4-42A07DB69499","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q54765580$7F18E037-C531-466D-9926-52A876B7400A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c6d512c48926ffe971440406cdac3f31987cde0","datavalue":{"value":"84","type":"string"}},"type":"statement","id":"Q54765580$FB662C8C-94EC-45A8-8F65-59F273254E1E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q54765580$8950FA90-9DB5-4D2F-B7E7-2146CECDAF15","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a2861d622ef0b13a2ade6d4d52647066d00b899d","datavalue":{"value":{"time":"+1927-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54765580$40F8B1C0-6D2A-4E3F-BDD2-52F5E30645BF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d7812ccf6c46ecda58f6dee030fda55e1b937e10","datavalue":{"value":{"entity-type":"item","numeric-id":15753259,"id":"Q15753259"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$785D5DF4-F518-43DE-A56F-450C45F26654","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5840050a8be2663712e5c98b7a8b3a5b2fb1300d","datavalue":{"value":"N. O. Olenev","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54765580$F0B36C61-859B-46F1-961D-C9A08FE59FEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7g5o0avgvf6rlhvhhq1zdd3pgw29tn3</sha1>
+    </revision>
+    <revision>
+      <id>710656410</id>
+      <parentid>705853298</parentid>
+      <timestamp>2018-07-14T10:34:37Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], #quickstatements; [[:toollabs:quickstatements/#mode=batch&amp;batch=3214|batch #3214]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3388" xml:space="preserve">{"type":"item","id":"Q54765580","labels":{"en":{"language":"en","value":"A New Species of the Genus Dermacentor (Ixodidae)"},"nl":{"language":"nl","value":"A New Species of the Genus Dermacentor"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5d6102364935d9e0b3172a027a8516e8ad68295","datavalue":{"value":"10.1017\/S0031182000005540","type":"string"}},"type":"statement","id":"Q54765580$8E2941DA-B190-4F8A-A6C6-4C3D8ED495BA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$152D2E36-DB99-42B4-888F-3A9F06601CF7","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"62ba9e75b5e288b1c731d47d6dfb4b94713032f8","datavalue":{"value":{"text":"A New Species of the Genus Dermacentor (Ixodidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54765580$DAA380E4-6093-4AD2-88D4-42A07DB69499","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q54765580$7F18E037-C531-466D-9926-52A876B7400A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c6d512c48926ffe971440406cdac3f31987cde0","datavalue":{"value":"84","type":"string"}},"type":"statement","id":"Q54765580$FB662C8C-94EC-45A8-8F65-59F273254E1E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q54765580$8950FA90-9DB5-4D2F-B7E7-2146CECDAF15","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a2861d622ef0b13a2ade6d4d52647066d00b899d","datavalue":{"value":{"time":"+1927-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54765580$40F8B1C0-6D2A-4E3F-BDD2-52F5E30645BF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d7812ccf6c46ecda58f6dee030fda55e1b937e10","datavalue":{"value":{"entity-type":"item","numeric-id":15753259,"id":"Q15753259"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$785D5DF4-F518-43DE-A56F-450C45F26654","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5840050a8be2663712e5c98b7a8b3a5b2fb1300d","datavalue":{"value":"N. O. Olenev","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54765580$F0B36C61-859B-46F1-961D-C9A08FE59FEF","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$CBC8DF7A-C273-4E64-A7EB-5261525025D9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5cvtxorzecx8fy3nmchhgv09g0f3ixc</sha1>
+    </revision>
+    <revision>
+      <id>962865113</id>
+      <parentid>710656410</parentid>
+      <timestamp>2019-06-15T14:37:42Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в березні 1927, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3630" xml:space="preserve">{"type":"item","id":"Q54765580","labels":{"en":{"language":"en","value":"A New Species of the Genus Dermacentor (Ixodidae)"},"nl":{"language":"nl","value":"A New Species of the Genus Dermacentor"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0431\u0435\u0440\u0435\u0437\u043d\u0456 1927"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5d6102364935d9e0b3172a027a8516e8ad68295","datavalue":{"value":"10.1017\/S0031182000005540","type":"string"}},"type":"statement","id":"Q54765580$8E2941DA-B190-4F8A-A6C6-4C3D8ED495BA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$152D2E36-DB99-42B4-888F-3A9F06601CF7","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"62ba9e75b5e288b1c731d47d6dfb4b94713032f8","datavalue":{"value":{"text":"A New Species of the Genus Dermacentor (Ixodidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54765580$DAA380E4-6093-4AD2-88D4-42A07DB69499","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q54765580$7F18E037-C531-466D-9926-52A876B7400A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c6d512c48926ffe971440406cdac3f31987cde0","datavalue":{"value":"84","type":"string"}},"type":"statement","id":"Q54765580$FB662C8C-94EC-45A8-8F65-59F273254E1E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q54765580$8950FA90-9DB5-4D2F-B7E7-2146CECDAF15","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a2861d622ef0b13a2ade6d4d52647066d00b899d","datavalue":{"value":{"time":"+1927-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54765580$40F8B1C0-6D2A-4E3F-BDD2-52F5E30645BF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d7812ccf6c46ecda58f6dee030fda55e1b937e10","datavalue":{"value":{"entity-type":"item","numeric-id":15753259,"id":"Q15753259"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$785D5DF4-F518-43DE-A56F-450C45F26654","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5840050a8be2663712e5c98b7a8b3a5b2fb1300d","datavalue":{"value":"N. O. Olenev","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54765580$F0B36C61-859B-46F1-961D-C9A08FE59FEF","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$CBC8DF7A-C273-4E64-A7EB-5261525025D9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>je9tzvysqn7ht8li2ojed601jhkazxv</sha1>
+    </revision>
+    <revision>
+      <id>1200184740</id>
+      <parentid>962865113</parentid>
+      <timestamp>2020-06-06T06:07:37Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im März 1927 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/36454|batch #36454]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3730" xml:space="preserve">{"type":"item","id":"Q54765580","labels":{"en":{"language":"en","value":"A New Species of the Genus Dermacentor (Ixodidae)"},"nl":{"language":"nl","value":"A New Species of the Genus Dermacentor"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0431\u0435\u0440\u0435\u0437\u043d\u0456 1927"},"de":{"language":"de","value":"im M\u00e4rz 1927 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5d6102364935d9e0b3172a027a8516e8ad68295","datavalue":{"value":"10.1017\/S0031182000005540","type":"string"}},"type":"statement","id":"Q54765580$8E2941DA-B190-4F8A-A6C6-4C3D8ED495BA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$152D2E36-DB99-42B4-888F-3A9F06601CF7","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"62ba9e75b5e288b1c731d47d6dfb4b94713032f8","datavalue":{"value":{"text":"A New Species of the Genus Dermacentor (Ixodidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54765580$DAA380E4-6093-4AD2-88D4-42A07DB69499","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q54765580$7F18E037-C531-466D-9926-52A876B7400A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c6d512c48926ffe971440406cdac3f31987cde0","datavalue":{"value":"84","type":"string"}},"type":"statement","id":"Q54765580$FB662C8C-94EC-45A8-8F65-59F273254E1E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q54765580$8950FA90-9DB5-4D2F-B7E7-2146CECDAF15","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a2861d622ef0b13a2ade6d4d52647066d00b899d","datavalue":{"value":{"time":"+1927-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54765580$40F8B1C0-6D2A-4E3F-BDD2-52F5E30645BF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d7812ccf6c46ecda58f6dee030fda55e1b937e10","datavalue":{"value":{"entity-type":"item","numeric-id":15753259,"id":"Q15753259"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$785D5DF4-F518-43DE-A56F-450C45F26654","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5840050a8be2663712e5c98b7a8b3a5b2fb1300d","datavalue":{"value":"N. O. Olenev","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54765580$F0B36C61-859B-46F1-961D-C9A08FE59FEF","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54765580$CBC8DF7A-C273-4E64-A7EB-5261525025D9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j97fw6gn2iliy3a0ojeujvm80prbyqa</sha1>
+    </revision>
+  </page>
+</mediawiki>

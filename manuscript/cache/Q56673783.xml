@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56673783</title>
+    <ns>0</ns>
+    <id>56615015</id>
+    <revision>
+      <id>749209873</id>
+      <timestamp>2018-09-20T04:19:54Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1537410496769; invoked by SourceMD:CreateFromWikipediaDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3027" xml:space="preserve">{"type":"item","id":"Q56673783","labels":{"en":{"language":"en","value":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"30ea6e9e43575bb04a5632051a5c058afaec89f9","datavalue":{"value":"10.1016\/J.CRPV.2005.03.002","type":"string"}},"type":"statement","id":"Q56673783$58B5A974-26BB-4DCE-AFAE-A330B9EEF239","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$ACEAE7EB-5C01-4CEF-8C3D-535DD5265943","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d379b001d23af3dfbb864a2b83101815bc1c5b99","datavalue":{"value":{"text":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56673783$758D7630-6AFF-4C81-82AF-7D27A9A3345D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$8A97656C-99B6-4873-A150-4657B160CE40","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"476f50148e588ab10d49137f4e69fb35493257a9","datavalue":{"value":"327-340","type":"string"}},"type":"statement","id":"Q56673783$A0500AF6-B5A5-49E0-B0EB-7E004D06AC65","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$4C056465-7E49-466F-8F1B-B46337E93052","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15a3fa481be186272b99634bc446ce840a0ae546","datavalue":{"value":{"time":"+2005-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56673783$5B71373E-6FF0-446B-8308-5189A538E964","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c091d7a48a02653e580e745a3344314a783cdd93","datavalue":{"value":{"entity-type":"item","numeric-id":3939499,"id":"Q3939499"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$F799536D-2B05-4660-9081-9B1D7297ACE8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"01d989a9d4cdf24d7c259e79ea668b374703c45d","datavalue":{"value":"William G. Parker","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56673783$B9D6313B-21B0-4E1F-8C1B-12B35DCE2CDD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ed1cvj8bd2ifzfq03bkcwhhw7w0gg7x</sha1>
+    </revision>
+    <revision>
+      <id>771741881</id>
+      <parentid>749209873</parentid>
+      <timestamp>2018-10-24T05:11:18Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3175" xml:space="preserve">{"type":"item","id":"Q56673783","labels":{"en":{"language":"en","value":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)"},"nl":{"language":"nl","value":"A new species of the Late Triassic aetosaur Desmatosuchus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"30ea6e9e43575bb04a5632051a5c058afaec89f9","datavalue":{"value":"10.1016\/J.CRPV.2005.03.002","type":"string"}},"type":"statement","id":"Q56673783$58B5A974-26BB-4DCE-AFAE-A330B9EEF239","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$ACEAE7EB-5C01-4CEF-8C3D-535DD5265943","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d379b001d23af3dfbb864a2b83101815bc1c5b99","datavalue":{"value":{"text":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56673783$758D7630-6AFF-4C81-82AF-7D27A9A3345D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$8A97656C-99B6-4873-A150-4657B160CE40","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"476f50148e588ab10d49137f4e69fb35493257a9","datavalue":{"value":"327-340","type":"string"}},"type":"statement","id":"Q56673783$A0500AF6-B5A5-49E0-B0EB-7E004D06AC65","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$4C056465-7E49-466F-8F1B-B46337E93052","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15a3fa481be186272b99634bc446ce840a0ae546","datavalue":{"value":{"time":"+2005-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56673783$5B71373E-6FF0-446B-8308-5189A538E964","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c091d7a48a02653e580e745a3344314a783cdd93","datavalue":{"value":{"entity-type":"item","numeric-id":3939499,"id":"Q3939499"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$F799536D-2B05-4660-9081-9B1D7297ACE8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"01d989a9d4cdf24d7c259e79ea668b374703c45d","datavalue":{"value":"William G. Parker","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56673783$B9D6313B-21B0-4E1F-8C1B-12B35DCE2CDD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0x9ko5oocv3k7ie4krybbxssx6bgxaj</sha1>
+    </revision>
+    <revision>
+      <id>966596619</id>
+      <parentid>771741881</parentid>
+      <timestamp>2019-06-21T23:40:54Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в червні 2005, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3411" xml:space="preserve">{"type":"item","id":"Q56673783","labels":{"en":{"language":"en","value":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)"},"nl":{"language":"nl","value":"A new species of the Late Triassic aetosaur Desmatosuchus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2005"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"30ea6e9e43575bb04a5632051a5c058afaec89f9","datavalue":{"value":"10.1016\/J.CRPV.2005.03.002","type":"string"}},"type":"statement","id":"Q56673783$58B5A974-26BB-4DCE-AFAE-A330B9EEF239","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$ACEAE7EB-5C01-4CEF-8C3D-535DD5265943","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d379b001d23af3dfbb864a2b83101815bc1c5b99","datavalue":{"value":{"text":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56673783$758D7630-6AFF-4C81-82AF-7D27A9A3345D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$8A97656C-99B6-4873-A150-4657B160CE40","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"476f50148e588ab10d49137f4e69fb35493257a9","datavalue":{"value":"327-340","type":"string"}},"type":"statement","id":"Q56673783$A0500AF6-B5A5-49E0-B0EB-7E004D06AC65","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$4C056465-7E49-466F-8F1B-B46337E93052","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15a3fa481be186272b99634bc446ce840a0ae546","datavalue":{"value":{"time":"+2005-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56673783$5B71373E-6FF0-446B-8308-5189A538E964","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c091d7a48a02653e580e745a3344314a783cdd93","datavalue":{"value":{"entity-type":"item","numeric-id":3939499,"id":"Q3939499"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$F799536D-2B05-4660-9081-9B1D7297ACE8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"01d989a9d4cdf24d7c259e79ea668b374703c45d","datavalue":{"value":"William G. Parker","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56673783$B9D6313B-21B0-4E1F-8C1B-12B35DCE2CDD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rkb6m70x9kft7yvc5prucw88t9mdiot</sha1>
+    </revision>
+    <revision>
+      <id>971916364</id>
+      <parentid>966596619</parentid>
+      <timestamp>2019-06-30T17:22:12Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3452" xml:space="preserve">{"type":"item","id":"Q56673783","labels":{"en":{"language":"en","value":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)"},"nl":{"language":"nl","value":"A new species of the Late Triassic aetosaur Desmatosuchus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2005"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"30ea6e9e43575bb04a5632051a5c058afaec89f9","datavalue":{"value":"10.1016\/J.CRPV.2005.03.002","type":"string"}},"type":"statement","id":"Q56673783$58B5A974-26BB-4DCE-AFAE-A330B9EEF239","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$ACEAE7EB-5C01-4CEF-8C3D-535DD5265943","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d379b001d23af3dfbb864a2b83101815bc1c5b99","datavalue":{"value":{"text":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56673783$758D7630-6AFF-4C81-82AF-7D27A9A3345D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$8A97656C-99B6-4873-A150-4657B160CE40","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"476f50148e588ab10d49137f4e69fb35493257a9","datavalue":{"value":"327-340","type":"string"}},"type":"statement","id":"Q56673783$A0500AF6-B5A5-49E0-B0EB-7E004D06AC65","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$4C056465-7E49-466F-8F1B-B46337E93052","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15a3fa481be186272b99634bc446ce840a0ae546","datavalue":{"value":{"time":"+2005-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56673783$5B71373E-6FF0-446B-8308-5189A538E964","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c091d7a48a02653e580e745a3344314a783cdd93","datavalue":{"value":{"entity-type":"item","numeric-id":3939499,"id":"Q3939499"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$F799536D-2B05-4660-9081-9B1D7297ACE8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"01d989a9d4cdf24d7c259e79ea668b374703c45d","datavalue":{"value":"William G. Parker","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56673783$B9D6313B-21B0-4E1F-8C1B-12B35DCE2CDD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8wpgcrhipamx4ftx069gnuf6hglph7k</sha1>
+    </revision>
+    <revision>
+      <id>1119178356</id>
+      <parentid>971916364</parentid>
+      <timestamp>2020-02-20T12:50:30Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1582187301015</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3516" xml:space="preserve">{"type":"item","id":"Q56673783","labels":{"en":{"language":"en","value":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)"},"nl":{"language":"nl","value":"A new species of the Late Triassic aetosaur Desmatosuchus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2005"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"30ea6e9e43575bb04a5632051a5c058afaec89f9","datavalue":{"value":"10.1016\/J.CRPV.2005.03.002","type":"string"}},"type":"statement","id":"Q56673783$58B5A974-26BB-4DCE-AFAE-A330B9EEF239","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$ACEAE7EB-5C01-4CEF-8C3D-535DD5265943","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d379b001d23af3dfbb864a2b83101815bc1c5b99","datavalue":{"value":{"text":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56673783$758D7630-6AFF-4C81-82AF-7D27A9A3345D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$8A97656C-99B6-4873-A150-4657B160CE40","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"476f50148e588ab10d49137f4e69fb35493257a9","datavalue":{"value":"327-340","type":"string"}},"type":"statement","id":"Q56673783$A0500AF6-B5A5-49E0-B0EB-7E004D06AC65","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$4C056465-7E49-466F-8F1B-B46337E93052","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15a3fa481be186272b99634bc446ce840a0ae546","datavalue":{"value":{"time":"+2005-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56673783$5B71373E-6FF0-446B-8308-5189A538E964","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c091d7a48a02653e580e745a3344314a783cdd93","datavalue":{"value":{"entity-type":"item","numeric-id":3939499,"id":"Q3939499"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$F799536D-2B05-4660-9081-9B1D7297ACE8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"01d989a9d4cdf24d7c259e79ea668b374703c45d","datavalue":{"value":"William G. Parker","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56673783$B9D6313B-21B0-4E1F-8C1B-12B35DCE2CDD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5xuiuufwvtapwqwi5zpdihtg2kl8fps</sha1>
+    </revision>
+    <revision>
+      <id>1185658929</id>
+      <parentid>1119178356</parentid>
+      <timestamp>2020-05-20T14:00:50Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], [[:toollabs:quickstatements/#/batch/34345|batch #34345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3827" xml:space="preserve">{"type":"item","id":"Q56673783","labels":{"en":{"language":"en","value":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)"},"nl":{"language":"nl","value":"A new species of the Late Triassic aetosaur Desmatosuchus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2005"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"30ea6e9e43575bb04a5632051a5c058afaec89f9","datavalue":{"value":"10.1016\/J.CRPV.2005.03.002","type":"string"}},"type":"statement","id":"Q56673783$58B5A974-26BB-4DCE-AFAE-A330B9EEF239","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$ACEAE7EB-5C01-4CEF-8C3D-535DD5265943","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d379b001d23af3dfbb864a2b83101815bc1c5b99","datavalue":{"value":{"text":"A new species of the Late Triassic aetosaur Desmatosuchus (Archosauria: Pseudosuchia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56673783$758D7630-6AFF-4C81-82AF-7D27A9A3345D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$8A97656C-99B6-4873-A150-4657B160CE40","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"476f50148e588ab10d49137f4e69fb35493257a9","datavalue":{"value":"327-340","type":"string"}},"type":"statement","id":"Q56673783$A0500AF6-B5A5-49E0-B0EB-7E004D06AC65","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56673783$4C056465-7E49-466F-8F1B-B46337E93052","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15a3fa481be186272b99634bc446ce840a0ae546","datavalue":{"value":{"time":"+2005-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56673783$5B71373E-6FF0-446B-8308-5189A538E964","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c091d7a48a02653e580e745a3344314a783cdd93","datavalue":{"value":{"entity-type":"item","numeric-id":3939499,"id":"Q3939499"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$F799536D-2B05-4660-9081-9B1D7297ACE8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"01d989a9d4cdf24d7c259e79ea668b374703c45d","datavalue":{"value":"William G. Parker","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56673783$B9D6313B-21B0-4E1F-8C1B-12B35DCE2CDD","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56673783$1DBA34FD-0932-4E00-AA61-2B1922B706AC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qslqiyem2jlt43mflbrz6bdmcfqeid6</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,74 @@
+digraph G {
+rankdir=LR;
+
+item [label="Q28960244"];
+
+journal [label="Q2003024"]
+
+title [shape=rectangle, style=filled, color=yellow, label="A New Subgeneric Classification for Euphorbia (Euphorbiaceae)..."];
+volume [shape=rectangle, style=filled, color=yellow, label="55"];
+issue [shape=rectangle, style=filled, color=yellow, label="2"];
+page [shape=rectangle, style=filled, color=yellow, label="397-420"];
+date [shape=rectangle, style=filled, color=yellow, label="1 May 2006"];
+
+
+
+doi [shape=rectangle, style=filled, color=yellow, label="10.2307/25065587"];
+
+pubtitle [shape=rectangle, style=filled, color=yellow, label="Taxon"];
+
+
+author1name [shape=rectangle, style=filled, color=yellow, label="Peter V. Bruyns"];
+
+author1 [label="Q102203677"];
+
+author2 [shape=rectangle, style=filled, color=yellow, label="Ruvimbo J. Mapaya"];
+author3 [shape=rectangle, style=filled, color=yellow, label="Terrence Hedderson"];
+
+/* qualifiers */
+
+s1 [shape="circle", label=""];
+s2 [shape="circle", label=""];
+s3 [shape="circle", label=""];
+
+
+/* cites */
+
+cites1  [label="Q55779815"];
+cites2  [label="Q55761533"];
+cites3  [label="Q56191745"];
+
+/* authors */
+item -> s1 [label="P50:author"];
+s1 -> author1 [label="value"];
+s1 -> 1 [label="P1545:series ordinal"];
+
+author1 -> author1name [label="rdfs:label"];
+
+item -> s2 [label="P2093:author name string"];
+s2 -> author2 [label="value"];
+s2 -> 2 [label="P1545:series ordinal"];
+
+item -> s3 [label="P2093:author name string"];
+s3 -> author3[label="value"];
+s3 -> 3 [label="P1545:series ordinal"];
+
+
+
+
+item -> journal [label="P1433:published in"];
+journal -> pubtitle [label="P1473:title"];
+
+item -> title [label="P1473:title"];
+item -> volume [label="P478:volume"];
+item -> issue [label="P433:issue"];
+item -> page [label="P304:page(s)"];
+item -> date [label="P577:publication date"];
+item -> doi [label="P356:doi"];
+
+item -> cites1 [label="P2860:cites work"];
+item -> cites2 [label="P2860:cites work"];
+item -> cites3 [label="P2860:cites work"];
+
+
+}

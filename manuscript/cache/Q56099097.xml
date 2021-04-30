@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56099097</title>
+    <ns>0</ns>
+    <id>56044787</id>
+    <revision>
+      <id>726376000</id>
+      <timestamp>2018-08-15T12:04:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56099097","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>84wg5o1as4qh87dcdgom9tj8too4f95</sha1>
+    </revision>
+    <revision>
+      <id>726376005</id>
+      <parentid>726376000</parentid>
+      <timestamp>2018-08-15T12:04:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ XIII.—Two new genera of African Muscoidea</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="181" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>s373h5y6x3i92ygkqmf58ryzu3kzemb</sha1>
+    </revision>
+    <revision>
+      <id>726376010</id>
+      <parentid>726376005</parentid>
+      <timestamp>2018-08-15T12:04:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ XIII.—Two new genera of African Muscoidea</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="261" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rdnr5o5k6xfapntsrlgnj7mxqtr7hwb</sha1>
+    </revision>
+    <revision>
+      <id>726376018</id>
+      <parentid>726376010</parentid>
+      <timestamp>2018-08-15T12:04:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00222931608693763</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="527" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>debujsmozzyajbik3tg8w4ttiyijbk1</sha1>
+    </revision>
+    <revision>
+      <id>726376024</id>
+      <parentid>726376018</parentid>
+      <timestamp>2018-08-15T12:04:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 98848</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="775" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5lg6hisdabv83mfqdnommao04i8w1up</sha1>
+    </revision>
+    <revision>
+      <id>726376031</id>
+      <parentid>726376024</parentid>
+      <timestamp>2018-08-15T12:04:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1084" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>87gdamvdvtm9b0ivn57dqr3ot6mhbuf</sha1>
+    </revision>
+    <revision>
+      <id>726376038</id>
+      <parentid>726376031</parentid>
+      <timestamp>2018-08-15T12:04:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: XIII.—Two new genera of African Muscoidea</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1407" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dibxrj9cwt60t46492tj2qyoua1obh2</sha1>
+    </revision>
+    <revision>
+      <id>726376043</id>
+      <parentid>726376038</parentid>
+      <timestamp>2018-08-15T12:04:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 17</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1650" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4gkxy3y0utfan6u96pyvxr7qrjpcj7o</sha1>
+    </revision>
+    <revision>
+      <id>726376051</id>
+      <parentid>726376043</parentid>
+      <timestamp>2018-08-15T12:04:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 174–176</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1903" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kxdu5d2frh7syjebsli7pqhdmk1a4va</sha1>
+    </revision>
+    <revision>
+      <id>726376057</id>
+      <parentid>726376051</parentid>
+      <timestamp>2018-08-15T12:04:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 98</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2146" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ajyvy1cy2adkljkc9n7mv25p3wn0a5q</sha1>
+    </revision>
+    <revision>
+      <id>726376064</id>
+      <parentid>726376057</parentid>
+      <timestamp>2018-08-15T12:04:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: February 1916</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2526" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8qfp2j4to0qax6v8hl7nxrny6cgqp97</sha1>
+    </revision>
+    <revision>
+      <id>726376073</id>
+      <parentid>726376064</parentid>
+      <timestamp>2018-08-15T12:04:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Charles H. T. Townsend</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2791" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mheemdl1b70a0wpdk0f1ihtjc7o6nb0</sha1>
+    </revision>
+    <revision>
+      <id>726376083</id>
+      <parentid>726376073</parentid>
+      <timestamp>2018-08-15T12:04:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2977" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k083s9z0qx3kq5pa9oc0ntrux5rnjv6</sha1>
+    </revision>
+    <revision>
+      <id>726376090</id>
+      <parentid>726376083</parentid>
+      <timestamp>2018-08-15T12:04:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19798858]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3290" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$EA0F6221-7E8C-49DF-973C-F61F45B1898D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mjxozhz2t9vfpgxvqa31eyq6rsi3eos</sha1>
+    </revision>
+    <revision>
+      <id>738419279</id>
+      <parentid>726376090</parentid>
+      <timestamp>2018-09-02T07:04:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 18616963, According to [[Property:P5315]]=98848</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3539" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$EA0F6221-7E8C-49DF-973C-F61F45B1898D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d6dc52fb5de99c51b0170a7321a0c4f67f6f97c5","datavalue":{"value":"18616963","type":"string"}},"type":"statement","id":"Q56099097$1BA3A507-F4F6-4697-A961-788587245A23","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kvl73hmp6uas7pa7xa8j7zq32mf08h4</sha1>
+    </revision>
+    <revision>
+      <id>781359289</id>
+      <parentid>738419279</parentid>
+      <timestamp>2018-11-04T00:42:07Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3676" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"},"nl":{"language":"nl","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$EA0F6221-7E8C-49DF-973C-F61F45B1898D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d6dc52fb5de99c51b0170a7321a0c4f67f6f97c5","datavalue":{"value":"18616963","type":"string"}},"type":"statement","id":"Q56099097$1BA3A507-F4F6-4697-A961-788587245A23","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qgjfa5p2ghfd62364sm4d6zmb4n58dv</sha1>
+    </revision>
+    <revision>
+      <id>961353480</id>
+      <parentid>781359289</parentid>
+      <timestamp>2019-06-13T10:47:05Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в лютому 1916, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3912" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"},"nl":{"language":"nl","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$EA0F6221-7E8C-49DF-973C-F61F45B1898D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d6dc52fb5de99c51b0170a7321a0c4f67f6f97c5","datavalue":{"value":"18616963","type":"string"}},"type":"statement","id":"Q56099097$1BA3A507-F4F6-4697-A961-788587245A23","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d7qavz393r5g7lfmkdr4ph1aydyo9yh</sha1>
+    </revision>
+    <revision>
+      <id>1129975988</id>
+      <parentid>961353480</parentid>
+      <timestamp>2020-03-06T01:38:52Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4215" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"},"nl":{"language":"nl","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$EA0F6221-7E8C-49DF-973C-F61F45B1898D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d6dc52fb5de99c51b0170a7321a0c4f67f6f97c5","datavalue":{"value":"18616963","type":"string"}},"type":"statement","id":"Q56099097$1BA3A507-F4F6-4697-A961-788587245A23","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$807F5E42-AAD0-4B98-8CEC-86BDC136209F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7rmydbq91bym3j2i4hwhz30430ylp5j</sha1>
+    </revision>
+    <revision>
+      <id>1271400506</id>
+      <parentid>1129975988</parentid>
+      <timestamp>2020-09-04T21:05:27Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Februar 1916 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4313" xml:space="preserve">{"type":"item","id":"Q56099097","labels":{"de":{"language":"de","value":"XIII.\u2014Two new genera of African Muscoidea"},"en":{"language":"en","value":"XIII.\u2014Two new genera of African Muscoidea"},"nl":{"language":"nl","value":"XIII.\u2014Two new genera of African Muscoidea"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1916"},"de":{"language":"de","value":"im Februar 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b3636d41951a187d2a5de2ac516775262e620dea","datavalue":{"value":"10.1080\/00222931608693763","type":"string"}},"type":"statement","id":"Q56099097$D76BE717-621B-4419-8214-F6FB681E17B5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a8dfc52f018566d079db43a1952d87869b0ec36f","datavalue":{"value":"98848","type":"string"}},"type":"statement","id":"Q56099097$30046215-E74B-4AE3-ABDD-68E47B84F236","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$D440C1D3-DAB3-4C15-B21A-3AAA2623DC8B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"15d8208b2a2d1b0011ee0766f6b224d61e90d7a6","datavalue":{"value":{"text":"XIII.\u2014Two new genera of African Muscoidea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099097$8F28D3BC-1141-4D10-B7F1-B795D18FD9E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099097$FD69188B-223E-4658-9DE5-061C7858B38D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e8efcf44a4646a05995f4d379420aecd0d899c34","datavalue":{"value":"174\u2013176","type":"string"}},"type":"statement","id":"Q56099097$77D3A577-BB24-44CD-9265-17514D1930A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ed766ccbf80d67ee0af4f133ec48d3cc995ee34b","datavalue":{"value":"98","type":"string"}},"type":"statement","id":"Q56099097$9D98BDE8-7D85-44C8-83E0-EE40295C527E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9f161a4c898556fcaaad536e6c6a6a9f2dc89e17","datavalue":{"value":{"time":"+1916-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099097$7481F742-E37C-4510-8DB3-0657CF54ED1C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099097$AD1D0CD1-BC62-42B8-B58A-50140CE25815","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$EA0F6221-7E8C-49DF-973C-F61F45B1898D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d6dc52fb5de99c51b0170a7321a0c4f67f6f97c5","datavalue":{"value":"18616963","type":"string"}},"type":"statement","id":"Q56099097$1BA3A507-F4F6-4697-A961-788587245A23","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099097$807F5E42-AAD0-4B98-8CEC-86BDC136209F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gunz0b4i03h7798l8m13ckh3ou0aify</sha1>
+    </revision>
+  </page>
+</mediawiki>

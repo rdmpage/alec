@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56099157</title>
+    <ns>0</ns>
+    <id>56044848</id>
+    <revision>
+      <id>726380373</id>
+      <timestamp>2018-08-15T12:13:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56099157","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>sgazq8r99vealsdbp4vv88xearqr084</sha1>
+    </revision>
+    <revision>
+      <id>726380380</id>
+      <parentid>726380373</parentid>
+      <timestamp>2018-08-15T12:13:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ V.—The Homoptera of Indo-China</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="170" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8a2inyjaj5g6cjm3vvss5t7ewqeaxiv</sha1>
+    </revision>
+    <revision>
+      <id>726380385</id>
+      <parentid>726380380</parentid>
+      <timestamp>2018-08-15T12:13:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ V.—The Homoptera of Indo-China</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="239" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dq3yxon9emm5q242uqqxzkkx0uxtoq7</sha1>
+    </revision>
+    <revision>
+      <id>726380389</id>
+      <parentid>726380385</parentid>
+      <timestamp>2018-08-15T12:13:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00222931709486914</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="505" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jm1hdjqbptlgcdeubmiwq8qyk92fdk4</sha1>
+    </revision>
+    <revision>
+      <id>726380397</id>
+      <parentid>726380389</parentid>
+      <timestamp>2018-08-15T12:13:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 99076</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="753" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dun0s9dl81ms6rc5sx4lguap6lf0xi3</sha1>
+    </revision>
+    <revision>
+      <id>726380404</id>
+      <parentid>726380397</parentid>
+      <timestamp>2018-08-15T12:13:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1062" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k95jtoi79k2wo79c42ieeel1l51mmi4</sha1>
+    </revision>
+    <revision>
+      <id>726380408</id>
+      <parentid>726380404</parentid>
+      <timestamp>2018-08-15T12:13:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: V.—The Homoptera of Indo-China</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1374" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r4jdbe5hfht6t3w1r8hlrb6qi77y5rg</sha1>
+    </revision>
+    <revision>
+      <id>726380413</id>
+      <parentid>726380408</parentid>
+      <timestamp>2018-08-15T12:13:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 19</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1617" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qi5aavshdg0nue03ai56rokj8ptcpbo</sha1>
+    </revision>
+    <revision>
+      <id>726380421</id>
+      <parentid>726380413</parentid>
+      <timestamp>2018-08-15T12:13:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 100–104</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1870" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>28z6ligr80n09daa9fv42jsv2mnhvac</sha1>
+    </revision>
+    <revision>
+      <id>726380432</id>
+      <parentid>726380421</parentid>
+      <timestamp>2018-08-15T12:13:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 109</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2114" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6bu7v7dr45sd01rml402qjqegx9zp0h</sha1>
+    </revision>
+    <revision>
+      <id>726380442</id>
+      <parentid>726380432</parentid>
+      <timestamp>2018-08-15T12:13:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: January 1917</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2494" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tg6bw38m2gwcn9e911wno3n0774v3be</sha1>
+    </revision>
+    <revision>
+      <id>726380447</id>
+      <parentid>726380442</parentid>
+      <timestamp>2018-08-15T12:13:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: W. L. Distant</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2750" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fb6gqn9lsct0htj9prmchex3f4s73kd</sha1>
+    </revision>
+    <revision>
+      <id>726380453</id>
+      <parentid>726380447</parentid>
+      <timestamp>2018-08-15T12:13:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2936" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7vdpz1io2pw2vxuzm3na58hgd12x1gh</sha1>
+    </revision>
+    <revision>
+      <id>726380460</id>
+      <parentid>726380453</parentid>
+      <timestamp>2018-08-15T12:13:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19798858]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3249" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7EED149B-110F-4D42-92DF-C07CDD542E39","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>guy6xeyc7d7wux0v1hbhidv58pg506x</sha1>
+    </revision>
+    <revision>
+      <id>781358516</id>
+      <parentid>726380460</parentid>
+      <timestamp>2018-11-04T00:40:57Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3375" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"},"nl":{"language":"nl","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7EED149B-110F-4D42-92DF-C07CDD542E39","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>12a908doaygyx2qkzhq0fro4dvjuv9l</sha1>
+    </revision>
+    <revision>
+      <id>960456177</id>
+      <parentid>781358516</parentid>
+      <timestamp>2019-06-12T01:04:08Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 1917, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3605" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"},"nl":{"language":"nl","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1917"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7EED149B-110F-4D42-92DF-C07CDD542E39","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gassq2fjiv2zdx2gjs16o7vlj1mh30c</sha1>
+    </revision>
+    <revision>
+      <id>972155783</id>
+      <parentid>960456177</parentid>
+      <timestamp>2019-07-01T02:00:02Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3646" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"},"nl":{"language":"nl","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1917"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7EED149B-110F-4D42-92DF-C07CDD542E39","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>212f5bjktpgv0k4mqn72bzyqoe1jmop</sha1>
+    </revision>
+    <revision>
+      <id>1114359690</id>
+      <parentid>972155783</parentid>
+      <timestamp>2020-02-13T07:04:56Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1581521683909</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3710" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"},"nl":{"language":"nl","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1917"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7EED149B-110F-4D42-92DF-C07CDD542E39","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1tcvw4yqoyukuiiam8zees6g09xti9j</sha1>
+    </revision>
+    <revision>
+      <id>1129974713</id>
+      <parentid>1114359690</parentid>
+      <timestamp>2020-03-06T01:29:25Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4013" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"},"nl":{"language":"nl","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1917"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7EED149B-110F-4D42-92DF-C07CDD542E39","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7C887A93-361F-464A-BFFD-AC1D1251EB42","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rty0hu5itqcn2s03izu454x2gyhrkci</sha1>
+    </revision>
+    <revision>
+      <id>1271389253</id>
+      <parentid>1129974713</parentid>
+      <timestamp>2020-09-04T20:42:02Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1917 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4108" xml:space="preserve">{"type":"item","id":"Q56099157","labels":{"de":{"language":"de","value":"V.\u2014The Homoptera of Indo-China"},"en":{"language":"en","value":"V.\u2014The Homoptera of Indo-China"},"nl":{"language":"nl","value":"V.\u2014The Homoptera of Indo-China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1917"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im Jahr 1917 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f6cbcd5fc6f075bfe9eaa1ef28690beec148d215","datavalue":{"value":"10.1080\/00222931709486914","type":"string"}},"type":"statement","id":"Q56099157$91B0FA6F-1618-411F-A039-9100F5D327CF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e2c7fd05bc8b90db84549b7d0c846b4c641c565","datavalue":{"value":"99076","type":"string"}},"type":"statement","id":"Q56099157$DAD59731-A264-4EA0-8D76-BBD8283F972C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$120E3E03-E85D-4782-9626-346D68B9EF5D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5ba5503eb7ac0ddbd10e718705a34f20c0aa3886","datavalue":{"value":{"text":"V.\u2014The Homoptera of Indo-China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099157$60CDAF60-7887-4DAE-BA6A-0DDE29DD1374","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56099157$78CC60B1-08E5-42D3-BEA4-847D884FD1D3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cecbacd12b96311712599174857687e3fdefcc5","datavalue":{"value":"100\u2013104","type":"string"}},"type":"statement","id":"Q56099157$48D95CA9-D77E-4D22-96DD-37ADB38CF54D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"4525a1d37cd4b0b7c18c50be049b2d4aeb93a9aa","datavalue":{"value":"109","type":"string"}},"type":"statement","id":"Q56099157$7EA6CC4C-BF7B-4AC9-919F-37AFE100927F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"704b1dec79310501acc113c8c8b378f6cb153dc6","datavalue":{"value":{"time":"+1917-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099157$E9E47456-25A6-40F2-8E53-21844CCB9E3A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"040eb6aa9b81f187b7fb81b89ad3827fb6dcb224","datavalue":{"value":"W. L. Distant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099157$72549C11-81B9-43FA-A5AF-22229E3A775B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7EED149B-110F-4D42-92DF-C07CDD542E39","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099157$7C887A93-361F-464A-BFFD-AC1D1251EB42","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cox56ik1unvlp41oa057m9lji235iw3</sha1>
+    </revision>
+  </page>
+</mediawiki>

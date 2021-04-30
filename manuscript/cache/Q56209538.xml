@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56209538</title>
+    <ns>0</ns>
+    <id>56152018</id>
+    <revision>
+      <id>730664981</id>
+      <timestamp>2018-08-21T02:37:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56209538","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>2i405k6u71tw6mtvbllto6bgp7o0xfr</sha1>
+    </revision>
+    <revision>
+      <id>730664984</id>
+      <parentid>730664981</parentid>
+      <timestamp>2018-08-21T02:37:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="214" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rrb3n18fyb7pubb463yapldlpr47fkl</sha1>
+    </revision>
+    <revision>
+      <id>730664990</id>
+      <parentid>730664984</parentid>
+      <timestamp>2018-08-21T02:37:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="327" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>m42g66aive3qneu3ikbht764svm6omk</sha1>
+    </revision>
+    <revision>
+      <id>730664995</id>
+      <parentid>730664990</parentid>
+      <timestamp>2018-08-21T02:37:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5479/SI.00963801.88-3090.575</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="599" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3ahim0qdt6wvoruzc32j9km2ipeojmx</sha1>
+    </revision>
+    <revision>
+      <id>730665004</id>
+      <parentid>730664995</parentid>
+      <timestamp>2018-08-21T02:37:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 79860</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="847" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oylss0rlz8ys8jwgubpjuq359nftqj7</sha1>
+    </revision>
+    <revision>
+      <id>730665010</id>
+      <parentid>730665004</parentid>
+      <timestamp>2018-08-21T02:37:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1156" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1zea8l44vxy01u3cvt5eipva1crd6kd</sha1>
+    </revision>
+    <revision>
+      <id>730665013</id>
+      <parentid>730665010</parentid>
+      <timestamp>2018-08-21T02:37:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1512" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sy6k09jo8cdrubvmgmlub5rvgdiuqux</sha1>
+    </revision>
+    <revision>
+      <id>730665018</id>
+      <parentid>730665013</parentid>
+      <timestamp>2018-08-21T02:37:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 88</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1755" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jogx2sooz0kdw8dz2lyktpnmnl1qpk6</sha1>
+    </revision>
+    <revision>
+      <id>730665027</id>
+      <parentid>730665018</parentid>
+      <timestamp>2018-08-21T02:37:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 575–580</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2008" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hba9jlbo0kcoqr7ja1h7vq4alo2eb9p</sha1>
+    </revision>
+    <revision>
+      <id>730665028</id>
+      <parentid>730665027</parentid>
+      <timestamp>2018-08-21T02:37:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3090</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2253" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o1i5sqbz95rhtvvhkvgh86h5livo5pu</sha1>
+    </revision>
+    <revision>
+      <id>730665035</id>
+      <parentid>730665028</parentid>
+      <timestamp>2018-08-21T02:37:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1940</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2632" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>blgfyuroet243eoqf6hnc46rcxmt6lv</sha1>
+    </revision>
+    <revision>
+      <id>730665041</id>
+      <parentid>730665035</parentid>
+      <timestamp>2018-08-21T02:37:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: C. M. Fraser</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2887" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jj5auc1n7rxbxb8639bsk412kgzjpu7</sha1>
+    </revision>
+    <revision>
+      <id>730665047</id>
+      <parentid>730665041</parentid>
+      <timestamp>2018-08-21T02:37:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3073" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1ozscjl814ntu9zjr2t440qhtoujfb8</sha1>
+    </revision>
+    <revision>
+      <id>730665053</id>
+      <parentid>730665047</parentid>
+      <timestamp>2018-08-21T02:37:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q18515885]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3386" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$46FE29E3-FCEE-4D55-B8D0-C5DC256DAACA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m89sntgu6ug663m2ars43scm46nolq3</sha1>
+    </revision>
+    <revision>
+      <id>738230659</id>
+      <parentid>730665053</parentid>
+      <timestamp>2018-09-01T23:42:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7720350, According to [[Property:P5315]]=79860</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3634" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$46FE29E3-FCEE-4D55-B8D0-C5DC256DAACA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91f40cebc4e641314a47ff30f807ff5888fc25f0","datavalue":{"value":"7720350","type":"string"}},"type":"statement","id":"Q56209538$9E399697-DD43-468B-8433-DD09A86E5FA8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>apou4kzzvzft4cf6nm79vvd8m2u8skq</sha1>
+    </revision>
+    <revision>
+      <id>779828616</id>
+      <parentid>738230659</parentid>
+      <timestamp>2018-11-02T07:57:32Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3804" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"nl":{"language":"nl","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$46FE29E3-FCEE-4D55-B8D0-C5DC256DAACA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91f40cebc4e641314a47ff30f807ff5888fc25f0","datavalue":{"value":"7720350","type":"string"}},"type":"statement","id":"Q56209538$9E399697-DD43-468B-8433-DD09A86E5FA8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8hgo59f1ue7d6gtemurybgemd6rsneb</sha1>
+    </revision>
+    <revision>
+      <id>974742781</id>
+      <parentid>779828616</parentid>
+      <timestamp>2019-07-06T00:13:11Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1940, [[:toollabs:quickstatements/#/batch/15404|batch #15404]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4003" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"nl":{"language":"nl","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1940"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$46FE29E3-FCEE-4D55-B8D0-C5DC256DAACA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91f40cebc4e641314a47ff30f807ff5888fc25f0","datavalue":{"value":"7720350","type":"string"}},"type":"statement","id":"Q56209538$9E399697-DD43-468B-8433-DD09A86E5FA8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hkoost3aduah9u5jo66fioc64cinl56</sha1>
+    </revision>
+    <revision>
+      <id>1185634961</id>
+      <parentid>974742781</parentid>
+      <timestamp>2020-05-20T13:24:44Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], [[:toollabs:quickstatements/#/batch/34345|batch #34345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4314" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"nl":{"language":"nl","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1940"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$46FE29E3-FCEE-4D55-B8D0-C5DC256DAACA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91f40cebc4e641314a47ff30f807ff5888fc25f0","datavalue":{"value":"7720350","type":"string"}},"type":"statement","id":"Q56209538$9E399697-DD43-468B-8433-DD09A86E5FA8","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$761C25D6-9C87-4329-A055-A57FC54E1D86","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7k9hsosdaqy8oxkqapveao8z01n8364</sha1>
+    </revision>
+    <revision>
+      <id>1186511704</id>
+      <parentid>1185634961</parentid>
+      <timestamp>2020-05-21T16:37:46Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q52800401]], [[:toollabs:quickstatements/#/batch/34464|batch #34464]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4616" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"nl":{"language":"nl","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1940"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$46FE29E3-FCEE-4D55-B8D0-C5DC256DAACA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91f40cebc4e641314a47ff30f807ff5888fc25f0","datavalue":{"value":"7720350","type":"string"}},"type":"statement","id":"Q56209538$9E399697-DD43-468B-8433-DD09A86E5FA8","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$761C25D6-9C87-4329-A055-A57FC54E1D86","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"e8d32d67acfe69d410d599664e912fefcbe6c28c","datavalue":{"value":{"entity-type":"item","numeric-id":52800401,"id":"Q52800401"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$19D78BDB-CF41-4579-83A2-9D3767F4FBF1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>39wdphz6kr1ku2isod7cyf7xt3halt6</sha1>
+    </revision>
+    <revision>
+      <id>1287689078</id>
+      <parentid>1186511704</parentid>
+      <timestamp>2020-10-07T06:59:52Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: 25943092-8c1f-4346-b0db-2b2a73b55dc6, #quickstatements; #temporary_batch_1602019759164</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4895" xml:space="preserve">{"type":"item","id":"Q56209538","labels":{"de":{"language":"de","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"en":{"language":"en","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"},"nl":{"language":"nl","value":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1940"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a697014af4c530dd647e0ee9d096c21ee26dbc1a","datavalue":{"value":"10.5479\/SI.00963801.88-3090.575","type":"string"}},"type":"statement","id":"Q56209538$2ACBC49B-2C13-4F8F-A68B-382E39867FE3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4973dee070b60dfff285dacce7a25ff59e9e934e","datavalue":{"value":"79860","type":"string"}},"type":"statement","id":"Q56209538$1EDD9D74-D3BC-440A-8999-3553F3E04362","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$1DC4DB5B-0361-4F3E-9FE7-B94C535D2512","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4863cad4b71c36918c9abdc550ba6a6f34090131","datavalue":{"value":{"text":"Seven new species and one new genus of hydroids, mostly from the Atlantic Ocean","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209538$D68324F4-89A3-4AD3-A4EB-4E7864F6EBF7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b3a93495218adf39b33f457187d4906ce20c6376","datavalue":{"value":"88","type":"string"}},"type":"statement","id":"Q56209538$2FC7CEE0-967F-4A34-8127-443F18551446","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"36a9aac6be892ff6ff126d4954ede4d5f0100ca7","datavalue":{"value":"575\u2013580","type":"string"}},"type":"statement","id":"Q56209538$63D48E9C-B550-4742-A4D6-F483F407EE0A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"1bea921b7b7bf0e88dc47a2da9bacd5cb0d6871d","datavalue":{"value":"3090","type":"string"}},"type":"statement","id":"Q56209538$7090A6D7-7693-448C-A191-2175C21AB224","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209538$513227EC-0C3E-4835-B87E-CD104EB27765","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"987fd13d4f844f3ba5d03a3c037378e91ba1e04d","datavalue":{"value":"C. M. Fraser","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209538$4AE790EB-B80A-43F7-A2CA-5B6C0A8C48B6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$46FE29E3-FCEE-4D55-B8D0-C5DC256DAACA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91f40cebc4e641314a47ff30f807ff5888fc25f0","datavalue":{"value":"7720350","type":"string"}},"type":"statement","id":"Q56209538$9E399697-DD43-468B-8433-DD09A86E5FA8","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$761C25D6-9C87-4329-A055-A57FC54E1D86","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"e8d32d67acfe69d410d599664e912fefcbe6c28c","datavalue":{"value":{"entity-type":"item","numeric-id":52800401,"id":"Q52800401"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209538$19D78BDB-CF41-4579-83A2-9D3767F4FBF1","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"c34e0f0f302b6992d25082356baf313d34c09830","datavalue":{"value":"25943092-8c1f-4346-b0db-2b2a73b55dc6","type":"string"}},"type":"statement","id":"Q56209538$C7BECE7A-06FC-449D-8ABE-585F7CB7E617","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sm43qp5zds1q8lldtllnv0psved575e</sha1>
+    </revision>
+  </page>
+</mediawiki>

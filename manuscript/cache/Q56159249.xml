@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56159249</title>
+    <ns>0</ns>
+    <id>56102393</id>
+    <revision>
+      <id>728362705</id>
+      <timestamp>2018-08-18T05:39:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56159249","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>q3v2w33f5aqwzmppf5889blrvhdrqcs</sha1>
+    </revision>
+    <revision>
+      <id>728362710</id>
+      <parentid>728362705</parentid>
+      <timestamp>2018-08-18T05:39:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ XXX. The Culicidae of Australia.-I.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="170" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ii40c37n34nbleuw0oef2jp8xi7w3gr</sha1>
+    </revision>
+    <revision>
+      <id>728362714</id>
+      <parentid>728362710</parentid>
+      <timestamp>2018-08-18T05:39:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ XXX. The Culicidae of Australia.-I.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="239" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6qz14krzlwsjp2haww08bjeoej363xm</sha1>
+    </revision>
+    <revision>
+      <id>728362717</id>
+      <parentid>728362714</parentid>
+      <timestamp>2018-08-18T05:39:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1111/J.1365-2311.1914.TB01794.X</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="514" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5agxk8h6p7uus6gdl0y6b8lkjqp6v01</sha1>
+    </revision>
+    <revision>
+      <id>728362719</id>
+      <parentid>728362717</parentid>
+      <timestamp>2018-08-18T05:39:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 50473</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="762" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3oxuv5x12gmb46qzhvmfchf0uvhw7he</sha1>
+    </revision>
+    <revision>
+      <id>728362723</id>
+      <parentid>728362719</parentid>
+      <timestamp>2018-08-18T05:39:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1071" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>guzm6sp3nt8srj9bmleqxn5z7a9e0ue</sha1>
+    </revision>
+    <revision>
+      <id>728362727</id>
+      <parentid>728362723</parentid>
+      <timestamp>2018-08-18T05:39:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: XXX. The Culicidae of Australia.-I.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1383" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>etp2y2p5sdi0bpva3ar3gfmqamapgtp</sha1>
+    </revision>
+    <revision>
+      <id>728362731</id>
+      <parentid>728362727</parentid>
+      <timestamp>2018-08-18T05:39:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 61</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1626" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1lnzyohwmbt0raa4mhqj4pyoeqsauwq</sha1>
+    </revision>
+    <revision>
+      <id>728362736</id>
+      <parentid>728362731</parentid>
+      <timestamp>2018-08-18T05:39:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 683–708</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1879" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>53m4dw9lismv0lpcfmkcoukg3d7otld</sha1>
+    </revision>
+    <revision>
+      <id>728362738</id>
+      <parentid>728362736</parentid>
+      <timestamp>2018-08-18T05:39:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2121" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>okepjvny1v23x9t9svkza5zt46gua43</sha1>
+    </revision>
+    <revision>
+      <id>728362743</id>
+      <parentid>728362738</parentid>
+      <timestamp>2018-08-18T05:39:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 24 April 2009</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2501" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>18stnfd86xk5fz3tthu2gbmvcxvllrb</sha1>
+    </revision>
+    <revision>
+      <id>728362747</id>
+      <parentid>728362743</parentid>
+      <timestamp>2018-08-18T05:39:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Frank H. Taylor</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2759" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cyb2e2a9b162zybdyipxcfm58mbui7o</sha1>
+    </revision>
+    <revision>
+      <id>728362751</id>
+      <parentid>728362747</parentid>
+      <timestamp>2018-08-18T05:39:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2945" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>djibptj8h4n7a6swdxjjqh1lf5mp6xi</sha1>
+    </revision>
+    <revision>
+      <id>728362755</id>
+      <parentid>728362751</parentid>
+      <timestamp>2018-08-18T05:39:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385808]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3258" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gubpbb0vk1tsgcvqzwx9nrc1khmbcs1</sha1>
+    </revision>
+    <revision>
+      <id>738029779</id>
+      <parentid>728362755</parentid>
+      <timestamp>2018-09-01T16:53:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 14687954, According to [[Property:P5315]]=50473</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3507" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0z5d1csr5ntlhdpl7vtiay8nsn2byvj</sha1>
+    </revision>
+    <revision>
+      <id>780450174</id>
+      <parentid>738029779</parentid>
+      <timestamp>2018-11-02T23:21:53Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3633" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."},"nl":{"language":"nl","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qy9bo0dsuu3j1a301h3ndnyx2iyf9z1</sha1>
+    </revision>
+    <revision>
+      <id>963135228</id>
+      <parentid>780450174</parentid>
+      <timestamp>2019-06-16T02:10:34Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у квітні 2009, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3869" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."},"nl":{"language":"nl","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d5w069c5yji7unucupifwvfqnqp2sgz</sha1>
+    </revision>
+    <revision>
+      <id>971878879</id>
+      <parentid>963135228</parentid>
+      <timestamp>2019-06-30T15:51:38Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3910" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."},"nl":{"language":"nl","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f4aadn4h7uu0d12hrqcietp5qxewm6i</sha1>
+    </revision>
+    <revision>
+      <id>1115545321</id>
+      <parentid>971878879</parentid>
+      <timestamp>2020-02-15T02:51:04Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1581521683909</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3974" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."},"nl":{"language":"nl","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hq174mja8zoqt4tg33s6c7439o86hri</sha1>
+    </revision>
+    <revision>
+      <id>1272808118</id>
+      <parentid>1115545321</parentid>
+      <timestamp>2020-09-07T06:04:33Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im April 2009 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42380|batch #42380]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4070" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."},"nl":{"language":"nl","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im April 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sxxy06zdr5rq3h912w4ics192zch076</sha1>
+    </revision>
+    <revision>
+      <id>1287578139</id>
+      <parentid>1272808118</parentid>
+      <timestamp>2020-10-06T20:54:23Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: 26135c2b-71d4-49f8-a5be-e13479247fc3, #quickstatements; #temporary_batch_1602011829853</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4349" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."},"nl":{"language":"nl","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im April 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"e8e28137fb2a9421b0c009be2f92e1da9e5eeb18","datavalue":{"value":"26135c2b-71d4-49f8-a5be-e13479247fc3","type":"string"}},"type":"statement","id":"Q56159249$D429808E-EA9B-4DDA-BF3D-B7A79025D74F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gmhckrbm3s3gq4gyea9cy1nenqo0myk</sha1>
+    </revision>
+    <revision>
+      <id>1403577398</id>
+      <parentid>1287578139</parentid>
+      <timestamp>2021-04-17T20:21:47Z</timestamp>
+      <contributor>
+        <username>RogerNiceEyes</username>
+        <id>4813288</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q408]], [[:toollabs:quickstatements/#/batch/52950|batch #52950]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4650" xml:space="preserve">{"type":"item","id":"Q56159249","labels":{"de":{"language":"de","value":"XXX. The Culicidae of Australia.-I."},"en":{"language":"en","value":"XXX. The Culicidae of Australia.-I."},"nl":{"language":"nl","value":"XXX. The Culicidae of Australia.-I."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im April 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f2a3c98ab8bddfe2451b119a97c1eb519d9e391e","datavalue":{"value":"10.1111\/J.1365-2311.1914.TB01794.X","type":"string"}},"type":"statement","id":"Q56159249$5F62DB7F-95F0-41F4-8F05-416D0176612B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9503fb55e94ede7f4d64e7ed13ec17166495bae9","datavalue":{"value":"50473","type":"string"}},"type":"statement","id":"Q56159249$2F873082-9C5E-44B9-ABE6-1664950FEC21","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$0A30AFCB-1855-4DF2-862B-DB3451E928B0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"372fb8dbfa1f8271fc9eb86b7b3ed600735e2839","datavalue":{"value":{"text":"XXX. The Culicidae of Australia.-I.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56159249$21DAEE13-2D60-44EC-B68B-AEBB4B3F936F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d80f2c4151558493fec31ca5ee839ec30ec03386","datavalue":{"value":"61","type":"string"}},"type":"statement","id":"Q56159249$0441847B-111B-4660-8AAE-64CA88FB60BE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c97afbf37c7c3e43e5d82501494bf4af9ea86dea","datavalue":{"value":"683\u2013708","type":"string"}},"type":"statement","id":"Q56159249$57FCF7C9-4336-4C72-A4BB-9E0B5063B7D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56159249$9FA4CF36-F163-46CD-A2CE-99251BE9B1D9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56159249$F74E59A0-0FA6-49F5-9585-2A6D93C363E8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a2fd65ca5e116153a5a72e35a7c9ee1e19cd0bd","datavalue":{"value":"Frank H. Taylor","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56159249$0DEE4D7A-40FE-4E28-8128-DAAFD868113A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$B86E3EC4-9C3E-4084-B0B5-46098E488525","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ccc38965f4e8d3386e1c1420d15408f099b0a836","datavalue":{"value":"14687954","type":"string"}},"type":"statement","id":"Q56159249$15703FBB-9029-4692-B2FB-140E0FF16AF0","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"e8e28137fb2a9421b0c009be2f92e1da9e5eeb18","datavalue":{"value":"26135c2b-71d4-49f8-a5be-e13479247fc3","type":"string"}},"type":"statement","id":"Q56159249$D429808E-EA9B-4DDA-BF3D-B7A79025D74F","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"15b15d5357d9e4934e179e73345ef163c5769f64","datavalue":{"value":{"entity-type":"item","numeric-id":408,"id":"Q408"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56159249$5C94D3B4-FEB7-4C49-9B5E-F713F9D39A74","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f2lbwevjou2bg7s4vs6jh3wpmfs53u0</sha1>
+    </revision>
+  </page>
+</mediawiki>

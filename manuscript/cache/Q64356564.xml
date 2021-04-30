@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.37.0-wmf.1</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q64356564</title>
+    <ns>0</ns>
+    <id>64056038</id>
+    <revision>
+      <id>955133368</id>
+      <timestamp>2019-06-04T02:44:31Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; [[:toollabs:editgroups/b/CB/5cf5d73aabb02087838381|details]]; invoked by SourceMD:CreateFromWikipediaDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3596" xml:space="preserve">{"type":"item","id":"Q64356564","labels":{"en":{"language":"en","value":"New Small Bunodont Metatherian from the Late Eocene of the Argentinean Puna"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38d0382c0cdd76740905dc3804c29b178265dc82","datavalue":{"value":"10.1007\/S10914-019-09468-7","type":"string"}},"type":"statement","id":"Q64356564$CDB55637-3FA1-48BD-A550-A119EBDE4621","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q64356564$AE43BADF-EFF2-4280-AEDD-39DD8A7A16F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c470247050888691d11b7055de70c7d5a35df872","datavalue":{"value":{"text":"New Small Bunodont Metatherian from the Late Eocene of the Argentinean Puna","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q64356564$B9F8D6F0-EBF3-4CD4-8FDE-2B642841B96B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"26f3406d43daf2a276c43b0890b9701bdb58bf5d","datavalue":{"value":{"time":"+2019-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q64356564$1B7EF182-016E-411D-8700-FDAA5D47C79A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"64c95b5e6903230226f7d03fbaa5aaa926887645","datavalue":{"value":{"entity-type":"item","numeric-id":1709855,"id":"Q1709855"},"type":"wikibase-entityid"}},"type":"statement","id":"Q64356564$0F7C145F-0652-4158-A0FA-008101354238","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8dc81027166bf790512d2aab83f61d4671dee4c6","datavalue":{"value":"Mar\u00eda Judith Babot","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$E3A1A3C7-B807-4417-9B9E-701070B48303","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"2d65a1ef48eaab17404771efe1c5c0e3e33bb1c7","datavalue":{"value":"Guillermo W. Rougier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$F0DFD209-371B-4417-9D2D-5A1D93CD7A5F","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9eba11328322c0a70b620ba90253f0df8bce6ef7","datavalue":{"value":"Daniel Garc\u00eda-Lopez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$FE3056B9-CD48-4DD8-886C-0892DC23CF37","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d2e88c5c025307ba17707dc73501aa4296087b26","datavalue":{"value":"Brian M. Davis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"cbff8d4b3b7b35f905ef3147a7a6cb88845a774f","datavalue":{"value":"4","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$0E19617F-1D6D-41E9-B343-D1A1D87A612D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2jb4mvz7se0rfxehhqd2bt4n3wcsy1d</sha1>
+    </revision>
+    <revision>
+      <id>965396570</id>
+      <parentid>955133368</parentid>
+      <timestamp>2019-06-20T01:01:32Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в травні 2019, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3831" xml:space="preserve">{"type":"item","id":"Q64356564","labels":{"en":{"language":"en","value":"New Small Bunodont Metatherian from the Late Eocene of the Argentinean Puna"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 2019"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38d0382c0cdd76740905dc3804c29b178265dc82","datavalue":{"value":"10.1007\/S10914-019-09468-7","type":"string"}},"type":"statement","id":"Q64356564$CDB55637-3FA1-48BD-A550-A119EBDE4621","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q64356564$AE43BADF-EFF2-4280-AEDD-39DD8A7A16F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c470247050888691d11b7055de70c7d5a35df872","datavalue":{"value":{"text":"New Small Bunodont Metatherian from the Late Eocene of the Argentinean Puna","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q64356564$B9F8D6F0-EBF3-4CD4-8FDE-2B642841B96B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"26f3406d43daf2a276c43b0890b9701bdb58bf5d","datavalue":{"value":{"time":"+2019-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q64356564$1B7EF182-016E-411D-8700-FDAA5D47C79A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"64c95b5e6903230226f7d03fbaa5aaa926887645","datavalue":{"value":{"entity-type":"item","numeric-id":1709855,"id":"Q1709855"},"type":"wikibase-entityid"}},"type":"statement","id":"Q64356564$0F7C145F-0652-4158-A0FA-008101354238","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8dc81027166bf790512d2aab83f61d4671dee4c6","datavalue":{"value":"Mar\u00eda Judith Babot","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$E3A1A3C7-B807-4417-9B9E-701070B48303","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"2d65a1ef48eaab17404771efe1c5c0e3e33bb1c7","datavalue":{"value":"Guillermo W. Rougier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$F0DFD209-371B-4417-9D2D-5A1D93CD7A5F","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9eba11328322c0a70b620ba90253f0df8bce6ef7","datavalue":{"value":"Daniel Garc\u00eda-Lopez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$FE3056B9-CD48-4DD8-886C-0892DC23CF37","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d2e88c5c025307ba17707dc73501aa4296087b26","datavalue":{"value":"Brian M. Davis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"cbff8d4b3b7b35f905ef3147a7a6cb88845a774f","datavalue":{"value":"4","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$0E19617F-1D6D-41E9-B343-D1A1D87A612D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>985pjyul8004s2qhj5n9g1tjc4ec399</sha1>
+    </revision>
+    <revision>
+      <id>969111807</id>
+      <parentid>965396570</parentid>
+      <timestamp>2019-06-26T06:46:11Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3998" xml:space="preserve">{"type":"item","id":"Q64356564","labels":{"en":{"language":"en","value":"New Small Bunodont Metatherian from the Late Eocene of the Argentinean Puna"},"nl":{"language":"nl","value":"New Small Bunodont Metatherian from the Late Eocene of the Argentinean Puna"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 2019"},"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38d0382c0cdd76740905dc3804c29b178265dc82","datavalue":{"value":"10.1007\/S10914-019-09468-7","type":"string"}},"type":"statement","id":"Q64356564$CDB55637-3FA1-48BD-A550-A119EBDE4621","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q64356564$AE43BADF-EFF2-4280-AEDD-39DD8A7A16F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c470247050888691d11b7055de70c7d5a35df872","datavalue":{"value":{"text":"New Small Bunodont Metatherian from the Late Eocene of the Argentinean Puna","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q64356564$B9F8D6F0-EBF3-4CD4-8FDE-2B642841B96B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"26f3406d43daf2a276c43b0890b9701bdb58bf5d","datavalue":{"value":{"time":"+2019-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q64356564$1B7EF182-016E-411D-8700-FDAA5D47C79A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"64c95b5e6903230226f7d03fbaa5aaa926887645","datavalue":{"value":{"entity-type":"item","numeric-id":1709855,"id":"Q1709855"},"type":"wikibase-entityid"}},"type":"statement","id":"Q64356564$0F7C145F-0652-4158-A0FA-008101354238","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8dc81027166bf790512d2aab83f61d4671dee4c6","datavalue":{"value":"Mar\u00eda Judith Babot","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$E3A1A3C7-B807-4417-9B9E-701070B48303","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"2d65a1ef48eaab17404771efe1c5c0e3e33bb1c7","datavalue":{"value":"Guillermo W. Rougier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$F0DFD209-371B-4417-9D2D-5A1D93CD7A5F","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9eba11328322c0a70b620ba90253f0df8bce6ef7","datavalue":{"value":"Daniel Garc\u00eda-Lopez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$FE3056B9-CD48-4DD8-886C-0892DC23CF37","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d2e88c5c025307ba17707dc73501aa4296087b26","datavalue":{"value":"Brian M. Davis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"cbff8d4b3b7b35f905ef3147a7a6cb88845a774f","datavalue":{"value":"4","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q64356564$0E19617F-1D6D-41E9-B343-D1A1D87A612D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7ocugkbb4zgvpu502f10cykvoig4qr1</sha1>
+    </revision>
+  </page>
+</mediawiki>

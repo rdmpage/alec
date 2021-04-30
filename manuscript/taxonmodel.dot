@@ -1,0 +1,43 @@
+digraph G {
+rankdir=LR;
+
+taxon [label="Q5851419"];
+taxonrank [label="Q7432"];
+parent [label="Q146567"];
+
+name [shape=rectangle, style=filled, color=yellow, label="Euphorbia bicompacta"];
+
+/* references */
+s1 [shape="circle", label=""];
+
+r1 [shape="circle", label=""];
+
+
+taxon -> s1 [label="P225:taxon name"];
+s1 -> name [label="value"];
+s1 -> r1 [label="reference"];
+
+item [label="Q28960244"];
+title [shape=rectangle, style=filled, color=yellow, label="A New Subgeneric Classification for Euphorbia (Euphorbiaceae)..."];
+pages [shape=rectangle, style=filled, color=yellow, label="412"];
+
+role [label="Q749462"];
+rolelabel [shape=rectangle, style=filled, color=yellow, label="replacement name"];
+
+r1 -> item [label="P248:stated in"];
+item -> title [label="P1473:title"];
+r1 -> pages [label="P304:page(s)"];
+r1 -> role [label="P6184:replacement name"];
+role -> rolelabel [label="rdfs:label"];
+
+
+
+taxon -> taxonrank [label="P105:taxon rank"];
+taxon -> parent [label="P171:parent taxon"];
+
+gbif [shape=rectangle, style=filled, color=yellow, label="3065313"];
+
+taxon -> gbif [label="P846:GBIF taxon ID"];
+
+
+}
