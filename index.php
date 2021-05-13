@@ -770,7 +770,7 @@ function default_display($error_msg = '')
 
 		  	<div id ="output">
 		  	
-		  		<p>ALEC (A List of Everything Cool) is a tool to explore biodiversity content in <a href="https://www.wikifdata.org/">Wikidata</a></p>
+		  		<p>ALEC (A List of Everything Cool) is a tool to explore biodiversity content in <a href="https://www.wikidata.org/">Wikidata</a></p>
 		  	
 					<h6>Examples</h6>
 					
@@ -977,7 +977,7 @@ function default_display($error_msg = '')
 
 					<!-- Elsevier journal with lots of cited literature -->								
 					<div class="item">
-						<a href="Q28300019">
+						<a href="Q52572891">
 							<span>Molecular phylogenetics of the genus Costularia...</span>
 							<img src="image.php?qid=Q52572891" >
 						</a>
@@ -1014,6 +1014,14 @@ function default_display($error_msg = '')
 						<a href="Q35015550">
 							<span>Who\'s for dinner? High-throughput sequencing...</span>
 							<img src="image.php?qid=Q35015550" >
+						</a>
+					</div>	
+					
+					 
+					<div class="item">
+						<a href="Q96061257">
+							<span>New neotropical myrmecophiles</span>
+							<img src="image.php?qid=Q96061257" >
 						</a>
 					</div>	
 					
