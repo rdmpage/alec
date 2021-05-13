@@ -113,7 +113,7 @@ function display_entity($id)
 	$og_list['og:title'] = $title;	
 	$og_list['og:type'] = 'website';	
 	$og_list['og:url'] = full_url($_SERVER);
-	$og_list['og:image'] = url_origin($_SERVER) . $config['web_root'] . 'image.php?qid=' . $id;	
+	$og_list['og:image'] = 'https://aipbvczbup.cloudimg.io/s/height/400/' . url_origin($_SERVER) . $config['web_root'] . 'image.php?qid=' . $id;	
 	$description = get_literal($obj->{'@graph'}[0]->description);
 	if ($description != '')
 	{
@@ -126,7 +126,7 @@ function display_entity($id)
 	foreach ($og_list as $k => $v)
 	{
 		$og_tags[] = 				
-			'<meta property="' . $k . '" content="' . htmlentities($v, ENT_COMPAT | ENT_HTML5, 'UTF-8') . '" />';
+			'<meta property="' . $k . '" content="' . htmlspecialchars($v, ENT_COMPAT | ENT_HTML5, 'UTF-8') . '" />';
 	}
 	
 	$meta = join("\n", $og_tags);	
