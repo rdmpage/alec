@@ -27,7 +27,7 @@ rolelabel [shape=rectangle, style=filled, color=yellow, label="replacement name"
 r1 -> item [label="P248:stated in"];
 item -> title [label="P1473:title"];
 r1 -> pages [label="P304:page(s)"];
-r1 -> role [label="P6184:replacement name"];
+r1 -> role [label="P6184:reference has role"];
 role -> rolelabel [label="rdfs:label"];
 
 
