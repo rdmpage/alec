@@ -353,7 +353,7 @@ foreach ($raw_counts as $k => $v)
 	
 	$node_size = round(log10($v),1) - 1;
 	
-	$nodes[] = $node_name . ' [shape=circle,fillcolor="yellow",style=filled,label="' . $node_label . '",fixedsize=true,width="' . $node_size . '"];';
+	$nodes[] = $node_name . ' [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="' . $node_label . '",fixedsize=true,width="' . $node_size . '"];';
 	
 	if (count($label_array) == 2)
 	{

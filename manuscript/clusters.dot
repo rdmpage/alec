@@ -1,15 +1,16 @@
 graph G {
 overlap = false;
-node_ipni [shape=circle,fillcolor="yellow",style=filled,label="ipni\n31578",fixedsize=true,width="3.5"];
-node_bhl [shape=circle,fillcolor="yellow",style=filled,label="bhl\n13486",fixedsize=true,width="3.1"];
-node_zoobank [shape=circle,fillcolor="yellow",style=filled,label="zoobank\n258",fixedsize=true,width="1.4"];
-node_wikispecies [shape=circle,fillcolor="yellow",style=filled,label="wikispecies\n18700",fixedsize=true,width="3.3"];
-node_wikispecies_zoobank [shape=circle,fillcolor="yellow",style=filled,label="15576",fixedsize=true,width="3.2"];
-node_ipni_wikispecies [shape=circle,fillcolor="yellow",style=filled,label="20221",fixedsize=true,width="3.3"];
-node_bhl_wikispecies [shape=circle,fillcolor="yellow",style=filled,label="11688",fixedsize=true,width="3.1"];
-node_bhl_ipni [shape=circle,fillcolor="yellow",style=filled,label="6402",fixedsize=true,width="2.8"];
-node_ipni_zoobank [shape=circle,fillcolor="yellow",style=filled,label="364",fixedsize=true,width="1.6"];
-node_bhl_zoobank [shape=circle,fillcolor="yellow",style=filled,label="3878",fixedsize=true,width="2.6"];
+
+node_ipni [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="ipni\n31578",fixedsize=true,width="3.5"];
+node_bhl [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="bhl\n13486",fixedsize=true,width="3.1"];
+node_zoobank [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="zoobank\n258",fixedsize=true,width="1.4"];
+node_wikispecies [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="wikispecies\n18700",fixedsize=true,width="3.3"];
+node_wikispecies_zoobank [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="15576",fixedsize=true,width="3.2"];
+node_ipni_wikispecies [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="20221",fixedsize=true,width="3.3"];
+node_bhl_wikispecies [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="11688",fixedsize=true,width="3.1"];
+node_bhl_ipni [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="6402",fixedsize=true,width="2.8"];
+node_ipni_zoobank [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="364",fixedsize=true,width="1.6"];
+node_bhl_zoobank [fontsize=72,shape=circle,fillcolor="yellow",style=filled,label="3878",fixedsize=true,width="2.6"];
 node_wikispecies -- node_wikispecies_zoobank -- node_zoobank;
 node_wikispecies -- node_ipni_wikispecies -- node_ipni;
 node_wikispecies -- node_bhl_wikispecies -- node_bhl;
