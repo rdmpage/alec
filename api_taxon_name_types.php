@@ -49,14 +49,21 @@ $query = 'PREFIX schema: <http://schema.org/>
 		VALUES ?taxon { wd:' . $id . ' } 
 	
 		
-  # find thing which has a role "of or for" this taxon  
-  ?statement pq:P642 ?taxon .
-  ?statement ps:P2868 ?item_type .
-  ?item p:P2868 ?statement .
- 
-  # ensure thing is a nomenclatural type
-  ?type_of_type wdt:P279 wd:Q3707858 .
-    
+
+  # find thing which has a role "of or for" this taxon 
+  {
+    ?statement pq:P642 ?taxon .
+    ?statement ps:P2868 ?item_type .
+    ?item p:P2868 ?statement .
+  }
+  UNION
+  {
+    ?taxon wdt:P427 ?item .
+    ?item wdt:P31 ?item_type .
+  }
+  
+  # ensure ?item is a nomenclatural type
+  ?item_type wdt:P279 wd:Q3707858 .
   
   # labels
   ?item_type rdfs:label ?type_of_type_label .
@@ -64,6 +71,8 @@ $query = 'PREFIX schema: <http://schema.org/>
   
   FILTER(LANG(?type_of_type_label) = "en")
   FILTER(LANG(?name) = "en")	
+
+
 	
 
 }';
