@@ -21,7 +21,7 @@ $query = 'PREFIX schema: <http://schema.org/>
 	{
 		<http://example.rss>
 		rdf:type schema:DataFeed;
-		schema:name "What people are saying about this book";
+		schema:name "What people are saying about this work";
 		schema:dataFeedElement ?item .
 
 		?item 
