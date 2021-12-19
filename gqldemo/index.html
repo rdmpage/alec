@@ -139,7 +139,7 @@
 		data.variables = {};
 		
 		$.post(
-			'http://localhost/~rpage/graphql-experiments/gql.php', 
+			'gql.php', 
 			JSON.stringify(data), 
 			function(response){ 
 				if (response.data.thing.type) {
@@ -203,7 +203,7 @@
 		data.variables = {};
 		
 		$.post(
-			'http://localhost/~rpage/graphql-experiments/gql.php', 
+			'gql.php', 
 			JSON.stringify(data), 
 			function(response){ 
 				//alert(JSON.stringify(response, null, 2));
@@ -313,7 +313,7 @@
 		data.variables = {};
 		
 		$.post(
-			'http://localhost/~rpage/graphql-experiments/gql.php', 
+			'gql.php', 
 			JSON.stringify(data), 
 			function(response){ 
 				// alert(JSON.stringify(response, null, 2));
@@ -492,7 +492,7 @@
 		data.variables = {};
 		
 		$.post(
-			'http://localhost/~rpage/graphql-experiments/gql.php', 
+			'gql.php', 
 			JSON.stringify(data), 
 			function(response){ 
 				//alert(JSON.stringify(response, null, 2));
@@ -541,6 +541,6 @@
 </html>
 
 <!-- 
-curl 'http://localhost/~rpage/graphql-experiments/gql.php' -H 'Accept-Encoding: gzip, deflate, br' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Connection: keep-alive' -H 'Origin: altair://-' --data-binary '{"query":"# Welcome to Altair GraphQL Client.\n# You can send your request using CmdOrCtrl + Enter.\n\n# Enter your graphQL query here.\n\nquery{\n  person(id: \"wd:Q21389139\"){\n    id\n    orcid\n    researchgate\n    twitter\n    name\n    birthDate\n    deathDate\n    description\n    thumbnailUrl\n    works {\n      id\n      name\n      doi\n    }\n  }\n}","variables":{}}' --compressed
+curl 'gql.php' -H 'Accept-Encoding: gzip, deflate, br' -H 'Content-Type: application/json' -H 'Accept: application/json' -H 'Connection: keep-alive' -H 'Origin: altair://-' --data-binary '{"query":"# Welcome to Altair GraphQL Client.\n# You can send your request using CmdOrCtrl + Enter.\n\n# Enter your graphQL query here.\n\nquery{\n  person(id: \"wd:Q21389139\"){\n    id\n    orcid\n    researchgate\n    twitter\n    name\n    birthDate\n    deathDate\n    description\n    thumbnailUrl\n    works {\n      id\n      name\n      doi\n    }\n  }\n}","variables":{}}' --compressed
 
 -->
