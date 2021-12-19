@@ -10,7 +10,9 @@
   }],
   "require": {
     "digitalbazaar/json-ld": "0.4.7",
-    "paslandau/pagerank": "dev-master"
+    "paslandau/pagerank": "dev-master",
+	"webonyx/graphql-php": "^14.11",
+	"ml/json-ld": "^1.2"    
   },
   "config": {
     "secure-http": false
