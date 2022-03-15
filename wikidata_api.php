@@ -561,10 +561,6 @@ WHERE
   } 
   
 
-  OPTIONAL {
-   ?item wdt:P724 ?internetarchive .   
-   BIND( IRI (CONCAT (STR(?item), "#internetarchive")) as ?internetarchive_identifier)
-  }  
   
  OPTIONAL {
    ?item wdt:P2409 ?naid .   
@@ -573,7 +569,11 @@ WHERE
   
  OPTIONAL {
    ?item wdt:P6769 ?cnki .   
-   BIND( IRI (CONCAT (STR(?item), "#cnki")) as ?cnki_identifier)
+   BIND( IRI (CONCAT (STR(?item), "#cnki")) as ?cnki_identifier)  OPTIONAL {
+   ?item wdt:P724 ?internetarchive .   
+   BIND( IRI (CONCAT (STR(?item), "#internetarchive")) as ?internetarchive_identifier)
+  }  
+
   } 
   
  OPTIONAL {

@@ -42,7 +42,8 @@ function get_work($qid, $debug = false)
 
 	$uri = 'http://www.wikidata.org/entity/' . $qid;
 
-	$sparql = 'PREFIX schema: <http://schema.org/>
+	$sparql = '
+PREFIX schema: <http://schema.org/>
 PREFIX bibo: <http://purl.org/ontology/bibo/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 
@@ -72,6 +73,11 @@ CONSTRUCT
  ?orcid_author_identifier <http://schema.org/propertyID> "orcid" .
  ?orcid_author_identifier <http://schema.org/value> ?orcid .
   
+  ?author schema:identifier ?rg_author_identifier .
+ ?rg_author_identifier a <http://schema.org/PropertyValue> .
+ ?rg_author_identifier <http://schema.org/propertyID> "researchgate" .
+ ?rg_author_identifier <http://schema.org/value> ?rg_author .
+  
   
   
  # container
@@ -79,12 +85,7 @@ CONSTRUCT
   ?container schema:name ?container_title .
   ?container schema:issn ?issn .
   
-  
-  # person
-  ?item schema:description ?description .
-  ?item schema:alternateName ?alternateName .
-  ?item schema:birthDate ?birthDate .
-  ?item schema:deathDate ?deathDate .
+
  # identifiers as property values
  
  # bhl
@@ -117,25 +118,12 @@ CONSTRUCT
  ?internetarchive_identifier <http://schema.org/propertyID> "internetarchive" .
  ?internetarchive_identifier <http://schema.org/value> ?internetarchive .
  
- # IPNI author
- ?item schema:identifier ?ipni_author_identifier .
- ?ipni_author_identifier a <http://schema.org/PropertyValue> .
- ?ipni_author_identifier <http://schema.org/propertyID> "ipni_author" .
- ?ipni_author_identifier <http://schema.org/value> ?ipni_author .
- 
-
  # jstor
  ?item schema:identifier ?jstor_identifier .
  ?jstor_identifier a <http://schema.org/PropertyValue> .
  ?jstor_identifier <http://schema.org/propertyID> "jstor" .
  ?jstor_identifier <http://schema.org/value> ?jstor .
- 
- # ORCID
- ?item schema:identifier ?orcid_identifier .
- ?orcid_identifier a <http://schema.org/PropertyValue> .
- ?orcid_identifier <http://schema.org/propertyID> "orcid" .
- ?orcid_identifier <http://schema.org/value> ?orcid .
- 
+  
  # pmc
  ?item schema:identifier ?pmc_identifier .
  ?pmc_identifier a <http://schema.org/PropertyValue> .
@@ -153,27 +141,6 @@ CONSTRUCT
  ?cnki_identifier a <http://schema.org/PropertyValue> .
  ?cnki_identifier <http://schema.org/propertyID> "cnki" .
  ?cnki_identifier <http://schema.org/value> ?cnki . 
- 
- # ResearchGate
- ?item schema:identifier ?rg_author_identifier .
- ?rg_author_identifier a <http://schema.org/PropertyValue> .
- ?rg_author_identifier <http://schema.org/propertyID> "researchgate author" .
- ?rg_author_identifier <http://schema.org/value> ?rg_author .
- 
- 
- # VIAF
- ?item schema:identifier ?viaf_identifier .
- ?viaf_identifier a <http://schema.org/PropertyValue> .
- ?viaf_identifier <http://schema.org/propertyID> "viaf" .
- ?viaf_identifier <http://schema.org/value> ?viaf .
- 
-
- # zoobank author
- ?item schema:identifier ?zoobank_author_identifier .
- ?zoobank_author_identifier a <http://schema.org/PropertyValue> .
- ?zoobank_author_identifier <http://schema.org/propertyID> "zoobank_author" .
- ?zoobank_author_identifier <http://schema.org/value> ?zoobank_author_uuid .
-
 
  # zoobank publication
  ?item schema:identifier ?zoobank_pub_identifier .
@@ -181,14 +148,6 @@ CONSTRUCT
  ?zoobank_pub_identifier <http://schema.org/propertyID> "zoobank_pub" .
  ?zoobank_pub_identifier <http://schema.org/value> ?zoobank_pub_uuid .
 
-
- # persee
- ?item schema:identifier ?persee_identifier .
- ?persee_identifier a <http://schema.org/PropertyValue> .
- ?persee_identifier <http://schema.org/propertyID> "persee" .
- ?persee_identifier <http://schema.org/value> ?persee .
-
- 
  # Book identifiers
   
   # Google Books
@@ -251,6 +210,12 @@ WHERE
        ?author wdt:P496 ?orcid .
   		 BIND( IRI (CONCAT (STR(?author), "#orcid")) as ?orcid_author_identifier)
      }
+     
+    OPTIONAL
+     {
+       ?author wdt:P2038 ?rg_author .
+  		 BIND( IRI (CONCAT (STR(?author), "#researchgate")) as ?rg_author_identifier)
+     }              
     }
   }    
     
@@ -269,33 +234,7 @@ WHERE
    ?item wdt:P577 ?date .
    BIND(STR(?date) as ?datePublished) 
   }
-  
-  # people -------------------------------------------------------------------------------
-  
-  OPTIONAL {
-   ?item schema:description ?description .
-   # filter languages otherwise we can be inundated
-  FILTER(
-       LANG(?description) = "en" 
-  	|| LANG(?description) = "fr" 
-  	|| LANG(?description) = "de" 
-  	|| LANG(?description) = "es" 
-  	|| LANG(?description) = "zh"
-  	)
-   }  
-  
-   OPTIONAL {
-   ?item skos:altLabel ?alternateName .
-  # filter languages otherwise we can be inundated
-  FILTER(
-       LANG(?alternateName) = "en" 
-  	|| LANG(?alternateName) = "fr" 
-  	|| LANG(?alternateName) = "de" 
-  	|| LANG(?alternateName) = "es" 
-  	|| LANG(?alternateName) = "zh"
-  	)   
-   }   
-  
+
 
   # scholarly articles -------------------------------------------------------------------
   OPTIONAL {
@@ -364,19 +303,6 @@ WHERE
    BIND( IRI (CONCAT (STR(?item), "#cnki")) as ?cnki_identifier)
   } 
   
-  
-  # people
-  
- OPTIONAL {
-   ?item wdt:P586 ?ipni_author .   
-   BIND( IRI (CONCAT (STR(?item), "#ipni_author")) as ?ipni_author_identifier)
-  } 
-  
- OPTIONAL {
-   ?item wdt:P496 ?orcid .   
-   BIND( IRI (CONCAT (STR(?item), "#orcid")) as ?orcid_identifier)
-  }   
-  
   OPTIONAL {
    ?item wdt:P698 ?pmid .   
    BIND( IRI (CONCAT (STR(?item), "#pmid")) as ?pmid_identifier)
@@ -388,40 +314,9 @@ WHERE
   }        
   
  OPTIONAL {
-   ?item wdt:P2038 ?rg_author .   
-   BIND( IRI (CONCAT (STR(?item), "#rg_author")) as ?rg_author_identifier)
-  }   
-  
-
-  
- OPTIONAL {
-   ?item wdt:P214 ?viaf .   
-   BIND( IRI (CONCAT (STR(?item), "#viaf")) as ?viaf_identifier)
-  }   
-  
-
- OPTIONAL {
-   ?item wdt:P2006 ?zoobank_author_uuid .   
-   BIND( IRI (CONCAT (STR(?item), "#zoobank_author")) as ?zoobank_author_identifier)
-  }   
-
-  
- OPTIONAL {
    ?item wdt:P2007 ?zoobank_pub_uuid .   
    BIND( IRI (CONCAT (STR(?item), "#zoobank_pub")) as ?zoobank_pub_identifier)
   }  
-  
- OPTIONAL {
-   ?item wdt:P6944 ?bloodhound .   
-   BIND( IRI (CONCAT (STR(?item), "#bloodhound")) as ?bloodhound_identifier)
-  }   
-  
-  
- OPTIONAL {
-   ?item wdt:P2732 ?persee .   
-   BIND( IRI (CONCAT (STR(?item), "#persee")) as ?persee_identifier)
-  }        
-  
 
   
   # Book identifiers
@@ -456,14 +351,7 @@ WHERE
  OPTIONAL {
    ?item wdt:P856 ?url .  
   }   
- 
- 
-     
- OPTIONAL {
-   ?species_wiki schema:about ?item; 
-   	schema:isPartOf <https://species.wikimedia.org/>;
-   
-  } 
+
   
    # full text as PDF we can view
   OPTIONAL {
@@ -483,7 +371,7 @@ WHERE
 
   	}
   } 
-}   
+}  	  
 ';
 	
 	// Get item
@@ -809,6 +697,10 @@ function item_to_csl($data, $debug = true)
 										$authors[$index]->ORCID = 'https://orcid.org/' . $identifier->value;
 										break;
 
+									case 'researchgate':
+										$authors[$index]->RESEARCHGATE = $identifier->value;
+										break;
+
 									default:
 										break;
 								}					
@@ -927,6 +819,10 @@ function item_to_csl($data, $debug = true)
 								$citeproc_obj['HANDLE'] = $identifier->value;
 								break;
 
+							case 'jstor':
+								$citeproc_obj['JSTOR'] = $identifier->value;
+								break;
+
 							case 'pmid':
 								$citeproc_obj['PMID'] = $identifier->value;
 								break;
@@ -989,6 +885,13 @@ $debug = false;
 $citeproc_obj = new stdclass;
 
 $item = get_work($id, $debug);
+
+if (0)
+{
+	echo '<pre>';
+	print_r($item);
+	echo '</pre>';
+}
 
 if ($item)
 {
