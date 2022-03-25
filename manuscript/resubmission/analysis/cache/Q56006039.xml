@@ -1,0 +1,260 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56006039</title>
+    <ns>0</ns>
+    <id>55955855</id>
+    <revision>
+      <id>722330567</id>
+      <timestamp>2018-08-07T07:13:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56006039","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>i6p7n5k6cwyhikhn9k9ydh9sk9cd4s5</sha1>
+    </revision>
+    <revision>
+      <id>722330571</id>
+      <parentid>722330567</parentid>
+      <timestamp>2018-08-07T07:13:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Geometrid. descriptions and notes</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="168" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7tqsd5k1z6d5a0curuacs8r5hkdlz52</sha1>
+    </revision>
+    <revision>
+      <id>722330573</id>
+      <parentid>722330571</parentid>
+      <timestamp>2018-08-07T07:13:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Geometrid. descriptions and notes</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="235" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>82debooindqjcad279m7qwbuk1n7qp2</sha1>
+    </revision>
+    <revision>
+      <id>722330577</id>
+      <parentid>722330573</parentid>
+      <timestamp>2018-08-07T07:13:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.10110</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="498" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cnsu4jp2mpfn521skp9ouzoa0exxoyh</sha1>
+    </revision>
+    <revision>
+      <id>722330579</id>
+      <parentid>722330577</parentid>
+      <timestamp>2018-08-07T07:13:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 95469</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="746" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i7tj5n7bju7922elguizerz5sxa29be</sha1>
+    </revision>
+    <revision>
+      <id>722330581</id>
+      <parentid>722330579</parentid>
+      <timestamp>2018-08-07T07:13:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1055" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pw4684pwq98ou74xp6i59x1yxqoywr9</sha1>
+    </revision>
+    <revision>
+      <id>722330585</id>
+      <parentid>722330581</parentid>
+      <timestamp>2018-08-07T07:13:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Geometrid. descriptions and notes</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1365" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sug0268u6yaa082iquk0m45s6fznyru</sha1>
+    </revision>
+    <revision>
+      <id>722330586</id>
+      <parentid>722330585</parentid>
+      <timestamp>2018-08-07T07:13:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 36</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1608" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3iqec6bs9ocox47bju8fwb1d2fsgya4</sha1>
+    </revision>
+    <revision>
+      <id>722330588</id>
+      <parentid>722330586</parentid>
+      <timestamp>2018-08-07T07:13:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 151–180</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1861" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c17cf6a79a9abbc0e8daf64b6dbcfe97be77258a","datavalue":{"value":"151\u2013180","type":"string"}},"type":"statement","id":"Q56006039$F16DAFEB-149A-4F1D-BA7A-82105FEF2CEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>14j4t59p1adrzfyyqs3d0xoy5xugec6</sha1>
+    </revision>
+    <revision>
+      <id>722330592</id>
+      <parentid>722330588</parentid>
+      <timestamp>2018-08-07T07:13:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1931</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2240" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c17cf6a79a9abbc0e8daf64b6dbcfe97be77258a","datavalue":{"value":"151\u2013180","type":"string"}},"type":"statement","id":"Q56006039$F16DAFEB-149A-4F1D-BA7A-82105FEF2CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7181b8f2b9ecb69a0de8f1e674e81de11476d6be","datavalue":{"value":{"time":"+1931-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006039$C77B41CD-B340-4196-9746-7377B370ED0E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kutwcatsz30p5fuwngee9cfgb9ywdim</sha1>
+    </revision>
+    <revision>
+      <id>722330594</id>
+      <parentid>722330592</parentid>
+      <timestamp>2018-08-07T07:13:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q7064924]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2551" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c17cf6a79a9abbc0e8daf64b6dbcfe97be77258a","datavalue":{"value":"151\u2013180","type":"string"}},"type":"statement","id":"Q56006039$F16DAFEB-149A-4F1D-BA7A-82105FEF2CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7181b8f2b9ecb69a0de8f1e674e81de11476d6be","datavalue":{"value":{"time":"+1931-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006039$C77B41CD-B340-4196-9746-7377B370ED0E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$6D0AAADB-0EC7-468E-9EE4-4892453BAD56","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3oqtehbfhnb17hkfpxpzk3ik3srh3tw</sha1>
+    </revision>
+    <revision>
+      <id>738396173</id>
+      <parentid>722330594</parentid>
+      <timestamp>2018-09-02T06:09:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 3434621, According to [[Property:P5315]]=95469</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2799" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c17cf6a79a9abbc0e8daf64b6dbcfe97be77258a","datavalue":{"value":"151\u2013180","type":"string"}},"type":"statement","id":"Q56006039$F16DAFEB-149A-4F1D-BA7A-82105FEF2CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7181b8f2b9ecb69a0de8f1e674e81de11476d6be","datavalue":{"value":{"time":"+1931-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006039$C77B41CD-B340-4196-9746-7377B370ED0E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$6D0AAADB-0EC7-468E-9EE4-4892453BAD56","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"184e97069e31f8c568f784fdfa761e0a6194a7bb","datavalue":{"value":"3434621","type":"string"}},"type":"statement","id":"Q56006039$F56D5128-3472-44DB-8501-1435AD652CE7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4sy8451x9wvioky4m93dokhae7qsgfn</sha1>
+    </revision>
+    <revision>
+      <id>784428153</id>
+      <parentid>738396173</parentid>
+      <timestamp>2018-11-08T01:41:34Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2923" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"},"nl":{"language":"nl","value":"Geometrid. descriptions and notes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c17cf6a79a9abbc0e8daf64b6dbcfe97be77258a","datavalue":{"value":"151\u2013180","type":"string"}},"type":"statement","id":"Q56006039$F16DAFEB-149A-4F1D-BA7A-82105FEF2CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7181b8f2b9ecb69a0de8f1e674e81de11476d6be","datavalue":{"value":{"time":"+1931-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006039$C77B41CD-B340-4196-9746-7377B370ED0E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$6D0AAADB-0EC7-468E-9EE4-4892453BAD56","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"184e97069e31f8c568f784fdfa761e0a6194a7bb","datavalue":{"value":"3434621","type":"string"}},"type":"statement","id":"Q56006039$F56D5128-3472-44DB-8501-1435AD652CE7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nccbj38a3hochlw9mnzemv8l5jogklp</sha1>
+    </revision>
+    <revision>
+      <id>974683507</id>
+      <parentid>784428153</parentid>
+      <timestamp>2019-07-05T21:16:25Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1931, [[:toollabs:quickstatements/#/batch/15405|batch #15405]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3122" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"},"nl":{"language":"nl","value":"Geometrid. descriptions and notes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1931"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c17cf6a79a9abbc0e8daf64b6dbcfe97be77258a","datavalue":{"value":"151\u2013180","type":"string"}},"type":"statement","id":"Q56006039$F16DAFEB-149A-4F1D-BA7A-82105FEF2CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7181b8f2b9ecb69a0de8f1e674e81de11476d6be","datavalue":{"value":{"time":"+1931-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006039$C77B41CD-B340-4196-9746-7377B370ED0E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$6D0AAADB-0EC7-468E-9EE4-4892453BAD56","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"184e97069e31f8c568f784fdfa761e0a6194a7bb","datavalue":{"value":"3434621","type":"string"}},"type":"statement","id":"Q56006039$F56D5128-3472-44DB-8501-1435AD652CE7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bwok7hwde94ofz76qwqdpj3j4vvr8zo</sha1>
+    </revision>
+    <revision>
+      <id>1105834392</id>
+      <parentid>974683507</parentid>
+      <timestamp>2020-01-28T20:25:12Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1931 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25456|batch #25456]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3219" xml:space="preserve">{"type":"item","id":"Q56006039","labels":{"de":{"language":"de","value":"Geometrid. descriptions and notes"},"en":{"language":"en","value":"Geometrid. descriptions and notes"},"nl":{"language":"nl","value":"Geometrid. descriptions and notes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1931"},"de":{"language":"de","value":"im Januar 1931 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1a433423a674457d7b25af2f6faae414cd066838","datavalue":{"value":"10.5962\/BHL.PART.10110","type":"string"}},"type":"statement","id":"Q56006039$AE39F855-2FC1-4CC6-902A-C008EF7BB52B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4f59e3f7af11dbd0840954aee1c74484066a1bf7","datavalue":{"value":"95469","type":"string"}},"type":"statement","id":"Q56006039$9EB6D24B-E1AC-46CA-88C0-BB5E6BC291EE","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$5937770B-59B0-4648-9CC6-04AA41A3B7EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"693581d2d28949d88319a8a6a2131abf8b14d202","datavalue":{"value":{"text":"Geometrid. descriptions and notes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006039$B576F9B8-14CC-40AE-89D8-C90AC1FC2BFB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q56006039$AE243465-4473-4A2F-B50A-0F547FA4064F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c17cf6a79a9abbc0e8daf64b6dbcfe97be77258a","datavalue":{"value":"151\u2013180","type":"string"}},"type":"statement","id":"Q56006039$F16DAFEB-149A-4F1D-BA7A-82105FEF2CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7181b8f2b9ecb69a0de8f1e674e81de11476d6be","datavalue":{"value":{"time":"+1931-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006039$C77B41CD-B340-4196-9746-7377B370ED0E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006039$6D0AAADB-0EC7-468E-9EE4-4892453BAD56","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"184e97069e31f8c568f784fdfa761e0a6194a7bb","datavalue":{"value":"3434621","type":"string"}},"type":"statement","id":"Q56006039$F56D5128-3472-44DB-8501-1435AD652CE7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h3wggrwchkzg3hgyjmpjj2dkdbaunpc</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q70077557</title>
+    <ns>0</ns>
+    <id>69737546</id>
+    <revision>
+      <id>1027908073</id>
+      <timestamp>2019-10-08T10:51:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q70077557","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>cgwvy8gxz24ml3rkcrpkxw0v45037o8</sha1>
+    </revision>
+    <revision>
+      <id>1027908085</id>
+      <parentid>1027908073</parentid>
+      <timestamp>2019-10-08T10:51:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="235" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>hl2gsbh6vn041higym0wlcohnu5uoqx</sha1>
+    </revision>
+    <revision>
+      <id>1027908090</id>
+      <parentid>1027908085</parentid>
+      <timestamp>2019-10-08T10:51:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="369" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>p1eyr6xzmehqj26if2j2rbsuumnsr83</sha1>
+    </revision>
+    <revision>
+      <id>1027908099</id>
+      <parentid>1027908090</parentid>
+      <timestamp>2019-10-08T10:51:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.11646/PHYTOTAXA.409.2.2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="636" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lvn4dcrfgujw5g96u3cogkczsx87tbs</sha1>
+    </revision>
+    <revision>
+      <id>1027908107</id>
+      <parentid>1027908099</parentid>
+      <timestamp>2019-10-08T10:51:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="945" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r711saff29yl7759ocaqljzo9wy7o82</sha1>
+    </revision>
+    <revision>
+      <id>1027908115</id>
+      <parentid>1027908107</parentid>
+      <timestamp>2019-10-08T10:51:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1322" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6mz35xjr5e1yl236x2ft6ofvw8tbsd7</sha1>
+    </revision>
+    <revision>
+      <id>1027908127</id>
+      <parentid>1027908115</parentid>
+      <timestamp>2019-10-08T10:51:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 409</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1566" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p555y0kfm7skjryswjrzm03zz7g9g74</sha1>
+    </revision>
+    <revision>
+      <id>1027908147</id>
+      <parentid>1027908127</parentid>
+      <timestamp>2019-10-08T10:51:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 66–70</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1817" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bfi8re6xeh2vo2iikuyrhyb5q7jjwqb</sha1>
+    </revision>
+    <revision>
+      <id>1027908151</id>
+      <parentid>1027908147</parentid>
+      <timestamp>2019-10-08T10:51:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2059" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nvuqpn1tvefcl3dz1bc9zjz2ozxs13y</sha1>
+    </revision>
+    <revision>
+      <id>1027908157</id>
+      <parentid>1027908151</parentid>
+      <timestamp>2019-10-08T10:51:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 9 July 2019</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2439" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>isnobekjmqf0kqi4403uz0rokym1ac0</sha1>
+    </revision>
+    <revision>
+      <id>1027908168</id>
+      <parentid>1027908157</parentid>
+      <timestamp>2019-10-08T10:51:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Xavier Cornejo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2696" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b0u5fdkvm0cansgshgg5m7rnsgpal6h</sha1>
+    </revision>
+    <revision>
+      <id>1027908175</id>
+      <parentid>1027908168</parentid>
+      <timestamp>2019-10-08T10:51:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2882" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qlosna3nbu3p6ms9izpzi9idixdkuls</sha1>
+    </revision>
+    <revision>
+      <id>1027908188</id>
+      <parentid>1027908175</parentid>
+      <timestamp>2019-10-08T10:51:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Paola Pedraza-Peñalosa</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3142" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sq53sdbw3rfrbcqh5pkeb6bf5qxz36t</sha1>
+    </revision>
+    <revision>
+      <id>1027908197</id>
+      <parentid>1027908188</parentid>
+      <timestamp>2019-10-08T10:51:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3328" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3uidnizzobv5qxjeecs4l1z4cfzg2wa</sha1>
+    </revision>
+    <revision>
+      <id>1027908204</id>
+      <parentid>1027908197</parentid>
+      <timestamp>2019-10-08T10:51:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4807825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3639" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$AECA5E0A-AAA1-4A7D-A662-6772E1681E00","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>edljunfavy3t0wi9lz9x9w0rc8rxb3r</sha1>
+    </revision>
+    <revision>
+      <id>1098657126</id>
+      <parentid>1027908204</parentid>
+      <timestamp>2020-01-15T10:19:35Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3756" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"nl":{"language":"nl","value":"Sphyrospermum grandiflorum"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$AECA5E0A-AAA1-4A7D-A662-6772E1681E00","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m0gk745lf5tmx0nth2idp72342rju5h</sha1>
+    </revision>
+    <revision>
+      <id>1134059125</id>
+      <parentid>1098657126</parentid>
+      <timestamp>2020-03-11T18:35:26Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Juli 2019 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/26345|batch #26345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3851" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"nl":{"language":"nl","value":"Sphyrospermum grandiflorum"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Juli 2019 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$AECA5E0A-AAA1-4A7D-A662-6772E1681E00","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ik1l26zyzlv6q510hlp8mixo74zw7jq</sha1>
+    </revision>
+    <revision>
+      <id>1404575817</id>
+      <parentid>1134059125</parentid>
+      <timestamp>2021-04-19T14:07:16Z</timestamp>
+      <contributor>
+        <username>RogerNiceEyes</username>
+        <id>4813288</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q736]], [[:toollabs:quickstatements/#/batch/53078|batch #53078]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4152" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"nl":{"language":"nl","value":"Sphyrospermum grandiflorum"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Juli 2019 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da7b221eef51e0681a8efb122aa2ef4137fe7eee","datavalue":{"value":"Xavier Cornejo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$36515ED8-BA9C-472A-AC4C-CB6830DADE7B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$AECA5E0A-AAA1-4A7D-A662-6772E1681E00","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"72c916ebec12e18d967b2ccf6d4620b8145b6911","datavalue":{"value":{"entity-type":"item","numeric-id":736,"id":"Q736"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$CBFFE804-88CD-4287-955A-F61A8A0B4F31","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t4maxfzs4zslhczy8477wtc616vhyuz</sha1>
+    </revision>
+    <revision>
+      <id>1462410814</id>
+      <parentid>1404575817</parentid>
+      <timestamp>2021-07-18T16:42:54Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q18982354]] ([[:toollabs:editgroups/b/AD/7ba8abfb|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4377" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"nl":{"language":"nl","value":"Sphyrospermum grandiflorum"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Juli 2019 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$AECA5E0A-AAA1-4A7D-A662-6772E1681E00","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"72c916ebec12e18d967b2ccf6d4620b8145b6911","datavalue":{"value":{"entity-type":"item","numeric-id":736,"id":"Q736"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$CBFFE804-88CD-4287-955A-F61A8A0B4F31","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"20070b65080cb4c17b60fa9853c6fc3acfc09835","datavalue":{"value":{"entity-type":"item","numeric-id":18982354,"id":"Q18982354"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"9711f161ff1132333f2714468cb16284af07d196","datavalue":{"value":"Xavier Cornejo","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q70077557$C595F97C-FA39-45FE-8D29-48B4387C837A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j4g891q1i03wjbxpz74s47wg4qgyy2c</sha1>
+    </revision>
+    <revision>
+      <id>1544114213</id>
+      <parentid>1462410814</parentid>
+      <timestamp>2021-12-15T05:37:04Z</timestamp>
+      <contributor>
+        <username>DrThneed</username>
+        <id>3083127</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scholarly article by Xavier Cornejo &amp; Paola Pedraza-Peñalosa published 9 July 2019 in Phytotaxa, [[:toollabs:quickstatements/#/batch/71847|batch #71847]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4511" xml:space="preserve">{"type":"item","id":"Q70077557","labels":{"de":{"language":"de","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"en":{"language":"en","value":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador"},"nl":{"language":"nl","value":"Sphyrospermum grandiflorum"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Juli 2019 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"en":{"language":"en","value":"scholarly article by Xavier Cornejo &amp; Paola Pedraza-Pe\u00f1alosa published 9 July 2019 in Phytotaxa"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f44bd207547e8fd5f9a3bd63da371223b7c9b6cc","datavalue":{"value":"10.11646\/PHYTOTAXA.409.2.2","type":"string"}},"type":"statement","id":"Q70077557$64281208-DDF5-4391-8732-E2DBF9ADA3CC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$D0D2BAC0-B591-4D23-8B5E-E0C4AE3A2386","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0d1f0756a3a007a03f6c53a4ba740646565a1830","datavalue":{"value":{"text":"Sphyrospermum grandiflorum (Ericaceae: Vaccinieae): a new epiphytic shrub from south eastern Ecuador","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70077557$4EA430A0-9CEB-4244-AC87-41F6B066F967","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"efb5ed67373a7e5001c74b15162718bffc4e9357","datavalue":{"value":"409","type":"string"}},"type":"statement","id":"Q70077557$AA668122-3CA9-4EBD-8BF0-B9AC1DAD6F96","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"64e880546004b73aeb1270f40e8ba9a747da08b3","datavalue":{"value":"66\u201370","type":"string"}},"type":"statement","id":"Q70077557$7689E5AC-76AD-48E1-BD40-B67DF4C7B294","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q70077557$73CCC8A8-6D37-40CC-BCD8-A019FC0D9767","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a853b8a3bc8fef5dde10798924b4a53908583d4","datavalue":{"value":{"time":"+2019-07-09T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70077557$38BA145D-539D-467B-B5DD-25F245B08C7A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66b633ec7db4b3f7b83a37c7fc5977c6d6a9fd0a","datavalue":{"value":"Paola Pedraza-Pe\u00f1alosa","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70077557$300058A4-AF1D-4B2C-86D9-A6EEECB7A3CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$AECA5E0A-AAA1-4A7D-A662-6772E1681E00","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"72c916ebec12e18d967b2ccf6d4620b8145b6911","datavalue":{"value":{"entity-type":"item","numeric-id":736,"id":"Q736"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70077557$CBFFE804-88CD-4287-955A-F61A8A0B4F31","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"20070b65080cb4c17b60fa9853c6fc3acfc09835","datavalue":{"value":{"entity-type":"item","numeric-id":18982354,"id":"Q18982354"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"9711f161ff1132333f2714468cb16284af07d196","datavalue":{"value":"Xavier Cornejo","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q70077557$C595F97C-FA39-45FE-8D29-48B4387C837A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>glq0i8lh1vrajlynumcjm3z6k8qwq69</sha1>
+    </revision>
+  </page>
+</mediawiki>

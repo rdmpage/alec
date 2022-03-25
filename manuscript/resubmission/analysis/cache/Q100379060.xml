@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q100379060</title>
+    <ns>0</ns>
+    <id>98029765</id>
+    <revision>
+      <id>1292074939</id>
+      <timestamp>2020-10-15T14:16:39Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1602769830991</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4620" xml:space="preserve">{"type":"item","id":"Q100379060","labels":{"en":{"language":"en","value":"Amphiprion leucokranos, a New Species of Pomacentrid Fish, with Notes on Other Anemonefishes of New Guinea"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100379060$DAC30CA7-AA35-462D-96FF-7B726A835A29","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e6a0ce0d94723624ec5e32cc196c5647eaf872cf","datavalue":{"value":{"text":"Amphiprion leucokranos, a New Species of Pomacentrid Fish, with Notes on Other Anemonefishes of New Guinea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100379060$BC156D9C-0DE1-486B-8352-B40F39C4E31C","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"1568ccf619536235bc070296f3464a530fbed48a","datavalue":{"value":{"text":"A new species of anemonefish, Amphiprion leucokranos, is described from Madang, New Guinea and Fergusson Island, D'Entrecasteaux Group.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100379060$CAB7A1A1-510C-41A2-9190-DE221EADC6A1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100379060$16AD3A11-25FB-48F4-92D4-088B57BF5C7D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0c1b1b0120c00b35ef27e8ee3347548bac1fcd87","datavalue":{"value":{"time":"+1973-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q100379060$7CCF6B01-18CF-4208-880C-B2BFF1B2D961","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"cf014f306208851f73601340250dcda1a41f238f","datavalue":{"value":"Gerald R Allen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q100379060$2A1551BA-C14C-4167-B221-F8D2F28D44E1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7a0dcbbe510b0c9d7dc793a164645088be859655","datavalue":{"value":{"entity-type":"item","numeric-id":6056825,"id":"Q6056825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100379060$458B7B73-20F1-4CAD-873B-F96B3163212A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1b80ace397ac0025ddf55e5c943f03e0e3ed1644","datavalue":{"value":"27","type":"string"}},"type":"statement","id":"Q100379060$D31240A9-1307-4BC5-BEEC-B2CBB090E82D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q100379060$05D829EA-997E-4AD8-9B36-560FAA55EC26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"faaba6d13932784e0541bc06a50ac0571afa2da4","datavalue":{"value":"319-326","type":"string"}},"type":"statement","id":"Q100379060$40D06FAC-99DA-4AB9-B8C6-D1D7A0610420","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"bcf8187143d71f606b04091ac26c5f5a69bf73df","datavalue":{"value":"10125\/811","type":"string"}},"type":"statement","id":"Q100379060$65B671CD-99D5-49A0-838C-C0E67C31DCD6","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"b5ef93d376af228c14bef2df44c21192dbb99b4c","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/bitstream\/10125\/811\/1\/v27n4-319-326.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q100379060$0A64C1E8-B5D0-4AA2-B156-B1EFE3536ADB","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"b77e5fd8cee1007902961c5313454aa1e1f92f44","datavalue":{"value":"http:\/\/hdl.handle.net\/10125\/811","type":"string"}},"type":"statement","id":"Q100379060$B82B4A9B-B812-4307-8204-CD48EF160E0A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7p65nqg502qita4i9ogv6b1u62uno3h</sha1>
+    </revision>
+    <revision>
+      <id>1292136675</id>
+      <parentid>1292074939</parentid>
+      <timestamp>2020-10-15T16:03:04Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4817" xml:space="preserve">{"type":"item","id":"Q100379060","labels":{"en":{"language":"en","value":"Amphiprion leucokranos, a New Species of Pomacentrid Fish, with Notes on Other Anemonefishes of New Guinea"},"nl":{"language":"nl","value":"Amphiprion leucokranos, a New Species of Pomacentrid Fish, with Notes on Other Anemonefishes of New Guinea"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100379060$DAC30CA7-AA35-462D-96FF-7B726A835A29","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e6a0ce0d94723624ec5e32cc196c5647eaf872cf","datavalue":{"value":{"text":"Amphiprion leucokranos, a New Species of Pomacentrid Fish, with Notes on Other Anemonefishes of New Guinea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100379060$BC156D9C-0DE1-486B-8352-B40F39C4E31C","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"1568ccf619536235bc070296f3464a530fbed48a","datavalue":{"value":{"text":"A new species of anemonefish, Amphiprion leucokranos, is described from Madang, New Guinea and Fergusson Island, D'Entrecasteaux Group.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100379060$CAB7A1A1-510C-41A2-9190-DE221EADC6A1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100379060$16AD3A11-25FB-48F4-92D4-088B57BF5C7D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0c1b1b0120c00b35ef27e8ee3347548bac1fcd87","datavalue":{"value":{"time":"+1973-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q100379060$7CCF6B01-18CF-4208-880C-B2BFF1B2D961","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"cf014f306208851f73601340250dcda1a41f238f","datavalue":{"value":"Gerald R Allen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q100379060$2A1551BA-C14C-4167-B221-F8D2F28D44E1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7a0dcbbe510b0c9d7dc793a164645088be859655","datavalue":{"value":{"entity-type":"item","numeric-id":6056825,"id":"Q6056825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100379060$458B7B73-20F1-4CAD-873B-F96B3163212A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1b80ace397ac0025ddf55e5c943f03e0e3ed1644","datavalue":{"value":"27","type":"string"}},"type":"statement","id":"Q100379060$D31240A9-1307-4BC5-BEEC-B2CBB090E82D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q100379060$05D829EA-997E-4AD8-9B36-560FAA55EC26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"faaba6d13932784e0541bc06a50ac0571afa2da4","datavalue":{"value":"319-326","type":"string"}},"type":"statement","id":"Q100379060$40D06FAC-99DA-4AB9-B8C6-D1D7A0610420","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"bcf8187143d71f606b04091ac26c5f5a69bf73df","datavalue":{"value":"10125\/811","type":"string"}},"type":"statement","id":"Q100379060$65B671CD-99D5-49A0-838C-C0E67C31DCD6","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"b5ef93d376af228c14bef2df44c21192dbb99b4c","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/bitstream\/10125\/811\/1\/v27n4-319-326.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q100379060$0A64C1E8-B5D0-4AA2-B156-B1EFE3536ADB","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"b77e5fd8cee1007902961c5313454aa1e1f92f44","datavalue":{"value":"http:\/\/hdl.handle.net\/10125\/811","type":"string"}},"type":"statement","id":"Q100379060$B82B4A9B-B812-4307-8204-CD48EF160E0A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6klaivwrlwy27icmivq9a83xvqzd12v</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56008511</title>
+    <ns>0</ns>
+    <id>55958329</id>
+    <revision>
+      <id>722411355</id>
+      <timestamp>2018-08-07T11:40:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56008511","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>p2shgbnz9rm4jdnhippylv27nkwsky4</sha1>
+    </revision>
+    <revision>
+      <id>722411358</id>
+      <parentid>722411355</parentid>
+      <timestamp>2018-08-07T11:40:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Tingides du Congo beige</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="158" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ge1goxgz3dgkrmznrkor7ahlfm52m4d</sha1>
+    </revision>
+    <revision>
+      <id>722411361</id>
+      <parentid>722411358</parentid>
+      <timestamp>2018-08-07T11:40:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Tingides du Congo beige</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="215" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>i0bp2brsomwm4oz7t4ie9k3j5pyvj1l</sha1>
+    </revision>
+    <revision>
+      <id>722411362</id>
+      <parentid>722411361</parentid>
+      <timestamp>2018-08-07T11:40:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.13899</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="478" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6l5fzgr4cpxesvngakvf3dj02jxn3kj</sha1>
+    </revision>
+    <revision>
+      <id>722411366</id>
+      <parentid>722411362</parentid>
+      <timestamp>2018-08-07T11:40:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 97217</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="726" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7hsab4ejo0avdmpvv9fc2tyqxajmytv</sha1>
+    </revision>
+    <revision>
+      <id>722411373</id>
+      <parentid>722411366</parentid>
+      <timestamp>2018-08-07T11:40:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1035" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jxmnx363p5fzqabxabftt822hfwzr54</sha1>
+    </revision>
+    <revision>
+      <id>722411376</id>
+      <parentid>722411373</parentid>
+      <timestamp>2018-08-07T11:40:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Tingides du Congo beige</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1335" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s7hoo1pu7cl6wlnkq80x6mffmuuphih</sha1>
+    </revision>
+    <revision>
+      <id>722411379</id>
+      <parentid>722411376</parentid>
+      <timestamp>2018-08-07T11:40:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1577" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>neexwhatmsap3v1vcaxigo7lu5cd04q</sha1>
+    </revision>
+    <revision>
+      <id>722411381</id>
+      <parentid>722411379</parentid>
+      <timestamp>2018-08-07T11:40:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 288–297</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1830" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9jsgeiaetfi360hh7hdx5zs9h70dmj8</sha1>
+    </revision>
+    <revision>
+      <id>722411386</id>
+      <parentid>722411381</parentid>
+      <timestamp>2018-08-07T11:40:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1916</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2209" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>81qhx8qniep1st1qiimvfkt5cko34rv</sha1>
+    </revision>
+    <revision>
+      <id>722411390</id>
+      <parentid>722411386</parentid>
+      <timestamp>2018-08-07T11:40:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385002]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2522" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k383ppsnryirdq007sxsc4xnhjbuqvk</sha1>
+    </revision>
+    <revision>
+      <id>738411326</id>
+      <parentid>722411390</parentid>
+      <timestamp>2018-09-02T06:44:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 11472570, According to [[Property:P5315]]=97217</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2771" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ea352ae9320608ad12e047f4413d8af4c08b164","datavalue":{"value":"11472570","type":"string"}},"type":"statement","id":"Q56008511$7C254600-C7FA-4F4F-AAC3-C11743658FFD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h379y6ijjs5jwt745556ubu5jx97zsy</sha1>
+    </revision>
+    <revision>
+      <id>784398405</id>
+      <parentid>738411326</parentid>
+      <timestamp>2018-11-08T00:45:16Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2885" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"},"nl":{"language":"nl","value":"Tingides du Congo beige"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ea352ae9320608ad12e047f4413d8af4c08b164","datavalue":{"value":"11472570","type":"string"}},"type":"statement","id":"Q56008511$7C254600-C7FA-4F4F-AAC3-C11743658FFD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k3ht89xy3yoc8fqlyt8hn0fx4y0pl8y</sha1>
+    </revision>
+    <revision>
+      <id>953186882</id>
+      <parentid>784398405</parentid>
+      <timestamp>2019-05-31T23:25:07Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1916 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3192" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"},"nl":{"language":"nl","value":"Tingides du Congo beige"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ea352ae9320608ad12e047f4413d8af4c08b164","datavalue":{"value":"11472570","type":"string"}},"type":"statement","id":"Q56008511$7C254600-C7FA-4F4F-AAC3-C11743658FFD","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$47D527A7-843C-4235-B637-14EDC890F1A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ii8tgwxxhhg8elspt24likck5km3rvr</sha1>
+    </revision>
+    <revision>
+      <id>953186891</id>
+      <parentid>953186882</parentid>
+      <timestamp>2019-05-31T23:25:09Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3435" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"},"nl":{"language":"nl","value":"Tingides du Congo beige"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ea352ae9320608ad12e047f4413d8af4c08b164","datavalue":{"value":"11472570","type":"string"}},"type":"statement","id":"Q56008511$7C254600-C7FA-4F4F-AAC3-C11743658FFD","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56008511$47D527A7-843C-4235-B637-14EDC890F1A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pmfjlevix5st14qd3r9wfqh7tgr1wco</sha1>
+    </revision>
+    <revision>
+      <id>953186912</id>
+      <parentid>953186891</parentid>
+      <timestamp>2019-05-31T23:25:10Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3651" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"},"nl":{"language":"nl","value":"Tingides du Congo beige"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ea352ae9320608ad12e047f4413d8af4c08b164","datavalue":{"value":"11472570","type":"string"}},"type":"statement","id":"Q56008511$7C254600-C7FA-4F4F-AAC3-C11743658FFD","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56008511$47D527A7-843C-4235-B637-14EDC890F1A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ms437o1jj7g5yejaeqe440tsegvueox</sha1>
+    </revision>
+    <revision>
+      <id>974325494</id>
+      <parentid>953186912</parentid>
+      <timestamp>2019-07-05T05:04:45Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1916, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3850" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"},"nl":{"language":"nl","value":"Tingides du Congo beige"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ea352ae9320608ad12e047f4413d8af4c08b164","datavalue":{"value":"11472570","type":"string"}},"type":"statement","id":"Q56008511$7C254600-C7FA-4F4F-AAC3-C11743658FFD","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56008511$47D527A7-843C-4235-B637-14EDC890F1A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6llpmnukfpfv32i183jlzfo2vj2z8jq</sha1>
+    </revision>
+    <revision>
+      <id>1272484703</id>
+      <parentid>974325494</parentid>
+      <timestamp>2020-09-06T18:53:14Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1916 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3945" xml:space="preserve">{"type":"item","id":"Q56008511","labels":{"de":{"language":"de","value":"Tingides du Congo beige"},"en":{"language":"en","value":"Tingides du Congo beige"},"nl":{"language":"nl","value":"Tingides du Congo beige"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1916"},"de":{"language":"de","value":"im Jahr 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f304f9666ed436fbb6a5b6072e731d1b8c064ec1","datavalue":{"value":"10.5962\/BHL.PART.13899","type":"string"}},"type":"statement","id":"Q56008511$92C6240E-5F39-472A-B7C2-3E40A66337F8","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b1d0f6f2b0910e49be53212bee75c7f2d3a0dbbf","datavalue":{"value":"97217","type":"string"}},"type":"statement","id":"Q56008511$35317C6B-E452-4044-BE1F-8D548C27F754","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$50D50E1A-7B5F-4384-8744-16E7584B414D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0831e9af4a7e7fd6e793e111dbdfcaefabbbbb1d","datavalue":{"value":{"text":"Tingides du Congo beige","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008511$34DEA910-A00A-415C-9CC4-495954538155","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56008511$9328784D-987E-4F3B-BDA7-936C62E27356","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a4095221971c06cf5c113a4e3bf4044a1b3506b1","datavalue":{"value":"288\u2013297","type":"string"}},"type":"statement","id":"Q56008511$8D238838-0353-4806-B0CE-BDD7F8D73947","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008511$CD010F45-0557-410E-B2CF-F3C65C8D15B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008511$F409E028-BAF0-427D-853D-C1C463FF5807","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ea352ae9320608ad12e047f4413d8af4c08b164","datavalue":{"value":"11472570","type":"string"}},"type":"statement","id":"Q56008511$7C254600-C7FA-4F4F-AAC3-C11743658FFD","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56008511$47D527A7-843C-4235-B637-14EDC890F1A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5iiu2qbaihjnjrhtk9h08tepqrz7343</sha1>
+    </revision>
+  </page>
+</mediawiki>

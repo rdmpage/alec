@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104256721</title>
+    <ns>0</ns>
+    <id>99704086</id>
+    <revision>
+      <id>1325014486</id>
+      <timestamp>2020-12-18T23:11:54Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1608332151848</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3448" xml:space="preserve">{"type":"item","id":"Q104256721","labels":{"en":{"language":"en","value":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$6986861E-2B6A-47ED-8023-334EC05DAFB5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7211301baafa70e74aefc3664d8d2e0eab4e9167","datavalue":{"value":{"text":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104256721$4F79A9B9-1931-4364-80EE-799D19D84C39","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$33D4A77A-94F5-420C-8ABF-03EEF2E78FFC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78900812102608180c79f2feb02b2ea7840b3fd1","datavalue":{"value":{"time":"+1991-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104256721$FA0FE7F4-3204-44F7-B857-512B21F849BC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7aca5e01c66d96738c187c7eed404fa1621bc0a0","datavalue":{"value":"John H Wahlert","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104256721$A577AD1D-2661-47FE-8E00-9517BED73380","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$32739C1D-FB4D-4CAA-9339-EBE05F95E6C6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"63ebc9773725714fbdbf34ba7811439d92675696","datavalue":{"value":"3013","type":"string"}},"type":"statement","id":"Q104256721$5ABE3809-22B5-4A2A-AD16-3CE0653AC29B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"84e9605f0082d93395731745f19566448d772384","datavalue":{"value":"1-23","type":"string"}},"type":"statement","id":"Q104256721$B26458B2-5B60-4FCC-B5BD-5FB6D5158655","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"6d19c2d794105e10bdef4cc3bc674adc3ee2d219","datavalue":{"value":"2246\/5038","type":"string"}},"type":"statement","id":"Q104256721$C5D100B2-157D-41A5-88AA-9EAD1C279B71","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"4ffa8a99b81efdd75afe873f95fe36e5ce1592b7","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/5038","type":"string"}},"type":"statement","id":"Q104256721$D103C15D-DD6F-4EDC-8ABF-6F228CBECF51","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>165zsgr5mo82wlnvcaqobdb10euirye</sha1>
+    </revision>
+    <revision>
+      <id>1325093032</id>
+      <parentid>1325014486</parentid>
+      <timestamp>2020-12-19T01:41:10Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3670" xml:space="preserve">{"type":"item","id":"Q104256721","labels":{"en":{"language":"en","value":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988"},"nl":{"language":"nl","value":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$6986861E-2B6A-47ED-8023-334EC05DAFB5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7211301baafa70e74aefc3664d8d2e0eab4e9167","datavalue":{"value":{"text":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104256721$4F79A9B9-1931-4364-80EE-799D19D84C39","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$33D4A77A-94F5-420C-8ABF-03EEF2E78FFC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78900812102608180c79f2feb02b2ea7840b3fd1","datavalue":{"value":{"time":"+1991-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104256721$FA0FE7F4-3204-44F7-B857-512B21F849BC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7aca5e01c66d96738c187c7eed404fa1621bc0a0","datavalue":{"value":"John H Wahlert","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104256721$A577AD1D-2661-47FE-8E00-9517BED73380","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$32739C1D-FB4D-4CAA-9339-EBE05F95E6C6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"63ebc9773725714fbdbf34ba7811439d92675696","datavalue":{"value":"3013","type":"string"}},"type":"statement","id":"Q104256721$5ABE3809-22B5-4A2A-AD16-3CE0653AC29B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"84e9605f0082d93395731745f19566448d772384","datavalue":{"value":"1-23","type":"string"}},"type":"statement","id":"Q104256721$B26458B2-5B60-4FCC-B5BD-5FB6D5158655","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"6d19c2d794105e10bdef4cc3bc674adc3ee2d219","datavalue":{"value":"2246\/5038","type":"string"}},"type":"statement","id":"Q104256721$C5D100B2-157D-41A5-88AA-9EAD1C279B71","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"4ffa8a99b81efdd75afe873f95fe36e5ce1592b7","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/5038","type":"string"}},"type":"statement","id":"Q104256721$D103C15D-DD6F-4EDC-8ABF-6F228CBECF51","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lbu1ob7erfhgzcdkhnjla8av44n5jjo</sha1>
+    </revision>
+    <revision>
+      <id>1433037158</id>
+      <parentid>1325093032</parentid>
+      <timestamp>2021-06-01T14:01:31Z</timestamp>
+      <contributor>
+        <username>Allknowingroger</username>
+        <id>3344014</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q10850]], [[:toollabs:quickstatements/#/batch/55934|batch #55934]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3976" xml:space="preserve">{"type":"item","id":"Q104256721","labels":{"en":{"language":"en","value":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988"},"nl":{"language":"nl","value":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$6986861E-2B6A-47ED-8023-334EC05DAFB5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7211301baafa70e74aefc3664d8d2e0eab4e9167","datavalue":{"value":{"text":"The Harrymyinae, a new heteromyid subfamily (Rodentia, Geomorpha) : based on cranial and dental morphology of Harrymys Munthe, 1988","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104256721$4F79A9B9-1931-4364-80EE-799D19D84C39","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$33D4A77A-94F5-420C-8ABF-03EEF2E78FFC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78900812102608180c79f2feb02b2ea7840b3fd1","datavalue":{"value":{"time":"+1991-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104256721$FA0FE7F4-3204-44F7-B857-512B21F849BC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7aca5e01c66d96738c187c7eed404fa1621bc0a0","datavalue":{"value":"John H Wahlert","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104256721$A577AD1D-2661-47FE-8E00-9517BED73380","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$32739C1D-FB4D-4CAA-9339-EBE05F95E6C6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"63ebc9773725714fbdbf34ba7811439d92675696","datavalue":{"value":"3013","type":"string"}},"type":"statement","id":"Q104256721$5ABE3809-22B5-4A2A-AD16-3CE0653AC29B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"84e9605f0082d93395731745f19566448d772384","datavalue":{"value":"1-23","type":"string"}},"type":"statement","id":"Q104256721$B26458B2-5B60-4FCC-B5BD-5FB6D5158655","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"6d19c2d794105e10bdef4cc3bc674adc3ee2d219","datavalue":{"value":"2246\/5038","type":"string"}},"type":"statement","id":"Q104256721$C5D100B2-157D-41A5-88AA-9EAD1C279B71","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"4ffa8a99b81efdd75afe873f95fe36e5ce1592b7","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/5038","type":"string"}},"type":"statement","id":"Q104256721$D103C15D-DD6F-4EDC-8ABF-6F228CBECF51","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"c779306c8480eb25a2fcbb33a20f726b11000882","datavalue":{"value":{"entity-type":"item","numeric-id":10850,"id":"Q10850"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256721$DE0BD582-0445-4DFC-8570-3BCB52E2B679","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kaguka8ghudvms7dktrv9heok4039m3</sha1>
+    </revision>
+  </page>
+</mediawiki>

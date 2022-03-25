@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q54553184</title>
+    <ns>0</ns>
+    <id>54737375</id>
+    <revision>
+      <id>687854292</id>
+      <timestamp>2018-05-31T09:48:53Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */ #quickstatements; invoked by SourceMD:CreateFromWikispeciesDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2991" xml:space="preserve">{"type":"item","id":"Q54553184","labels":{"en":{"language":"en","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"faeb31987f8819336a1452b8f50b71a37121c749","datavalue":{"value":"10.1111\/J.1365-2311.1932.TB00085.X","type":"string"}},"type":"statement","id":"Q54553184$C3B91E78-273E-40EB-906B-3B9068ADE5A6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$D356BDB2-19C6-4282-BEE3-A2245246E134","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f4c81aa375d18b17d9d544c6a834f4fdb9a021a9","datavalue":{"value":{"text":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54553184$4A926082-B767-49ED-81F5-82C7832D1E3F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54553184$510929D7-8607-4E09-AD24-9FE2D12E2F47","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb3273e47f023736bfd9da5303b98ab5d88f3fe5","datavalue":{"value":"107-120","type":"string"}},"type":"statement","id":"Q54553184$2F32A2FA-7C15-4B68-B4BD-D9970220E952","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"94a3955f96678726ebe6334665cb411af543a7eb","datavalue":{"value":"80","type":"string"}},"type":"statement","id":"Q54553184$57891D0D-57C2-49D1-9E02-FA1F1B479E5B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54553184$6D716D30-9BD4-4CCC-9F88-2B6D51D25A43","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$3232B486-887C-4E7D-8436-C82B2D59C578","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9138fa3cd04fd224c12cff9e004f1a4c1551235e","datavalue":{"value":"EDWARD MEYRICK","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54553184$E2BE6DF0-4C00-4B8F-AD80-E998B98BCD0D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>63qs4sbvx3kxpxz427a697e51ex7ncv</sha1>
+    </revision>
+    <revision>
+      <id>963268862</id>
+      <parentid>687854292</parentid>
+      <timestamp>2019-06-16T10:23:08Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у квітні 2009, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3226" xml:space="preserve">{"type":"item","id":"Q54553184","labels":{"en":{"language":"en","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"faeb31987f8819336a1452b8f50b71a37121c749","datavalue":{"value":"10.1111\/J.1365-2311.1932.TB00085.X","type":"string"}},"type":"statement","id":"Q54553184$C3B91E78-273E-40EB-906B-3B9068ADE5A6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$D356BDB2-19C6-4282-BEE3-A2245246E134","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f4c81aa375d18b17d9d544c6a834f4fdb9a021a9","datavalue":{"value":{"text":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54553184$4A926082-B767-49ED-81F5-82C7832D1E3F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54553184$510929D7-8607-4E09-AD24-9FE2D12E2F47","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb3273e47f023736bfd9da5303b98ab5d88f3fe5","datavalue":{"value":"107-120","type":"string"}},"type":"statement","id":"Q54553184$2F32A2FA-7C15-4B68-B4BD-D9970220E952","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"94a3955f96678726ebe6334665cb411af543a7eb","datavalue":{"value":"80","type":"string"}},"type":"statement","id":"Q54553184$57891D0D-57C2-49D1-9E02-FA1F1B479E5B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54553184$6D716D30-9BD4-4CCC-9F88-2B6D51D25A43","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$3232B486-887C-4E7D-8436-C82B2D59C578","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9138fa3cd04fd224c12cff9e004f1a4c1551235e","datavalue":{"value":"EDWARD MEYRICK","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54553184$E2BE6DF0-4C00-4B8F-AD80-E998B98BCD0D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i8fzgixbrcqq9yuwrrh925th5xyr0i5</sha1>
+    </revision>
+    <revision>
+      <id>981081844</id>
+      <parentid>963268862</parentid>
+      <timestamp>2019-07-17T14:05:38Z</timestamp>
+      <contributor>
+        <username>ArthurPSmith</username>
+        <id>16474</id>
+      </contributor>
+      <comment>/* wbmergeitems-from:0||Q54553185 */ [[:toollabs:quickstatements/#/batch/16014|batch #16014]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3381" xml:space="preserve">{"type":"item","id":"Q54553184","labels":{"en":{"language":"en","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"},"nl":{"language":"nl","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"faeb31987f8819336a1452b8f50b71a37121c749","datavalue":{"value":"10.1111\/J.1365-2311.1932.TB00085.X","type":"string"}},"type":"statement","id":"Q54553184$C3B91E78-273E-40EB-906B-3B9068ADE5A6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$D356BDB2-19C6-4282-BEE3-A2245246E134","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f4c81aa375d18b17d9d544c6a834f4fdb9a021a9","datavalue":{"value":{"text":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54553184$4A926082-B767-49ED-81F5-82C7832D1E3F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54553184$510929D7-8607-4E09-AD24-9FE2D12E2F47","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb3273e47f023736bfd9da5303b98ab5d88f3fe5","datavalue":{"value":"107-120","type":"string"}},"type":"statement","id":"Q54553184$2F32A2FA-7C15-4B68-B4BD-D9970220E952","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"94a3955f96678726ebe6334665cb411af543a7eb","datavalue":{"value":"80","type":"string"}},"type":"statement","id":"Q54553184$57891D0D-57C2-49D1-9E02-FA1F1B479E5B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54553184$6D716D30-9BD4-4CCC-9F88-2B6D51D25A43","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$3232B486-887C-4E7D-8436-C82B2D59C578","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9138fa3cd04fd224c12cff9e004f1a4c1551235e","datavalue":{"value":"EDWARD MEYRICK","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54553184$E2BE6DF0-4C00-4B8F-AD80-E998B98BCD0D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nhfvjhde97hh9l82q32ywgxxa8n0mb7</sha1>
+    </revision>
+    <revision>
+      <id>1272802187</id>
+      <parentid>981081844</parentid>
+      <timestamp>2020-09-07T05:50:09Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im April 2009 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42380|batch #42380]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3477" xml:space="preserve">{"type":"item","id":"Q54553184","labels":{"en":{"language":"en","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"},"nl":{"language":"nl","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im April 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"faeb31987f8819336a1452b8f50b71a37121c749","datavalue":{"value":"10.1111\/J.1365-2311.1932.TB00085.X","type":"string"}},"type":"statement","id":"Q54553184$C3B91E78-273E-40EB-906B-3B9068ADE5A6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$D356BDB2-19C6-4282-BEE3-A2245246E134","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f4c81aa375d18b17d9d544c6a834f4fdb9a021a9","datavalue":{"value":{"text":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54553184$4A926082-B767-49ED-81F5-82C7832D1E3F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54553184$510929D7-8607-4E09-AD24-9FE2D12E2F47","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb3273e47f023736bfd9da5303b98ab5d88f3fe5","datavalue":{"value":"107-120","type":"string"}},"type":"statement","id":"Q54553184$2F32A2FA-7C15-4B68-B4BD-D9970220E952","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"94a3955f96678726ebe6334665cb411af543a7eb","datavalue":{"value":"80","type":"string"}},"type":"statement","id":"Q54553184$57891D0D-57C2-49D1-9E02-FA1F1B479E5B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54553184$6D716D30-9BD4-4CCC-9F88-2B6D51D25A43","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$3232B486-887C-4E7D-8436-C82B2D59C578","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9138fa3cd04fd224c12cff9e004f1a4c1551235e","datavalue":{"value":"EDWARD MEYRICK","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54553184$E2BE6DF0-4C00-4B8F-AD80-E998B98BCD0D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m57zcjohz0y08tjrl0arpdkxcz9d3y0</sha1>
+    </revision>
+    <revision>
+      <id>1326209988</id>
+      <parentid>1272802187</parentid>
+      <timestamp>2020-12-20T23:26:23Z</timestamp>
+      <contributor>
+        <username>Ambrosia10</username>
+        <id>1037857</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q2363920]] ([[:toollabs:editgroups/b/AD/d9b48388|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3690" xml:space="preserve">{"type":"item","id":"Q54553184","labels":{"en":{"language":"en","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"},"nl":{"language":"nl","value":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2009"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im April 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"faeb31987f8819336a1452b8f50b71a37121c749","datavalue":{"value":"10.1111\/J.1365-2311.1932.TB00085.X","type":"string"}},"type":"statement","id":"Q54553184$C3B91E78-273E-40EB-906B-3B9068ADE5A6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$D356BDB2-19C6-4282-BEE3-A2245246E134","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f4c81aa375d18b17d9d544c6a834f4fdb9a021a9","datavalue":{"value":{"text":"ENTOMOLOGICAL EXPEDITION TO ABYSSINIA, 1926-7. MICROLEPIDOPTERA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54553184$4A926082-B767-49ED-81F5-82C7832D1E3F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54553184$510929D7-8607-4E09-AD24-9FE2D12E2F47","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb3273e47f023736bfd9da5303b98ab5d88f3fe5","datavalue":{"value":"107-120","type":"string"}},"type":"statement","id":"Q54553184$2F32A2FA-7C15-4B68-B4BD-D9970220E952","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"94a3955f96678726ebe6334665cb411af543a7eb","datavalue":{"value":"80","type":"string"}},"type":"statement","id":"Q54553184$57891D0D-57C2-49D1-9E02-FA1F1B479E5B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"dffe3bd07684ba41666864347c4375ad06943d45","datavalue":{"value":{"time":"+2009-04-24T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54553184$6D716D30-9BD4-4CCC-9F88-2B6D51D25A43","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"143c48f2a14caa25825b244b0438a3d882cf7ffd","datavalue":{"value":{"entity-type":"item","numeric-id":21385808,"id":"Q21385808"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54553184$3232B486-887C-4E7D-8436-C82B2D59C578","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"f079e4accfa5e70c07124e82ad983bda8e98d103","datavalue":{"value":{"entity-type":"item","numeric-id":2363920,"id":"Q2363920"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"27e3d3b572a68c17c960f797683f4379e447be41","datavalue":{"value":"EDWARD MEYRICK","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q54553184$D0131AEB-676D-4003-8F13-A6CD436762B2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8it5kh8gz760ry188vyr9tczscu9664</sha1>
+    </revision>
+  </page>
+</mediawiki>

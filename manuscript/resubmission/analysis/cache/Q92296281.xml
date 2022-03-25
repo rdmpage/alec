@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q92296281</title>
+    <ns>0</ns>
+    <id>91466391</id>
+    <revision>
+      <id>1168440001</id>
+      <timestamp>2020-04-28T14:58:12Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1588084028247</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3605" xml:space="preserve">{"type":"item","id":"Q92296281","labels":{"en":{"language":"en","value":"Three New Species of the Genus Chydaeus (Coleoptera, Carabidae, Harpalini) from China"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296281$1A8C1FF1-E97F-4759-B5D7-72E15E2093E5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cafb8e16cbd960bb100aa0d0e50f5b872447b03f","datavalue":{"value":{"text":"Three New Species of the Genus Chydaeus (Coleoptera, Carabidae, Harpalini) from China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q92296281$72E98957-66D2-4D3D-895F-1F3982CE4832","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296281$63CB9978-F504-46A2-9E78-FA5DD96B5A1D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6e4c72503964f214691496be01a2a67e98a75530","datavalue":{"value":{"time":"+2002-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q92296281$D3A3AEBD-C326-4AB3-B1D4-5BA025627622","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc60917f6cbef1d6b53d3488b7debcd8885d74f3","datavalue":{"value":"N Ito","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q92296281$551389B6-7178-467D-9164-CC9BCFA20FA6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a710c26ff94e068c4533f137502e19747f74725e","datavalue":{"value":{"entity-type":"item","numeric-id":21385876,"id":"Q21385876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296281$16D95B29-658D-4DB3-8600-F0EAFB570BF2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q92296281$504F8B90-0D70-447F-B91F-FF7D1DD46969","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q92296281$8A468D8F-5C73-4E40-8E83-1962D6399E86","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ca0cb51f37cd4c957e45ebe18f6f9e360c761e51","datavalue":{"value":"294","type":"string"}},"type":"statement","id":"Q92296281$862311A2-AE0D-420B-B618-E45E32D45620","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"1d5324304b74663c6049ce726af801982e4b1f7f","datavalue":{"value":"elytra-30-002-294","type":"string"}},"type":"statement","id":"Q92296281$FE89CCD5-C93C-4C7E-99AB-EFE7B904EA44","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"706f0aea7f7595bca8076295cf5d7b4b5f5d7bb6","datavalue":{"value":"http:\/\/coleoptera.sakura.ne.jp\/Elytra\/30(2)294ItoN.pdf","type":"string"}},"type":"statement","id":"Q92296281$F5F1FE2A-A8A7-44ED-99EC-0976F08644EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ermayfjw2rhaz6wrzvzekca6zib2cfu</sha1>
+    </revision>
+    <revision>
+      <id>1168447293</id>
+      <parentid>1168440001</parentid>
+      <timestamp>2020-04-28T15:13:34Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3781" xml:space="preserve">{"type":"item","id":"Q92296281","labels":{"en":{"language":"en","value":"Three New Species of the Genus Chydaeus (Coleoptera, Carabidae, Harpalini) from China"},"nl":{"language":"nl","value":"Three New Species of the Genus Chydaeus (Coleoptera, Carabidae, Harpalini) from China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296281$1A8C1FF1-E97F-4759-B5D7-72E15E2093E5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cafb8e16cbd960bb100aa0d0e50f5b872447b03f","datavalue":{"value":{"text":"Three New Species of the Genus Chydaeus (Coleoptera, Carabidae, Harpalini) from China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q92296281$72E98957-66D2-4D3D-895F-1F3982CE4832","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296281$63CB9978-F504-46A2-9E78-FA5DD96B5A1D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6e4c72503964f214691496be01a2a67e98a75530","datavalue":{"value":{"time":"+2002-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q92296281$D3A3AEBD-C326-4AB3-B1D4-5BA025627622","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc60917f6cbef1d6b53d3488b7debcd8885d74f3","datavalue":{"value":"N Ito","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q92296281$551389B6-7178-467D-9164-CC9BCFA20FA6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a710c26ff94e068c4533f137502e19747f74725e","datavalue":{"value":{"entity-type":"item","numeric-id":21385876,"id":"Q21385876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296281$16D95B29-658D-4DB3-8600-F0EAFB570BF2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q92296281$504F8B90-0D70-447F-B91F-FF7D1DD46969","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q92296281$8A468D8F-5C73-4E40-8E83-1962D6399E86","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ca0cb51f37cd4c957e45ebe18f6f9e360c761e51","datavalue":{"value":"294","type":"string"}},"type":"statement","id":"Q92296281$862311A2-AE0D-420B-B618-E45E32D45620","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"1d5324304b74663c6049ce726af801982e4b1f7f","datavalue":{"value":"elytra-30-002-294","type":"string"}},"type":"statement","id":"Q92296281$FE89CCD5-C93C-4C7E-99AB-EFE7B904EA44","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"706f0aea7f7595bca8076295cf5d7b4b5f5d7bb6","datavalue":{"value":"http:\/\/coleoptera.sakura.ne.jp\/Elytra\/30(2)294ItoN.pdf","type":"string"}},"type":"statement","id":"Q92296281$F5F1FE2A-A8A7-44ED-99EC-0976F08644EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s23rdxsa5slfr9gl49x788wenfzuoro</sha1>
+    </revision>
+  </page>
+</mediawiki>

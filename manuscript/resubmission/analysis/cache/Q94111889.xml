@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q94111889</title>
+    <ns>0</ns>
+    <id>93144406</id>
+    <revision>
+      <id>1179758657</id>
+      <timestamp>2020-05-12T13:59:50Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1589291833422</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4045" xml:space="preserve">{"type":"item","id":"Q94111889","labels":{"en":{"language":"en","value":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$851965E5-4AAD-4141-A4BC-3560631F35D5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f6fb5b65224ed7ba3cd90d21874b0fc7945b0b77","datavalue":{"value":{"text":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q94111889$80102FB3-0064-4483-AD5D-AE9E98E3ECFC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$56BEF2A0-1FDB-416E-AC52-1963642C68BC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"feed43b3237f6feb7ccbc980bbe50db755e74dcc","datavalue":{"value":{"time":"+2001-07-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q94111889$FA9925D1-B330-4752-80C9-CB9E037D3948","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6095fc7114d61ddd2cac388471375b63a36e7164","datavalue":{"value":"I Das","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94111889$6B2317F9-4C84-40BA-A987-394B943D27E6","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1f439603c1ae5ed8095e6b94b82a3e37977c0cfc","datavalue":{"value":"K K P Lim","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94111889$8322C765-0902-4EC9-8421-5F53737B3BF6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"da47e994386c44f009d266e885686212cd343722","datavalue":{"value":{"entity-type":"item","numeric-id":7759249,"id":"Q7759249"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$5B9F2633-F944-4B74-A0F8-E9B8D6621746","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q94111889$2FE23431-1352-49CC-B0C3-9BB3FDD4E447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q94111889$3EAD03C2-567E-4AA3-86C6-E42AC23A4BF0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25c33d51fccf88f073f2e68e2db5c2775ac3c614","datavalue":{"value":"1-6","type":"string"}},"type":"statement","id":"Q94111889$BE63B71F-C966-4908-B0D1-D0F1654DC82B","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"2c08dbb840416dc4d8a86032424ef42aac4f994a","datavalue":{"value":"raffles-bulletin-zoology-49-001-006","type":"string"}},"type":"statement","id":"Q94111889$2C007471-5059-4D89-BAD5-3C42D4E0B329","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"df8d186f8af1b967af70e1e6f4160231b95665ee","datavalue":{"value":"https:\/\/lkcnhm.nus.edu.sg\/app\/uploads\/2017\/06\/49rbz001-006.pdf","type":"string"}},"type":"statement","id":"Q94111889$B13BCCE2-8DA4-4752-9A8B-9B62F625F361","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>98gm1uurd9yjgq2rxvkeomcgz57f3cu</sha1>
+    </revision>
+    <revision>
+      <id>1179763273</id>
+      <parentid>1179758657</parentid>
+      <timestamp>2020-05-12T14:09:30Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4213" xml:space="preserve">{"type":"item","id":"Q94111889","labels":{"en":{"language":"en","value":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia"},"nl":{"language":"nl","value":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$851965E5-4AAD-4141-A4BC-3560631F35D5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f6fb5b65224ed7ba3cd90d21874b0fc7945b0b77","datavalue":{"value":{"text":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q94111889$80102FB3-0064-4483-AD5D-AE9E98E3ECFC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$56BEF2A0-1FDB-416E-AC52-1963642C68BC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"feed43b3237f6feb7ccbc980bbe50db755e74dcc","datavalue":{"value":{"time":"+2001-07-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q94111889$FA9925D1-B330-4752-80C9-CB9E037D3948","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6095fc7114d61ddd2cac388471375b63a36e7164","datavalue":{"value":"I Das","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94111889$6B2317F9-4C84-40BA-A987-394B943D27E6","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1f439603c1ae5ed8095e6b94b82a3e37977c0cfc","datavalue":{"value":"K K P Lim","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94111889$8322C765-0902-4EC9-8421-5F53737B3BF6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"da47e994386c44f009d266e885686212cd343722","datavalue":{"value":{"entity-type":"item","numeric-id":7759249,"id":"Q7759249"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$5B9F2633-F944-4B74-A0F8-E9B8D6621746","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q94111889$2FE23431-1352-49CC-B0C3-9BB3FDD4E447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q94111889$3EAD03C2-567E-4AA3-86C6-E42AC23A4BF0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25c33d51fccf88f073f2e68e2db5c2775ac3c614","datavalue":{"value":"1-6","type":"string"}},"type":"statement","id":"Q94111889$BE63B71F-C966-4908-B0D1-D0F1654DC82B","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"2c08dbb840416dc4d8a86032424ef42aac4f994a","datavalue":{"value":"raffles-bulletin-zoology-49-001-006","type":"string"}},"type":"statement","id":"Q94111889$2C007471-5059-4D89-BAD5-3C42D4E0B329","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"df8d186f8af1b967af70e1e6f4160231b95665ee","datavalue":{"value":"https:\/\/lkcnhm.nus.edu.sg\/app\/uploads\/2017\/06\/49rbz001-006.pdf","type":"string"}},"type":"statement","id":"Q94111889$B13BCCE2-8DA4-4752-9A8B-9B62F625F361","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>phdy4w4vz2zdrhnftl9p1rtd5p924ap</sha1>
+    </revision>
+    <revision>
+      <id>1464355494</id>
+      <parentid>1179763273</parentid>
+      <timestamp>2021-07-22T17:48:42Z</timestamp>
+      <contributor>
+        <username>Reinheitsgebot</username>
+        <id>940976</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q639022]], #quickstatements; invoked by topicmatcher_paper2taxon2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4520" xml:space="preserve">{"type":"item","id":"Q94111889","labels":{"en":{"language":"en","value":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia"},"nl":{"language":"nl","value":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$851965E5-4AAD-4141-A4BC-3560631F35D5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f6fb5b65224ed7ba3cd90d21874b0fc7945b0b77","datavalue":{"value":{"text":"A new Bufo (Anura: Bufonidae) from the peat swamps of Selangor, West Malaysia","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q94111889$80102FB3-0064-4483-AD5D-AE9E98E3ECFC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$56BEF2A0-1FDB-416E-AC52-1963642C68BC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"feed43b3237f6feb7ccbc980bbe50db755e74dcc","datavalue":{"value":{"time":"+2001-07-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q94111889$FA9925D1-B330-4752-80C9-CB9E037D3948","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6095fc7114d61ddd2cac388471375b63a36e7164","datavalue":{"value":"I Das","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94111889$6B2317F9-4C84-40BA-A987-394B943D27E6","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1f439603c1ae5ed8095e6b94b82a3e37977c0cfc","datavalue":{"value":"K K P Lim","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94111889$8322C765-0902-4EC9-8421-5F53737B3BF6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"da47e994386c44f009d266e885686212cd343722","datavalue":{"value":{"entity-type":"item","numeric-id":7759249,"id":"Q7759249"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$5B9F2633-F944-4B74-A0F8-E9B8D6621746","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q94111889$2FE23431-1352-49CC-B0C3-9BB3FDD4E447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q94111889$3EAD03C2-567E-4AA3-86C6-E42AC23A4BF0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25c33d51fccf88f073f2e68e2db5c2775ac3c614","datavalue":{"value":"1-6","type":"string"}},"type":"statement","id":"Q94111889$BE63B71F-C966-4908-B0D1-D0F1654DC82B","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"2c08dbb840416dc4d8a86032424ef42aac4f994a","datavalue":{"value":"raffles-bulletin-zoology-49-001-006","type":"string"}},"type":"statement","id":"Q94111889$2C007471-5059-4D89-BAD5-3C42D4E0B329","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"df8d186f8af1b967af70e1e6f4160231b95665ee","datavalue":{"value":"https:\/\/lkcnhm.nus.edu.sg\/app\/uploads\/2017\/06\/49rbz001-006.pdf","type":"string"}},"type":"statement","id":"Q94111889$B13BCCE2-8DA4-4752-9A8B-9B62F625F361","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"770de139a1ce34a237339c4b2f8b73177e964da0","datavalue":{"value":{"entity-type":"item","numeric-id":639022,"id":"Q639022"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94111889$7ABC966F-FCA7-4844-8EC8-434F0A75A530","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oa1bd0x7j9pj79tk3e0u5lnmtoxdgv3</sha1>
+    </revision>
+  </page>
+</mediawiki>

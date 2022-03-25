@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56118218</title>
+    <ns>0</ns>
+    <id>56063334</id>
+    <revision>
+      <id>727046401</id>
+      <timestamp>2018-08-16T10:50:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56118218","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7flh5ly4bcbiljd723rn6zs8fabc5dk</sha1>
+    </revision>
+    <revision>
+      <id>727046411</id>
+      <parentid>727046401</parentid>
+      <timestamp>2018-08-16T10:50:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ XX.—Critical notes on the Polyzoa</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="173" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>kb3pz0b5ut5x21a1wrulgo1ybrc2yr3</sha1>
+    </revision>
+    <revision>
+      <id>727046418</id>
+      <parentid>727046411</parentid>
+      <timestamp>2018-08-16T10:50:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ XX.—Critical notes on the Polyzoa</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="245" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8d2nwy91ucc9x68eoxzfc27l4m4320d</sha1>
+    </revision>
+    <revision>
+      <id>727046421</id>
+      <parentid>727046418</parentid>
+      <timestamp>2018-08-16T10:50:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00222938709460215</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="511" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>avx0o8il397qdhb3qkldrd3nz799v55</sha1>
+    </revision>
+    <revision>
+      <id>727046429</id>
+      <parentid>727046421</parentid>
+      <timestamp>2018-08-16T10:50:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 98173</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="759" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ie8sfs9of5w3y6vl8fx5qh4qr3ozkzz</sha1>
+    </revision>
+    <revision>
+      <id>727046436</id>
+      <parentid>727046429</parentid>
+      <timestamp>2018-08-16T10:50:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1068" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7aeeq4ux6wxg6hmr10rj19hozm2nl61</sha1>
+    </revision>
+    <revision>
+      <id>727046440</id>
+      <parentid>727046436</parentid>
+      <timestamp>2018-08-16T10:50:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: XX.—Critical notes on the Polyzoa</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1383" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2o3f179tvlpgguz1yua2kgcp87ay7pm</sha1>
+    </revision>
+    <revision>
+      <id>727046446</id>
+      <parentid>727046440</parentid>
+      <timestamp>2018-08-16T10:50:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 19</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1626" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cbzjqlimj3dwhsaij6q60e1hvse82m4</sha1>
+    </revision>
+    <revision>
+      <id>727046451</id>
+      <parentid>727046446</parentid>
+      <timestamp>2018-08-16T10:50:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 150–164</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1879" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5is7q0oweyv4asbyeymm4g1l3plm3dx</sha1>
+    </revision>
+    <revision>
+      <id>727046458</id>
+      <parentid>727046451</parentid>
+      <timestamp>2018-08-16T10:50:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 110</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2123" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n4q7i6iv7fahiu9747tijr7pt6aapzz</sha1>
+    </revision>
+    <revision>
+      <id>727046464</id>
+      <parentid>727046458</parentid>
+      <timestamp>2018-08-16T10:50:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: February 1887</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2503" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3mzjeu3e6wqxws4y0n43waguqtgh8qd</sha1>
+    </revision>
+    <revision>
+      <id>727046468</id>
+      <parentid>727046464</parentid>
+      <timestamp>2018-08-16T10:50:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Thomas Hincks</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2759" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ril60spc7cg6j3fb4ucopw1wvu1rvxb</sha1>
+    </revision>
+    <revision>
+      <id>727046474</id>
+      <parentid>727046468</parentid>
+      <timestamp>2018-08-16T10:50:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2945" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kuhazmgw1bvghc5dpi8hhmwmyui3ed0</sha1>
+    </revision>
+    <revision>
+      <id>727046482</id>
+      <parentid>727046474</parentid>
+      <timestamp>2018-08-16T10:50:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19798858]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3258" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>scvi0zbglaedvxj6wrpoid83gxo5da6</sha1>
+    </revision>
+    <revision>
+      <id>738417276</id>
+      <parentid>727046482</parentid>
+      <timestamp>2018-09-02T06:59:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 16334745, According to [[Property:P5315]]=98173</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3507" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>22k36j6gd96awehxr0xbycxy2u76vrp</sha1>
+    </revision>
+    <revision>
+      <id>781102159</id>
+      <parentid>738417276</parentid>
+      <timestamp>2018-11-03T17:45:46Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3636" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"},"nl":{"language":"nl","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7up4avpea94axkzmbaxbt9gobw40zjz</sha1>
+    </revision>
+    <revision>
+      <id>899885884</id>
+      <parentid>781102159</parentid>
+      <timestamp>2019-04-01T17:43:55Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1553740629907</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3943" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"},"nl":{"language":"nl","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$94344485-6266-4C82-A181-7CA2583962D7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>05fvruc58rwzvbuvq9metnkyocjvjyg</sha1>
+    </revision>
+    <revision>
+      <id>899885906</id>
+      <parentid>899885884</parentid>
+      <timestamp>2019-04-01T17:43:57Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1553740629907</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4186" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"},"nl":{"language":"nl","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56118218$94344485-6266-4C82-A181-7CA2583962D7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6wy42r15ruhfcmuly2vhpn96zkuq3en</sha1>
+    </revision>
+    <revision>
+      <id>899885932</id>
+      <parentid>899885906</parentid>
+      <timestamp>2019-04-01T17:43:59Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1553740629907</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4402" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"},"nl":{"language":"nl","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56118218$94344485-6266-4C82-A181-7CA2583962D7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r6bvn45i65ihrqah85ym5pxroz0iom7</sha1>
+    </revision>
+    <revision>
+      <id>960941414</id>
+      <parentid>899885932</parentid>
+      <timestamp>2019-06-12T19:06:40Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в лютому 1887, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4638" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"},"nl":{"language":"nl","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1887"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56118218$94344485-6266-4C82-A181-7CA2583962D7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j3ivl92yhrlhlpocpycpjk6cu9u2e8f</sha1>
+    </revision>
+    <revision>
+      <id>1129403219</id>
+      <parentid>960941414</parentid>
+      <timestamp>2020-03-05T08:03:04Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4941" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"},"nl":{"language":"nl","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1887"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56118218$94344485-6266-4C82-A181-7CA2583962D7","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$66ACE2FA-AC21-4C47-B438-9842131DA931","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p96eu8szevlrju52y168pj3ewcv6jty</sha1>
+    </revision>
+    <revision>
+      <id>1271485836</id>
+      <parentid>1129403219</parentid>
+      <timestamp>2020-09-05T01:31:06Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Februar 1887 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5039" xml:space="preserve">{"type":"item","id":"Q56118218","labels":{"de":{"language":"de","value":"XX.\u2014Critical notes on the Polyzoa"},"en":{"language":"en","value":"XX.\u2014Critical notes on the Polyzoa"},"nl":{"language":"nl","value":"XX.\u2014Critical notes on the Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1887"},"de":{"language":"de","value":"im Februar 1887 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1b956a4c745c621ae8af43a5ef7dc8c3dc3e583","datavalue":{"value":"10.1080\/00222938709460215","type":"string"}},"type":"statement","id":"Q56118218$9E6B6684-2A65-43B5-A419-D5563B1223D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9a11dcc094f126d55c681ab5ea7c831bb7d3c933","datavalue":{"value":"98173","type":"string"}},"type":"statement","id":"Q56118218$D7F9DCAE-8318-412B-AA8A-6684B7807E74","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$6B71CCC8-11E4-4BF8-A43C-46B50E66666B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ab1096da565f4477665690acd71fd568ba4c98c0","datavalue":{"value":{"text":"XX.\u2014Critical notes on the Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56118218$25C392BB-858C-47C4-90A8-F2AABE02FF7B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56118218$087FDAB6-A078-4B7F-866E-B75656023CB4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d4a16cc11e8d9287d5413f75922da75f04e6d519","datavalue":{"value":"150\u2013164","type":"string"}},"type":"statement","id":"Q56118218$40DCDFBC-78ED-4265-BDAC-D3BC16BE8B4B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac1284b7a2c0d29d030a3933766cfaf2f4cd73ab","datavalue":{"value":"110","type":"string"}},"type":"statement","id":"Q56118218$BAB7925E-BC0E-4C38-B7C7-D865F803C70C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6f9f9275378346bf3ff1adc1ccf7d0217d1b63b1","datavalue":{"value":{"time":"+1887-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56118218$C95D070E-1547-47BC-8E47-2220EBD9C139","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56118218$57473BCB-167A-4B73-8824-1248D682ADA3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$FC9A9503-F30C-4CBE-8302-EC1E61EF8A86","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"688436c0a6d257b0067659c3da54499dbcaeca56","datavalue":{"value":"16334745","type":"string"}},"type":"statement","id":"Q56118218$6DF3EFF1-21EA-42F1-B15E-17064D01F8E0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56118218$94344485-6266-4C82-A181-7CA2583962D7","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56118218$66ACE2FA-AC21-4C47-B438-9842131DA931","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h5sh7j5vn1g9y3arjk3m46lbxk9st0a</sha1>
+    </revision>
+  </page>
+</mediawiki>

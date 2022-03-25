@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56007629</title>
+    <ns>0</ns>
+    <id>55957441</id>
+    <revision>
+      <id>722380588</id>
+      <timestamp>2018-08-07T09:47:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56007629","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>batj3a0433d5arta8tpsr48in3bea4x</sha1>
+    </revision>
+    <revision>
+      <id>722380592</id>
+      <parentid>722380588</parentid>
+      <timestamp>2018-08-07T09:47:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Note sur quelques Silphides du Japon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="171" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7ahtu1mfxi7gj7d1z07y395y7yhb0sb</sha1>
+    </revision>
+    <revision>
+      <id>722380596</id>
+      <parentid>722380592</parentid>
+      <timestamp>2018-08-07T09:47:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Note sur quelques Silphides du Japon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="241" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>e9ctf4zadtt9lzai74r6xi8i5v60i0i</sha1>
+    </revision>
+    <revision>
+      <id>722380598</id>
+      <parentid>722380596</parentid>
+      <timestamp>2018-08-07T09:47:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.1203</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="503" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pncosd4w6c6jbzif78rzh1x51406782</sha1>
+    </revision>
+    <revision>
+      <id>722380600</id>
+      <parentid>722380598</parentid>
+      <timestamp>2018-08-07T09:47:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 104789</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="752" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3wb2py6ccny41mcjj3urxt5s4f46avg</sha1>
+    </revision>
+    <revision>
+      <id>722380604</id>
+      <parentid>722380600</parentid>
+      <timestamp>2018-08-07T09:47:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1061" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rncubgqu87c8nx3lhoxx1fll7mkp3w4</sha1>
+    </revision>
+    <revision>
+      <id>722380607</id>
+      <parentid>722380604</parentid>
+      <timestamp>2018-08-07T09:47:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Note sur quelques Silphides du Japon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1374" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>loh8if0gkv41x70dlpd0f3urb2uq14o</sha1>
+    </revision>
+    <revision>
+      <id>722380612</id>
+      <parentid>722380607</parentid>
+      <timestamp>2018-08-07T09:47:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 1920</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1619" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j35zex9kdjwnlg9xq0lnfctmq7tz83r</sha1>
+    </revision>
+    <revision>
+      <id>722380615</id>
+      <parentid>722380612</parentid>
+      <timestamp>2018-08-07T09:47:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 309</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1863" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a82c7q5tw6sgtm734uk9dkhwv99r9t8</sha1>
+    </revision>
+    <revision>
+      <id>722380618</id>
+      <parentid>722380615</parentid>
+      <timestamp>2018-08-07T09:47:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1920</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2242" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9g9ph6878rmtob4bai586b2rvaar6y1</sha1>
+    </revision>
+    <revision>
+      <id>722380628</id>
+      <parentid>722380618</parentid>
+      <timestamp>2018-08-07T09:47:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q37408733]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2555" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3k1rwe07qufydxt3omq6b9z5leqm8fl</sha1>
+    </revision>
+    <revision>
+      <id>738436358</id>
+      <parentid>722380628</parentid>
+      <timestamp>2018-09-02T07:48:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 5034484, According to [[Property:P5315]]=104789</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2803" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>36094a2wp6g7ukarcz5kob5cccfc5rz</sha1>
+    </revision>
+    <revision>
+      <id>784407783</id>
+      <parentid>738436358</parentid>
+      <timestamp>2018-11-08T01:02:24Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2930" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iyehoppazrs0034zku7wder49fa5nx5</sha1>
+    </revision>
+    <revision>
+      <id>953879914</id>
+      <parentid>784407783</parentid>
+      <timestamp>2019-06-01T21:07:54Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1920 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3237" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$6D0ABAC6-9E3D-4325-BE5F-725C4EECA147","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7anci1rzeu4clp91chodyrst8v5viw7</sha1>
+    </revision>
+    <revision>
+      <id>953879953</id>
+      <parentid>953879914</parentid>
+      <timestamp>2019-06-01T21:07:59Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3480" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56007629$6D0ABAC6-9E3D-4325-BE5F-725C4EECA147","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4zc7j98tvcxtclqqxblnwe5hvewz2u4</sha1>
+    </revision>
+    <revision>
+      <id>953879989</id>
+      <parentid>953879953</parentid>
+      <timestamp>2019-06-01T21:08:03Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3696" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56007629$6D0ABAC6-9E3D-4325-BE5F-725C4EECA147","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5276bbqzsvv6wske1fd33af0o6si2yr</sha1>
+    </revision>
+    <revision>
+      <id>973821048</id>
+      <parentid>953879989</parentid>
+      <timestamp>2019-07-03T23:00:26Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1920, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3895" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1920"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56007629$6D0ABAC6-9E3D-4325-BE5F-725C4EECA147","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rvhqkdqtn5j32oqwu0v2e3qglflt6e6</sha1>
+    </revision>
+    <revision>
+      <id>1288216704</id>
+      <parentid>973821048</parentid>
+      <timestamp>2020-10-08T07:03:34Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1920 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/43624|batch #43624]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3990" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1920"},"de":{"language":"de","value":"im Jahr 1920 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56007629$6D0ABAC6-9E3D-4325-BE5F-725C4EECA147","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9rbyrk3lwmfe222i4wj3w0suoyjugl3</sha1>
+    </revision>
+    <revision>
+      <id>1542244907</id>
+      <parentid>1288216704</parentid>
+      <timestamp>2021-12-11T16:20:43Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetclaim-update:2||1 */ [[Property:P478]]: 1920</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3994" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1920"},"de":{"language":"de","value":"im Jahr 1920 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"deprecated"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56007629$6D0ABAC6-9E3D-4325-BE5F-725C4EECA147","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9h327mkt9gap783g4ur9b6ssox1h4fm</sha1>
+    </revision>
+    <revision>
+      <id>1542244912</id>
+      <parentid>1542244907</parentid>
+      <timestamp>2021-12-11T16:20:44Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P478]]: 26</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4228" xml:space="preserve">{"type":"item","id":"Q56007629","labels":{"de":{"language":"de","value":"Note sur quelques Silphides du Japon"},"en":{"language":"en","value":"Note sur quelques Silphides du Japon"},"nl":{"language":"nl","value":"Note sur quelques Silphides du Japon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1920"},"de":{"language":"de","value":"im Jahr 1920 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"38e236d2ff27040d376ee12b216873693be07b3a","datavalue":{"value":"10.5962\/BHL.PART.1203","type":"string"}},"type":"statement","id":"Q56007629$2083EE12-2AB3-4FDE-ACCD-DB7D5EFEA7B6","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0bb07ab15e841fad24e4abb5809e337030426d97","datavalue":{"value":"104789","type":"string"}},"type":"statement","id":"Q56007629$232C02FB-5A22-4C4F-A5E7-A7CB208F9AAC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$C3DC4271-33C4-4FCE-AC06-166822BC439A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0e29c6d9566960ebdf11dfa806db9ca9348f97e1","datavalue":{"value":{"text":"Note sur quelques Silphides du Japon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56007629$9A8AA009-7DCF-4531-8384-F5F833CF99F2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9158b30bef0e3f9a4f884e2741b3d13419137528","datavalue":{"value":"1920","type":"string"}},"type":"statement","id":"Q56007629$45245A7F-E883-4D88-AEEA-EB6CBDF707CF","rank":"deprecated"},{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56007629$f8a930db-49cf-8561-559c-1fa827b636b9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56007629$A7C6FD1C-C50C-48E3-B3B9-8248EB89D067","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56007629$F002AFA8-DA11-47BC-9029-2AAC7630153F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56007629$2B9051AF-D9F8-4D40-8A78-8DC571B0201D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e0a9e9a2d966a36a120b59b8332e06d1b0c4902","datavalue":{"value":"5034484","type":"string"}},"type":"statement","id":"Q56007629$BC997663-A757-4129-B205-1A4A02606B19","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56007629$6D0ABAC6-9E3D-4325-BE5F-725C4EECA147","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fzj5kd7lu8nqyjjc3j88dowebrzi8ru</sha1>
+    </revision>
+  </page>
+</mediawiki>

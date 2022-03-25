@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q91206330</title>
+    <ns>0</ns>
+    <id>90396575</id>
+    <revision>
+      <id>1161629341</id>
+      <timestamp>2020-04-20T11:04:53Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1587378014688</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3752" xml:space="preserve">{"type":"item","id":"Q91206330","labels":{"en":{"language":"en","value":"UNA NUEVA ESPECIE DE AGAVE (AGAVACEAE, SUBGENERO AGAVE) DE OAXACA Y CHIAPAS, MEXICO"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206330$9562545D-698A-4B5B-94EA-B012DFF1126C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"88b79097d4b316800b39983f73e0a74bce1a3099","datavalue":{"value":{"text":"UNA NUEVA ESPECIE DE AGAVE (AGAVACEAE, SUBGENERO AGAVE) DE OAXACA Y CHIAPAS, MEXICO","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91206330$5EC90D6D-4A63-46E6-ABD3-0116F4F6E3FF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206330$FC87AD1E-98AB-448B-99F7-943E7358EEB4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"68c586faab5ed10ea410e43202e778f4ca30a8c0","datavalue":{"value":{"time":"+1993-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91206330$7792E8E7-D576-484A-BD1E-60A90E76137C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0c110fef3a604fbb056af6b5786a26c45a9bfe66","datavalue":{"value":"Abisai Garc\u00eda-Mendoza","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206330$B9C5232A-FCD4-4D97-A84F-700DEE7C57C2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"576331d404cb2c025b8bea1a31face56078e8620","datavalue":{"value":"Felipe Palma Cruz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206330$6EC3391E-A2F6-4306-BA63-5A4B7A0BB1CF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206330$A2AE2CD1-EDEA-4363-8181-D7A8E173CAD4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q91206330$4A41A9DA-8EF0-4B7A-861B-49D59F87B1C1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91206330$B6DF3AC3-DEEE-4932-8EF8-28EA9E845514","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"723c26e853230d77322202caf5489c5e6ce1d64c","datavalue":{"value":"565-568","type":"string"}},"type":"statement","id":"Q91206330$C73ED574-4F2A-4AFB-9107-A87541F21E97","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"c25d83c13ee03a3243094e4e10e81ec6f6dca9b8","datavalue":{"value":"41967046","type":"string"}},"type":"statement","id":"Q91206330$07769C6B-3516-470A-8E4B-C547FC841B08","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s8i42izc61tpmvgj60l09658bba2xvi</sha1>
+    </revision>
+    <revision>
+      <id>1161727378</id>
+      <parentid>1161629341</parentid>
+      <timestamp>2020-04-20T13:12:27Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3926" xml:space="preserve">{"type":"item","id":"Q91206330","labels":{"en":{"language":"en","value":"UNA NUEVA ESPECIE DE AGAVE (AGAVACEAE, SUBGENERO AGAVE) DE OAXACA Y CHIAPAS, MEXICO"},"nl":{"language":"nl","value":"UNA NUEVA ESPECIE DE AGAVE (AGAVACEAE, SUBGENERO AGAVE) DE OAXACA Y CHIAPAS, MEXICO"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206330$9562545D-698A-4B5B-94EA-B012DFF1126C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"88b79097d4b316800b39983f73e0a74bce1a3099","datavalue":{"value":{"text":"UNA NUEVA ESPECIE DE AGAVE (AGAVACEAE, SUBGENERO AGAVE) DE OAXACA Y CHIAPAS, MEXICO","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91206330$5EC90D6D-4A63-46E6-ABD3-0116F4F6E3FF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206330$FC87AD1E-98AB-448B-99F7-943E7358EEB4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"68c586faab5ed10ea410e43202e778f4ca30a8c0","datavalue":{"value":{"time":"+1993-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91206330$7792E8E7-D576-484A-BD1E-60A90E76137C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0c110fef3a604fbb056af6b5786a26c45a9bfe66","datavalue":{"value":"Abisai Garc\u00eda-Mendoza","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206330$B9C5232A-FCD4-4D97-A84F-700DEE7C57C2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"576331d404cb2c025b8bea1a31face56078e8620","datavalue":{"value":"Felipe Palma Cruz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206330$6EC3391E-A2F6-4306-BA63-5A4B7A0BB1CF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206330$A2AE2CD1-EDEA-4363-8181-D7A8E173CAD4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q91206330$4A41A9DA-8EF0-4B7A-861B-49D59F87B1C1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91206330$B6DF3AC3-DEEE-4932-8EF8-28EA9E845514","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"723c26e853230d77322202caf5489c5e6ce1d64c","datavalue":{"value":"565-568","type":"string"}},"type":"statement","id":"Q91206330$C73ED574-4F2A-4AFB-9107-A87541F21E97","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"c25d83c13ee03a3243094e4e10e81ec6f6dca9b8","datavalue":{"value":"41967046","type":"string"}},"type":"statement","id":"Q91206330$07769C6B-3516-470A-8E4B-C547FC841B08","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gt0e6r08lfa6ztklckq5zms05nhk1lq</sha1>
+    </revision>
+  </page>
+</mediawiki>

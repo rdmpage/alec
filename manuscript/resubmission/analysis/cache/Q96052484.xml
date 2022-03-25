@@ -1,0 +1,331 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q96052484</title>
+    <ns>0</ns>
+    <id>94836653</id>
+    <redirect title="Q42307080" />
+    <revision>
+      <id>1198493849</id>
+      <timestamp>2020-06-04T11:26:36Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1591269945493</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="15315" xml:space="preserve">{"type":"item","id":"Q96052484","labels":{"en":{"language":"en","value":"The phylogenetic position of Pterocephalidium and the new African genus Pterothamnus within an improved classification of Dipsacaceae"}},"descriptions":[],"aliases":[],"claims":{"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q96052484$AE316EC4-2B75-4C9E-A644-0F293C8F271C","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1428c065de552ee65ee6153e6cd38438695e16a1","datavalue":{"value":"10.1002\/TAX.621010","type":"string"}},"type":"statement","id":"Q96052484$F7038D35-9F54-4E4A-B452-D24560A7FB0F","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$58E17FE1-D98B-420B-9493-83003AB3C5C9","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"591b7ae047ef16cad493f00493d780c24ba3b434","datavalue":{"value":"112-126","type":"string"}},"type":"statement","id":"Q96052484$216AD6A4-545A-41A1-88DB-AD767A43AB71","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$991C8966-811B-46B6-9DE5-67DB35482575","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"bccc401e90df366576cd629ad086a3aa6c58be25","datavalue":{"value":{"text":"The phylogenetic position of Pterocephalidium and the new African genus Pterothamnus within an improved classification of Dipsacaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q96052484$4D69602F-32C8-4C0D-8BD0-0CAA57493644","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2d13e3d802f26e1e79fe6019de44f6b52b54308d","datavalue":{"value":"62","type":"string"}},"type":"statement","id":"Q96052484$7663C610-FE31-4EC1-B974-5DFD14EC8610","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"cb9bf21890d0914b6c87463ee20249d83056582c","datavalue":{"value":"Veronika Mayer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P6424":[{"snaktype":"value","property":"P6424","hash":"df31b384abfa85fb762a7103f4e96b50abfa9c56","datavalue":{"value":"University of Vienna; Department of Structural and Functional Botany, Faculty Centre of Biodiversity, Faculty of Life Sciences; Rennweg 14, 1030 Wien Austria","type":"string"}}]},"qualifiers-order":["P1545","P6424"],"id":"Q96052484$2E19B7F6-0394-45E8-A01F-F4ADC95C3E4D","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8745cf0e95029a84b6192a2dfe677fcf78437dd5","datavalue":{"value":"Friedrich Ehrendorfer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}],"P6424":[{"snaktype":"value","property":"P6424","hash":"c487012c0f958cc09433f45edbf5dbbfa79fefeb","datavalue":{"value":"University of Vienna; Department of Systematic and Evolutionary Botany, Faculty Centre of Biodiversity, Faculty of Life Sciences; Rennweg 14, 1030 Wien Austria","type":"string"}}]},"qualifiers-order":["P1545","P6424"],"id":"Q96052484$0077E57E-29F9-4B6D-AC65-EC014DACF252","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2860":[{"mainsnak":{"snaktype":"value","property":"P2860","hash":"5d311dfba25a0f34e3893714f75304e36f9b4346","datavalue":{"value":{"entity-type":"item","numeric-id":55755476,"id":"Q55755476"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$0016889D-9BE6-4593-8882-90B9B4CA13B8","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"6c6840a001aea842493a44b4ef134c2a59d35457","datavalue":{"value":{"entity-type":"item","numeric-id":55776002,"id":"Q55776002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$30ED3D9F-4A1B-4AEA-98D4-6E9DDBF47912","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"63533cb3ea1a02a2137d4174867cc3f89d08f19f","datavalue":{"value":{"entity-type":"item","numeric-id":95995814,"id":"Q95995814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$D60E653F-8329-464B-8C0E-A6B8CFC79413","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"5b9dbc76e564366d32a0d1e18b27bf2d23f8ecf1","datavalue":{"value":{"entity-type":"item","numeric-id":43304065,"id":"Q43304065"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$3650E5DB-899F-422A-9DB9-985D81A76A4E","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"fc87b1bfc0af204ee37212b6caf8aac116ab6afc","datavalue":{"value":{"entity-type":"item","numeric-id":43250127,"id":"Q43250127"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$ACC7F09B-AA22-41EF-871F-4BB3CD64798B","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"503c1a6ce703a2ede0c524100eb23a5765760776","datavalue":{"value":{"entity-type":"item","numeric-id":55754871,"id":"Q55754871"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$B6CB692A-CDF2-458A-BB33-634478AD1EFB","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c63e65a87d6ef6a10e3c3ba90a7e3f7d8c713be1","datavalue":{"value":{"entity-type":"item","numeric-id":2003024,"id":"Q2003024"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$6973EDC9-85B3-4672-BAEA-B4F2EE3667FD","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"f807c50302f33165fb9ffc3db368a022e3bd1a76","datavalue":{"value":"https:\/\/api.wiley.com\/onlinelibrary\/tdm\/v1\/articles\/10.1002%2Ftax.621010","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q96052484$E3F72D20-F7DA-4AC8-9420-207AD5E2E968","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"ec4d22b9e8dd71e9e470bb19707e486b25611887","datavalue":{"value":"http:\/\/dx.doi.org\/10.1002\/tax.621010","type":"string"}},"type":"statement","id":"Q96052484$A9B4ABB3-DEAB-46D9-A9C9-33A2C6043381","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7760630e6b8898833a4a9d1c53f0a8bf9c3e961f","datavalue":{"value":{"time":"+2013-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q96052484$D01C2D09-07F7-42DF-A198-AF8DEEA0EADE","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}]},"sitelinks":[]}</text>
+      <sha1>pti5jhvdaet6s0it7ab0u6hlo813d82</sha1>
+    </revision>
+    <revision>
+      <id>1224054104</id>
+      <parentid>1198493849</parentid>
+      <timestamp>2020-07-04T09:54:03Z</timestamp>
+      <contributor>
+        <username>Mr.Ibrahembot</username>
+        <id>142191</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages:0||58 */ Bot: - Add descriptions:(58 langs).</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="19987" xml:space="preserve">{"type":"item","id":"Q96052484","labels":{"en":{"language":"en","value":"The phylogenetic position of Pterocephalidium and the new African genus Pterothamnus within an improved classification of Dipsacaceae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"eo":{"language":"eo","value":"scienca artikolo"},"en-gb":{"language":"en-gb","value":"scientific article published in February 2013"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629 \u0646\u0634\u0631\u062a \u0641\u064a \u0641\u0628\u0631\u0627\u064a\u0631 2013"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"tl":{"language":"tl","value":"artikulong pang-agham"},"wuu":{"language":"wuu","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"da":{"language":"da","value":"videnskabelig artikel udgivet februar 2013"},"de":{"language":"de","value":"wissenschaftlicher Artikel"},"oc":{"language":"oc","value":"article scientific"},"ca":{"language":"ca","value":"article cient\u00edfic"},"en":{"language":"en","value":"scientific article published in February 2013"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2013"},"pt":{"language":"pt","value":"artigo cient\u00edfico"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"it":{"language":"it","value":"articolo scientifico"},"ko":{"language":"ko","value":"2013\ub144 \ub17c\ubb38"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"id":{"language":"id","value":"artikel ilmiah"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"fr":{"language":"fr","value":"article scientifique"},"bn":{"language":"bn","value":"\u09ab\u09c7\u09ac\u09cd\u09b0\u09c1\u09af\u09bc\u09be\u09b0\u09bf \u09e8\u09e6\u09e7\u09e9-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 2013"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"en-ca":{"language":"en-ca","value":"scientific article published in February 2013"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico"},"tr":{"language":"tr","value":"bilimsel makale"},"et":{"language":"et","value":"teaduslik artikkel"},"nan":{"language":"nan","value":"2013 n\u00ee l\u016bn-b\u00fbn"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"ja":{"language":"ja","value":"2013\u5e74\u306e\u8ad6\u6587"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"sq":{"language":"sq","value":"artikull shkencor"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":{"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q96052484$AE316EC4-2B75-4C9E-A644-0F293C8F271C","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1428c065de552ee65ee6153e6cd38438695e16a1","datavalue":{"value":"10.1002\/TAX.621010","type":"string"}},"type":"statement","id":"Q96052484$F7038D35-9F54-4E4A-B452-D24560A7FB0F","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$58E17FE1-D98B-420B-9493-83003AB3C5C9","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"591b7ae047ef16cad493f00493d780c24ba3b434","datavalue":{"value":"112-126","type":"string"}},"type":"statement","id":"Q96052484$216AD6A4-545A-41A1-88DB-AD767A43AB71","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$991C8966-811B-46B6-9DE5-67DB35482575","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"bccc401e90df366576cd629ad086a3aa6c58be25","datavalue":{"value":{"text":"The phylogenetic position of Pterocephalidium and the new African genus Pterothamnus within an improved classification of Dipsacaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q96052484$4D69602F-32C8-4C0D-8BD0-0CAA57493644","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2d13e3d802f26e1e79fe6019de44f6b52b54308d","datavalue":{"value":"62","type":"string"}},"type":"statement","id":"Q96052484$7663C610-FE31-4EC1-B974-5DFD14EC8610","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"cb9bf21890d0914b6c87463ee20249d83056582c","datavalue":{"value":"Veronika Mayer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P6424":[{"snaktype":"value","property":"P6424","hash":"df31b384abfa85fb762a7103f4e96b50abfa9c56","datavalue":{"value":"University of Vienna; Department of Structural and Functional Botany, Faculty Centre of Biodiversity, Faculty of Life Sciences; Rennweg 14, 1030 Wien Austria","type":"string"}}]},"qualifiers-order":["P1545","P6424"],"id":"Q96052484$2E19B7F6-0394-45E8-A01F-F4ADC95C3E4D","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8745cf0e95029a84b6192a2dfe677fcf78437dd5","datavalue":{"value":"Friedrich Ehrendorfer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}],"P6424":[{"snaktype":"value","property":"P6424","hash":"c487012c0f958cc09433f45edbf5dbbfa79fefeb","datavalue":{"value":"University of Vienna; Department of Systematic and Evolutionary Botany, Faculty Centre of Biodiversity, Faculty of Life Sciences; Rennweg 14, 1030 Wien Austria","type":"string"}}]},"qualifiers-order":["P1545","P6424"],"id":"Q96052484$0077E57E-29F9-4B6D-AC65-EC014DACF252","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2860":[{"mainsnak":{"snaktype":"value","property":"P2860","hash":"5d311dfba25a0f34e3893714f75304e36f9b4346","datavalue":{"value":{"entity-type":"item","numeric-id":55755476,"id":"Q55755476"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$0016889D-9BE6-4593-8882-90B9B4CA13B8","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"6c6840a001aea842493a44b4ef134c2a59d35457","datavalue":{"value":{"entity-type":"item","numeric-id":55776002,"id":"Q55776002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$30ED3D9F-4A1B-4AEA-98D4-6E9DDBF47912","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"63533cb3ea1a02a2137d4174867cc3f89d08f19f","datavalue":{"value":{"entity-type":"item","numeric-id":95995814,"id":"Q95995814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$D60E653F-8329-464B-8C0E-A6B8CFC79413","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"5b9dbc76e564366d32a0d1e18b27bf2d23f8ecf1","datavalue":{"value":{"entity-type":"item","numeric-id":43304065,"id":"Q43304065"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$3650E5DB-899F-422A-9DB9-985D81A76A4E","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"fc87b1bfc0af204ee37212b6caf8aac116ab6afc","datavalue":{"value":{"entity-type":"item","numeric-id":43250127,"id":"Q43250127"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$ACC7F09B-AA22-41EF-871F-4BB3CD64798B","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]},{"mainsnak":{"snaktype":"value","property":"P2860","hash":"503c1a6ce703a2ede0c524100eb23a5765760776","datavalue":{"value":{"entity-type":"item","numeric-id":55754871,"id":"Q55754871"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$B6CB692A-CDF2-458A-BB33-634478AD1EFB","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c63e65a87d6ef6a10e3c3ba90a7e3f7d8c713be1","datavalue":{"value":{"entity-type":"item","numeric-id":2003024,"id":"Q2003024"},"type":"wikibase-entityid"}},"type":"statement","id":"Q96052484$6973EDC9-85B3-4672-BAEA-B4F2EE3667FD","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"f807c50302f33165fb9ffc3db368a022e3bd1a76","datavalue":{"value":"https:\/\/api.wiley.com\/onlinelibrary\/tdm\/v1\/articles\/10.1002%2Ftax.621010","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q96052484$E3F72D20-F7DA-4AC8-9420-207AD5E2E968","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"ec4d22b9e8dd71e9e470bb19707e486b25611887","datavalue":{"value":"http:\/\/dx.doi.org\/10.1002\/tax.621010","type":"string"}},"type":"statement","id":"Q96052484$A9B4ABB3-DEAB-46D9-A9C9-33A2C6043381","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7760630e6b8898833a4a9d1c53f0a8bf9c3e961f","datavalue":{"value":{"time":"+2013-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q96052484$D01C2D09-07F7-42DF-A198-AF8DEEA0EADE","rank":"normal","references":[{"hash":"2d0997c54009bca23fab8e1f39919ed2ec713d0c","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"bb3939bfd49722074568bbc8fc0425683069d04f","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1002\/tax.621010","type":"string"}}]},"snaks-order":["P248","P854"]}]}]},"sitelinks":[]}</text>
+      <sha1>ime4xssimfbwuie200t6h4iaumaj8iq</sha1>
+    </revision>
+    <revision>
+      <id>1505874861</id>
+      <parentid>1224054104</parentid>
+      <timestamp>2021-09-30T14:49:44Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbmergeitems-to:0||Q42307080 */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1477" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"en-gb":{"language":"en-gb","value":"scientific article published in February 2013"},"wuu":{"language":"wuu","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"da":{"language":"da","value":"videnskabelig artikel udgivet februar 2013"},"en":{"language":"en","value":"scientific article published in February 2013"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2013"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"en-ca":{"language":"en-ca","value":"scientific article published in February 2013"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>71652n5hfb1ohoaqkqp46uwhligvydz</sha1>
+    </revision>
+    <revision>
+      <id>1505874874</id>
+      <parentid>1505874861</parentid>
+      <timestamp>2021-09-30T14:49:45Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|da */ videnskabelig artikel udgivet februar 2013</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1401" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"en-gb":{"language":"en-gb","value":"scientific article published in February 2013"},"wuu":{"language":"wuu","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"en":{"language":"en","value":"scientific article published in February 2013"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2013"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"en-ca":{"language":"en-ca","value":"scientific article published in February 2013"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0ou6djgbbjxhjjmsx2k0no7un3md9p5</sha1>
+    </revision>
+    <revision>
+      <id>1505874883</id>
+      <parentid>1505874874</parentid>
+      <timestamp>2021-09-30T14:49:46Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|en */ scientific article published in February 2013</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1322" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"en-gb":{"language":"en-gb","value":"scientific article published in February 2013"},"wuu":{"language":"wuu","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2013"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"en-ca":{"language":"en-ca","value":"scientific article published in February 2013"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dd48xa9tlnec6pels44lj11bk4cxr4x</sha1>
+    </revision>
+    <revision>
+      <id>1505874898</id>
+      <parentid>1505874883</parentid>
+      <timestamp>2021-09-30T14:49:48Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|en-ca */ scientific article published in February 2013</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1237" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"en-gb":{"language":"en-gb","value":"scientific article published in February 2013"},"wuu":{"language":"wuu","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2013"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>tl03m8ym217yq2676mm2o1f9p9nonjp</sha1>
+    </revision>
+    <revision>
+      <id>1505874904</id>
+      <parentid>1505874898</parentid>
+      <timestamp>2021-09-30T14:49:49Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|en-gb */ scientific article published in February 2013</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1152" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"wuu":{"language":"wuu","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2013"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>okyy3x8ce7zgz3mb3efw272mvb8qowr</sha1>
+    </revision>
+    <revision>
+      <id>1505874911</id>
+      <parentid>1505874904</parentid>
+      <timestamp>2021-09-30T14:49:50Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|uk */ наукова стаття, опублікована в в лютому 2013</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="909" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"wuu":{"language":"wuu","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7i7iq9fc16dy4qifluc2btrp4bg4ind</sha1>
+    </revision>
+    <revision>
+      <id>1505874913</id>
+      <parentid>1505874911</parentid>
+      <timestamp>2021-09-30T14:49:50Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|wuu */ 2013年学术文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="839" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"yue":{"language":"yue","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>e3ln3a1blu9dd05dfq978qly78sz97b</sha1>
+    </revision>
+    <revision>
+      <id>1505874916</id>
+      <parentid>1505874913</parentid>
+      <timestamp>2021-09-30T14:49:50Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|yue */ 2013年學術文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="769" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh":{"language":"zh","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0hf2es4q9yxcyurndfxs01rs3t8w1cu</sha1>
+    </revision>
+    <revision>
+      <id>1505874929</id>
+      <parentid>1505874916</parentid>
+      <timestamp>2021-09-30T14:49:52Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh */ 2013年学术文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="701" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-cn":{"language":"zh-cn","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1femuh1mmvgmxywacjde4230als229g</sha1>
+    </revision>
+    <revision>
+      <id>1505874941</id>
+      <parentid>1505874929</parentid>
+      <timestamp>2021-09-30T14:49:53Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-cn */ 2013年学术文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="627" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hans":{"language":"zh-hans","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>117yzstvpagm6yv0no9k7ev0eecc1fj</sha1>
+    </revision>
+    <revision>
+      <id>1505874947</id>
+      <parentid>1505874941</parentid>
+      <timestamp>2021-09-30T14:49:54Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-hans */ 2013年学术文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="549" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>idbr1b7w4l8lrdsucijgdncoevus4iu</sha1>
+    </revision>
+    <revision>
+      <id>1505874960</id>
+      <parentid>1505874947</parentid>
+      <timestamp>2021-09-30T14:49:57Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-hant */ 2013年學術文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="471" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>m5h92ylrrirmpey5bn9cf10g7hwxfrv</sha1>
+    </revision>
+    <revision>
+      <id>1505874979</id>
+      <parentid>1505874960</parentid>
+      <timestamp>2021-09-30T14:50:00Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-hk */ 2013年學術文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="397" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>392hjwjoa0m4wsqyj7wpaj9zsptbqjs</sha1>
+    </revision>
+    <revision>
+      <id>1505874985</id>
+      <parentid>1505874979</parentid>
+      <timestamp>2021-09-30T14:50:01Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-mo */ 2013年學術文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="323" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-my":{"language":"zh-my","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>2p47lqsfdflclln300kn4dd2qryqbo2</sha1>
+    </revision>
+    <revision>
+      <id>1505874990</id>
+      <parentid>1505874985</parentid>
+      <timestamp>2021-09-30T14:50:02Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-my */ 2013年学术文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="249" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-sg":{"language":"zh-sg","value":"2013\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>j1z0mlj2zxqgr3hwjaa3769h7p2p9ns</sha1>
+    </revision>
+    <revision>
+      <id>1505874997</id>
+      <parentid>1505874990</parentid>
+      <timestamp>2021-09-30T14:50:03Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-sg */ 2013年学术文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="175" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":{"zh-tw":{"language":"zh-tw","value":"2013\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>9xy9fetfbd9gqs2fwtpq6s5gidd40o6</sha1>
+    </revision>
+    <revision>
+      <id>1505875006</id>
+      <parentid>1505874997</parentid>
+      <timestamp>2021-09-30T14:50:04Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetdescription-remove:1|zh-tw */ 2013年學術文章</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q96052484","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8fu55idxb7zadgiuvnkzrph3cf46qoo</sha1>
+    </revision>
+    <revision>
+      <id>1505875012</id>
+      <parentid>1505875006</parentid>
+      <timestamp>2021-09-30T14:50:04Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbcreateredirect:0||Q96052484|Q42307080 */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="45" xml:space="preserve">{"entity":"Q96052484","redirect":"Q42307080"}</text>
+      <sha1>cycc2ddf98wb9hvdg6pv4nauyb50idv</sha1>
+    </revision>
+  </page>
+</mediawiki>

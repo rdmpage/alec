@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56190020</title>
+    <ns>0</ns>
+    <id>56132672</id>
+    <revision>
+      <id>729519249</id>
+      <timestamp>2018-08-19T18:30:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56190020","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>2frucnlqrdqxnjdc5bb8a1fvhw9u04y</sha1>
+    </revision>
+    <revision>
+      <id>729519255</id>
+      <parentid>729519249</parentid>
+      <timestamp>2018-08-19T18:30:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ The Life History and Cytology of Saccoblastia intermedia, N. Sp.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="199" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7r363sj4e3zdpbx6e5sfzvrzszrykdq</sha1>
+    </revision>
+    <revision>
+      <id>729519263</id>
+      <parentid>729519255</parentid>
+      <timestamp>2018-08-19T18:30:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ The Life History and Cytology of Saccoblastia intermedia, N. Sp.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="297" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3pbh5omekj9hnf7o3bws319bi6juu99</sha1>
+    </revision>
+    <revision>
+      <id>729519279</id>
+      <parentid>729519263</parentid>
+      <timestamp>2018-08-19T18:30:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/2394014</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="553" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l6uz51jl0el5d5ieqoxo5kg797nilq0</sha1>
+    </revision>
+    <revision>
+      <id>729519288</id>
+      <parentid>729519279</parentid>
+      <timestamp>2018-08-19T18:30:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 11460</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="801" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m88n0uvmwvtcukea1svdmyne8xkogl0</sha1>
+    </revision>
+    <revision>
+      <id>729519297</id>
+      <parentid>729519288</parentid>
+      <timestamp>2018-08-19T18:30:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1110" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2q3ow9gd27uw5ivmyziwdsd0iv4p666</sha1>
+    </revision>
+    <revision>
+      <id>729519304</id>
+      <parentid>729519297</parentid>
+      <timestamp>2018-08-19T18:30:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: The Life History and Cytology of Saccoblastia intermedia, N. Sp.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1451" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fxxe8yiwghc1n0zh55fcsiq0gekmy3w</sha1>
+    </revision>
+    <revision>
+      <id>729519310</id>
+      <parentid>729519304</parentid>
+      <timestamp>2018-08-19T18:30:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 16</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1694" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tqjltg150a69tp9ujat7aptgeq2hbnt</sha1>
+    </revision>
+    <revision>
+      <id>729519317</id>
+      <parentid>729519310</parentid>
+      <timestamp>2018-08-19T18:30:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 487</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1938" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r1d91wfqk4dyzhvr01og7mgi24nvch0</sha1>
+    </revision>
+    <revision>
+      <id>729519324</id>
+      <parentid>729519317</parentid>
+      <timestamp>2018-08-19T18:30:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2180" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>23p3xtojq9pgcgk5i8x0469sw4r72tb</sha1>
+    </revision>
+    <revision>
+      <id>729519332</id>
+      <parentid>729519324</parentid>
+      <timestamp>2018-08-19T18:30:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: November 1929</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2560" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>12rxv0moxx7zes9g5rzinolsqye16u6</sha1>
+    </revision>
+    <revision>
+      <id>729519341</id>
+      <parentid>729519332</parentid>
+      <timestamp>2018-08-19T18:30:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: David H. Linder</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2818" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5sh3sbyro25tv4vw83w0evmht6kwrto</sha1>
+    </revision>
+    <revision>
+      <id>729519350</id>
+      <parentid>729519341</parentid>
+      <timestamp>2018-08-19T18:30:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3004" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b9brv7z983b351heciw23r1bwqbotza</sha1>
+    </revision>
+    <revision>
+      <id>729519355</id>
+      <parentid>729519350</parentid>
+      <timestamp>2018-08-19T18:30:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2530335]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3315" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$EC4604C1-4749-4677-83F8-D6ECF4F08857","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gde01c7oi335cadxtn2hkhkw14derfi</sha1>
+    </revision>
+    <revision>
+      <id>737989402</id>
+      <parentid>729519355</parentid>
+      <timestamp>2018-09-01T15:31:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 15997435, According to [[Property:P5315]]=11460</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3564" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$EC4604C1-4749-4677-83F8-D6ECF4F08857","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d0cebe9e323724eb1c39a9f429299d314c448682","datavalue":{"value":"15997435","type":"string"}},"type":"statement","id":"Q56190020$12C48F6D-CD4D-4EF1-B293-F9D4467D55A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q46pmri3mu6lodbvqu6qmzpte716swr</sha1>
+    </revision>
+    <revision>
+      <id>780097279</id>
+      <parentid>737989402</parentid>
+      <timestamp>2018-11-02T14:47:15Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3719" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"nl":{"language":"nl","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$EC4604C1-4749-4677-83F8-D6ECF4F08857","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d0cebe9e323724eb1c39a9f429299d314c448682","datavalue":{"value":"15997435","type":"string"}},"type":"statement","id":"Q56190020$12C48F6D-CD4D-4EF1-B293-F9D4467D55A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9yoysp6jr9qqysx7jo2d8u6yzcqzt9i</sha1>
+    </revision>
+    <revision>
+      <id>847372074</id>
+      <parentid>780097279</parentid>
+      <timestamp>2019-01-31T12:30:23Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 2394014, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3967" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"nl":{"language":"nl","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$EC4604C1-4749-4677-83F8-D6ECF4F08857","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d0cebe9e323724eb1c39a9f429299d314c448682","datavalue":{"value":"15997435","type":"string"}},"type":"statement","id":"Q56190020$12C48F6D-CD4D-4EF1-B293-F9D4467D55A5","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7cdcdbb5469cf948189de123979248d009ee105","datavalue":{"value":"2394014","type":"string"}},"type":"statement","id":"Q56190020$D5C60F86-1E25-4A85-9193-71861B122628","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>id80samcm2jfp209msaoqmltwjxb9yl</sha1>
+    </revision>
+    <revision>
+      <id>972087847</id>
+      <parentid>847372074</parentid>
+      <timestamp>2019-06-30T23:35:20Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в листопаді 1929, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4221" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"nl":{"language":"nl","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1929"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$EC4604C1-4749-4677-83F8-D6ECF4F08857","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d0cebe9e323724eb1c39a9f429299d314c448682","datavalue":{"value":"15997435","type":"string"}},"type":"statement","id":"Q56190020$12C48F6D-CD4D-4EF1-B293-F9D4467D55A5","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7cdcdbb5469cf948189de123979248d009ee105","datavalue":{"value":"2394014","type":"string"}},"type":"statement","id":"Q56190020$D5C60F86-1E25-4A85-9193-71861B122628","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aslalpxuyw235t47qynxdbksivhysvb</sha1>
+    </revision>
+    <revision>
+      <id>1089343694</id>
+      <parentid>972087847</parentid>
+      <timestamp>2020-01-02T14:49:48Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im November 1929 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24735|batch #24735]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4320" xml:space="preserve">{"type":"item","id":"Q56190020","labels":{"de":{"language":"de","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"en":{"language":"en","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."},"nl":{"language":"nl","value":"The Life History and Cytology of Saccoblastia intermedia, N. Sp."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1929"},"de":{"language":"de","value":"im November 1929 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6a238b3f3b6c0d999f2b14a77c680af93a5aa132","datavalue":{"value":"10.2307\/2394014","type":"string"}},"type":"statement","id":"Q56190020$426387E6-C35E-4250-AF0C-0B7C8E7C5AEA","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c582330d487b1fda9027431e5638c5380b7f46b","datavalue":{"value":"11460","type":"string"}},"type":"statement","id":"Q56190020$3CF1A278-2C5D-493E-91EE-0BFB5400BD6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$9C475D2D-6BB0-44FC-8F59-2BAFD52D72ED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5bde347e45c78868e6e1cae7803be28b0be94bd8","datavalue":{"value":{"text":"The Life History and Cytology of Saccoblastia intermedia, N. Sp.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190020$88928FFA-4555-4465-BAD9-D5C6448DAB8B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56190020$5CADAF3C-A9B3-495B-A5C9-0EAE819EE605","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a90ec4312086a275ef7e4f5764bf8fd209a2be19","datavalue":{"value":"487","type":"string"}},"type":"statement","id":"Q56190020$D95C68CD-1FEA-4FFD-BF1D-7C0C2BC7984E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190020$9308E92E-E987-4AB3-BFA8-A4EA153EFF91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4bdda6a3733587f75aa87066e176d132e2a45831","datavalue":{"value":{"time":"+1929-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190020$3931780C-52BA-463A-B48A-EB8376D6A968","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8d9ff20324b539478f52e4dac87d8667223b1100","datavalue":{"value":"David H. Linder","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190020$947700FD-55F0-44FE-AE6B-2A786B231639","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190020$EC4604C1-4749-4677-83F8-D6ECF4F08857","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d0cebe9e323724eb1c39a9f429299d314c448682","datavalue":{"value":"15997435","type":"string"}},"type":"statement","id":"Q56190020$12C48F6D-CD4D-4EF1-B293-F9D4467D55A5","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7cdcdbb5469cf948189de123979248d009ee105","datavalue":{"value":"2394014","type":"string"}},"type":"statement","id":"Q56190020$D5C60F86-1E25-4A85-9193-71861B122628","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fxcjcpr8tkb0uu58xhv32npwk1kuy5j</sha1>
+    </revision>
+  </page>
+</mediawiki>

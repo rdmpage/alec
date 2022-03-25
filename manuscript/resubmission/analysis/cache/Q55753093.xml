@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55753093</title>
+    <ns>0</ns>
+    <id>55728498</id>
+    <revision>
+      <id>715468460</id>
+      <timestamp>2018-07-25T11:53:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55753093","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6no7k1439gswom08dqgx33muup63s1v</sha1>
+    </revision>
+    <revision>
+      <id>715468462</id>
+      <parentid>715468460</parentid>
+      <timestamp>2018-07-25T11:53:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Orchidaceae novae et criticae.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="165" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>07vuyl8lomeq734nxxg5bv3cjdhyo6y</sha1>
+    </revision>
+    <revision>
+      <id>715468469</id>
+      <parentid>715468462</parentid>
+      <timestamp>2018-07-25T11:53:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Orchidaceae novae et criticae.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="229" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dgy6kmjgc6eneak73lz342gj4rbpxbr</sha1>
+    </revision>
+    <revision>
+      <id>715469264</id>
+      <parentid>715468469</parentid>
+      <timestamp>2018-07-25T11:55:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1002/FEDR.19190160111</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="494" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>moaot9tz49lnytsjt8l8q08hp24pl5d</sha1>
+    </revision>
+    <revision>
+      <id>715469268</id>
+      <parentid>715469264</parentid>
+      <timestamp>2018-07-25T11:55:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="803" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5op28eu2tqm5vvbswjg67wwl8gu2244</sha1>
+    </revision>
+    <revision>
+      <id>715469273</id>
+      <parentid>715469268</parentid>
+      <timestamp>2018-07-25T11:55:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Orchidaceae novae et criticae.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1110" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0ssajeucvcnqfnxovanxmctgpimckqv</sha1>
+    </revision>
+    <revision>
+      <id>715469278</id>
+      <parentid>715469273</parentid>
+      <timestamp>2018-07-25T11:55:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 16</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1353" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9po6a7qp4fbpsott3e2x4p47hsizn9w</sha1>
+    </revision>
+    <revision>
+      <id>715469284</id>
+      <parentid>715469278</parentid>
+      <timestamp>2018-07-25T11:55:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 42–47</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1604" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rl9jdfu4dgeo5qxv1uvt0vuns77mf7d</sha1>
+    </revision>
+    <revision>
+      <id>715469286</id>
+      <parentid>715469284</parentid>
+      <timestamp>2018-07-25T11:55:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 1-4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1848" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9rd8aanlh83cfpfe6g870jnyrjg5pu5</sha1>
+    </revision>
+    <revision>
+      <id>715469291</id>
+      <parentid>715469286</parentid>
+      <timestamp>2018-07-25T11:55:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1919</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2227" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2r8jon9sjupx19c1pbfwqwxf1985za0</sha1>
+    </revision>
+    <revision>
+      <id>715469297</id>
+      <parentid>715469291</parentid>
+      <timestamp>2018-07-25T11:55:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: R. Schlechter</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2483" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3uswse17s84uckx0po9qvp0m5659xli</sha1>
+    </revision>
+    <revision>
+      <id>715469300</id>
+      <parentid>715469297</parentid>
+      <timestamp>2018-07-25T11:55:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2669" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n76u176bboivy26ll30ruumaedhilbp</sha1>
+    </revision>
+    <revision>
+      <id>715469307</id>
+      <parentid>715469300</parentid>
+      <timestamp>2018-07-25T11:55:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5550932]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2980" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$5ED647EE-5257-402E-B4F1-A1579571888D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h5c6u9b9cnmm83t0c71fiup1mfi9uzx</sha1>
+    </revision>
+    <revision>
+      <id>953724551</id>
+      <parentid>715469307</parentid>
+      <timestamp>2019-06-01T16:23:56Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1919 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3287" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$5ED647EE-5257-402E-B4F1-A1579571888D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$C9D2269B-D1BB-4C40-B5AE-83D29E630F6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gc4mrj18zqrkwrrsfknyf33988xqa4y</sha1>
+    </revision>
+    <revision>
+      <id>953724588</id>
+      <parentid>953724551</parentid>
+      <timestamp>2019-06-01T16:24:00Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3530" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$5ED647EE-5257-402E-B4F1-A1579571888D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q55753093$C9D2269B-D1BB-4C40-B5AE-83D29E630F6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>olb7do5z7w05pi8omkv5d4if724eq7c</sha1>
+    </revision>
+    <revision>
+      <id>953724644</id>
+      <parentid>953724588</parentid>
+      <timestamp>2019-06-01T16:24:05Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3746" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$5ED647EE-5257-402E-B4F1-A1579571888D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q55753093$C9D2269B-D1BB-4C40-B5AE-83D29E630F6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7fcc23rzts2uwejih9uqm6q0w1htlv6</sha1>
+    </revision>
+    <revision>
+      <id>974678217</id>
+      <parentid>953724644</parentid>
+      <timestamp>2019-07-05T21:02:04Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1919, [[:toollabs:quickstatements/#/batch/15405|batch #15405]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3944" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1919"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$5ED647EE-5257-402E-B4F1-A1579571888D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q55753093$C9D2269B-D1BB-4C40-B5AE-83D29E630F6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4v9l1ghvov225225p9web3rwe3iyvnd</sha1>
+    </revision>
+    <revision>
+      <id>1190890532</id>
+      <parentid>974678217</parentid>
+      <timestamp>2020-05-26T20:20:13Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1919 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35248|batch #35248]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4039" xml:space="preserve">{"type":"item","id":"Q55753093","labels":{"de":{"language":"de","value":"Orchidaceae novae et criticae."},"en":{"language":"en","value":"Orchidaceae novae et criticae."}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1919"},"de":{"language":"de","value":"im Jahr 1919 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad26683e9cf44f177106b1f87e428754df9299b2","datavalue":{"value":"10.1002\/FEDR.19190160111","type":"string"}},"type":"statement","id":"Q55753093$F8023261-7193-4326-8654-9630F90E6CE9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$8FB8394A-8B3D-404D-836F-594ED82764A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1511c91d2f3eac5f213d020c657d7ef598ba136d","datavalue":{"value":{"text":"Orchidaceae novae et criticae.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753093$A17DBB75-9C07-4A4E-A42D-91005C00A09E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q55753093$AA2FD32C-C242-419D-9044-88A7D704068C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"94b27695e50fb95b7ab19c2ff283879a3bf4e86f","datavalue":{"value":"42\u201347","type":"string"}},"type":"statement","id":"Q55753093$977B07BD-93C9-45E0-9080-73D38E8B2645","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2e6f52e13da43d7a2e304b186b8c666116432dc7","datavalue":{"value":"1-4","type":"string"}},"type":"statement","id":"Q55753093$F21DEAB2-B235-4758-BD4B-16EB47BBC965","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753093$617A8366-F97E-41D9-AB03-56A64AF8EA81","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62d32dab97705b3f56bc8c88920fd622679a8599","datavalue":{"value":"R. Schlechter","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753093$982CB5BA-8734-43EE-BDE9-3B53C9D19B29","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753093$5ED647EE-5257-402E-B4F1-A1579571888D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q55753093$C9D2269B-D1BB-4C40-B5AE-83D29E630F6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>grd9qmc0qonb6guksynkzbmhed12v1f</sha1>
+    </revision>
+  </page>
+</mediawiki>

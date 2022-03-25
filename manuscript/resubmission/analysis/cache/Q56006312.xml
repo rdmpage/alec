@@ -1,0 +1,260 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56006312</title>
+    <ns>0</ns>
+    <id>55956127</id>
+    <revision>
+      <id>722340946</id>
+      <timestamp>2018-08-07T07:52:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56006312","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7fz7r8prz10p22odasylvh9ts1qtmd3</sha1>
+    </revision>
+    <revision>
+      <id>722340950</id>
+      <parentid>722340946</parentid>
+      <timestamp>2018-08-07T07:52:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Two new American fleas</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="157" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>55qghxdkknilfx7ibrmiau5kta8ejp5</sha1>
+    </revision>
+    <revision>
+      <id>722340957</id>
+      <parentid>722340950</parentid>
+      <timestamp>2018-08-07T07:52:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Two new American fleas</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="213" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>91duxsatc7qspl5zii0vt47igt8uj2l</sha1>
+    </revision>
+    <revision>
+      <id>722340961</id>
+      <parentid>722340957</parentid>
+      <timestamp>2018-08-07T07:52:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.10833</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="476" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nl1z92135uxa0257znprmnz8hyhzqhw</sha1>
+    </revision>
+    <revision>
+      <id>722340965</id>
+      <parentid>722340961</parentid>
+      <timestamp>2018-08-07T07:52:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 95488</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="724" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iozlwyhqjwc58pwkou2cdhw3mfqddhq</sha1>
+    </revision>
+    <revision>
+      <id>722340973</id>
+      <parentid>722340965</parentid>
+      <timestamp>2018-08-07T07:52:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1033" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0969590uvfj45h76v99dh0zstkyjn7l</sha1>
+    </revision>
+    <revision>
+      <id>722340979</id>
+      <parentid>722340973</parentid>
+      <timestamp>2018-08-07T07:52:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Two new American fleas</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1332" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jhcy7v6linxlbus0kevuiixvph4druu</sha1>
+    </revision>
+    <revision>
+      <id>722340985</id>
+      <parentid>722340979</parentid>
+      <timestamp>2018-08-07T07:52:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 35</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1575" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>edja5z29zrj4ng24sos02cqajyae0hz</sha1>
+    </revision>
+    <revision>
+      <id>722340989</id>
+      <parentid>722340985</parentid>
+      <timestamp>2018-08-07T07:52:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 268–269</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1828" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bcb5bac04fb289e27cbfed225a47449a8a51fc3c","datavalue":{"value":"268\u2013269","type":"string"}},"type":"statement","id":"Q56006312$E454BB31-08BF-47A3-B26B-A838A3932630","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ahnqdt2a9nyt35oudnggtpqlrgp4hsl</sha1>
+    </revision>
+    <revision>
+      <id>722340993</id>
+      <parentid>722340989</parentid>
+      <timestamp>2018-08-07T07:52:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1930</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2207" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bcb5bac04fb289e27cbfed225a47449a8a51fc3c","datavalue":{"value":"268\u2013269","type":"string"}},"type":"statement","id":"Q56006312$E454BB31-08BF-47A3-B26B-A838A3932630","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006312$DDA5541A-E1F4-490F-B3BE-DB39A5FDC624","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e3qq0mbzi8eo5a3bkfhpj32wyd4eair</sha1>
+    </revision>
+    <revision>
+      <id>722341000</id>
+      <parentid>722340993</parentid>
+      <timestamp>2018-08-07T07:52:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q7064924]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2518" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bcb5bac04fb289e27cbfed225a47449a8a51fc3c","datavalue":{"value":"268\u2013269","type":"string"}},"type":"statement","id":"Q56006312$E454BB31-08BF-47A3-B26B-A838A3932630","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006312$DDA5541A-E1F4-490F-B3BE-DB39A5FDC624","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$6CB589B8-CDC1-48D9-A984-B4063D3ABBAE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>280at2a3tnutulzsxh0v3r9l3ti2h5w</sha1>
+    </revision>
+    <revision>
+      <id>738396310</id>
+      <parentid>722341000</parentid>
+      <timestamp>2018-09-02T06:09:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 3250319, According to [[Property:P5315]]=95488</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2766" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bcb5bac04fb289e27cbfed225a47449a8a51fc3c","datavalue":{"value":"268\u2013269","type":"string"}},"type":"statement","id":"Q56006312$E454BB31-08BF-47A3-B26B-A838A3932630","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006312$DDA5541A-E1F4-490F-B3BE-DB39A5FDC624","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$6CB589B8-CDC1-48D9-A984-B4063D3ABBAE","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"72f5980e2e840eedcbdda1034bd9198810b2d170","datavalue":{"value":"3250319","type":"string"}},"type":"statement","id":"Q56006312$760C75F5-84DA-49DD-BBDB-9CA0D6421CF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rm1h44qioi4zwchlw11roj9i0d85x04</sha1>
+    </revision>
+    <revision>
+      <id>784425324</id>
+      <parentid>738396310</parentid>
+      <timestamp>2018-11-08T01:36:06Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2879" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"},"nl":{"language":"nl","value":"Two new American fleas"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bcb5bac04fb289e27cbfed225a47449a8a51fc3c","datavalue":{"value":"268\u2013269","type":"string"}},"type":"statement","id":"Q56006312$E454BB31-08BF-47A3-B26B-A838A3932630","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006312$DDA5541A-E1F4-490F-B3BE-DB39A5FDC624","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$6CB589B8-CDC1-48D9-A984-B4063D3ABBAE","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"72f5980e2e840eedcbdda1034bd9198810b2d170","datavalue":{"value":"3250319","type":"string"}},"type":"statement","id":"Q56006312$760C75F5-84DA-49DD-BBDB-9CA0D6421CF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rqne6mq2wb0mvzf5kcpla3ol4e1ayod</sha1>
+    </revision>
+    <revision>
+      <id>973947044</id>
+      <parentid>784425324</parentid>
+      <timestamp>2019-07-04T07:11:23Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1930, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3078" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"},"nl":{"language":"nl","value":"Two new American fleas"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1930"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bcb5bac04fb289e27cbfed225a47449a8a51fc3c","datavalue":{"value":"268\u2013269","type":"string"}},"type":"statement","id":"Q56006312$E454BB31-08BF-47A3-B26B-A838A3932630","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006312$DDA5541A-E1F4-490F-B3BE-DB39A5FDC624","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$6CB589B8-CDC1-48D9-A984-B4063D3ABBAE","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"72f5980e2e840eedcbdda1034bd9198810b2d170","datavalue":{"value":"3250319","type":"string"}},"type":"statement","id":"Q56006312$760C75F5-84DA-49DD-BBDB-9CA0D6421CF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6mvp95w1zdr5g5n0d4czecm2t1nemiu</sha1>
+    </revision>
+    <revision>
+      <id>1105827022</id>
+      <parentid>973947044</parentid>
+      <timestamp>2020-01-28T20:10:33Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1930 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25456|batch #25456]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3175" xml:space="preserve">{"type":"item","id":"Q56006312","labels":{"de":{"language":"de","value":"Two new American fleas"},"en":{"language":"en","value":"Two new American fleas"},"nl":{"language":"nl","value":"Two new American fleas"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1930"},"de":{"language":"de","value":"im Januar 1930 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05b118ec86b8f795e203a51e43b3a9f5f1e2031f","datavalue":{"value":"10.5962\/BHL.PART.10833","type":"string"}},"type":"statement","id":"Q56006312$5305B8B8-3B92-4E73-ABD7-4A772D026A0D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b3ba34090a89b96a31b151406d13987204c3b1ad","datavalue":{"value":"95488","type":"string"}},"type":"statement","id":"Q56006312$2767B89A-081F-4088-9108-0A8BB32AAF79","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$7C2C1B6D-F80A-4E9D-AD4F-FE6D90DEAA00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3fcc84abe2872bb7b4fd90f8b5a926fa60c43af8","datavalue":{"value":{"text":"Two new American fleas","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56006312$B69FCD54-76C1-4FBB-8AD2-39C210155C1D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q56006312$9158D9F6-7D7B-4805-B867-57B827008863","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bcb5bac04fb289e27cbfed225a47449a8a51fc3c","datavalue":{"value":"268\u2013269","type":"string"}},"type":"statement","id":"Q56006312$E454BB31-08BF-47A3-B26B-A838A3932630","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56006312$DDA5541A-E1F4-490F-B3BE-DB39A5FDC624","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56006312$6CB589B8-CDC1-48D9-A984-B4063D3ABBAE","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"72f5980e2e840eedcbdda1034bd9198810b2d170","datavalue":{"value":"3250319","type":"string"}},"type":"statement","id":"Q56006312$760C75F5-84DA-49DD-BBDB-9CA0D6421CF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>erkjcxws64ngcrlryffnsnc87d3ij76</sha1>
+    </revision>
+  </page>
+</mediawiki>

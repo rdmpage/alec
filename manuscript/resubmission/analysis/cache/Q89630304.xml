@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q89630304</title>
+    <ns>0</ns>
+    <id>88843400</id>
+    <revision>
+      <id>1151935255</id>
+      <timestamp>2020-04-07T04:01:47Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ [[:toollabs:quickstatements/#/batch/28555|batch #28555]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4376" xml:space="preserve">{"type":"item","id":"Q89630304","labels":{"en":{"language":"en","value":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$9A678257-CC21-4240-A02F-EC05A9C918D8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fd5b5e7d7ec9701b946bfce38f938251eea53fa1","datavalue":{"value":{"text":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89630304$F1988E86-9F8E-4BC0-848C-CD971BE6EB95","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"c91eca29df07c63a467a9266fbc151fe20a1df6c","datavalue":{"value":{"text":"The genus Metabelba was created by Grandjean in 1936 for Belbidae of which the solenidions of tibiae II and III are coupled with protective hairs, but of which the solenidion of tibia IV is free, long, and tactile.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89630304$8DB89F40-D36A-40EF-95C3-939BD151045E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$66B0DFBD-DBE2-48B3-959F-614A425C1700","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8532317a08fee71eeb3d7d690b2f6c7e91b12fb3","datavalue":{"value":{"time":"+1953-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q89630304$392B3A11-CFE3-4C6E-9CFD-E90B6908C0CB","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a247843d2c1aa1674153f518947dd4ed35b32b5c","datavalue":{"value":"L Van Der Hammen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89630304$932D2DA5-3487-418E-9D51-A0E125BC3405","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"05f5f241a6de98e4d9c8ea561d1d307542c8107f","datavalue":{"value":{"entity-type":"item","numeric-id":2358748,"id":"Q2358748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$3E8F705E-4057-4C6B-81FB-02A5A8127D3A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0e910e9d16133d54a468f079f63f6b565a7e2a31","datavalue":{"value":"32","type":"string"}},"type":"statement","id":"Q89630304$08BC25F3-32FD-45A2-8462-D9AD69ED25A3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q89630304$6EA0DB26-BA8E-4944-A628-23B02C9081DF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"963468545c129b3e6a6229d4ed4688193ae13497","datavalue":{"value":"141-154","type":"string"}},"type":"statement","id":"Q89630304$B6BB78FC-84C6-4155-84C5-CA59397E3FAC","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"eed69d1666d46a8bf3fa52e16d9f4bf38362eb5d","datavalue":{"value":"zoologische-mededelingen-32-141-154","type":"string"}},"type":"statement","id":"Q89630304$4F9E535E-4D22-4C09-9068-77E4D929D632","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"38fa29c58a5f6ff49577563b19314c3b83095648","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/document\/150100","type":"string"}},"type":"statement","id":"Q89630304$1BBD8BF1-4F2E-479D-ACCF-CFA98571B183","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"6c70821ea31582161fe9b0ce6495a7f7a0126d94","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/record\/318814","type":"string"}},"type":"statement","id":"Q89630304$4C75592D-D544-4F85-9DF3-4F752B6C4B8B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fh42rok719fqgg44w4tjiyr7xcfu7ra</sha1>
+    </revision>
+    <revision>
+      <id>1245615137</id>
+      <parentid>1151935255</parentid>
+      <timestamp>2020-08-03T01:35:23Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4536" xml:space="preserve">{"type":"item","id":"Q89630304","labels":{"en":{"language":"en","value":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)"},"nl":{"language":"nl","value":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$9A678257-CC21-4240-A02F-EC05A9C918D8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fd5b5e7d7ec9701b946bfce38f938251eea53fa1","datavalue":{"value":{"text":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89630304$F1988E86-9F8E-4BC0-848C-CD971BE6EB95","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"c91eca29df07c63a467a9266fbc151fe20a1df6c","datavalue":{"value":{"text":"The genus Metabelba was created by Grandjean in 1936 for Belbidae of which the solenidions of tibiae II and III are coupled with protective hairs, but of which the solenidion of tibia IV is free, long, and tactile.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89630304$8DB89F40-D36A-40EF-95C3-939BD151045E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$66B0DFBD-DBE2-48B3-959F-614A425C1700","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8532317a08fee71eeb3d7d690b2f6c7e91b12fb3","datavalue":{"value":{"time":"+1953-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q89630304$392B3A11-CFE3-4C6E-9CFD-E90B6908C0CB","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a247843d2c1aa1674153f518947dd4ed35b32b5c","datavalue":{"value":"L Van Der Hammen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89630304$932D2DA5-3487-418E-9D51-A0E125BC3405","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"05f5f241a6de98e4d9c8ea561d1d307542c8107f","datavalue":{"value":{"entity-type":"item","numeric-id":2358748,"id":"Q2358748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$3E8F705E-4057-4C6B-81FB-02A5A8127D3A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0e910e9d16133d54a468f079f63f6b565a7e2a31","datavalue":{"value":"32","type":"string"}},"type":"statement","id":"Q89630304$08BC25F3-32FD-45A2-8462-D9AD69ED25A3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q89630304$6EA0DB26-BA8E-4944-A628-23B02C9081DF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"963468545c129b3e6a6229d4ed4688193ae13497","datavalue":{"value":"141-154","type":"string"}},"type":"statement","id":"Q89630304$B6BB78FC-84C6-4155-84C5-CA59397E3FAC","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"eed69d1666d46a8bf3fa52e16d9f4bf38362eb5d","datavalue":{"value":"zoologische-mededelingen-32-141-154","type":"string"}},"type":"statement","id":"Q89630304$4F9E535E-4D22-4C09-9068-77E4D929D632","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"38fa29c58a5f6ff49577563b19314c3b83095648","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/document\/150100","type":"string"}},"type":"statement","id":"Q89630304$1BBD8BF1-4F2E-479D-ACCF-CFA98571B183","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"6c70821ea31582161fe9b0ce6495a7f7a0126d94","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/record\/318814","type":"string"}},"type":"statement","id":"Q89630304$4C75592D-D544-4F85-9DF3-4F752B6C4B8B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lvhxc840g630oa9nruj8408lcvczsid</sha1>
+    </revision>
+    <revision>
+      <id>1565735783</id>
+      <parentid>1245615137</parentid>
+      <timestamp>2022-01-21T11:00:15Z</timestamp>
+      <contributor>
+        <username>DrThneed</username>
+        <id>3083127</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article by L Van Der Hammen published 1953 in Zoologische Mededelingen, [[:toollabs:quickstatements/#/batch/74109|batch #74109]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4640" xml:space="preserve">{"type":"item","id":"Q89630304","labels":{"en":{"language":"en","value":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)"},"nl":{"language":"nl","value":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"en":{"language":"en","value":"article by L Van Der Hammen published 1953 in Zoologische Mededelingen"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$9A678257-CC21-4240-A02F-EC05A9C918D8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fd5b5e7d7ec9701b946bfce38f938251eea53fa1","datavalue":{"value":{"text":"A partial revision of the genus Metabelba grandjean (Oribatei, Acari)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89630304$F1988E86-9F8E-4BC0-848C-CD971BE6EB95","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"c91eca29df07c63a467a9266fbc151fe20a1df6c","datavalue":{"value":{"text":"The genus Metabelba was created by Grandjean in 1936 for Belbidae of which the solenidions of tibiae II and III are coupled with protective hairs, but of which the solenidion of tibia IV is free, long, and tactile.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89630304$8DB89F40-D36A-40EF-95C3-939BD151045E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$66B0DFBD-DBE2-48B3-959F-614A425C1700","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8532317a08fee71eeb3d7d690b2f6c7e91b12fb3","datavalue":{"value":{"time":"+1953-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q89630304$392B3A11-CFE3-4C6E-9CFD-E90B6908C0CB","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a247843d2c1aa1674153f518947dd4ed35b32b5c","datavalue":{"value":"L Van Der Hammen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89630304$932D2DA5-3487-418E-9D51-A0E125BC3405","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"05f5f241a6de98e4d9c8ea561d1d307542c8107f","datavalue":{"value":{"entity-type":"item","numeric-id":2358748,"id":"Q2358748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89630304$3E8F705E-4057-4C6B-81FB-02A5A8127D3A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0e910e9d16133d54a468f079f63f6b565a7e2a31","datavalue":{"value":"32","type":"string"}},"type":"statement","id":"Q89630304$08BC25F3-32FD-45A2-8462-D9AD69ED25A3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q89630304$6EA0DB26-BA8E-4944-A628-23B02C9081DF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"963468545c129b3e6a6229d4ed4688193ae13497","datavalue":{"value":"141-154","type":"string"}},"type":"statement","id":"Q89630304$B6BB78FC-84C6-4155-84C5-CA59397E3FAC","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"eed69d1666d46a8bf3fa52e16d9f4bf38362eb5d","datavalue":{"value":"zoologische-mededelingen-32-141-154","type":"string"}},"type":"statement","id":"Q89630304$4F9E535E-4D22-4C09-9068-77E4D929D632","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"38fa29c58a5f6ff49577563b19314c3b83095648","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/document\/150100","type":"string"}},"type":"statement","id":"Q89630304$1BBD8BF1-4F2E-479D-ACCF-CFA98571B183","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"6c70821ea31582161fe9b0ce6495a7f7a0126d94","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/record\/318814","type":"string"}},"type":"statement","id":"Q89630304$4C75592D-D544-4F85-9DF3-4F752B6C4B8B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l3wzobkpyyobxyoxxoi888zw38kbkmz</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56095547</title>
+    <ns>0</ns>
+    <id>56041551</id>
+    <revision>
+      <id>726197511</id>
+      <timestamp>2018-08-15T05:45:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56095547","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6xwtntgyg991d2r8nusm0g9e3seancf</sha1>
+    </revision>
+    <revision>
+      <id>726197519</id>
+      <parentid>726197511</parentid>
+      <timestamp>2018-08-15T05:45:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Neue Vogelarten von Kamerun</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="162" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>9365df8nuf6y7fg72qyugb5ohapkadw</sha1>
+    </revision>
+    <revision>
+      <id>726197523</id>
+      <parentid>726197519</parentid>
+      <timestamp>2018-08-15T05:45:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Neue Vogelarten von Kamerun</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="223" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>79b3e7d3ijspmzew7t7tgrzx1s55rag</sha1>
+    </revision>
+    <revision>
+      <id>726197530</id>
+      <parentid>726197523</parentid>
+      <timestamp>2018-08-15T05:45:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1007/BF02252727</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="482" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l6l4h36i630m4r7une74xr1r8ffkc9x</sha1>
+    </revision>
+    <revision>
+      <id>726197533</id>
+      <parentid>726197530</parentid>
+      <timestamp>2018-08-15T05:45:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 113207</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="731" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>392pl2usi8z0s54ic85ksc331uzwo3b</sha1>
+    </revision>
+    <revision>
+      <id>726197537</id>
+      <parentid>726197533</parentid>
+      <timestamp>2018-08-15T05:45:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1040" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>917zvq3j8bgny64o9e1emah79ui5j9c</sha1>
+    </revision>
+    <revision>
+      <id>726197545</id>
+      <parentid>726197537</parentid>
+      <timestamp>2018-08-15T05:45:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Neue Vogelarten von Kamerun</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1344" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ioycfzi8zh7g9r1ev81brrcceir4ywd</sha1>
+    </revision>
+    <revision>
+      <id>726197550</id>
+      <parentid>726197545</parentid>
+      <timestamp>2018-08-15T05:45:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 40</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1587" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m3fzf9xq2z7550v2is60scmcf2ae9j2</sha1>
+    </revision>
+    <revision>
+      <id>726197556</id>
+      <parentid>726197550</parentid>
+      <timestamp>2018-08-15T05:45:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 313–314</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1840" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6zl8iop1gre5dc23rbnrj0835v8l94g</sha1>
+    </revision>
+    <revision>
+      <id>726197565</id>
+      <parentid>726197556</parentid>
+      <timestamp>2018-08-15T05:45:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2082" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e14fxphp1jhcz8nx992v8l5pvb936jo</sha1>
+    </revision>
+    <revision>
+      <id>726197572</id>
+      <parentid>726197565</parentid>
+      <timestamp>2018-08-15T05:45:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: July 1892</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2462" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>chekodgc9qe8w9edqm3ebc5ml616cka</sha1>
+    </revision>
+    <revision>
+      <id>726197580</id>
+      <parentid>726197572</parentid>
+      <timestamp>2018-08-15T05:45:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Y. Sjöstedt</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2721" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jno0rq8xncmd53ia885mv5vt578itz3</sha1>
+    </revision>
+    <revision>
+      <id>726197585</id>
+      <parentid>726197580</parentid>
+      <timestamp>2018-08-15T05:45:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2907" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sr39oivdmyh56zj5lsgjisqch6tldb6</sha1>
+    </revision>
+    <revision>
+      <id>726197593</id>
+      <parentid>726197585</parentid>
+      <timestamp>2018-08-15T05:45:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q473337]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3216" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rd1gxjhou0pcweu4bpuqlmo26rbaiea</sha1>
+    </revision>
+    <revision>
+      <id>738487172</id>
+      <parentid>726197593</parentid>
+      <timestamp>2018-09-02T09:44:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 32796815, According to [[Property:P5315]]=113207</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3465" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c8c19b03ded66a8e038365e1aeef4fc0f900eb6b","datavalue":{"value":"32796815","type":"string"}},"type":"statement","id":"Q56095547$386555AC-A1C1-44F5-8427-FBC68E68EA51","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3jvm0n1u7rwul5fjgfmqpxvuetal9ag</sha1>
+    </revision>
+    <revision>
+      <id>781402534</id>
+      <parentid>738487172</parentid>
+      <timestamp>2018-11-04T02:06:46Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3583" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"},"nl":{"language":"nl","value":"Neue Vogelarten von Kamerun"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c8c19b03ded66a8e038365e1aeef4fc0f900eb6b","datavalue":{"value":"32796815","type":"string"}},"type":"statement","id":"Q56095547$386555AC-A1C1-44F5-8427-FBC68E68EA51","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d7agt440nx68e2470n5y7hlab87rihx</sha1>
+    </revision>
+    <revision>
+      <id>941723266</id>
+      <parentid>781402534</parentid>
+      <timestamp>2019-05-14T11:08:14Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1557762308349; Based on 1892 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3890" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"},"nl":{"language":"nl","value":"Neue Vogelarten von Kamerun"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c8c19b03ded66a8e038365e1aeef4fc0f900eb6b","datavalue":{"value":"32796815","type":"string"}},"type":"statement","id":"Q56095547$386555AC-A1C1-44F5-8427-FBC68E68EA51","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$56AE67F5-0431-44BF-B950-58924983A7E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o404vjmq4ncs5k9dm8bjr2cc4mr7lad</sha1>
+    </revision>
+    <revision>
+      <id>941723301</id>
+      <parentid>941723266</parentid>
+      <timestamp>2019-05-14T11:08:17Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1557762308349</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4133" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"},"nl":{"language":"nl","value":"Neue Vogelarten von Kamerun"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c8c19b03ded66a8e038365e1aeef4fc0f900eb6b","datavalue":{"value":"32796815","type":"string"}},"type":"statement","id":"Q56095547$386555AC-A1C1-44F5-8427-FBC68E68EA51","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56095547$56AE67F5-0431-44BF-B950-58924983A7E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fx9fs30wulvogvrgn35xk7l6lx7is54</sha1>
+    </revision>
+    <revision>
+      <id>941723338</id>
+      <parentid>941723301</parentid>
+      <timestamp>2019-05-14T11:08:21Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1557762308349</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4349" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"},"nl":{"language":"nl","value":"Neue Vogelarten von Kamerun"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c8c19b03ded66a8e038365e1aeef4fc0f900eb6b","datavalue":{"value":"32796815","type":"string"}},"type":"statement","id":"Q56095547$386555AC-A1C1-44F5-8427-FBC68E68EA51","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56095547$56AE67F5-0431-44BF-B950-58924983A7E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>md0wsy2ac999uf5feifz2eoclgdqz1b</sha1>
+    </revision>
+    <revision>
+      <id>967948238</id>
+      <parentid>941723338</parentid>
+      <timestamp>2019-06-24T04:27:45Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в липні 1892, [[:toollabs:quickstatements/#/batch/14613|batch #14613]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4579" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"},"nl":{"language":"nl","value":"Neue Vogelarten von Kamerun"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 1892"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c8c19b03ded66a8e038365e1aeef4fc0f900eb6b","datavalue":{"value":"32796815","type":"string"}},"type":"statement","id":"Q56095547$386555AC-A1C1-44F5-8427-FBC68E68EA51","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56095547$56AE67F5-0431-44BF-B950-58924983A7E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d6vbfsjtn46w5me1ab0ju9tmivrollh</sha1>
+    </revision>
+    <revision>
+      <id>1079346204</id>
+      <parentid>967948238</parentid>
+      <timestamp>2019-12-18T23:52:56Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Juli 1892 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24108|batch #24108]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4674" xml:space="preserve">{"type":"item","id":"Q56095547","labels":{"de":{"language":"de","value":"Neue Vogelarten von Kamerun"},"en":{"language":"en","value":"Neue Vogelarten von Kamerun"},"nl":{"language":"nl","value":"Neue Vogelarten von Kamerun"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 1892"},"de":{"language":"de","value":"im Juli 1892 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a0ca412c501bdc7c94f9d60f942649d639136346","datavalue":{"value":"10.1007\/BF02252727","type":"string"}},"type":"statement","id":"Q56095547$48DEA83D-6FE1-4F57-AE73-EBBB27848B2B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"79d23a6fb1001a1e071d886af78479c07ac0a14f","datavalue":{"value":"113207","type":"string"}},"type":"statement","id":"Q56095547$B9F80C3E-D6BE-435E-8C4D-37BE5A21D4A9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$C4E35F25-DC75-4CE4-958D-713D2A006025","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"26f70d8b63cf95d2db1042f0f9f12263657465d1","datavalue":{"value":{"text":"Neue Vogelarten von Kamerun","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56095547$2A711554-E644-432B-B352-85AE9D9D78E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f269efd01502df8d4b7c280d83cbaece6392ac6a","datavalue":{"value":"40","type":"string"}},"type":"statement","id":"Q56095547$888AD0FB-EF59-437B-ACD2-90DBCFDA3572","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"24974be7b7008d0cda18435b938aa0fe1b2b557c","datavalue":{"value":"313\u2013314","type":"string"}},"type":"statement","id":"Q56095547$9939F3EE-8D45-4645-AC9A-37AEA4376BED","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56095547$A55ACA02-FCF2-45CE-A755-93E90E6A4DDA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3683a38b2bad5595d6fe263f85aafb9540e5b955","datavalue":{"value":{"time":"+1892-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56095547$AEEBEFE2-A7F0-4EA3-B6BB-E69746E902B1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fc3c170da7319f177ddc0de399ab2f3219d8aa28","datavalue":{"value":"Y. Sj\u00f6stedt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56095547$89ED8DE6-070B-4222-94D7-AD9972D70552","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7320c2e684a695ebc6e1b25c43559ce38e20e210","datavalue":{"value":{"entity-type":"item","numeric-id":473337,"id":"Q473337"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56095547$03C033AE-4947-4100-BF97-479110E016BB","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c8c19b03ded66a8e038365e1aeef4fc0f900eb6b","datavalue":{"value":"32796815","type":"string"}},"type":"statement","id":"Q56095547$386555AC-A1C1-44F5-8427-FBC68E68EA51","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56095547$56AE67F5-0431-44BF-B950-58924983A7E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dgirhk1mz4457nthdv8o0q26fmr6e6g</sha1>
+    </revision>
+  </page>
+</mediawiki>

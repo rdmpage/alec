@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q92172535</title>
+    <ns>0</ns>
+    <id>91344754</id>
+    <revision>
+      <id>1167618760</id>
+      <timestamp>2020-04-27T10:03:23Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1587981210957</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3846" xml:space="preserve">{"type":"item","id":"Q92172535","labels":{"en":{"language":"en","value":"The Permian gastropods of New South Wales"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$60A1C338-2157-4B9B-9707-1ED63BA376B8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"425570c12d086daeb11d254ae92378c906bbf0c2","datavalue":{"value":{"text":"The Permian gastropods of New South Wales","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q92172535$38D061B5-517B-4BC8-ABFA-AD050F0C9836","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$4775D71B-B163-4EAF-BCCF-771D87B61257","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q92172535$10F89AB8-9BE3-472E-A770-F8C1B43B9E8D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"842d0ec63cf53f400aafc7b836fcf2cd42e7a2d9","datavalue":{"value":"Harold O. Fletcher","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q92172535$F30C702E-B24A-4C37-8584-C25B8C2C29B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$8F527263-6D83-4171-8999-168DAE6680A5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"65cb557022e2f68587863d5f5b22479312a0ffa8","datavalue":{"value":"24","type":"string"}},"type":"statement","id":"Q92172535$AA2ECA28-5191-4F9A-A567-3590A510DF34","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q92172535$322C643A-CD34-4D69-9F86-E8DABD98326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0465173412fa18d2720379aa59238904c7531f3","datavalue":{"value":"115-164","type":"string"}},"type":"statement","id":"Q92172535$DC3C568C-27C0-4341-93DD-225CC079C611","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"416c57faa6dcda877eeb4911e44a65cfe8887197","datavalue":{"value":"records-australian-museum-24-115-164","type":"string"}},"type":"statement","id":"Q92172535$9243CE78-7687-4816-BA7E-CC50517967FC","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7e0946f3673f4ce08ff7ce9209f4b416cf719c2f","datavalue":{"value":"10.3853\/J.0067-1975.24.1958.648","type":"string"}},"type":"statement","id":"Q92172535$FA863090-F728-4E2A-93B0-409D162D4D48","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"f6731733c34e8892476e431246db06869b3b9f23","datavalue":{"value":"https:\/\/australianmuseum.net.au\/Uploads\/Journals\/17402\/648_complete.pdf","type":"string"}},"type":"statement","id":"Q92172535$567027B3-0C5D-476E-A417-97BA67D487FF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9gw3ar1k582ph745zz3h5jw7rex5rfm</sha1>
+    </revision>
+    <revision>
+      <id>1167720574</id>
+      <parentid>1167618760</parentid>
+      <timestamp>2020-04-27T12:59:25Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3978" xml:space="preserve">{"type":"item","id":"Q92172535","labels":{"en":{"language":"en","value":"The Permian gastropods of New South Wales"},"nl":{"language":"nl","value":"The Permian gastropods of New South Wales"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$60A1C338-2157-4B9B-9707-1ED63BA376B8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"425570c12d086daeb11d254ae92378c906bbf0c2","datavalue":{"value":{"text":"The Permian gastropods of New South Wales","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q92172535$38D061B5-517B-4BC8-ABFA-AD050F0C9836","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$4775D71B-B163-4EAF-BCCF-771D87B61257","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q92172535$10F89AB8-9BE3-472E-A770-F8C1B43B9E8D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"842d0ec63cf53f400aafc7b836fcf2cd42e7a2d9","datavalue":{"value":"Harold O. Fletcher","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q92172535$F30C702E-B24A-4C37-8584-C25B8C2C29B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$8F527263-6D83-4171-8999-168DAE6680A5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"65cb557022e2f68587863d5f5b22479312a0ffa8","datavalue":{"value":"24","type":"string"}},"type":"statement","id":"Q92172535$AA2ECA28-5191-4F9A-A567-3590A510DF34","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q92172535$322C643A-CD34-4D69-9F86-E8DABD98326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0465173412fa18d2720379aa59238904c7531f3","datavalue":{"value":"115-164","type":"string"}},"type":"statement","id":"Q92172535$DC3C568C-27C0-4341-93DD-225CC079C611","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"416c57faa6dcda877eeb4911e44a65cfe8887197","datavalue":{"value":"records-australian-museum-24-115-164","type":"string"}},"type":"statement","id":"Q92172535$9243CE78-7687-4816-BA7E-CC50517967FC","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7e0946f3673f4ce08ff7ce9209f4b416cf719c2f","datavalue":{"value":"10.3853\/J.0067-1975.24.1958.648","type":"string"}},"type":"statement","id":"Q92172535$FA863090-F728-4E2A-93B0-409D162D4D48","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"f6731733c34e8892476e431246db06869b3b9f23","datavalue":{"value":"https:\/\/australianmuseum.net.au\/Uploads\/Journals\/17402\/648_complete.pdf","type":"string"}},"type":"statement","id":"Q92172535$567027B3-0C5D-476E-A417-97BA67D487FF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aa80h7bbgheooihtden4nizfj2p4ge8</sha1>
+    </revision>
+    <revision>
+      <id>1272700318</id>
+      <parentid>1167720574</parentid>
+      <timestamp>2020-09-07T01:11:53Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1958 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4073" xml:space="preserve">{"type":"item","id":"Q92172535","labels":{"en":{"language":"en","value":"The Permian gastropods of New South Wales"},"nl":{"language":"nl","value":"The Permian gastropods of New South Wales"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Jahr 1958 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$60A1C338-2157-4B9B-9707-1ED63BA376B8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"425570c12d086daeb11d254ae92378c906bbf0c2","datavalue":{"value":{"text":"The Permian gastropods of New South Wales","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q92172535$38D061B5-517B-4BC8-ABFA-AD050F0C9836","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$4775D71B-B163-4EAF-BCCF-771D87B61257","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q92172535$10F89AB8-9BE3-472E-A770-F8C1B43B9E8D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"842d0ec63cf53f400aafc7b836fcf2cd42e7a2d9","datavalue":{"value":"Harold O. Fletcher","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q92172535$F30C702E-B24A-4C37-8584-C25B8C2C29B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92172535$8F527263-6D83-4171-8999-168DAE6680A5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"65cb557022e2f68587863d5f5b22479312a0ffa8","datavalue":{"value":"24","type":"string"}},"type":"statement","id":"Q92172535$AA2ECA28-5191-4F9A-A567-3590A510DF34","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q92172535$322C643A-CD34-4D69-9F86-E8DABD98326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0465173412fa18d2720379aa59238904c7531f3","datavalue":{"value":"115-164","type":"string"}},"type":"statement","id":"Q92172535$DC3C568C-27C0-4341-93DD-225CC079C611","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"416c57faa6dcda877eeb4911e44a65cfe8887197","datavalue":{"value":"records-australian-museum-24-115-164","type":"string"}},"type":"statement","id":"Q92172535$9243CE78-7687-4816-BA7E-CC50517967FC","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7e0946f3673f4ce08ff7ce9209f4b416cf719c2f","datavalue":{"value":"10.3853\/J.0067-1975.24.1958.648","type":"string"}},"type":"statement","id":"Q92172535$FA863090-F728-4E2A-93B0-409D162D4D48","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"f6731733c34e8892476e431246db06869b3b9f23","datavalue":{"value":"https:\/\/australianmuseum.net.au\/Uploads\/Journals\/17402\/648_complete.pdf","type":"string"}},"type":"statement","id":"Q92172535$567027B3-0C5D-476E-A417-97BA67D487FF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rwdphu58j0qdcqy9sitvnl0ttxnl40s</sha1>
+    </revision>
+  </page>
+</mediawiki>

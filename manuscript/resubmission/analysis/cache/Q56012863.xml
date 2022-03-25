@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56012863</title>
+    <ns>0</ns>
+    <id>55962743</id>
+    <revision>
+      <id>722601827</id>
+      <timestamp>2018-08-07T21:01:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56012863","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dkji29ymzteyss2dl528afro36w16hx</sha1>
+    </revision>
+    <revision>
+      <id>722601831</id>
+      <parentid>722601827</parentid>
+      <timestamp>2018-08-07T21:01:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Description d'une Amauris nouvelle</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="169" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8jso4599tla0tyiop76t67f6keohkyp</sha1>
+    </revision>
+    <revision>
+      <id>722601835</id>
+      <parentid>722601831</parentid>
+      <timestamp>2018-08-07T21:01:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Description d'une Amauris nouvelle</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="237" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3pnof2owbogzrwo855kfl9bzsskkk9q</sha1>
+    </revision>
+    <revision>
+      <id>722601837</id>
+      <parentid>722601835</parentid>
+      <timestamp>2018-08-07T21:01:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.25479</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="500" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e80groxh9b2gqjq18vwq6mpqzlermac</sha1>
+    </revision>
+    <revision>
+      <id>722601842</id>
+      <parentid>722601837</parentid>
+      <timestamp>2018-08-07T21:01:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 97939</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="748" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rycr6tkwidm6srxfd1r3sej82cspxl1</sha1>
+    </revision>
+    <revision>
+      <id>722601847</id>
+      <parentid>722601842</parentid>
+      <timestamp>2018-08-07T21:01:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1057" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nj0y9ewcvkzqgaxr6n78bgj57b4hspj</sha1>
+    </revision>
+    <revision>
+      <id>722601853</id>
+      <parentid>722601847</parentid>
+      <timestamp>2018-08-07T21:01:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Description d'une Amauris nouvelle</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1368" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>smf1swbj34x5oy3ikpuygdqxo7z5duk</sha1>
+    </revision>
+    <revision>
+      <id>722601857</id>
+      <parentid>722601853</parentid>
+      <timestamp>2018-08-07T21:01:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 1913</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1613" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>phy76dh20mm2nfohx358s1872d305l0</sha1>
+    </revision>
+    <revision>
+      <id>722601860</id>
+      <parentid>722601857</parentid>
+      <timestamp>2018-08-07T21:01:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 342–343</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1866" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>awwazgkkxnnlzttpeiheyfm74gnsuk5</sha1>
+    </revision>
+    <revision>
+      <id>722601865</id>
+      <parentid>722601860</parentid>
+      <timestamp>2018-08-07T21:01:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1914</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2245" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lye22b58favml2vpes73eve2x1iq3nl</sha1>
+    </revision>
+    <revision>
+      <id>722601869</id>
+      <parentid>722601865</parentid>
+      <timestamp>2018-08-07T21:01:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5735526]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2556" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gg8uhsts07z7zr6fzvwbduq26ixuu5e</sha1>
+    </revision>
+    <revision>
+      <id>738415093</id>
+      <parentid>722601869</parentid>
+      <timestamp>2018-09-02T06:54:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 5052141, According to [[Property:P5315]]=97939</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2804" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>frxi863ckkoyy590xdva5d75ftjfovm</sha1>
+    </revision>
+    <revision>
+      <id>784355530</id>
+      <parentid>738415093</parentid>
+      <timestamp>2018-11-07T23:22:20Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2929" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5ufjx7ghkp0bq7jieeqgkdje8sdq98t</sha1>
+    </revision>
+    <revision>
+      <id>956263746</id>
+      <parentid>784355530</parentid>
+      <timestamp>2019-06-05T17:29:20Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559621434911; Based on 1914 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3236" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c3cjbf0jkf2xmynus939mjrnrb78qp7</sha1>
+    </revision>
+    <revision>
+      <id>956263797</id>
+      <parentid>956263746</parentid>
+      <timestamp>2019-06-05T17:29:26Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559621434911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3479" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dd85hfm8vmnfz0eizex308koq151amu</sha1>
+    </revision>
+    <revision>
+      <id>956263853</id>
+      <parentid>956263797</parentid>
+      <timestamp>2019-06-05T17:29:32Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559621434911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3695" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>238zozk3ukusgo7nycn3r0d6s0fxg9i</sha1>
+    </revision>
+    <revision>
+      <id>974689396</id>
+      <parentid>956263853</parentid>
+      <timestamp>2019-07-05T21:35:37Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1914, [[:toollabs:quickstatements/#/batch/15405|batch #15405]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3894" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qf863myzchy19i5lk8a0ztyrowqeq60</sha1>
+    </revision>
+    <revision>
+      <id>1193348599</id>
+      <parentid>974689396</parentid>
+      <timestamp>2020-05-29T09:35:56Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1914 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3989" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"},"de":{"language":"de","value":"im Jahr 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sldmt7adhwx6vcfg7by0vofvp3fkykr</sha1>
+    </revision>
+    <revision>
+      <id>1542221383</id>
+      <parentid>1193348599</parentid>
+      <timestamp>2021-12-11T15:06:50Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P1433]]: [[Q37408733]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4292" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"},"de":{"language":"de","value":"im Jahr 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$99a41187-4772-2c4c-5540-5249a679ec42","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>giwtyocg9iffsgmpriqfwzunu04136b</sha1>
+    </revision>
+    <revision>
+      <id>1542221395</id>
+      <parentid>1542221383</parentid>
+      <timestamp>2021-12-11T15:06:55Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetclaim-update:2||1 */ [[Property:P1433]]: [[Q5735526]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4296" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"},"de":{"language":"de","value":"im Jahr 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"deprecated"},{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$99a41187-4772-2c4c-5540-5249a679ec42","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a2qlzdma3op4uqjf18x0eur6u6gzbt0</sha1>
+    </revision>
+    <revision>
+      <id>1542221457</id>
+      <parentid>1542221395</parentid>
+      <timestamp>2021-12-11T15:07:13Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetclaim-update:2||1 */ [[Property:P478]]: 1913</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4300" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"},"de":{"language":"de","value":"im Jahr 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"deprecated"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"deprecated"},{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$99a41187-4772-2c4c-5540-5249a679ec42","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>in5y3x9ig978amzz8z8y8ukalhoxe6b</sha1>
+    </revision>
+    <revision>
+      <id>1542221459</id>
+      <parentid>1542221457</parentid>
+      <timestamp>2021-12-11T15:07:15Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P478]]: 19</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4534" xml:space="preserve">{"type":"item","id":"Q56012863","labels":{"de":{"language":"de","value":"Description d'une Amauris nouvelle"},"en":{"language":"en","value":"Description d'une Amauris nouvelle"},"nl":{"language":"nl","value":"Description d'une Amauris nouvelle"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"},"de":{"language":"de","value":"im Jahr 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"69695b5d485e6eabecedaf213b2f48ae82753caf","datavalue":{"value":"10.5962\/BHL.PART.25479","type":"string"}},"type":"statement","id":"Q56012863$A474AAA9-76C3-45BB-88A0-F291126EFB9B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"e4a1d05d6f5ff5e43fd6b3506aed3b3016e8335a","datavalue":{"value":"97939","type":"string"}},"type":"statement","id":"Q56012863$B366EACA-6171-4C31-9E89-FDB4FE8443ED","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$DE8B2BE5-A9AB-41DC-BC6D-738B85ACF68F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"35d220c15c6280f89f9d887c4ad850534d21f79d","datavalue":{"value":{"text":"Description d'une Amauris nouvelle","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012863$4C5FB9DC-E223-4801-9A0B-02FD050ADD45","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fd73ba8a70c1c33e291992199322b084750254c3","datavalue":{"value":"1913","type":"string"}},"type":"statement","id":"Q56012863$AAAC6059-47C7-409B-B4A1-EA469C08CD76","rank":"deprecated"},{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56012863$02fdb461-4246-6d00-3790-7d52f4f84236","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b0c69a70e197c1b076b08ff561789ebc8d5bbf71","datavalue":{"value":"342\u2013343","type":"string"}},"type":"statement","id":"Q56012863$0B952482-9384-44CD-8ED4-109841C0B1EC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012863$AF3B83BF-0C7B-48CD-A8E3-E35DBC646EEE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d848d1273669580c3d7074d83c8bf2febf31296d","datavalue":{"value":{"entity-type":"item","numeric-id":5735526,"id":"Q5735526"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$1CD9A3B8-96DA-453C-A894-F986E6D61765","rank":"deprecated"},{"mainsnak":{"snaktype":"value","property":"P1433","hash":"af2fb67b3dc13a16ba0cf3bfcaa23ea63a69abab","datavalue":{"value":{"entity-type":"item","numeric-id":37408733,"id":"Q37408733"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012863$99a41187-4772-2c4c-5540-5249a679ec42","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"94d201b2a256de860e9860bb6925315bf2253e35","datavalue":{"value":"5052141","type":"string"}},"type":"statement","id":"Q56012863$D9EEE634-4E12-4C6D-B6D6-D65F978B7F16","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012863$D0141A7B-A346-485B-88F8-6242D1EFE1C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r4bwmqz5fdtzyv9irkse8faf2ykeu29</sha1>
+    </revision>
+  </page>
+</mediawiki>

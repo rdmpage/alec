@@ -1,0 +1,288 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56205730</title>
+    <ns>0</ns>
+    <id>56148314</id>
+    <revision>
+      <id>730526039</id>
+      <timestamp>2018-08-20T22:40:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56205730","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>gwvyjgb8fdxvx05edccpwtn6fgap9uv</sha1>
+    </revision>
+    <revision>
+      <id>730526043</id>
+      <parentid>730526039</parentid>
+      <timestamp>2018-08-20T22:40:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="237" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dzrv55u4u3tj335j5a7g05nqwzg96uw</sha1>
+    </revision>
+    <revision>
+      <id>730526055</id>
+      <parentid>730526043</parentid>
+      <timestamp>2018-08-20T22:40:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="373" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>jnfwjhouk0ve3ll4uvipbnivn870nx6</sha1>
+    </revision>
+    <revision>
+      <id>730526058</id>
+      <parentid>730526055</parentid>
+      <timestamp>2018-08-20T22:40:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5479/SI.00963801.2990.369</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="642" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8qxw7j73snzznof5ow9ljwzdslkn3xh</sha1>
+    </revision>
+    <revision>
+      <id>730526066</id>
+      <parentid>730526058</parentid>
+      <timestamp>2018-08-20T22:40:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 4020</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="889" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bwju4x80isqgmb9lihv95ecw0z6o300</sha1>
+    </revision>
+    <revision>
+      <id>730526073</id>
+      <parentid>730526066</parentid>
+      <timestamp>2018-08-20T22:40:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1198" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0ta8tatbqlindz5z36w1jr7yf4m7hlt</sha1>
+    </revision>
+    <revision>
+      <id>730526079</id>
+      <parentid>730526073</parentid>
+      <timestamp>2018-08-20T22:40:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1577" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r8dk2y90nmsroiolcytg5ibp2x642h8</sha1>
+    </revision>
+    <revision>
+      <id>730526081</id>
+      <parentid>730526079</parentid>
+      <timestamp>2018-08-20T22:40:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 83</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1820" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e52lc4eq6r7eq3nvzpwfzrdfx45rffl</sha1>
+    </revision>
+    <revision>
+      <id>730526090</id>
+      <parentid>730526081</parentid>
+      <timestamp>2018-08-20T22:40:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 369–412</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2073" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tbv71w65c4zl88n6kwknikz55jxr2vz</sha1>
+    </revision>
+    <revision>
+      <id>730526094</id>
+      <parentid>730526090</parentid>
+      <timestamp>2018-08-20T22:40:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 2990</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2318" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>obmsb32s2brkr3vkmznj7qpra1szn4m</sha1>
+    </revision>
+    <revision>
+      <id>730526099</id>
+      <parentid>730526094</parentid>
+      <timestamp>2018-08-20T22:40:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1936</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2697" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56205730$DB9B536B-AE62-4B54-AFD6-11DEA4C4266D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>csaxip9wkarrufwyd6rkga585de9mik</sha1>
+    </revision>
+    <revision>
+      <id>730526107</id>
+      <parentid>730526099</parentid>
+      <timestamp>2018-08-20T22:40:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: M. T. Smulyan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2953" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56205730$DB9B536B-AE62-4B54-AFD6-11DEA4C4266D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"aeac7022dce2bb4eb8751c88454c8badc643dd05","datavalue":{"value":"M. T. Smulyan","type":"string"}},"type":"statement","id":"Q56205730$A2D7A09C-B974-4340-945B-A800F123D946","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jm5u2rq765sqlnaej20qxks92algy8i</sha1>
+    </revision>
+    <revision>
+      <id>730526112</id>
+      <parentid>730526107</parentid>
+      <timestamp>2018-08-20T22:40:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3139" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56205730$DB9B536B-AE62-4B54-AFD6-11DEA4C4266D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"aeac7022dce2bb4eb8751c88454c8badc643dd05","datavalue":{"value":"M. T. Smulyan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56205730$A2D7A09C-B974-4340-945B-A800F123D946","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>se5qp8bq2h3p8i68uv2i11r8unffavi</sha1>
+    </revision>
+    <revision>
+      <id>730526116</id>
+      <parentid>730526112</parentid>
+      <timestamp>2018-08-20T22:40:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q18515885]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3452" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56205730$DB9B536B-AE62-4B54-AFD6-11DEA4C4266D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"aeac7022dce2bb4eb8751c88454c8badc643dd05","datavalue":{"value":"M. T. Smulyan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56205730$A2D7A09C-B974-4340-945B-A800F123D946","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$19FECF5B-77A2-45AB-92AC-49CDA1751C2D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>15pnxodqwkhakqvdgq3txrafuvduqw8</sha1>
+    </revision>
+    <revision>
+      <id>737906775</id>
+      <parentid>730526116</parentid>
+      <timestamp>2018-09-01T12:56:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7767865, According to [[Property:P5315]]=4020</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3700" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56205730$DB9B536B-AE62-4B54-AFD6-11DEA4C4266D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"aeac7022dce2bb4eb8751c88454c8badc643dd05","datavalue":{"value":"M. T. Smulyan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56205730$A2D7A09C-B974-4340-945B-A800F123D946","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$19FECF5B-77A2-45AB-92AC-49CDA1751C2D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"abf9edd93e2e920d886bb5c205863c30553905f6","datavalue":{"value":"7767865","type":"string"}},"type":"statement","id":"Q56205730$16B57200-123E-4162-BFB9-6A94DA53B023","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s0tc70p3ybiecwqhc8yrrqkdc8ft30f</sha1>
+    </revision>
+    <revision>
+      <id>779874286</id>
+      <parentid>737906775</parentid>
+      <timestamp>2018-11-02T09:12:26Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3893" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"nl":{"language":"nl","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56205730$DB9B536B-AE62-4B54-AFD6-11DEA4C4266D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"aeac7022dce2bb4eb8751c88454c8badc643dd05","datavalue":{"value":"M. T. Smulyan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56205730$A2D7A09C-B974-4340-945B-A800F123D946","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$19FECF5B-77A2-45AB-92AC-49CDA1751C2D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"abf9edd93e2e920d886bb5c205863c30553905f6","datavalue":{"value":"7767865","type":"string"}},"type":"statement","id":"Q56205730$16B57200-123E-4162-BFB9-6A94DA53B023","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n3kz5ugup0l74x66qh1i5e8a0usjvit</sha1>
+    </revision>
+    <revision>
+      <id>974741107</id>
+      <parentid>779874286</parentid>
+      <timestamp>2019-07-06T00:07:17Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1936, [[:toollabs:quickstatements/#/batch/15404|batch #15404]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4092" xml:space="preserve">{"type":"item","id":"Q56205730","labels":{"de":{"language":"de","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"en":{"language":"en","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"},"nl":{"language":"nl","value":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1936"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5e48e3cb07ee5cbe1e09cbbdc27d3d80397f7726","datavalue":{"value":"10.5479\/SI.00963801.2990.369","type":"string"}},"type":"statement","id":"Q56205730$65E49BB2-D8A4-4A7E-83E0-6B482E7573A9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"11d5d201857c69c998430b2f214cd7d6fef9604d","datavalue":{"value":"4020","type":"string"}},"type":"statement","id":"Q56205730$025C5E8D-E3A6-496B-A4DD-4CB13503C77D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$88A3BF79-5134-4B44-AA13-E233C41E649E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"92a8ebfcc8000b72bfeed1d63ea7d2f83dd8234c","datavalue":{"value":{"text":"A revision of the chalcid flies of the genus Perilampus Latreille occurring in America north of Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56205730$9971D468-23A9-4EA5-A7CB-F0E10BF00B9E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q56205730$5ADCB15B-D18E-42BD-972E-16A40B35472B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5f795b3fc3bf2936f6b3b9872de29320aed2aef7","datavalue":{"value":"369\u2013412","type":"string"}},"type":"statement","id":"Q56205730$47116D12-2C0B-46D6-A23F-A16B9C5AE767","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f8e8c8603362bfe3bd2f120e5cf5dc1388a2139f","datavalue":{"value":"2990","type":"string"}},"type":"statement","id":"Q56205730$D810BB16-E438-4F52-BE33-7D4D87E754B7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56205730$DB9B536B-AE62-4B54-AFD6-11DEA4C4266D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"aeac7022dce2bb4eb8751c88454c8badc643dd05","datavalue":{"value":"M. T. Smulyan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56205730$A2D7A09C-B974-4340-945B-A800F123D946","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56205730$19FECF5B-77A2-45AB-92AC-49CDA1751C2D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"abf9edd93e2e920d886bb5c205863c30553905f6","datavalue":{"value":"7767865","type":"string"}},"type":"statement","id":"Q56205730$16B57200-123E-4162-BFB9-6A94DA53B023","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6btnliqshdpti64gxv07zs0p933atot</sha1>
+    </revision>
+  </page>
+</mediawiki>

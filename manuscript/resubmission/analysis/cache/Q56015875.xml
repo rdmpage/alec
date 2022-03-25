@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56015875</title>
+    <ns>0</ns>
+    <id>55965711</id>
+    <revision>
+      <id>722686031</id>
+      <timestamp>2018-08-08T00:53:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56015875","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6ni9v2jvmrhsqpovb0tfl0beb1f0i00</sha1>
+    </revision>
+    <revision>
+      <id>722686032</id>
+      <parentid>722686031</parentid>
+      <timestamp>2018-08-08T00:53:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ New species of American bark beetles (Scolytidae: Coleoptera)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="196" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>kg05zx7b2zam4fksb6t5okyin8o6ubo</sha1>
+    </revision>
+    <revision>
+      <id>722686035</id>
+      <parentid>722686032</parentid>
+      <timestamp>2018-08-08T00:53:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ New species of American bark beetles (Scolytidae: Coleoptera)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="291" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0xktzg8pckg5l8qzqa0d018pdp60irl</sha1>
+    </revision>
+    <revision>
+      <id>722686038</id>
+      <parentid>722686035</parentid>
+      <timestamp>2018-08-08T00:53:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.3500</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="553" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>es0x0maqj3drhksdhgc7fgofwj34hzp</sha1>
+    </revision>
+    <revision>
+      <id>722686042</id>
+      <parentid>722686038</parentid>
+      <timestamp>2018-08-08T00:53:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 102621</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="802" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1r2id813eccu1ksru0ezy81sttfz9af</sha1>
+    </revision>
+    <revision>
+      <id>722686046</id>
+      <parentid>722686042</parentid>
+      <timestamp>2018-08-08T00:53:59Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1111" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>522nd9cdqiw2qywqtk7u3bv3q4rbrp0</sha1>
+    </revision>
+    <revision>
+      <id>722686049</id>
+      <parentid>722686046</parentid>
+      <timestamp>2018-08-08T00:54:00Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: New species of American bark beetles (Scolytidae: Coleoptera)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1449" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mg4ylzp8cfx54rzuisqohcymyd8frsg</sha1>
+    </revision>
+    <revision>
+      <id>722686052</id>
+      <parentid>722686049</parentid>
+      <timestamp>2018-08-08T00:54:00Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 19</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1692" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>irq48rrvam5pkirx4fe6fk0n3ftv28u</sha1>
+    </revision>
+    <revision>
+      <id>722686056</id>
+      <parentid>722686052</parentid>
+      <timestamp>2018-08-08T00:54:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 1–67</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1942" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qj45znhw7mjjdba1gw8ak5cr0bxxu44</sha1>
+    </revision>
+    <revision>
+      <id>722686059</id>
+      <parentid>722686056</parentid>
+      <timestamp>2018-08-08T00:54:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1974</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2321" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2gl9ozj23ieye3jcyo07q20k5xv7rw1</sha1>
+    </revision>
+    <revision>
+      <id>722686062</id>
+      <parentid>722686059</parentid>
+      <timestamp>2018-08-08T00:54:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q51450224]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2634" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e68buzjshsoy4d01vvek4frjl7wbkcx</sha1>
+    </revision>
+    <revision>
+      <id>738428583</id>
+      <parentid>722686062</parentid>
+      <timestamp>2018-09-02T07:29:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7979737, According to [[Property:P5315]]=102621</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2882" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"41c7948e173d0a473519a1e753a0e326fa967bbe","datavalue":{"value":"7979737","type":"string"}},"type":"statement","id":"Q56015875$97519D10-BAE0-480B-B291-86701C1437B3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gkviklky7muib7m50iutyctu6luth7l</sha1>
+    </revision>
+    <revision>
+      <id>784329972</id>
+      <parentid>738428583</parentid>
+      <timestamp>2018-11-07T22:30:40Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3009" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"nl":{"language":"nl","value":"New species of American bark beetles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"41c7948e173d0a473519a1e753a0e326fa967bbe","datavalue":{"value":"7979737","type":"string"}},"type":"statement","id":"Q56015875$97519D10-BAE0-480B-B291-86701C1437B3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m67pfjasu4kd4qocax4rlwsiji27ozs</sha1>
+    </revision>
+    <revision>
+      <id>837909847</id>
+      <parentid>784329972</parentid>
+      <timestamp>2019-01-20T01:41:52Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q22671]], #quickstatements; [[:toollabs:quickstatements/#/batch/7377|batch #7377]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3314" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"nl":{"language":"nl","value":"New species of American bark beetles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"41c7948e173d0a473519a1e753a0e326fa967bbe","datavalue":{"value":"7979737","type":"string"}},"type":"statement","id":"Q56015875$97519D10-BAE0-480B-B291-86701C1437B3","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$47DCBA04-6515-40B8-A816-C4E9B81540E1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jva6n8u1lg0muh2qkxkan2glcpor7ub</sha1>
+    </revision>
+    <revision>
+      <id>974816907</id>
+      <parentid>837909847</parentid>
+      <timestamp>2019-07-06T04:40:51Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1974, [[:toollabs:quickstatements/#/batch/15424|batch #15424]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3513" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"nl":{"language":"nl","value":"New species of American bark beetles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1974"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"41c7948e173d0a473519a1e753a0e326fa967bbe","datavalue":{"value":"7979737","type":"string"}},"type":"statement","id":"Q56015875$97519D10-BAE0-480B-B291-86701C1437B3","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$47DCBA04-6515-40B8-A816-C4E9B81540E1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l8wl7sguidqoy2vi91bcutwrrb58vus</sha1>
+    </revision>
+    <revision>
+      <id>1313126410</id>
+      <parentid>974816907</parentid>
+      <timestamp>2020-11-25T22:27:44Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], #quickstatements; #temporary_batch_1606342372568</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3815" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"nl":{"language":"nl","value":"New species of American bark beetles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1974"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"41c7948e173d0a473519a1e753a0e326fa967bbe","datavalue":{"value":"7979737","type":"string"}},"type":"statement","id":"Q56015875$97519D10-BAE0-480B-B291-86701C1437B3","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$47DCBA04-6515-40B8-A816-C4E9B81540E1","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$9AC4475B-C055-47D6-97C6-D737D6D84F65","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8nsxe1y9res3l9u8mhqx2p6pte8yd37</sha1>
+    </revision>
+    <revision>
+      <id>1313126429</id>
+      <parentid>1313126410</parentid>
+      <timestamp>2020-11-25T22:27:46Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P921]]: [[Q27652812]], #quickstatements; #temporary_batch_1606342372568</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4124" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"nl":{"language":"nl","value":"New species of American bark beetles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1974"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"41c7948e173d0a473519a1e753a0e326fa967bbe","datavalue":{"value":"7979737","type":"string"}},"type":"statement","id":"Q56015875$97519D10-BAE0-480B-B291-86701C1437B3","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$47DCBA04-6515-40B8-A816-C4E9B81540E1","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$9AC4475B-C055-47D6-97C6-D737D6D84F65","rank":"normal","references":[{"hash":"0723282bb80042897ca697416c050b4bf7fb5428","snaks":{"P887":[{"snaktype":"value","property":"P887","hash":"2009eafb2646ea71bee7372b061e8521ee613fc2","datavalue":{"value":{"entity-type":"item","numeric-id":69652283,"id":"Q69652283"},"type":"wikibase-entityid"}}]},"snaks-order":["P887"]}]}]},"sitelinks":[]}</text>
+      <sha1>h2rs4wdjvxjywhj2c58unkzpe4lifiy</sha1>
+    </revision>
+    <revision>
+      <id>1542743799</id>
+      <parentid>1313126429</parentid>
+      <timestamp>2021-12-12T18:20:16Z</timestamp>
+      <contributor>
+        <username>DrThneed</username>
+        <id>3083127</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scholarly article published in January 1974, [[:toollabs:quickstatements/#/batch/71626|batch #71626]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4201" xml:space="preserve">{"type":"item","id":"Q56015875","labels":{"de":{"language":"de","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"en":{"language":"en","value":"New species of American bark beetles (Scolytidae: Coleoptera)"},"nl":{"language":"nl","value":"New species of American bark beetles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1974"},"en":{"language":"en","value":"scholarly article published in January 1974"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ca5b9a29a56e3927b320689288c45abab4a154ef","datavalue":{"value":"10.5962\/BHL.PART.3500","type":"string"}},"type":"statement","id":"Q56015875$69C50F37-C3AC-4C67-A69D-86CD244B62A5","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ba23aebc3624336609d0e4fce69f5771dd12a08","datavalue":{"value":"102621","type":"string"}},"type":"statement","id":"Q56015875$FF53BDAE-08AA-45F5-8833-A2B00738F54C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$A0ED37E0-2882-488D-A62C-735FFDCE4DC2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0ed638ec6009d459744779266aaa92b27c963955","datavalue":{"value":{"text":"New species of American bark beetles (Scolytidae: Coleoptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56015875$27DD9C39-E134-4BED-8097-8B8CBFC4D3B2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e2b22f394674e0cbcceb16c4d08a6f1201165f99","datavalue":{"value":"19","type":"string"}},"type":"statement","id":"Q56015875$4CED4A6A-6996-4454-B78E-873F01316277","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"44cc7238d69204dbb408938973dec2eddbe503bf","datavalue":{"value":"1\u201367","type":"string"}},"type":"statement","id":"Q56015875$11B87B9D-A364-41BE-9A62-E80C519BBD2F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2067a3f5960dcc89754dc50fd77083e541034661","datavalue":{"value":{"time":"+1974-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56015875$597E9C78-C0D0-47CB-B5C7-CB3962C1BACB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"aecfb317eb77a5fc576dd2ba4fdba5bffa7f5147","datavalue":{"value":{"entity-type":"item","numeric-id":51450224,"id":"Q51450224"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$E86FD9FC-44DC-4B25-B2B1-A86E4319DA27","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"41c7948e173d0a473519a1e753a0e326fa967bbe","datavalue":{"value":"7979737","type":"string"}},"type":"statement","id":"Q56015875$97519D10-BAE0-480B-B291-86701C1437B3","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$47DCBA04-6515-40B8-A816-C4E9B81540E1","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56015875$9AC4475B-C055-47D6-97C6-D737D6D84F65","rank":"normal","references":[{"hash":"0723282bb80042897ca697416c050b4bf7fb5428","snaks":{"P887":[{"snaktype":"value","property":"P887","hash":"2009eafb2646ea71bee7372b061e8521ee613fc2","datavalue":{"value":{"entity-type":"item","numeric-id":69652283,"id":"Q69652283"},"type":"wikibase-entityid"}}]},"snaks-order":["P887"]}]}]},"sitelinks":[]}</text>
+      <sha1>candgwbhqxyvo6o11tgtyoflogayual</sha1>
+    </revision>
+  </page>
+</mediawiki>

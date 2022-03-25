@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56160806</title>
+    <ns>0</ns>
+    <id>56103661</id>
+    <revision>
+      <id>728451542</id>
+      <timestamp>2018-08-18T08:40:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56160806","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>imgtvag8o6bdgv1ykxf2z1mgx37u013</sha1>
+    </revision>
+    <revision>
+      <id>728451549</id>
+      <parentid>728451542</parentid>
+      <timestamp>2018-08-18T08:40:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ 4. On Entomostraca collected in Natal by Mr. James Gibson</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="192" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>fkfif3iwtwr8s6vtu4yysdhzhbp34dv</sha1>
+    </revision>
+    <revision>
+      <id>728451552</id>
+      <parentid>728451549</parentid>
+      <timestamp>2018-08-18T08:40:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ 4. On Entomostraca collected in Natal by Mr. James Gibson</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="283" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7n8l2fmp4ls7qgjvo0xyfxl2oe86b6h</sha1>
+    </revision>
+    <revision>
+      <id>728451557</id>
+      <parentid>728451552</parentid>
+      <timestamp>2018-08-18T08:40:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1111/J.1469-7998.1904.TB08317.X</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="558" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rm74ieai0roi5ox7m2ehc58fh0b8dn1</sha1>
+    </revision>
+    <revision>
+      <id>728451562</id>
+      <parentid>728451557</parentid>
+      <timestamp>2018-08-18T08:40:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 99691</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="806" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>epc2yc0rbhrcvzyk7c0nz2acz2gf7vt</sha1>
+    </revision>
+    <revision>
+      <id>728451567</id>
+      <parentid>728451562</parentid>
+      <timestamp>2018-08-18T08:40:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1115" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0dxuegjjvp0r9m8mdwibb2g21orfnus</sha1>
+    </revision>
+    <revision>
+      <id>728451569</id>
+      <parentid>728451567</parentid>
+      <timestamp>2018-08-18T08:40:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: 4. On Entomostraca collected in Natal by Mr. James Gibson</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1449" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s9n5t4inu1gd5qn5e0fi4ombygfx55o</sha1>
+    </revision>
+    <revision>
+      <id>728451572</id>
+      <parentid>728451569</parentid>
+      <timestamp>2018-08-18T08:40:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 74</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1692" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ie23c6aw7730sdyck1jy10lrkost9p8</sha1>
+    </revision>
+    <revision>
+      <id>728451577</id>
+      <parentid>728451572</parentid>
+      <timestamp>2018-08-18T08:40:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 121–134</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1945" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lp54miwr7wxdx5dd3cth7glc5ay59oy</sha1>
+    </revision>
+    <revision>
+      <id>728451580</id>
+      <parentid>728451577</parentid>
+      <timestamp>2018-08-18T08:40:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2187" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cdhlciwax8ojbvqzvyojum2npjjnyo2</sha1>
+    </revision>
+    <revision>
+      <id>728451590</id>
+      <parentid>728451580</parentid>
+      <timestamp>2018-08-18T08:40:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 7 July 2010</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2567" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p2ur2y4tzbaefvqo6chn327tnc3mqmf</sha1>
+    </revision>
+    <revision>
+      <id>728451593</id>
+      <parentid>728451590</parentid>
+      <timestamp>2018-08-18T08:40:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: G. Stewardson Brady</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2829" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cxd78ekm48bjgn39mheeggg8m95mbqd</sha1>
+    </revision>
+    <revision>
+      <id>728451597</id>
+      <parentid>728451593</parentid>
+      <timestamp>2018-08-18T08:40:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3015" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ceyglgjqgiimcef8k0ab33hy5swlbi8</sha1>
+    </revision>
+    <revision>
+      <id>728451602</id>
+      <parentid>728451597</parentid>
+      <timestamp>2018-08-18T08:40:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19622568]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3328" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$A384009A-3A4C-4D8E-A134-9745B4DBE3FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>at8cc20h9g3u1h0sdk2g8q2usyisrex</sha1>
+    </revision>
+    <revision>
+      <id>738421979</id>
+      <parentid>728451602</parentid>
+      <timestamp>2018-09-02T07:11:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 31206942, According to [[Property:P5315]]=99691</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3577" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$A384009A-3A4C-4D8E-A134-9745B4DBE3FD","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8f03428386a33f21b0613073db01cf1347d0b4d4","datavalue":{"value":"31206942","type":"string"}},"type":"statement","id":"Q56160806$D687AF06-637F-49B5-ADE7-3153D8093884","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fy4r9yn6le7g1r914r8oattj4v8zwku</sha1>
+    </revision>
+    <revision>
+      <id>780430298</id>
+      <parentid>738421979</parentid>
+      <timestamp>2018-11-02T22:53:39Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3725" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"nl":{"language":"nl","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$A384009A-3A4C-4D8E-A134-9745B4DBE3FD","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8f03428386a33f21b0613073db01cf1347d0b4d4","datavalue":{"value":"31206942","type":"string"}},"type":"statement","id":"Q56160806$D687AF06-637F-49B5-ADE7-3153D8093884","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1matqvu9flygtt7qulyg6klattap4e6</sha1>
+    </revision>
+    <revision>
+      <id>967508504</id>
+      <parentid>780430298</parentid>
+      <timestamp>2019-06-23T13:24:03Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в липні 2010, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3955" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"nl":{"language":"nl","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 2010"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$A384009A-3A4C-4D8E-A134-9745B4DBE3FD","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8f03428386a33f21b0613073db01cf1347d0b4d4","datavalue":{"value":"31206942","type":"string"}},"type":"statement","id":"Q56160806$D687AF06-637F-49B5-ADE7-3153D8093884","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2fd4iez8zrxo1ml1pr7m99qay75npco</sha1>
+    </revision>
+    <revision>
+      <id>1271473516</id>
+      <parentid>967508504</parentid>
+      <timestamp>2020-09-05T00:46:29Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Juli 2010 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4050" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"nl":{"language":"nl","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 2010"},"de":{"language":"de","value":"im Juli 2010 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$A384009A-3A4C-4D8E-A134-9745B4DBE3FD","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8f03428386a33f21b0613073db01cf1347d0b4d4","datavalue":{"value":"31206942","type":"string"}},"type":"statement","id":"Q56160806$D687AF06-637F-49B5-ADE7-3153D8093884","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>do9gtyihd6f7jo23kyktviytbemluka</sha1>
+    </revision>
+    <revision>
+      <id>1287578364</id>
+      <parentid>1271473516</parentid>
+      <timestamp>2020-10-06T20:55:17Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: f397e0a5-c2d9-417c-b5e9-d0382ae4c61b, #quickstatements; #temporary_batch_1602011829853</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4329" xml:space="preserve">{"type":"item","id":"Q56160806","labels":{"de":{"language":"de","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"en":{"language":"en","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"},"nl":{"language":"nl","value":"4. On Entomostraca collected in Natal by Mr. James Gibson"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 2010"},"de":{"language":"de","value":"im Juli 2010 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1ec38eeb81c1a6c345cda7381b9908c03902fcac","datavalue":{"value":"10.1111\/J.1469-7998.1904.TB08317.X","type":"string"}},"type":"statement","id":"Q56160806$A4CD3061-CAB3-4288-B79C-7B30BEA37BA9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"cf38dda23a406d7309fea1e7d2d54cae8912e69f","datavalue":{"value":"99691","type":"string"}},"type":"statement","id":"Q56160806$40A997B3-7D89-44EF-BAFE-881ED92912EB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$BD9C6B6D-1A4D-4138-AC06-11DF990CADA0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f18032cf59b102d61847fc2c0d18b48d9ada54d1","datavalue":{"value":{"text":"4. On Entomostraca collected in Natal by Mr. James Gibson","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56160806$DDD4A580-D012-4911-A1A7-73042FE66358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b2f4ac8c9220f5a37a6c27033407fd3e6442ea0d","datavalue":{"value":"74","type":"string"}},"type":"statement","id":"Q56160806$296E43D1-762C-42E1-A670-A51C07885F00","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c972655ab43f87a06b7bdb5e4bf7b30b5540d003","datavalue":{"value":"121\u2013134","type":"string"}},"type":"statement","id":"Q56160806$DC9FC12D-8608-4C03-B561-ADC53BDD57E0","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56160806$87C1983C-B677-44B0-A9EC-49BE172B6F7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5e28e69d07144d4e33774cf30b28a660bbf0036c","datavalue":{"value":{"time":"+2010-07-07T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56160806$99F0876C-2B32-4AB0-BE5B-05820F41FD10","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"320d14460dd5d910474216b14edca6e5890ac5ea","datavalue":{"value":"G. Stewardson Brady","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56160806$AB7EC257-2DB1-44FD-A992-55E28B88B00D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56160806$A384009A-3A4C-4D8E-A134-9745B4DBE3FD","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8f03428386a33f21b0613073db01cf1347d0b4d4","datavalue":{"value":"31206942","type":"string"}},"type":"statement","id":"Q56160806$D687AF06-637F-49B5-ADE7-3153D8093884","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"360db714791b56f10e7b63af52394a1aa7aa1ff9","datavalue":{"value":"f397e0a5-c2d9-417c-b5e9-d0382ae4c61b","type":"string"}},"type":"statement","id":"Q56160806$40BBD3BE-F8AF-419C-9D0C-30D05A8944A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p31updkk3tuj5qe4wygh65cuitc8xry</sha1>
+    </revision>
+  </page>
+</mediawiki>

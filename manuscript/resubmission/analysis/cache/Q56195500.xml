@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56195500</title>
+    <ns>0</ns>
+    <id>56137993</id>
+    <revision>
+      <id>730167312</id>
+      <timestamp>2018-08-20T13:06:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56195500","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qtkyrhmuh4b5vlr7fp0ucmrov81cplj</sha1>
+    </revision>
+    <revision>
+      <id>730167317</id>
+      <parentid>730167312</parentid>
+      <timestamp>2018-08-20T13:06:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Eremogone cliftonii (Caryophyllaceae), a New Species from California</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="203" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>15zbzv7prm10haz4vkpoejwcgffomlc</sha1>
+    </revision>
+    <revision>
+      <id>730167321</id>
+      <parentid>730167317</parentid>
+      <timestamp>2018-08-20T13:06:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Eremogone cliftonii (Caryophyllaceae), a New Species from California</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="305" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rvdqklbuwfths897p2d95pz8nrgkimf</sha1>
+    </revision>
+    <revision>
+      <id>730167335</id>
+      <parentid>730167321</parentid>
+      <timestamp>2018-08-20T13:06:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.3120/0024-9637(2007)54[329:ECCANS]2.0.CO;2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="591" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pssyp75m0nx5m0wmriltcjjbfk1nsxa</sha1>
+    </revision>
+    <revision>
+      <id>730167342</id>
+      <parentid>730167335</parentid>
+      <timestamp>2018-08-20T13:06:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 161348</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="840" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m5bq3r0t1xe3v75zs3ww0rzui1u4czv</sha1>
+    </revision>
+    <revision>
+      <id>730167350</id>
+      <parentid>730167342</parentid>
+      <timestamp>2018-08-20T13:06:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1149" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b9sb6pe3huijqrjnzriur3uwodqfbn9</sha1>
+    </revision>
+    <revision>
+      <id>730167356</id>
+      <parentid>730167350</parentid>
+      <timestamp>2018-08-20T13:06:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Eremogone cliftonii (Caryophyllaceae), a New Species from California</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1494" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pbleus3jguozbawueh5ml23y5syhevg</sha1>
+    </revision>
+    <revision>
+      <id>730167363</id>
+      <parentid>730167356</parentid>
+      <timestamp>2018-08-20T13:06:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 54</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1737" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>azy21a4dousljd8gv76clky8ew63xwa</sha1>
+    </revision>
+    <revision>
+      <id>730167370</id>
+      <parentid>730167363</parentid>
+      <timestamp>2018-08-20T13:06:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 329–333</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1990" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>db42m2uk9vya9jyu17fh2vbg4s46on4</sha1>
+    </revision>
+    <revision>
+      <id>730167383</id>
+      <parentid>730167370</parentid>
+      <timestamp>2018-08-20T13:06:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2232" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c4rce02mtgac554nywutrvorlpjf8vz</sha1>
+    </revision>
+    <revision>
+      <id>730167392</id>
+      <parentid>730167383</parentid>
+      <timestamp>2018-08-20T13:06:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 18 October 2007</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2612" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nbxgc9l4xgo5nosqywc3vwg682cb3kq</sha1>
+    </revision>
+    <revision>
+      <id>730167400</id>
+      <parentid>730167392</parentid>
+      <timestamp>2018-08-20T13:06:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Richard K. Rabeler</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2873" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ga30bqztlx59ghsgn9lp9l7zfkuxtj1</sha1>
+    </revision>
+    <revision>
+      <id>730167409</id>
+      <parentid>730167400</parentid>
+      <timestamp>2018-08-20T13:06:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3059" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kt8uwy7onxbxzxof2nhfbha5jcx4s47</sha1>
+    </revision>
+    <revision>
+      <id>730167413</id>
+      <parentid>730167409</parentid>
+      <timestamp>2018-08-20T13:06:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Ronald L. Hartman</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3309" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gnzj8flcl5e4e3iyjglurx85j2nywmy</sha1>
+    </revision>
+    <revision>
+      <id>730167420</id>
+      <parentid>730167413</parentid>
+      <timestamp>2018-08-20T13:06:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3495" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3e7een7j7u88yv9liz4412tzornzncr</sha1>
+    </revision>
+    <revision>
+      <id>730167425</id>
+      <parentid>730167420</parentid>
+      <timestamp>2018-08-20T13:06:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5989477]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3806" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$33CB66E9-AABA-4AAA-97C2-76C8A958F23A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>alvu01v2b353askdwtvn4xtkk1ef5nb</sha1>
+    </revision>
+    <revision>
+      <id>738741653</id>
+      <parentid>730167425</parentid>
+      <timestamp>2018-09-02T18:19:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 47815567, According to [[Property:P5315]]=161348</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4055" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$33CB66E9-AABA-4AAA-97C2-76C8A958F23A","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d46c7c8cc7549b84be8cbd7a3564852830b288e8","datavalue":{"value":"47815567","type":"string"}},"type":"statement","id":"Q56195500$40BDBBCE-520C-49EF-91AE-AA07656B1CB8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ixsihur6oqj9suxjzo72723ske153wq</sha1>
+    </revision>
+    <revision>
+      <id>780013917</id>
+      <parentid>738741653</parentid>
+      <timestamp>2018-11-02T12:43:39Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4214" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"nl":{"language":"nl","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$33CB66E9-AABA-4AAA-97C2-76C8A958F23A","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d46c7c8cc7549b84be8cbd7a3564852830b288e8","datavalue":{"value":"47815567","type":"string"}},"type":"statement","id":"Q56195500$40BDBBCE-520C-49EF-91AE-AA07656B1CB8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7e7u5sbmuhctm34rzlt47er5iq9imh1</sha1>
+    </revision>
+    <revision>
+      <id>970853733</id>
+      <parentid>780013917</parentid>
+      <timestamp>2019-06-29T04:32:26Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в жовтні 2007, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4450" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"nl":{"language":"nl","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2007"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$33CB66E9-AABA-4AAA-97C2-76C8A958F23A","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d46c7c8cc7549b84be8cbd7a3564852830b288e8","datavalue":{"value":"47815567","type":"string"}},"type":"statement","id":"Q56195500$40BDBBCE-520C-49EF-91AE-AA07656B1CB8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>drsdvksrcvxhb36b7veq6llitz2wwfj</sha1>
+    </revision>
+    <revision>
+      <id>1185635490</id>
+      <parentid>970853733</parentid>
+      <timestamp>2020-05-20T13:26:39Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], [[:toollabs:quickstatements/#/batch/34345|batch #34345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4761" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"nl":{"language":"nl","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2007"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$33CB66E9-AABA-4AAA-97C2-76C8A958F23A","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d46c7c8cc7549b84be8cbd7a3564852830b288e8","datavalue":{"value":"47815567","type":"string"}},"type":"statement","id":"Q56195500$40BDBBCE-520C-49EF-91AE-AA07656B1CB8","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$3DD25F80-B3D1-4C77-B784-DC42F236D218","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>30euo9f5qa893upmhisvz25h4s6matt</sha1>
+    </revision>
+    <revision>
+      <id>1193538704</id>
+      <parentid>1185635490</parentid>
+      <timestamp>2020-05-29T14:30:43Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Oktober 2007 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4859" xml:space="preserve">{"type":"item","id":"Q56195500","labels":{"de":{"language":"de","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"en":{"language":"en","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"},"nl":{"language":"nl","value":"Eremogone cliftonii (Caryophyllaceae), a New Species from California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2007"},"de":{"language":"de","value":"im Oktober 2007 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e8b83593ecb31e34a156291fdbd7565743b099d8","datavalue":{"value":"10.3120\/0024-9637(2007)54[329:ECCANS]2.0.CO;2","type":"string"}},"type":"statement","id":"Q56195500$AB1798A4-5AEF-4A85-8055-044EF637A696","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"2bf69b10fb13b5af3337922da35193449b0d6c66","datavalue":{"value":"161348","type":"string"}},"type":"statement","id":"Q56195500$77238573-4139-41C8-A5DC-6074A6E19650","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$C159856C-9798-4983-A75F-933315B901E3","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a30774c5af8bcd9df7b849d024c440fe88afa80e","datavalue":{"value":{"text":"Eremogone cliftonii (Caryophyllaceae), a New Species from California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195500$4C924040-7226-4479-B2DB-DA52022895B6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"83942bd802b7bb9d45ec340c9e16834c5d41b7da","datavalue":{"value":"54","type":"string"}},"type":"statement","id":"Q56195500$2F0543C8-C978-4A17-824D-00CDBF3990C6","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9bd320edd5f9a0670d81ce6635d9e8f0058c220d","datavalue":{"value":"329\u2013333","type":"string"}},"type":"statement","id":"Q56195500$718DCD39-B332-468D-A71E-68D2EF64D486","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56195500$5A5DCCF0-BE9B-473E-878D-7E828B41258F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"baa1020c4fa49ce9d11da7a37a1d870ed5c6d79b","datavalue":{"value":{"time":"+2007-10-18T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195500$93CE90A7-E1E9-45C0-A680-90E145FEEE0B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5432416cd41a4b85563852bcf92fd5731cfb0ece","datavalue":{"value":"Richard K. Rabeler","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$1DE56F22-1C59-4933-BDE6-C82B3E49D1FC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"52b63e9e3ed1e4d83e8d74759321906d0a15e86f","datavalue":{"value":"Ronald L. Hartman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195500$3D0B3562-37D7-40BC-B0D0-BEBACF13EA91","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$33CB66E9-AABA-4AAA-97C2-76C8A958F23A","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d46c7c8cc7549b84be8cbd7a3564852830b288e8","datavalue":{"value":"47815567","type":"string"}},"type":"statement","id":"Q56195500$40BDBBCE-520C-49EF-91AE-AA07656B1CB8","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195500$3DD25F80-B3D1-4C77-B784-DC42F236D218","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j08oa3a490kbx3qqf0pz3ovscsey4lg</sha1>
+    </revision>
+  </page>
+</mediawiki>

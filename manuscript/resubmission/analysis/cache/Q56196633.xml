@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56196633</title>
+    <ns>0</ns>
+    <id>56139137</id>
+    <revision>
+      <id>730261252</id>
+      <timestamp>2018-08-20T15:45:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56196633","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ru87nv66magl164ia8c20f9y7jw8ovx</sha1>
+    </revision>
+    <revision>
+      <id>730261259</id>
+      <parentid>730261252</parentid>
+      <timestamp>2018-08-20T15:45:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Studies in Australian Crustacea. No. 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="173" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>pyjnoo33nfzb2oewtbbdve67rckh1uw</sha1>
+    </revision>
+    <revision>
+      <id>730261264</id>
+      <parentid>730261259</parentid>
+      <timestamp>2018-08-20T15:45:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Studies in Australian Crustacea. No. 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="245" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1ab7t6txaiebjuj3c1vs1x0jd9k35aj</sha1>
+    </revision>
+    <revision>
+      <id>730261268</id>
+      <parentid>730261264</parentid>
+      <timestamp>2018-08-20T15:45:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.3853/J.0067-1975.7.1909.973</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="516" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gcummwp0xo4i7ygx2vxzgyhyyk6fza0</sha1>
+    </revision>
+    <revision>
+      <id>730261279</id>
+      <parentid>730261268</parentid>
+      <timestamp>2018-08-20T15:45:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 52879</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="764" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ka0z61yomxov7j8rgsa7jsdq67h4vdy</sha1>
+    </revision>
+    <revision>
+      <id>730261283</id>
+      <parentid>730261279</parentid>
+      <timestamp>2018-08-20T15:45:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1073" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oo8j60jt94rzyjh96i2bzpemz89bggs</sha1>
+    </revision>
+    <revision>
+      <id>730261288</id>
+      <parentid>730261283</parentid>
+      <timestamp>2018-08-20T15:45:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Studies in Australian Crustacea. No. 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1388" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>04yhb57674pe6wbf9do8widxej0kewa</sha1>
+    </revision>
+    <revision>
+      <id>730261293</id>
+      <parentid>730261288</parentid>
+      <timestamp>2018-08-20T15:45:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 7</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1630" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o433a2jmln9zrajtr22iowcdovuield</sha1>
+    </revision>
+    <revision>
+      <id>730261300</id>
+      <parentid>730261293</parentid>
+      <timestamp>2018-08-20T15:45:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 305–314</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1883" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4y0wspkjgxsr34e0hbxb52rp7luszur</sha1>
+    </revision>
+    <revision>
+      <id>730261309</id>
+      <parentid>730261300</parentid>
+      <timestamp>2018-08-20T15:45:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2125" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gxersxf2z300crcya45ken2956acncr</sha1>
+    </revision>
+    <revision>
+      <id>730261314</id>
+      <parentid>730261309</parentid>
+      <timestamp>2018-08-20T15:45:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 30 August 1909</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2505" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rqphy6u577zjv9m8912sndtre8obsdk</sha1>
+    </revision>
+    <revision>
+      <id>730261319</id>
+      <parentid>730261314</parentid>
+      <timestamp>2018-08-20T15:45:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Allan R. Mcculloch</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2766" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k3859eq45454nks8pf961r1h1hxm7g1</sha1>
+    </revision>
+    <revision>
+      <id>730261324</id>
+      <parentid>730261319</parentid>
+      <timestamp>2018-08-20T15:45:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2952" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l9vzh68e3flhrcog5890v2hbt83n5k4</sha1>
+    </revision>
+    <revision>
+      <id>730261329</id>
+      <parentid>730261324</parentid>
+      <timestamp>2018-08-20T15:45:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21386219]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3265" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4mhnthaxokunxeo8szu5wt7xoscaofd</sha1>
+    </revision>
+    <revision>
+      <id>738055897</id>
+      <parentid>730261329</parentid>
+      <timestamp>2018-09-01T17:48:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 8056286, According to [[Property:P5315]]=52879</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3513" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n2auinnv903um8haudl6nex6brdpwrr</sha1>
+    </revision>
+    <revision>
+      <id>779997352</id>
+      <parentid>738055897</parentid>
+      <timestamp>2018-11-02T12:19:11Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3642" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"},"nl":{"language":"nl","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>drzyneajwcajj480slnzh72ovlmq8t3</sha1>
+    </revision>
+    <revision>
+      <id>968481557</id>
+      <parentid>779997352</parentid>
+      <timestamp>2019-06-24T23:32:01Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в серпні 1909, [[:toollabs:quickstatements/#/batch/14641|batch #14641]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3878" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"},"nl":{"language":"nl","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 1909"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5jbfeeclrra17nwfp89vxdorvdtw18a</sha1>
+    </revision>
+    <revision>
+      <id>972290367</id>
+      <parentid>968481557</parentid>
+      <timestamp>2019-07-01T07:53:14Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3919" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"},"nl":{"language":"nl","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 1909"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0mayehyb9pvqfywh6a0ep9szlypl58x</sha1>
+    </revision>
+    <revision>
+      <id>1116349833</id>
+      <parentid>972290367</parentid>
+      <timestamp>2020-02-16T07:51:32Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1581833176757</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3983" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"},"nl":{"language":"nl","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 1909"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>st6mymhmelkj9xzozwbet4jmmyj6rk0</sha1>
+    </revision>
+    <revision>
+      <id>1167582840</id>
+      <parentid>1116349833</parentid>
+      <timestamp>2020-04-27T09:20:12Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P724]]: records-australian-museum-7-305-314, #quickstatements; #temporary_batch_1587979007875</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4259" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"},"nl":{"language":"nl","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 1909"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"a01224389d6ac7f948b06b754d95fa26def49410","datavalue":{"value":"records-australian-museum-7-305-314","type":"string"}},"type":"statement","id":"Q56196633$A2D48424-3A99-4D3E-8682-FC473966E8CD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qzq7kyhf7649q4w2dwzv06g2x3hb9dd</sha1>
+    </revision>
+    <revision>
+      <id>1272664660</id>
+      <parentid>1167582840</parentid>
+      <timestamp>2020-09-06T23:57:22Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im August 1909 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4356" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"},"nl":{"language":"nl","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 1909"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im August 1909 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"a01224389d6ac7f948b06b754d95fa26def49410","datavalue":{"value":"records-australian-museum-7-305-314","type":"string"}},"type":"statement","id":"Q56196633$A2D48424-3A99-4D3E-8682-FC473966E8CD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bi1i1afq2fjeazlttn91f75ukkyl02s</sha1>
+    </revision>
+    <revision>
+      <id>1287500986</id>
+      <parentid>1272664660</parentid>
+      <timestamp>2020-10-06T17:22:03Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: 66d36d39-9396-4936-b4e6-454d6fbd1164, #quickstatements; #temporary_batch_1602002696870</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4635" xml:space="preserve">{"type":"item","id":"Q56196633","labels":{"de":{"language":"de","value":"Studies in Australian Crustacea. No. 2"},"en":{"language":"en","value":"Studies in Australian Crustacea. No. 2"},"nl":{"language":"nl","value":"Studies in Australian Crustacea. No. 2"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 1909"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im August 1909 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fa6626f81e6d600b0e8d749e06d716030467ff86","datavalue":{"value":"10.3853\/J.0067-1975.7.1909.973","type":"string"}},"type":"statement","id":"Q56196633$CB200511-8E58-4086-8663-B46FC89F74EB","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"5c1bda54370e272add9fbe543fa58c425ff6b45f","datavalue":{"value":"52879","type":"string"}},"type":"statement","id":"Q56196633$9C688F85-A06C-4004-AD59-49DE72DB594C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$2493A5C7-A7C4-4A96-B51E-8A453A12DB62","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"55c980bcee7d5e81eaf04e1d81119c985cc3b3f1","datavalue":{"value":{"text":"Studies in Australian Crustacea. No. 2","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56196633$B4AF11C3-3330-41B6-8C66-C746290FA430","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q56196633$1EDC5000-AC0A-477A-96DD-C4218673201B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"85266bea8de9e73585e90f087916b2a190ea528c","datavalue":{"value":"305\u2013314","type":"string"}},"type":"statement","id":"Q56196633$C5763C03-CA14-4EDA-8485-B9F069161571","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56196633$7E776DFD-D544-4692-BF26-B7C69BA67685","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1a41f0e6bf80fca455618a1cee23f83312dc823d","datavalue":{"value":{"time":"+1909-08-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56196633$EB856550-C0E2-48C7-80F0-D2B396FE0691","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c88a5b9f435d9fecb9fe23a0a3571e8a7bd7a001","datavalue":{"value":"Allan R. Mcculloch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56196633$D6B571CD-4DFD-46EB-84D0-4FCEC3454C2B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"feab25d53ddf30e69eab846d07a7887fe2038602","datavalue":{"value":{"entity-type":"item","numeric-id":21386219,"id":"Q21386219"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56196633$8DE8E84A-B3A6-44BE-BACC-4E93E8E326B4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"7abaefe00d2d6bedb21a4308ab19dc98c1b9a004","datavalue":{"value":"8056286","type":"string"}},"type":"statement","id":"Q56196633$BEF21C90-EA26-47E2-AE3A-572CC7CCBF34","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"a01224389d6ac7f948b06b754d95fa26def49410","datavalue":{"value":"records-australian-museum-7-305-314","type":"string"}},"type":"statement","id":"Q56196633$A2D48424-3A99-4D3E-8682-FC473966E8CD","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"c4d5fd878d60a2dd08b2f3745ca1392800b185de","datavalue":{"value":"66d36d39-9396-4936-b4e6-454d6fbd1164","type":"string"}},"type":"statement","id":"Q56196633$35735E98-F127-450C-94C3-426184B9B725","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hkbmid37x0d1kdub6yoeut7rapswg98</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56163080</title>
+    <ns>0</ns>
+    <id>56105762</id>
+    <revision>
+      <id>728612474</id>
+      <timestamp>2018-08-18T14:10:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56163080","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1hthrr2zeywcxbmtmcx6ar2ink15e1c</sha1>
+    </revision>
+    <revision>
+      <id>728612484</id>
+      <parentid>728612474</parentid>
+      <timestamp>2018-08-18T14:10:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Notes on Aulacophora Olivier and Oides Weber</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="179" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>15uzhvuzf4occihsgtf2ki3ek7wx58i</sha1>
+    </revision>
+    <revision>
+      <id>728612488</id>
+      <parentid>728612484</parentid>
+      <timestamp>2018-08-18T14:10:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Notes on Aulacophora Olivier and Oides Weber</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="257" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>onmsmgz6vo7irspf9ndhr3f3efvqf1o</sha1>
+    </revision>
+    <revision>
+      <id>728612491</id>
+      <parentid>728612488</parentid>
+      <timestamp>2018-08-18T14:10:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1155/1914/45426</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="517" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4o769k14q0sqw2f2m183r9tvram663a</sha1>
+    </revision>
+    <revision>
+      <id>728612498</id>
+      <parentid>728612491</parentid>
+      <timestamp>2018-08-18T14:10:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 174495</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="766" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>428rgidkxptjv54d6mn3w6rf39fmp9l</sha1>
+    </revision>
+    <revision>
+      <id>728612503</id>
+      <parentid>728612498</parentid>
+      <timestamp>2018-08-18T14:10:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1075" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7dwg556vru3rdltkqr1v971asno4ka6</sha1>
+    </revision>
+    <revision>
+      <id>728612507</id>
+      <parentid>728612503</parentid>
+      <timestamp>2018-08-18T14:10:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Notes on Aulacophora Olivier and Oides Weber</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1396" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>auqfaii2i1lo9g5ttql4y13lmvspcwv</sha1>
+    </revision>
+    <revision>
+      <id>728612516</id>
+      <parentid>728612507</parentid>
+      <timestamp>2018-08-18T14:10:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 21</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1639" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o2nwvoa0c9h0z4xfopsyj48wbhyniln</sha1>
+    </revision>
+    <revision>
+      <id>728612520</id>
+      <parentid>728612516</parentid>
+      <timestamp>2018-08-18T14:10:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 133–136</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1892" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>spwrwednxidbdl8mow0z0zad1mld2rq</sha1>
+    </revision>
+    <revision>
+      <id>728612522</id>
+      <parentid>728612520</parentid>
+      <timestamp>2018-08-18T14:10:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2134" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2g9ichjg76p8g034i297mv2jbn1kobo</sha1>
+    </revision>
+    <revision>
+      <id>728612526</id>
+      <parentid>728612522</parentid>
+      <timestamp>2018-08-18T14:10:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1914</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2513" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mni754c756gwfd08vgdiu8hm3xnfv0h</sha1>
+    </revision>
+    <revision>
+      <id>728612533</id>
+      <parentid>728612526</parentid>
+      <timestamp>2018-08-18T14:10:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: F. C. Bowditch</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2770" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lyqfke0fq8hpa852hadkf3j7zutryam</sha1>
+    </revision>
+    <revision>
+      <id>728612536</id>
+      <parentid>728612533</parentid>
+      <timestamp>2018-08-18T14:10:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2956" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>99nht2hwlgj475d045fpssnt2e6u9cj</sha1>
+    </revision>
+    <revision>
+      <id>728612541</id>
+      <parentid>728612536</parentid>
+      <timestamp>2018-08-18T14:10:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2071295]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3267" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h4ck0dhqx1qj6wc4fseuxwjsyhtzdmi</sha1>
+    </revision>
+    <revision>
+      <id>738799390</id>
+      <parentid>728612541</parentid>
+      <timestamp>2018-09-02T20:08:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 13766661, According to [[Property:P5315]]=174495</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3516" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"22b4ffe993181fccc5ccd1779da7b8dcda4e44ee","datavalue":{"value":"13766661","type":"string"}},"type":"statement","id":"Q56163080$D9D1761E-8BE8-440C-9B9A-870225A83A1D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ld6vyjcnwhuhuxx9ycav8yrb1i39e08</sha1>
+    </revision>
+    <revision>
+      <id>780397871</id>
+      <parentid>738799390</parentid>
+      <timestamp>2018-11-02T22:06:32Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3651" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"},"nl":{"language":"nl","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"22b4ffe993181fccc5ccd1779da7b8dcda4e44ee","datavalue":{"value":"13766661","type":"string"}},"type":"statement","id":"Q56163080$D9D1761E-8BE8-440C-9B9A-870225A83A1D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pbf1bekkn688i0d74fjgy4k0ueg1pl8</sha1>
+    </revision>
+    <revision>
+      <id>956225621</id>
+      <parentid>780397871</parentid>
+      <timestamp>2019-06-05T16:20:14Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559621434911; Based on 1914 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3958" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"},"nl":{"language":"nl","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"22b4ffe993181fccc5ccd1779da7b8dcda4e44ee","datavalue":{"value":"13766661","type":"string"}},"type":"statement","id":"Q56163080$D9D1761E-8BE8-440C-9B9A-870225A83A1D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$841D1A27-ABFC-4E22-B45C-AD41D71D4BBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>94d7pp53lmkqb6c06xf473qdd4ax0yf</sha1>
+    </revision>
+    <revision>
+      <id>956225715</id>
+      <parentid>956225621</parentid>
+      <timestamp>2019-06-05T16:20:24Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559621434911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4201" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"},"nl":{"language":"nl","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"22b4ffe993181fccc5ccd1779da7b8dcda4e44ee","datavalue":{"value":"13766661","type":"string"}},"type":"statement","id":"Q56163080$D9D1761E-8BE8-440C-9B9A-870225A83A1D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56163080$841D1A27-ABFC-4E22-B45C-AD41D71D4BBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m6e6ldyn7fyu7500w7smbu48328pbfe</sha1>
+    </revision>
+    <revision>
+      <id>956225755</id>
+      <parentid>956225715</parentid>
+      <timestamp>2019-06-05T16:20:29Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559621434911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4417" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"},"nl":{"language":"nl","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"22b4ffe993181fccc5ccd1779da7b8dcda4e44ee","datavalue":{"value":"13766661","type":"string"}},"type":"statement","id":"Q56163080$D9D1761E-8BE8-440C-9B9A-870225A83A1D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56163080$841D1A27-ABFC-4E22-B45C-AD41D71D4BBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tapf0n6g2pq2s5s2q2t77ytjj5zmqh3</sha1>
+    </revision>
+    <revision>
+      <id>974550181</id>
+      <parentid>956225755</parentid>
+      <timestamp>2019-07-05T16:02:13Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1914, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4616" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"},"nl":{"language":"nl","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"22b4ffe993181fccc5ccd1779da7b8dcda4e44ee","datavalue":{"value":"13766661","type":"string"}},"type":"statement","id":"Q56163080$D9D1761E-8BE8-440C-9B9A-870225A83A1D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56163080$841D1A27-ABFC-4E22-B45C-AD41D71D4BBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3ri96hru3s1k9jfrnq1592jwx3tahkt</sha1>
+    </revision>
+    <revision>
+      <id>1085742936</id>
+      <parentid>974550181</parentid>
+      <timestamp>2019-12-29T01:54:27Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1914 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24671|batch #24671]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4713" xml:space="preserve">{"type":"item","id":"Q56163080","labels":{"de":{"language":"de","value":"Notes on Aulacophora Olivier and Oides Weber"},"en":{"language":"en","value":"Notes on Aulacophora Olivier and Oides Weber"},"nl":{"language":"nl","value":"Notes on Aulacophora Olivier and Oides Weber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"},"de":{"language":"de","value":"im Januar 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"785331797a61be10e84e521aa53e263ca2a6131a","datavalue":{"value":"10.1155\/1914\/45426","type":"string"}},"type":"statement","id":"Q56163080$74C39C62-D95D-48D4-B16F-AA4ECB217F95","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"1c8e11a45a2e48b2def9d5b6c8203816a0dd6268","datavalue":{"value":"174495","type":"string"}},"type":"statement","id":"Q56163080$10B989B0-B37B-4CD8-9460-680D9673DE47","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$894B4D9F-F1FA-4095-A355-21EBEADC511B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cf462dec23f96ca64fe65364306e3a3874d6fb66","datavalue":{"value":{"text":"Notes on Aulacophora Olivier and Oides Weber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56163080$112F9C46-2240-4FB4-AAD3-983864138D1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q56163080$077333EA-4749-41EA-BBEB-AAF22024FD34","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"581bec7a054fc418841a46722e79d7e2936d4ce0","datavalue":{"value":"133\u2013136","type":"string"}},"type":"statement","id":"Q56163080$39BA6778-F53E-4E4D-8586-E79FEA90F81D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56163080$BC88DD24-8E6C-4E7A-BE6D-10CD20C3EB27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56163080$20B5DFD5-1F2B-421B-920C-7E1BD834E6EA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7eb22f931c48a0094c343673dd69fce59ff18dc","datavalue":{"value":"F. C. Bowditch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56163080$606D0027-C065-4523-B8B1-C2A801D0ABA0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56163080$17E5197C-FD4C-497A-9628-A0BCC3232389","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"22b4ffe993181fccc5ccd1779da7b8dcda4e44ee","datavalue":{"value":"13766661","type":"string"}},"type":"statement","id":"Q56163080$D9D1761E-8BE8-440C-9B9A-870225A83A1D","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56163080$841D1A27-ABFC-4E22-B45C-AD41D71D4BBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>93lfkzq5rzur36c9kip8hv2mw5d2kxs</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56190112</title>
+    <ns>0</ns>
+    <id>56132759</id>
+    <revision>
+      <id>729528500</id>
+      <timestamp>2018-08-19T18:43:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56190112","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>fzbhdqvg7omvzr8d9w2g5pz8071p22m</sha1>
+    </revision>
+    <revision>
+      <id>729528508</id>
+      <parentid>729528500</parentid>
+      <timestamp>2018-08-19T18:43:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ New Genera of Cladochytriaceae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="165" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>js7rbl63gcd1zp2lo2oi4p69rfjdiea</sha1>
+    </revision>
+    <revision>
+      <id>729528514</id>
+      <parentid>729528508</parentid>
+      <timestamp>2018-08-19T18:43:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ New Genera of Cladochytriaceae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="229" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>009yuv4hemtcr3t389p9ikd9o08mofl</sha1>
+    </revision>
+    <revision>
+      <id>729528529</id>
+      <parentid>729528514</parentid>
+      <timestamp>2018-08-19T18:43:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/2394150</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="485" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>svimou89mpubzyfw75ef7mac2ds5e0w</sha1>
+    </revision>
+    <revision>
+      <id>729528535</id>
+      <parentid>729528529</parentid>
+      <timestamp>2018-08-19T18:43:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 11563</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="733" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nimhkr0eflomfmjx4n1nnt5eq1fzmj4</sha1>
+    </revision>
+    <revision>
+      <id>729528544</id>
+      <parentid>729528535</parentid>
+      <timestamp>2018-08-19T18:43:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1042" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oji9lo26ubv4ryaj05kecyclgkryp1e</sha1>
+    </revision>
+    <revision>
+      <id>729528565</id>
+      <parentid>729528544</parentid>
+      <timestamp>2018-08-19T18:43:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: New Genera of Cladochytriaceae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1349" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6kxvgngrzua3sjkkrsfdv2t8m0njot6</sha1>
+    </revision>
+    <revision>
+      <id>729528576</id>
+      <parentid>729528565</parentid>
+      <timestamp>2018-08-19T18:43:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 23</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1592" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i0lm9tc0nz7q1swvnqt9unnwgk6ei4x</sha1>
+    </revision>
+    <revision>
+      <id>729528579</id>
+      <parentid>729528576</parentid>
+      <timestamp>2018-08-19T18:43:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 553</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1836" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>30hn6twmratbhqiujr0mm5pj6lu75my</sha1>
+    </revision>
+    <revision>
+      <id>729528591</id>
+      <parentid>729528579</parentid>
+      <timestamp>2018-08-19T18:43:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2078" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1hhftz07wv49k7ys04dqjdavxbxosv3</sha1>
+    </revision>
+    <revision>
+      <id>729528598</id>
+      <parentid>729528591</parentid>
+      <timestamp>2018-08-19T18:43:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: November 1936</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2458" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5pppa7oeev02pck8ghhlk4qgo13ors0</sha1>
+    </revision>
+    <revision>
+      <id>729528606</id>
+      <parentid>729528598</parentid>
+      <timestamp>2018-08-19T18:43:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: George Zebrowski</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2717" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>021a58j9lcjnq2vbs5kyq7jmagd5se8</sha1>
+    </revision>
+    <revision>
+      <id>729528614</id>
+      <parentid>729528606</parentid>
+      <timestamp>2018-08-19T18:43:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2903" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>deqgf1oi44wbrh44n7c5cvld2xgz7si</sha1>
+    </revision>
+    <revision>
+      <id>729528624</id>
+      <parentid>729528614</parentid>
+      <timestamp>2018-08-19T18:43:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2530335]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3214" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$678CB4FF-40EF-4DB4-9E45-D143F3B86E22","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ptvo7lhv7u9indcw487r5y0rukad15l</sha1>
+    </revision>
+    <revision>
+      <id>737990653</id>
+      <parentid>729528624</parentid>
+      <timestamp>2018-09-01T15:34:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 16048540, According to [[Property:P5315]]=11563</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3463" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$678CB4FF-40EF-4DB4-9E45-D143F3B86E22","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f1317572852c21e89ad6a9adac16f0380df08bf7","datavalue":{"value":"16048540","type":"string"}},"type":"statement","id":"Q56190112$F7EADB59-2F4A-4093-AFF9-10E9F2109973","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3llcg9usz7ungl5rhxe14j4o0t4q3zm</sha1>
+    </revision>
+    <revision>
+      <id>780095805</id>
+      <parentid>737990653</parentid>
+      <timestamp>2018-11-02T14:45:05Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3584" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"},"nl":{"language":"nl","value":"New Genera of Cladochytriaceae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$678CB4FF-40EF-4DB4-9E45-D143F3B86E22","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f1317572852c21e89ad6a9adac16f0380df08bf7","datavalue":{"value":"16048540","type":"string"}},"type":"statement","id":"Q56190112$F7EADB59-2F4A-4093-AFF9-10E9F2109973","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ey1bts99lu0mk9r5563ev3m9ao43hrq</sha1>
+    </revision>
+    <revision>
+      <id>840954578</id>
+      <parentid>780095805</parentid>
+      <timestamp>2019-01-23T18:38:58Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 2394150, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3832" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"},"nl":{"language":"nl","value":"New Genera of Cladochytriaceae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$678CB4FF-40EF-4DB4-9E45-D143F3B86E22","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f1317572852c21e89ad6a9adac16f0380df08bf7","datavalue":{"value":"16048540","type":"string"}},"type":"statement","id":"Q56190112$F7EADB59-2F4A-4093-AFF9-10E9F2109973","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"5d22f20069ace0e19a355fab33153ab3bfbba427","datavalue":{"value":"2394150","type":"string"}},"type":"statement","id":"Q56190112$62BAA702-F00C-46C1-BC30-265B1C49A97B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jv7uqu1vfs2zddehzjxjh3m6maca69b</sha1>
+    </revision>
+    <revision>
+      <id>972579149</id>
+      <parentid>840954578</parentid>
+      <timestamp>2019-07-01T19:45:56Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в листопаді 1936, [[:toollabs:quickstatements/#/batch/15130|batch #15130]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4086" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"},"nl":{"language":"nl","value":"New Genera of Cladochytriaceae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1936"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$678CB4FF-40EF-4DB4-9E45-D143F3B86E22","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f1317572852c21e89ad6a9adac16f0380df08bf7","datavalue":{"value":"16048540","type":"string"}},"type":"statement","id":"Q56190112$F7EADB59-2F4A-4093-AFF9-10E9F2109973","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"5d22f20069ace0e19a355fab33153ab3bfbba427","datavalue":{"value":"2394150","type":"string"}},"type":"statement","id":"Q56190112$62BAA702-F00C-46C1-BC30-265B1C49A97B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pgopus3qnpcvjts5qohu8dbiml7x7kd</sha1>
+    </revision>
+    <revision>
+      <id>1089342555</id>
+      <parentid>972579149</parentid>
+      <timestamp>2020-01-02T14:47:28Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im November 1936 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24735|batch #24735]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4185" xml:space="preserve">{"type":"item","id":"Q56190112","labels":{"de":{"language":"de","value":"New Genera of Cladochytriaceae"},"en":{"language":"en","value":"New Genera of Cladochytriaceae"},"nl":{"language":"nl","value":"New Genera of Cladochytriaceae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1936"},"de":{"language":"de","value":"im November 1936 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5680785757d425b6a31f9a4a09a98733bf858982","datavalue":{"value":"10.2307\/2394150","type":"string"}},"type":"statement","id":"Q56190112$93EA2B5C-83A5-4391-BEF7-520CFF5F3562","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8ebf65977894d1404b1d23c5a00308ddd15ed76b","datavalue":{"value":"11563","type":"string"}},"type":"statement","id":"Q56190112$03ED5D5E-507B-482A-8025-5BACB6154B38","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$AD067A5B-792B-41B6-8DE9-3A19F7714CED","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1128b1f4d12aa8e964622daefb08f4e378e3bd33","datavalue":{"value":{"text":"New Genera of Cladochytriaceae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56190112$30D1F817-4176-4835-AFE3-708ABB9CA7E0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56190112$9861F93A-F32E-4FAD-AB2C-655C2B79C092","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b03ab93c9af73ce1a87b443239d19bdb7a930d3","datavalue":{"value":"553","type":"string"}},"type":"statement","id":"Q56190112$155F043E-AAFC-4A26-80E4-A687826DB788","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56190112$C75E0219-2B12-4002-87D1-8DC1497572F0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"db6798433ea38a625fd00810a28b4c2bdaaf88ba","datavalue":{"value":{"time":"+1936-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56190112$816AEB09-A212-4359-9656-FD35FB871AC9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"93a634d3799073d4e0f3ade049b68f954edd2973","datavalue":{"value":"George Zebrowski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56190112$9160C3EE-58E6-4B1C-AC39-AD33A0A4B854","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56190112$678CB4FF-40EF-4DB4-9E45-D143F3B86E22","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f1317572852c21e89ad6a9adac16f0380df08bf7","datavalue":{"value":"16048540","type":"string"}},"type":"statement","id":"Q56190112$F7EADB59-2F4A-4093-AFF9-10E9F2109973","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"5d22f20069ace0e19a355fab33153ab3bfbba427","datavalue":{"value":"2394150","type":"string"}},"type":"statement","id":"Q56190112$62BAA702-F00C-46C1-BC30-265B1C49A97B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cgsnv2k9lfucwxmav4wz0miek4n1sun</sha1>
+    </revision>
+  </page>
+</mediawiki>

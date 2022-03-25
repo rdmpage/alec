@@ -152,3 +152,18 @@ Other smaller comments:
 2. Acronyms and technical terms. There are many mentioned in the paper. Are all of them necessary? It would be helpful to remove any acronyms that are not totally necessary to avoid confusion and help the reader. Of those that are included several need additional introduction beyond what is currently provided. For example: what are "quickstatements" (line 377), CONSTRUCT queries (line 332), what does ZOBODAT (line 31) stand for, etc.? Even SPARQL may not be known to all readers and should probably be briefly defined.
 
 > Define acronyms and terms
+
+
+
+## Summary of things to do
+
+- Clarify sampling [1]
+- Clarify Fig 7 [1]
+- Clarify nature of edits [1]
+- Pros and cons of Wikidata [1,2]
+- Clarify “bibliography of life” [2]
+- Delete ALEC [2,3]
+- Discuss bias in wiki communities [3]
+- Expand paragraph on taxa [3]
+- Redraw Fig 10 [1,2,3]
+- Define acronyms and terms [3]

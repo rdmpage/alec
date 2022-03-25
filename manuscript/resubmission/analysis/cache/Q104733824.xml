@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104733824</title>
+    <ns>0</ns>
+    <id>100157884</id>
+    <revision>
+      <id>1337303200</id>
+      <timestamp>2021-01-08T19:09:40Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1610132965586</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4045" xml:space="preserve">{"type":"item","id":"Q104733824","labels":{"en":{"language":"en","value":"Genus Ernestinus Distant (Hemiptera: Miridae) of Taiwan"},"zh":{"language":"zh","value":"\u81fa\u7063\u7522\u828b\u76f2\u693f\u5c6c(\u534a\u7fc5\u76ee\uff1a\u76f2\u693f\u79d1)"}},"descriptions":[],"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5662a05debbc99e1a0e25ffc3ce81d7813ab7df0","datavalue":{"value":{"text":"Genus Ernestinus Distant (Hemiptera: Miridae) of Taiwan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104733824$8AD51EA1-3EAF-40B2-A27A-EB091B4BFEDE","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cb55ce5bb98f48dbb9430d89cf9f066a71555da0","datavalue":{"value":{"text":"\u81fa\u7063\u7522\u828b\u76f2\u693f\u5c6c(\u534a\u7fc5\u76ee\uff1a\u76f2\u693f\u79d1)","language":"zh"},"type":"monolingualtext"}},"type":"statement","id":"Q104733824$A708E984-7E11-4D61-A7D4-3B24BC0AB06A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733824$A316F4A3-2BC4-4779-A9F5-7655B35BD295","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"79b14efd2a447f0485518bd1812b0840495615c7","datavalue":{"value":{"time":"+2001-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104733824$C867ABFF-FAC0-4A64-B65B-583D37F42569","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7533ae525b6637edc559bf980dd3c64aa71d1c54","datavalue":{"value":"\u6797\u653f\u884c(Cheng-Shing Lin)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104733824$A7A5581C-F938-47F6-BE97-B2885A186751","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4ee6b9b863b3d63528eed153b886402d785efc53","datavalue":{"value":{"entity-type":"item","numeric-id":21385653,"id":"Q21385653"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733824$03733C84-288B-4102-9876-ADE477640FFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q104733824$050BC4EF-6F65-48E7-9228-3FA8D752EF9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q104733824$69E97FA6-94E0-4241-82A4-D48E26C29812","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c161b2d24a44968af0bd2bc0155019072162756","datavalue":{"value":"29-35","type":"string"}},"type":"statement","id":"Q104733824$7C3F0135-F135-4D7A-9BF0-9CC523494EDE","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ae974d3dd2189bd0e96e7c7d06605c2830a28933","datavalue":{"value":"10.6661\/TESFE.2001003","type":"string"}},"type":"statement","id":"Q104733824$740182D9-FDDD-4C06-A35D-C3B82FF7DADE","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"a8f25d4db549033b309c18b0f3fa697797fcbe84","datavalue":{"value":"http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol21\/No1\/TESFE.2001003.PDF","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q104733824$192A3290-F66B-41F3-AB43-2E555178A127","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l0i4bntl5bn69vy2rnaaq6jzss5k9lv</sha1>
+    </revision>
+    <revision>
+      <id>1337471223</id>
+      <parentid>1337303200</parentid>
+      <timestamp>2021-01-09T01:45:18Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1065]]: https://web.archive.org/web/20180423140627/http://entsocjournal.yabee.com.tw/AlldataPos/JournalPos/Vol21/No1/TESFE.2001003.PDF, #quickstatements; #temporary_batch_1610156554850</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4332" xml:space="preserve">{"type":"item","id":"Q104733824","labels":{"en":{"language":"en","value":"Genus Ernestinus Distant (Hemiptera: Miridae) of Taiwan"},"zh":{"language":"zh","value":"\u81fa\u7063\u7522\u828b\u76f2\u693f\u5c6c(\u534a\u7fc5\u76ee\uff1a\u76f2\u693f\u79d1)"}},"descriptions":[],"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5662a05debbc99e1a0e25ffc3ce81d7813ab7df0","datavalue":{"value":{"text":"Genus Ernestinus Distant (Hemiptera: Miridae) of Taiwan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104733824$8AD51EA1-3EAF-40B2-A27A-EB091B4BFEDE","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cb55ce5bb98f48dbb9430d89cf9f066a71555da0","datavalue":{"value":{"text":"\u81fa\u7063\u7522\u828b\u76f2\u693f\u5c6c(\u534a\u7fc5\u76ee\uff1a\u76f2\u693f\u79d1)","language":"zh"},"type":"monolingualtext"}},"type":"statement","id":"Q104733824$A708E984-7E11-4D61-A7D4-3B24BC0AB06A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733824$A316F4A3-2BC4-4779-A9F5-7655B35BD295","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"79b14efd2a447f0485518bd1812b0840495615c7","datavalue":{"value":{"time":"+2001-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104733824$C867ABFF-FAC0-4A64-B65B-583D37F42569","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7533ae525b6637edc559bf980dd3c64aa71d1c54","datavalue":{"value":"\u6797\u653f\u884c(Cheng-Shing Lin)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104733824$A7A5581C-F938-47F6-BE97-B2885A186751","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4ee6b9b863b3d63528eed153b886402d785efc53","datavalue":{"value":{"entity-type":"item","numeric-id":21385653,"id":"Q21385653"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733824$03733C84-288B-4102-9876-ADE477640FFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q104733824$050BC4EF-6F65-48E7-9228-3FA8D752EF9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q104733824$69E97FA6-94E0-4241-82A4-D48E26C29812","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c161b2d24a44968af0bd2bc0155019072162756","datavalue":{"value":"29-35","type":"string"}},"type":"statement","id":"Q104733824$7C3F0135-F135-4D7A-9BF0-9CC523494EDE","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ae974d3dd2189bd0e96e7c7d06605c2830a28933","datavalue":{"value":"10.6661\/TESFE.2001003","type":"string"}},"type":"statement","id":"Q104733824$740182D9-FDDD-4C06-A35D-C3B82FF7DADE","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"a8f25d4db549033b309c18b0f3fa697797fcbe84","datavalue":{"value":"http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol21\/No1\/TESFE.2001003.PDF","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"250751c01621e4855663497a35e3851ee48c1f94","datavalue":{"value":"https:\/\/web.archive.org\/web\/20180423140627\/http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol21\/No1\/TESFE.2001003.PDF","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q104733824$192A3290-F66B-41F3-AB43-2E555178A127","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j8ijzs6yoksgw1clhkdg0b6rt5b8ctf</sha1>
+    </revision>
+    <revision>
+      <id>1435876729</id>
+      <parentid>1337471223</parentid>
+      <timestamp>2021-06-05T23:52:00Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4478" xml:space="preserve">{"type":"item","id":"Q104733824","labels":{"en":{"language":"en","value":"Genus Ernestinus Distant (Hemiptera: Miridae) of Taiwan"},"zh":{"language":"zh","value":"\u81fa\u7063\u7522\u828b\u76f2\u693f\u5c6c(\u534a\u7fc5\u76ee\uff1a\u76f2\u693f\u79d1)"},"nl":{"language":"nl","value":"Genus Ernestinus Distant (Hemiptera: Miridae) of Taiwan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5662a05debbc99e1a0e25ffc3ce81d7813ab7df0","datavalue":{"value":{"text":"Genus Ernestinus Distant (Hemiptera: Miridae) of Taiwan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104733824$8AD51EA1-3EAF-40B2-A27A-EB091B4BFEDE","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cb55ce5bb98f48dbb9430d89cf9f066a71555da0","datavalue":{"value":{"text":"\u81fa\u7063\u7522\u828b\u76f2\u693f\u5c6c(\u534a\u7fc5\u76ee\uff1a\u76f2\u693f\u79d1)","language":"zh"},"type":"monolingualtext"}},"type":"statement","id":"Q104733824$A708E984-7E11-4D61-A7D4-3B24BC0AB06A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733824$A316F4A3-2BC4-4779-A9F5-7655B35BD295","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"79b14efd2a447f0485518bd1812b0840495615c7","datavalue":{"value":{"time":"+2001-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104733824$C867ABFF-FAC0-4A64-B65B-583D37F42569","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7533ae525b6637edc559bf980dd3c64aa71d1c54","datavalue":{"value":"\u6797\u653f\u884c(Cheng-Shing Lin)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104733824$A7A5581C-F938-47F6-BE97-B2885A186751","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4ee6b9b863b3d63528eed153b886402d785efc53","datavalue":{"value":{"entity-type":"item","numeric-id":21385653,"id":"Q21385653"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733824$03733C84-288B-4102-9876-ADE477640FFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q104733824$050BC4EF-6F65-48E7-9228-3FA8D752EF9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q104733824$69E97FA6-94E0-4241-82A4-D48E26C29812","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6c161b2d24a44968af0bd2bc0155019072162756","datavalue":{"value":"29-35","type":"string"}},"type":"statement","id":"Q104733824$7C3F0135-F135-4D7A-9BF0-9CC523494EDE","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ae974d3dd2189bd0e96e7c7d06605c2830a28933","datavalue":{"value":"10.6661\/TESFE.2001003","type":"string"}},"type":"statement","id":"Q104733824$740182D9-FDDD-4C06-A35D-C3B82FF7DADE","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"a8f25d4db549033b309c18b0f3fa697797fcbe84","datavalue":{"value":"http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol21\/No1\/TESFE.2001003.PDF","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"250751c01621e4855663497a35e3851ee48c1f94","datavalue":{"value":"https:\/\/web.archive.org\/web\/20180423140627\/http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol21\/No1\/TESFE.2001003.PDF","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q104733824$192A3290-F66B-41F3-AB43-2E555178A127","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7fv1e7asrkhhrm4mg8emht9sg5t60dl</sha1>
+    </revision>
+  </page>
+</mediawiki>

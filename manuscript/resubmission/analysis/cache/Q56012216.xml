@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56012216</title>
+    <ns>0</ns>
+    <id>55962039</id>
+    <revision>
+      <id>722574334</id>
+      <timestamp>2018-08-07T19:44:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56012216","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>n57ieffwfqrqeh3vc4frvcg6rmzkwdj</sha1>
+    </revision>
+    <revision>
+      <id>722574336</id>
+      <parentid>722574334</parentid>
+      <timestamp>2018-08-07T19:44:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ On the cyclostomatous Polyzoa of Port Jackson and neighbourhood</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="198" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>hr47ql3hmhmruod1l0uqr5dnfme4zos</sha1>
+    </revision>
+    <revision>
+      <id>722574338</id>
+      <parentid>722574336</parentid>
+      <timestamp>2018-08-07T19:44:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ On the cyclostomatous Polyzoa of Port Jackson and neighbourhood</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="295" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>bboiodxv5471aaf15uy5kphhmgh7n7f</sha1>
+    </revision>
+    <revision>
+      <id>722574343</id>
+      <parentid>722574338</parentid>
+      <timestamp>2018-08-07T19:44:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.22855</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="558" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tubdd4cztwul5yzkwkc8q3b51a8lt11</sha1>
+    </revision>
+    <revision>
+      <id>722574349</id>
+      <parentid>722574343</parentid>
+      <timestamp>2018-08-07T19:44:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 54617</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="806" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>69qpg6mjwnxkmm6zwwhaxt29x0awqri</sha1>
+    </revision>
+    <revision>
+      <id>722574356</id>
+      <parentid>722574349</parentid>
+      <timestamp>2018-08-07T19:44:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1115" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k5byd7twg0kjxqmavqsfxuk4l9pf4ps</sha1>
+    </revision>
+    <revision>
+      <id>722574360</id>
+      <parentid>722574356</parentid>
+      <timestamp>2018-08-07T19:44:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: On the cyclostomatous Polyzoa of Port Jackson and neighbourhood</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1455" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sstjc8shjskchzdpjtv3d8gkr18lry0</sha1>
+    </revision>
+    <revision>
+      <id>722574367</id>
+      <parentid>722574360</parentid>
+      <timestamp>2018-08-07T19:44:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1697" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7s7daqvgb964xg46li8ndd3cqjcyom3</sha1>
+    </revision>
+    <revision>
+      <id>722574372</id>
+      <parentid>722574367</parentid>
+      <timestamp>2018-08-07T19:44:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 350–356</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1950" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aczkknj5s139lv21r5mt3yikg78lvrt</sha1>
+    </revision>
+    <revision>
+      <id>722574375</id>
+      <parentid>722574372</parentid>
+      <timestamp>2018-08-07T19:44:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1879</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2329" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4h41pupmdwkqtcegau4v5zk4ca06w76</sha1>
+    </revision>
+    <revision>
+      <id>722574379</id>
+      <parentid>722574375</parentid>
+      <timestamp>2018-08-07T19:44:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: W. A. Haswell</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2585" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tfxb94i673fkmblk64fkpbxnsiey0xt</sha1>
+    </revision>
+    <revision>
+      <id>722574383</id>
+      <parentid>722574379</parentid>
+      <timestamp>2018-08-07T19:44:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2771" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0rjqz6ktjef1vkk1fqh8cj8cvmicfuv</sha1>
+    </revision>
+    <revision>
+      <id>722574389</id>
+      <parentid>722574383</parentid>
+      <timestamp>2018-08-07T19:44:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q6087096]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3082" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7dlsno8nxursxlmq7sdf9ihasv0maye</sha1>
+    </revision>
+    <revision>
+      <id>738086120</id>
+      <parentid>722574389</parentid>
+      <timestamp>2018-09-01T18:54:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 6406452, According to [[Property:P5315]]=54617</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3330" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3da254911a5df4a5779e2e1991bbd7a2bd846ddc","datavalue":{"value":"6406452","type":"string"}},"type":"statement","id":"Q56012216$47AC1122-9D3F-4530-8E6B-46155F8EF415","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r1t7dio07jm077hgm0dyp7ohjin5l2b</sha1>
+    </revision>
+    <revision>
+      <id>784361188</id>
+      <parentid>738086120</parentid>
+      <timestamp>2018-11-07T23:34:11Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3484" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"nl":{"language":"nl","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3da254911a5df4a5779e2e1991bbd7a2bd846ddc","datavalue":{"value":"6406452","type":"string"}},"type":"statement","id":"Q56012216$47AC1122-9D3F-4530-8E6B-46155F8EF415","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kjaffz7kqs4drxjiq9f366r5hc1yg92</sha1>
+    </revision>
+    <revision>
+      <id>886666573</id>
+      <parentid>784361188</parentid>
+      <timestamp>2019-03-18T09:54:15Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3791" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"nl":{"language":"nl","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3da254911a5df4a5779e2e1991bbd7a2bd846ddc","datavalue":{"value":"6406452","type":"string"}},"type":"statement","id":"Q56012216$47AC1122-9D3F-4530-8E6B-46155F8EF415","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$06282656-7E1A-4992-8D16-0DD43D5AA21E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3fsz23vr4utddttoi7xs1jwgz9vsb0m</sha1>
+    </revision>
+    <revision>
+      <id>886666668</id>
+      <parentid>886666573</parentid>
+      <timestamp>2019-03-18T09:54:22Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4034" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"nl":{"language":"nl","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3da254911a5df4a5779e2e1991bbd7a2bd846ddc","datavalue":{"value":"6406452","type":"string"}},"type":"statement","id":"Q56012216$47AC1122-9D3F-4530-8E6B-46155F8EF415","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56012216$06282656-7E1A-4992-8D16-0DD43D5AA21E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8pd20rslpb6mq3nj5r5yhlsfti7j4ps</sha1>
+    </revision>
+    <revision>
+      <id>886666791</id>
+      <parentid>886666668</parentid>
+      <timestamp>2019-03-18T09:54:31Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4250" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"nl":{"language":"nl","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3da254911a5df4a5779e2e1991bbd7a2bd846ddc","datavalue":{"value":"6406452","type":"string"}},"type":"statement","id":"Q56012216$47AC1122-9D3F-4530-8E6B-46155F8EF415","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012216$06282656-7E1A-4992-8D16-0DD43D5AA21E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e64kp3pc8iu0hswe4y6q2bdps2f1yiv</sha1>
+    </revision>
+    <revision>
+      <id>974715154</id>
+      <parentid>886666791</parentid>
+      <timestamp>2019-07-05T22:51:55Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1879, [[:toollabs:quickstatements/#/batch/15404|batch #15404]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4449" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"nl":{"language":"nl","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1879"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3da254911a5df4a5779e2e1991bbd7a2bd846ddc","datavalue":{"value":"6406452","type":"string"}},"type":"statement","id":"Q56012216$47AC1122-9D3F-4530-8E6B-46155F8EF415","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012216$06282656-7E1A-4992-8D16-0DD43D5AA21E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e02qay8lg4oyz81xa1l4013swwurnbw</sha1>
+    </revision>
+    <revision>
+      <id>1189468312</id>
+      <parentid>974715154</parentid>
+      <timestamp>2020-05-25T03:24:41Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1879 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/34683|batch #34683]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4544" xml:space="preserve">{"type":"item","id":"Q56012216","labels":{"de":{"language":"de","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"en":{"language":"en","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"},"nl":{"language":"nl","value":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1879"},"de":{"language":"de","value":"im Jahr 1879 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ef48fe2eec52645716f3733ccadda897a9ac51c8","datavalue":{"value":"10.5962\/BHL.PART.22855","type":"string"}},"type":"statement","id":"Q56012216$C70495FA-D4B0-4E30-A1A7-20633E382C31","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66a7fc307bee510bd152f8738c90862cc493e98c","datavalue":{"value":"54617","type":"string"}},"type":"statement","id":"Q56012216$E7CFB61A-AEF7-4EF8-BAE2-625D1525AC6B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$B9138526-FB8B-45BF-A2E0-8374AE9AF8E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8a57fe7b82f4a922af462448c8ed73d41ba600f5","datavalue":{"value":{"text":"On the cyclostomatous Polyzoa of Port Jackson and neighbourhood","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012216$86C5D079-E264-4658-8219-2429BC7A0DFD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56012216$E8AF4910-0766-49FA-BC2B-183251217ED0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bbe72aff4fe2f6950b6e0aea247b9c4c24e7cecc","datavalue":{"value":"350\u2013356","type":"string"}},"type":"statement","id":"Q56012216$F3CC5903-FFA0-4A9A-AB6E-FEAE624F97E3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8cf9639271cb601352aa860f51a88829c8bf778","datavalue":{"value":{"time":"+1879-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012216$B7447FAB-2049-4F17-BB0C-DEDD6B2A7257","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50718598f3fd74858a5f4f77bbaad47e2d4a4e14","datavalue":{"value":"W. A. Haswell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56012216$547C09F6-444D-431D-A0EC-583BBEA6840D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6cd229cff7e19824de43a35f708a3570639fb7b6","datavalue":{"value":{"entity-type":"item","numeric-id":6087096,"id":"Q6087096"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012216$0DB94B01-396F-414D-8B92-8948D1949425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3da254911a5df4a5779e2e1991bbd7a2bd846ddc","datavalue":{"value":"6406452","type":"string"}},"type":"statement","id":"Q56012216$47AC1122-9D3F-4530-8E6B-46155F8EF415","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012216$06282656-7E1A-4992-8D16-0DD43D5AA21E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jkp96lna69sz9gjottk4cn5zqlezfjy</sha1>
+    </revision>
+  </page>
+</mediawiki>

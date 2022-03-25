@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56149986</title>
+    <ns>0</ns>
+    <id>56093485</id>
+    <revision>
+      <id>727858570</id>
+      <timestamp>2018-08-17T13:18:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56149986","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>andfka25ukmv4lcfycuspnl7flxlz7l</sha1>
+    </revision>
+    <revision>
+      <id>727858574</id>
+      <parentid>727858570</parentid>
+      <timestamp>2018-08-17T13:18:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Black Rust of Cotton: A Preliminary Note</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="175" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>4wn67lg1lr260mvp1t0vxgih78elluo</sha1>
+    </revision>
+    <revision>
+      <id>727858585</id>
+      <parentid>727858574</parentid>
+      <timestamp>2018-08-17T13:18:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Black Rust of Cotton: A Preliminary Note</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="249" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7nfnrft0ej6hqocyzpx85684nl300mp</sha1>
+    </revision>
+    <revision>
+      <id>727858591</id>
+      <parentid>727858585</parentid>
+      <timestamp>2018-08-17T13:18:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1086/326625</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="504" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cg0xetix055d4sgcfmo5526czcze47g</sha1>
+    </revision>
+    <revision>
+      <id>727858598</id>
+      <parentid>727858591</parentid>
+      <timestamp>2018-08-17T13:18:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 210488</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="753" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cwtzdmknjj6izw6qki75dyak9vi6oli</sha1>
+    </revision>
+    <revision>
+      <id>727858600</id>
+      <parentid>727858598</parentid>
+      <timestamp>2018-08-17T13:18:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1062" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1pav8n9zu9kolkww2l6jek3brkt6tqp</sha1>
+    </revision>
+    <revision>
+      <id>727858605</id>
+      <parentid>727858600</parentid>
+      <timestamp>2018-08-17T13:18:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Black Rust of Cotton: A Preliminary Note</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1379" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fg4966ftn6etsgxshgxwmfljnqaorch</sha1>
+    </revision>
+    <revision>
+      <id>727858612</id>
+      <parentid>727858605</parentid>
+      <timestamp>2018-08-17T13:18:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 16</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1622" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2ns3bl7vid3f0ou8rg12vczcbb7cr5a</sha1>
+    </revision>
+    <revision>
+      <id>727858615</id>
+      <parentid>727858612</parentid>
+      <timestamp>2018-08-17T13:18:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 61–65</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1873" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0iwcy2vkqbb5j9fc0kgyzq35jrrymoc</sha1>
+    </revision>
+    <revision>
+      <id>727858621</id>
+      <parentid>727858615</parentid>
+      <timestamp>2018-08-17T13:18:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2115" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ehkpl33ug1x0o6o2ra5kb81ruds8cxn</sha1>
+    </revision>
+    <revision>
+      <id>727858628</id>
+      <parentid>727858621</parentid>
+      <timestamp>2018-08-17T13:18:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: March 1891</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2495" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>935e6bf2kvw3h5os1enwsef565iynet</sha1>
+    </revision>
+    <revision>
+      <id>727858632</id>
+      <parentid>727858628</parentid>
+      <timestamp>2018-08-17T13:18:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q894627]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2804" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>00oclrnb93tczmk3vuuszv1968jl2wz</sha1>
+    </revision>
+    <revision>
+      <id>738854601</id>
+      <parentid>727858632</parentid>
+      <timestamp>2018-09-02T22:01:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 10166893, According to [[Property:P5315]]=210488</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3053" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"088b894b349005ea3b4883f9232830ba1f000ea2","datavalue":{"value":"10166893","type":"string"}},"type":"statement","id":"Q56149986$920E3CC5-72A6-440E-A59D-0FD05038732F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h2lr29ooy1ty1t6uikzfk665s2x348r</sha1>
+    </revision>
+    <revision>
+      <id>780576270</id>
+      <parentid>738854601</parentid>
+      <timestamp>2018-11-03T02:29:22Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3184" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"},"nl":{"language":"nl","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"088b894b349005ea3b4883f9232830ba1f000ea2","datavalue":{"value":"10166893","type":"string"}},"type":"statement","id":"Q56149986$920E3CC5-72A6-440E-A59D-0FD05038732F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o79mvvqh5ycsrcr6vkaa8zxuqjjl0xs</sha1>
+    </revision>
+    <revision>
+      <id>941484353</id>
+      <parentid>780576270</parentid>
+      <timestamp>2019-05-14T02:49:32Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1557762308349; Based on 1891 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3491" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"},"nl":{"language":"nl","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"088b894b349005ea3b4883f9232830ba1f000ea2","datavalue":{"value":"10166893","type":"string"}},"type":"statement","id":"Q56149986$920E3CC5-72A6-440E-A59D-0FD05038732F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F48CE987-0B79-4FEC-9BA0-1D5ED2028B2E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o730bzp8vjdxiwiphpfytxf6vlolvi7</sha1>
+    </revision>
+    <revision>
+      <id>941484367</id>
+      <parentid>941484353</parentid>
+      <timestamp>2019-05-14T02:49:34Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1557762308349</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3734" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"},"nl":{"language":"nl","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"088b894b349005ea3b4883f9232830ba1f000ea2","datavalue":{"value":"10166893","type":"string"}},"type":"statement","id":"Q56149986$920E3CC5-72A6-440E-A59D-0FD05038732F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56149986$F48CE987-0B79-4FEC-9BA0-1D5ED2028B2E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2nukhdau1wevwxofqw25xc0hw99st17</sha1>
+    </revision>
+    <revision>
+      <id>941484394</id>
+      <parentid>941484367</parentid>
+      <timestamp>2019-05-14T02:49:39Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1557762308349</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3950" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"},"nl":{"language":"nl","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"088b894b349005ea3b4883f9232830ba1f000ea2","datavalue":{"value":"10166893","type":"string"}},"type":"statement","id":"Q56149986$920E3CC5-72A6-440E-A59D-0FD05038732F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56149986$F48CE987-0B79-4FEC-9BA0-1D5ED2028B2E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iwjuxorlaazc1gfcaa4ybq3gqkl00xh</sha1>
+    </revision>
+    <revision>
+      <id>962566258</id>
+      <parentid>941484394</parentid>
+      <timestamp>2019-06-14T21:12:17Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в березні 1891, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4192" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"},"nl":{"language":"nl","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0431\u0435\u0440\u0435\u0437\u043d\u0456 1891"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"088b894b349005ea3b4883f9232830ba1f000ea2","datavalue":{"value":"10166893","type":"string"}},"type":"statement","id":"Q56149986$920E3CC5-72A6-440E-A59D-0FD05038732F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56149986$F48CE987-0B79-4FEC-9BA0-1D5ED2028B2E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6lgczk862t3z229igmf5qkcgrwm1eil</sha1>
+    </revision>
+    <revision>
+      <id>1081022701</id>
+      <parentid>962566258</parentid>
+      <timestamp>2019-12-21T19:32:45Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im März 1891 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24321|batch #24321]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4292" xml:space="preserve">{"type":"item","id":"Q56149986","labels":{"de":{"language":"de","value":"Black Rust of Cotton: A Preliminary Note"},"en":{"language":"en","value":"Black Rust of Cotton: A Preliminary Note"},"nl":{"language":"nl","value":"Black Rust of Cotton: A Preliminary Note"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0431\u0435\u0440\u0435\u0437\u043d\u0456 1891"},"de":{"language":"de","value":"im M\u00e4rz 1891 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1d69c2747d81cc88053a6bcc1cb6f51423c329bf","datavalue":{"value":"10.1086\/326625","type":"string"}},"type":"statement","id":"Q56149986$109CF857-7DDD-4423-8C29-DFB13FDF6A04","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"02c5cd771446f27ae1bc4976492174d197f17d14","datavalue":{"value":"210488","type":"string"}},"type":"statement","id":"Q56149986$F664F8AC-A419-4279-B650-1F9BA42160E3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$40AA7CBE-FD37-4ADD-85B8-4751927E9117","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"daf736bf7849bc89df5c65ac7d0385059b43c166","datavalue":{"value":{"text":"Black Rust of Cotton: A Preliminary Note","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56149986$34575ACA-6DCF-467A-8B25-7A3B935438E5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q56149986$1691AFCE-0DD7-4938-A315-8394C4E78D05","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"50ec7798aff8aa3c59b4d61596b0a8dd5f9cf156","datavalue":{"value":"61\u201365","type":"string"}},"type":"statement","id":"Q56149986$175F94A5-709E-4B32-A14F-262D34381B68","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56149986$86173D49-AEC1-4992-94FD-4F17DD6944DC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e6f3352915a0220b0a41419ff7f7448aef68dcb","datavalue":{"value":{"time":"+1891-03-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56149986$28BE9C77-DBE1-49F8-B14A-0C9AB62192C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8068dc56f9a43394b7bc77abb5e7a5c016f9d96f","datavalue":{"value":{"entity-type":"item","numeric-id":894627,"id":"Q894627"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56149986$F2224AA1-108E-4D06-A1A0-46CF437E4D81","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"088b894b349005ea3b4883f9232830ba1f000ea2","datavalue":{"value":"10166893","type":"string"}},"type":"statement","id":"Q56149986$920E3CC5-72A6-440E-A59D-0FD05038732F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56149986$F48CE987-0B79-4FEC-9BA0-1D5ED2028B2E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d0a1y06iahrvlmvvswjof6se64qvu29</sha1>
+    </revision>
+  </page>
+</mediawiki>

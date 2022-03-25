@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56012492</title>
+    <ns>0</ns>
+    <id>55962358</id>
+    <revision>
+      <id>722586689</id>
+      <timestamp>2018-08-07T20:16:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56012492","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>971yxjinlfftefeirejcycjj2kgftb3</sha1>
+    </revision>
+    <revision>
+      <id>722586692</id>
+      <parentid>722586689</parentid>
+      <timestamp>2018-08-07T20:16:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Description d'un nouveau Formicide de l'Afrique occidentale</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="194" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>mr90thhjors1ksxh283s1pbx5db5kzc</sha1>
+    </revision>
+    <revision>
+      <id>722586694</id>
+      <parentid>722586692</parentid>
+      <timestamp>2018-08-07T20:16:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Description d'un nouveau Formicide de l'Afrique occidentale</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="287" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>j6pi2diz23yiu7z0zk3g8uh90zsm9qm</sha1>
+    </revision>
+    <revision>
+      <id>722586699</id>
+      <parentid>722586694</parentid>
+      <timestamp>2018-08-07T20:16:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.24165</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="550" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>enzgt9umbxhv14i1nq2a43wlz83hjxa</sha1>
+    </revision>
+    <revision>
+      <id>722586704</id>
+      <parentid>722586699</parentid>
+      <timestamp>2018-08-07T20:16:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 103558</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="799" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>26oymfacz025e2u28n1vhmt9b6rtfev</sha1>
+    </revision>
+    <revision>
+      <id>722586705</id>
+      <parentid>722586704</parentid>
+      <timestamp>2018-08-07T20:16:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1108" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nmkdyteml4ofcuq3ayie62oy1b2qu78</sha1>
+    </revision>
+    <revision>
+      <id>722586710</id>
+      <parentid>722586705</parentid>
+      <timestamp>2018-08-07T20:16:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Description d'un nouveau Formicide de l'Afrique occidentale</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1444" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qs8qfulcq21ruc8zkuuxrpniz7dy86o</sha1>
+    </revision>
+    <revision>
+      <id>722586713</id>
+      <parentid>722586710</parentid>
+      <timestamp>2018-08-07T20:16:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 1916</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1689" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fcepccjyhgkwg9ls5g1lkqzgt7n6s8q</sha1>
+    </revision>
+    <revision>
+      <id>722586717</id>
+      <parentid>722586713</parentid>
+      <timestamp>2018-08-07T20:16:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 50</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1932" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hjhiiut4fvimkhexl0k5ckjlwjra3to</sha1>
+    </revision>
+    <revision>
+      <id>722586720</id>
+      <parentid>722586717</parentid>
+      <timestamp>2018-08-07T20:16:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1916</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2311" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4qa0bhocn2t68r184sdgqdkt0mnmqtn</sha1>
+    </revision>
+    <revision>
+      <id>722586723</id>
+      <parentid>722586720</parentid>
+      <timestamp>2018-08-07T20:16:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385878]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2624" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e6ocs2kmbgve8yzdn5eothpnxzedpje</sha1>
+    </revision>
+    <revision>
+      <id>738430414</id>
+      <parentid>722586723</parentid>
+      <timestamp>2018-09-02T07:33:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 9487630, According to [[Property:P5315]]=103558</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2872" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56750d27c1f5913f8f60a181171c761274ca114e","datavalue":{"value":"9487630","type":"string"}},"type":"statement","id":"Q56012492$6DC2C197-0371-4572-99D3-E525417B53BB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9w39h6thqhw1urad2hw3yswpt0o63i7</sha1>
+    </revision>
+    <revision>
+      <id>784358654</id>
+      <parentid>738430414</parentid>
+      <timestamp>2018-11-07T23:29:01Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3022" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"nl":{"language":"nl","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56750d27c1f5913f8f60a181171c761274ca114e","datavalue":{"value":"9487630","type":"string"}},"type":"statement","id":"Q56012492$6DC2C197-0371-4572-99D3-E525417B53BB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q6uaznak2dcl560wyzf98u4i7rgj4nu</sha1>
+    </revision>
+    <revision>
+      <id>953210192</id>
+      <parentid>784358654</parentid>
+      <timestamp>2019-06-01T00:02:16Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1916 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3329" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"nl":{"language":"nl","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56750d27c1f5913f8f60a181171c761274ca114e","datavalue":{"value":"9487630","type":"string"}},"type":"statement","id":"Q56012492$6DC2C197-0371-4572-99D3-E525417B53BB","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$8C466106-C630-468B-A48B-855799B8036A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6acbadc6cgu38ulmlydiggyw6xb82np</sha1>
+    </revision>
+    <revision>
+      <id>953210208</id>
+      <parentid>953210192</parentid>
+      <timestamp>2019-06-01T00:02:17Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3572" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"nl":{"language":"nl","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56750d27c1f5913f8f60a181171c761274ca114e","datavalue":{"value":"9487630","type":"string"}},"type":"statement","id":"Q56012492$6DC2C197-0371-4572-99D3-E525417B53BB","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56012492$8C466106-C630-468B-A48B-855799B8036A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>762weg9v4fopfbxxsk9cnjxtmmu2th6</sha1>
+    </revision>
+    <revision>
+      <id>953210223</id>
+      <parentid>953210208</parentid>
+      <timestamp>2019-06-01T00:02:18Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3788" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"nl":{"language":"nl","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56750d27c1f5913f8f60a181171c761274ca114e","datavalue":{"value":"9487630","type":"string"}},"type":"statement","id":"Q56012492$6DC2C197-0371-4572-99D3-E525417B53BB","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012492$8C466106-C630-468B-A48B-855799B8036A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f30voxnrt90go1opfqi834bf622jpis</sha1>
+    </revision>
+    <revision>
+      <id>974107702</id>
+      <parentid>953210223</parentid>
+      <timestamp>2019-07-04T15:55:45Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1916, [[:toollabs:quickstatements/#/batch/15343|batch #15343]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3987" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"nl":{"language":"nl","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56750d27c1f5913f8f60a181171c761274ca114e","datavalue":{"value":"9487630","type":"string"}},"type":"statement","id":"Q56012492$6DC2C197-0371-4572-99D3-E525417B53BB","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012492$8C466106-C630-468B-A48B-855799B8036A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ivcs5oo0zobz44nxiw663w0uk2qeprj</sha1>
+    </revision>
+    <revision>
+      <id>1272795698</id>
+      <parentid>974107702</parentid>
+      <timestamp>2020-09-07T05:36:03Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1916 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42380|batch #42380]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4082" xml:space="preserve">{"type":"item","id":"Q56012492","labels":{"de":{"language":"de","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"en":{"language":"en","value":"Description d'un nouveau Formicide de l'Afrique occidentale"},"nl":{"language":"nl","value":"Description d'un nouveau Formicide de l'Afrique occidentale"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1916"},"de":{"language":"de","value":"im Jahr 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"5654b983e50d6a7e77453c38e4833eba3e9d55d3","datavalue":{"value":"10.5962\/BHL.PART.24165","type":"string"}},"type":"statement","id":"Q56012492$BA8B60EF-A61F-4EFA-9203-E15722F79388","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"66f5c577f005b0fbe6397e8689d48aa9d21f2f9a","datavalue":{"value":"103558","type":"string"}},"type":"statement","id":"Q56012492$D14D6F87-88B1-4CFD-8056-15F9AF079D95","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$9BEC5FA7-D12B-413D-B743-6BD58F9D53C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3e4c0407e1fe3736c436e5e9322a4fd70e44020d","datavalue":{"value":{"text":"Description d'un nouveau Formicide de l'Afrique occidentale","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012492$63AC0E43-9CC7-4A1B-AB32-5139E2873F2C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8beb0e8042da3eedbd7f7e0423e9cb50fee995aa","datavalue":{"value":"1916","type":"string"}},"type":"statement","id":"Q56012492$0EEC954A-5C29-438B-BF7F-FE033BE62DF1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b98b12defd9a140ba781f93440038631bbe8d7b3","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q56012492$B70A9CC0-22F2-46BB-AAA8-2F899D1F2184","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"422dc9b3bf58c7dc3656fa8b2d83b1baf5b98fd2","datavalue":{"value":{"time":"+1916-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012492$FE6F1986-BAF5-41F4-890C-1EF48520EC99","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012492$49254F8F-24B7-4D05-8D40-19FDE8A84331","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56750d27c1f5913f8f60a181171c761274ca114e","datavalue":{"value":"9487630","type":"string"}},"type":"statement","id":"Q56012492$6DC2C197-0371-4572-99D3-E525417B53BB","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012492$8C466106-C630-468B-A48B-855799B8036A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m4joqfewzecps37u3no88acgmxp7nz6</sha1>
+    </revision>
+  </page>
+</mediawiki>

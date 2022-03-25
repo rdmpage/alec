@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q110907848</title>
+    <ns>0</ns>
+    <id>105925553</id>
+    <revision>
+      <id>1576846634</id>
+      <timestamp>2022-02-13T15:23:34Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1644765734964</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7487" xml:space="preserve">{"type":"item","id":"Q110907848","labels":{"en":{"language":"en","value":"Lepiota bengalensis, a new species of Lepiota section Lilaceae from Bangladesh"}},"descriptions":{"en":{"language":"en","value":"Scholarly article published in 2016"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110907848$88FA9EA7-747A-4798-A45B-9388A494AC86","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"36dc3dd3b2a7c09ad742776c6e4fc84a9eca23f1","datavalue":{"value":"Md. Iqbal Hosen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110907848$4C25AB99-6502-4213-9601-85C0CB5CC556","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"884bdc4d0684419849d28a42c835ae0ddc5bc051","datavalue":{"value":{"time":"+2016-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q110907848$BA5DE5DF-DC46-4991-8DC1-D6BF16C6099B","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ac286aae30458cb935ba45715b50b56bbef8272c","datavalue":{"value":{"entity-type":"item","numeric-id":15816855,"id":"Q15816855"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110907848$EBBE0678-25BE-44B5-A198-4E2AA3185459","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2216eaf9755ce061eabf181f02c3b57c88c5f50d","datavalue":{"value":"10.12905\/0380.SYDOWIA68-2016-0187","type":"string"}},"type":"statement","qualifiers":{"P2378":[{"snaktype":"value","property":"P2378","hash":"7ba3466bc9627b4998e2141289deaeb6888fc7f9","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2378"],"id":"Q110907848$CC4F329B-E8F2-4DDE-8148-188CFBD18CCD","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8f8e5fe48142cce698f9a40e8d0a852fc083bebe","datavalue":{"value":"68","type":"string"}},"type":"statement","id":"Q110907848$41AF9B44-67D0-4DBE-A9FB-213ED9827422","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"91cf0ce9d43307f01e02d422284bd949d27eaf39","datavalue":{"value":"187-192","type":"string"}},"type":"statement","id":"Q110907848$A112150F-1AC9-48C8-B2AD-3113666A6701","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c0a17128611f708b86a64d26f53ec6f5b7dbb5c9","datavalue":{"value":{"text":"Lepiota bengalensis, a new species of Lepiota section Lilaceae from Bangladesh","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q110907848$4A92A1CD-B7F9-484C-B84D-7197E1A4DCB2","rank":"normal","references":[{"hash":"0ec38afeec8bce00fb9cbabcb1bccae742275622","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"a7dc64438f4db2abb3253ac6690f0ee105d7ce2a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"4a80ccdf89106b0d1ef5752dc2ba6245e58f4ef0","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia68-2016-0187","type":"string"}},"type":"statement","id":"Q110907848$6BCB06AD-9F6F-4571-A6C4-90F901E15AD3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8d2w2pkrjspbt100t5elaemkpwbqc6l</sha1>
+    </revision>
+  </page>
+</mediawiki>

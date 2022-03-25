@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56116914</title>
+    <ns>0</ns>
+    <id>56062035</id>
+    <revision>
+      <id>726941936</id>
+      <timestamp>2018-08-16T07:52:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56116914","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>mi90078nmjbmsb3fi3f3zro10xcvrjy</sha1>
+    </revision>
+    <revision>
+      <id>726941944</id>
+      <parentid>726941936</parentid>
+      <timestamp>2018-08-16T07:52:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ XVII.—On the classification of the British Polyzoa</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="190" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>lyqpkl3kqwepr9xijy3nzlzh2tbppjb</sha1>
+    </revision>
+    <revision>
+      <id>726941954</id>
+      <parentid>726941944</parentid>
+      <timestamp>2018-08-16T07:52:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ XVII.—On the classification of the British Polyzoa</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="279" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>9wjxqvvremg4pd1rsz81rmr9ks5vfea</sha1>
+    </revision>
+    <revision>
+      <id>726941960</id>
+      <parentid>726941954</parentid>
+      <timestamp>2018-08-16T07:52:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00222937908682494</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="545" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ejhi1jap4bgjg7hwsowoes10vbm8a3t</sha1>
+    </revision>
+    <revision>
+      <id>726941966</id>
+      <parentid>726941960</parentid>
+      <timestamp>2018-08-16T07:52:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 93716</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="793" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3qdj5gk9synsrnqd1791plzx90vwqli</sha1>
+    </revision>
+    <revision>
+      <id>726941972</id>
+      <parentid>726941966</parentid>
+      <timestamp>2018-08-16T07:52:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1102" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b5gh9rjz0m7cglam2hoiez8di71jxzr</sha1>
+    </revision>
+    <revision>
+      <id>726941978</id>
+      <parentid>726941972</parentid>
+      <timestamp>2018-08-16T07:52:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: XVII.—On the classification of the British Polyzoa</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1434" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dzgsv07siettqndb7dkmf8zx68piwwz</sha1>
+    </revision>
+    <revision>
+      <id>726941984</id>
+      <parentid>726941978</parentid>
+      <timestamp>2018-08-16T07:52:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1676" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m4qcuok46w883syua23rgu4xmdigj38</sha1>
+    </revision>
+    <revision>
+      <id>726941990</id>
+      <parentid>726941984</parentid>
+      <timestamp>2018-08-16T07:52:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 153–164</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1929" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qj6cahe8jnwbrg52yiph3nx5h4jkozr</sha1>
+    </revision>
+    <revision>
+      <id>726941998</id>
+      <parentid>726941990</parentid>
+      <timestamp>2018-08-16T07:52:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 14</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2172" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7oxy385dwxj5quwxacy6jxs0dolfsak</sha1>
+    </revision>
+    <revision>
+      <id>726942006</id>
+      <parentid>726941998</parentid>
+      <timestamp>2018-08-16T07:52:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: February 1879</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2552" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qbzb9xvkwgrm2yz9u24clydn5i2x331</sha1>
+    </revision>
+    <revision>
+      <id>726942013</id>
+      <parentid>726942006</parentid>
+      <timestamp>2018-08-16T07:52:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Thomas Hincks</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2808" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s7bflizq8ypz0cqz7rgks6vf8nz6l9b</sha1>
+    </revision>
+    <revision>
+      <id>726942019</id>
+      <parentid>726942013</parentid>
+      <timestamp>2018-08-16T07:52:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2994" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>25r8q10rrazs4c44rp1fuuxyeg6mrry</sha1>
+    </revision>
+    <revision>
+      <id>726942027</id>
+      <parentid>726942019</parentid>
+      <timestamp>2018-08-16T07:52:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19798858]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3307" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8j6ju0nczkwxd9w2qujt5vhtugats9n</sha1>
+    </revision>
+    <revision>
+      <id>738371677</id>
+      <parentid>726942027</parentid>
+      <timestamp>2018-09-02T05:11:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 25159184, According to [[Property:P5315]]=93716</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3556" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lvpp65k1a4ptofow563ikbsge6yhr8j</sha1>
+    </revision>
+    <revision>
+      <id>781128090</id>
+      <parentid>738371677</parentid>
+      <timestamp>2018-11-03T18:32:43Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3702" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"},"nl":{"language":"nl","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pbkpq8wx1xdmqpepuh3mte3uhe45lis</sha1>
+    </revision>
+    <revision>
+      <id>887656862</id>
+      <parentid>781128090</parentid>
+      <timestamp>2019-03-19T08:10:21Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4009" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"},"nl":{"language":"nl","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$E9376519-61E8-416B-B95D-FE73C7751DF6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mpxuortd9pbci523x5e041hxahvb9x0</sha1>
+    </revision>
+    <revision>
+      <id>887656885</id>
+      <parentid>887656862</parentid>
+      <timestamp>2019-03-19T08:10:23Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4252" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"},"nl":{"language":"nl","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56116914$E9376519-61E8-416B-B95D-FE73C7751DF6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pfpqvxdoxzgzpyfo3vb1w67a39k6iom</sha1>
+    </revision>
+    <revision>
+      <id>887656907</id>
+      <parentid>887656885</parentid>
+      <timestamp>2019-03-19T08:10:25Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4468" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"},"nl":{"language":"nl","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56116914$E9376519-61E8-416B-B95D-FE73C7751DF6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mb4tn03uiqz8xz35wrisbtbqg6sj1yl</sha1>
+    </revision>
+    <revision>
+      <id>960941336</id>
+      <parentid>887656907</parentid>
+      <timestamp>2019-06-12T19:06:33Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в лютому 1879, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4704" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"},"nl":{"language":"nl","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1879"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56116914$E9376519-61E8-416B-B95D-FE73C7751DF6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7few76ffvd5pfdncfpa2bs92sru4nuf</sha1>
+    </revision>
+    <revision>
+      <id>1129445717</id>
+      <parentid>960941336</parentid>
+      <timestamp>2020-03-05T09:05:45Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5007" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"},"nl":{"language":"nl","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1879"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56116914$E9376519-61E8-416B-B95D-FE73C7751DF6","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$AEE8F60D-2AF5-4C1A-8E73-1E6C814D2880","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lraw6n0yel53va2cqqki5rspcsu62y9</sha1>
+    </revision>
+    <revision>
+      <id>1271446887</id>
+      <parentid>1129445717</parentid>
+      <timestamp>2020-09-04T23:18:05Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Februar 1879 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5105" xml:space="preserve">{"type":"item","id":"Q56116914","labels":{"de":{"language":"de","value":"XVII.\u2014On the classification of the British Polyzoa"},"en":{"language":"en","value":"XVII.\u2014On the classification of the British Polyzoa"},"nl":{"language":"nl","value":"XVII.\u2014On the classification of the British Polyzoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 1879"},"de":{"language":"de","value":"im Februar 1879 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"64e88049206672aeb059af555f83b2983e71a234","datavalue":{"value":"10.1080\/00222937908682494","type":"string"}},"type":"statement","id":"Q56116914$2C93C8BF-24EF-4BE0-B454-C9D96353E6E2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a27fbbbd0dfedc1d4f8810d59c44204f9833a190","datavalue":{"value":"93716","type":"string"}},"type":"statement","id":"Q56116914$0EAE6FDF-E745-43E0-99FF-F513897692E4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$6571BDF2-A29B-4E07-B8B7-613675703BD8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaeae7a627b47987eb19aba726505ce978cb6bd","datavalue":{"value":{"text":"XVII.\u2014On the classification of the British Polyzoa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56116914$1BB2057C-062F-4D20-B3F3-288AB03D8D2B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56116914$DF767D91-ACA4-4016-A16B-51E34536CD13","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a9e3fbd73e3572ea7300e6f30bdbf2c4cf859487","datavalue":{"value":"153\u2013164","type":"string"}},"type":"statement","id":"Q56116914$42C65BAD-12C1-49C6-B3C4-68646847D990","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"7d6f01db1b8f35257dc700a65938153a0cc58af7","datavalue":{"value":"14","type":"string"}},"type":"statement","id":"Q56116914$BF764DCD-58FE-4241-82BE-A08AB2CE70AA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a89b6b80da6185b73bb427bf880bcbb65ef19c00","datavalue":{"value":{"time":"+1879-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56116914$17836E61-E3FB-4F7F-8C23-EE6A4CEE0D6F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1931e8598ccd238df744e40eee74dd1be4a5c176","datavalue":{"value":"Thomas Hincks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56116914$A2204671-AD30-4DA0-B1BB-66EB87DB6680","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$B3AEC36A-DFCF-4A20-9F5F-1C8054C559E4","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"544320ef299f2fa6b5c783cad2bb483bfb7f9581","datavalue":{"value":"25159184","type":"string"}},"type":"statement","id":"Q56116914$20EB2DE7-D503-443D-AADA-E66F3AB6AA8C","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56116914$E9376519-61E8-416B-B95D-FE73C7751DF6","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56116914$AEE8F60D-2AF5-4C1A-8E73-1E6C814D2880","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>06rmi6g418niiydv2mw15mqkbd0bl1i</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q102182128</title>
+    <ns>0</ns>
+    <id>98967732</id>
+    <revision>
+      <id>1310251818</id>
+      <timestamp>2020-11-21T16:52:22Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1605977536436</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5906" xml:space="preserve">{"type":"item","id":"Q102182128","labels":{"en":{"language":"en","value":"A New Genus For Cleistostoma Edwardsii Macleay, 1838 (Ocypodoidea, Camptandriidae) From South Africa"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"4468bf9b53fbf416365a61b1ea5c2bb08e815523","datavalue":{"value":"10.1163\/EJ.9789004170865.I-366.151","type":"string"}},"type":"statement","id":"Q102182128$804F2609-66CE-4445-95CB-D1DD185732F8","rank":"normal","references":[{"hash":"a6968bc1bc98fbcb2bbeff9091d654986d3b165e","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"1a7781ae5af48f33dec67b7594bf94a9588f2043","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.151","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"e4725a00a8fa14f4f3d493cff608200fb0f7cf74","datavalue":{"value":{"entity-type":"item","numeric-id":1980247,"id":"Q1980247"},"type":"wikibase-entityid"}},"type":"statement","id":"Q102182128$73690E5F-64F1-4A8A-8670-885DDD40758C","rank":"normal","references":[{"hash":"a6968bc1bc98fbcb2bbeff9091d654986d3b165e","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"1a7781ae5af48f33dec67b7594bf94a9588f2043","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.151","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b2a195868e35dd3b9f3a34e06b2f2847f454df3d","datavalue":{"value":"251-260","type":"string"}},"type":"statement","id":"Q102182128$33D3BC29-0409-4211-A83F-E82605E22D05","rank":"normal","references":[{"hash":"a6968bc1bc98fbcb2bbeff9091d654986d3b165e","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"1a7781ae5af48f33dec67b7594bf94a9588f2043","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.151","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q102182128$7ED843EF-6893-4C6D-8A8D-027D7D3D1A77","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6eaaaf0ffdce0d03372de5f9812e41a6351f64c5","datavalue":{"value":{"text":"A New Genus For Cleistostoma Edwardsii Macleay, 1838 (Ocypodoidea, Camptandriidae) From South Africa","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q102182128$426124C3-5647-49D7-A029-C245C19B7CC9","rank":"normal","references":[{"hash":"a6968bc1bc98fbcb2bbeff9091d654986d3b165e","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"1a7781ae5af48f33dec67b7594bf94a9588f2043","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.151","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1888786f7310b7802e4b9053380c6764923b6c28","datavalue":{"value":{"time":"+2010-01-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q102182128$7CFB42BF-BDB5-4E74-86CE-02EC8D3EFEAE","rank":"normal","references":[{"hash":"a6968bc1bc98fbcb2bbeff9091d654986d3b165e","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"1a7781ae5af48f33dec67b7594bf94a9588f2043","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.151","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P361":[{"mainsnak":{"snaktype":"value","property":"P361","hash":"6813e508e455080ee2a601b625c61b4b5c7e3768","datavalue":{"value":{"entity-type":"item","numeric-id":102181870,"id":"Q102181870"},"type":"wikibase-entityid"}},"type":"statement","id":"Q102182128$86F8A125-99A3-428D-BCDC-1692E8E5EB26","rank":"normal","references":[{"hash":"a6968bc1bc98fbcb2bbeff9091d654986d3b165e","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"1a7781ae5af48f33dec67b7594bf94a9588f2043","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/ej.9789004170865.i-366.151","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"0ddc4fafa3ac84b122a83adbb5bd8af2671d0f45","datavalue":{"value":"http:\/\/dx.doi.org\/10.1163\/ej.9789004170865.i-366.151","type":"string"}},"type":"statement","id":"Q102182128$586B71DB-F36F-4F2B-A3DE-94B8707CFADA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>71gc4fkx2pph9rfkr9tdnlb0f242zxo</sha1>
+    </revision>
+  </page>
+</mediawiki>

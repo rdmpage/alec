@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56099089</title>
+    <ns>0</ns>
+    <id>56044779</id>
+    <revision>
+      <id>726375475</id>
+      <timestamp>2018-08-15T12:03:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56099089","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>tk2mj3xlsrlwnrshdwldr3v00lipc9l</sha1>
+    </revision>
+    <revision>
+      <id>726375482</id>
+      <parentid>726375475</parentid>
+      <timestamp>2018-08-15T12:03:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ I.—Notes from the Gatty Marine Laboratory, St. Andrews.—No. XXXVIII</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="212" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>m2jpyawke1l1sgv36x5mz03rni6p7y9</sha1>
+    </revision>
+    <revision>
+      <id>726375487</id>
+      <parentid>726375482</parentid>
+      <timestamp>2018-08-15T12:03:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ I.—Notes from the Gatty Marine Laboratory, St. Andrews.—No. XXXVIII</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="323" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>b4fwp4effwb7fm21gmo8559d4vdu72x</sha1>
+    </revision>
+    <revision>
+      <id>726375492</id>
+      <parentid>726375487</parentid>
+      <timestamp>2018-08-15T12:03:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00222931608693750</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="589" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ld9l69711g386z1c9gd7h5yyt0rrpi3</sha1>
+    </revision>
+    <revision>
+      <id>726375499</id>
+      <parentid>726375492</parentid>
+      <timestamp>2018-08-15T12:03:59Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 98881</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="837" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kcy3blngimb4cg2os8inkn8d1y2ucf8</sha1>
+    </revision>
+    <revision>
+      <id>726375505</id>
+      <parentid>726375499</parentid>
+      <timestamp>2018-08-15T12:03:59Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1146" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7g6ht1dhbfpu0p56insueb58e13k5mr</sha1>
+    </revision>
+    <revision>
+      <id>726375510</id>
+      <parentid>726375505</parentid>
+      <timestamp>2018-08-15T12:04:00Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: I.—Notes from the Gatty Marine Laboratory, St. Andrews.—No. XXXVIII</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1500" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2hfjpmnh5twgqg9g006fjaoqd3lgm09</sha1>
+    </revision>
+    <revision>
+      <id>726375516</id>
+      <parentid>726375510</parentid>
+      <timestamp>2018-08-15T12:04:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 17</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1743" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ihq7z05ghdj2ohma3iqlmsx8x3pvota</sha1>
+    </revision>
+    <revision>
+      <id>726375523</id>
+      <parentid>726375516</parentid>
+      <timestamp>2018-08-15T12:04:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 1–68</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1993" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5927jzgnmbq7xx0v9ckyk8jhzoqni1n</sha1>
+    </revision>
+    <revision>
+      <id>726375530</id>
+      <parentid>726375523</parentid>
+      <timestamp>2018-08-15T12:04:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 97</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2236" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bsnsa4vlqilu91l8ziskcncb60qwa39</sha1>
+    </revision>
+    <revision>
+      <id>726375536</id>
+      <parentid>726375530</parentid>
+      <timestamp>2018-08-15T12:04:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: January 1916</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2616" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nu87skb467l0sh6gckhzmesx9e2jeqk</sha1>
+    </revision>
+    <revision>
+      <id>726375542</id>
+      <parentid>726375536</parentid>
+      <timestamp>2018-08-15T12:04:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: M'intosh</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2867" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b1mb5unum8ovsb4a0f6f03yxkhonisl</sha1>
+    </revision>
+    <revision>
+      <id>726375551</id>
+      <parentid>726375542</parentid>
+      <timestamp>2018-08-15T12:04:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3053" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gt948gs78cffpe5525mwbaii64scqpi</sha1>
+    </revision>
+    <revision>
+      <id>726375562</id>
+      <parentid>726375551</parentid>
+      <timestamp>2018-08-15T12:04:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19798858]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3366" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$63D516B4-865F-423D-9EA3-1316727F8B73","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>98vd3z51fu6c5uwrdhx5o3g32nbszou</sha1>
+    </revision>
+    <revision>
+      <id>738419611</id>
+      <parentid>726375562</parentid>
+      <timestamp>2018-09-02T07:05:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 18616790, According to [[Property:P5315]]=98881</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3615" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$63D516B4-865F-423D-9EA3-1316727F8B73","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8e5fd2eaa2e45bf7e8acd4a989901adaeeb5a590","datavalue":{"value":"18616790","type":"string"}},"type":"statement","id":"Q56099089$11E17C9D-2A9A-473A-95AB-04C0B25E5834","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>01ix9136xvcc29anfyi6t15em5ymypl</sha1>
+    </revision>
+    <revision>
+      <id>781359398</id>
+      <parentid>738419611</parentid>
+      <timestamp>2018-11-04T00:42:17Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3783" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"nl":{"language":"nl","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$63D516B4-865F-423D-9EA3-1316727F8B73","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8e5fd2eaa2e45bf7e8acd4a989901adaeeb5a590","datavalue":{"value":"18616790","type":"string"}},"type":"statement","id":"Q56099089$11E17C9D-2A9A-473A-95AB-04C0B25E5834","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oqfv8x57f6b08h44ceae6ckjsfoigrn</sha1>
+    </revision>
+    <revision>
+      <id>960271754</id>
+      <parentid>781359398</parentid>
+      <timestamp>2019-06-11T19:46:41Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 1916, [[:toollabs:quickstatements/#/batch/13825|batch #13825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4013" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"nl":{"language":"nl","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$63D516B4-865F-423D-9EA3-1316727F8B73","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8e5fd2eaa2e45bf7e8acd4a989901adaeeb5a590","datavalue":{"value":"18616790","type":"string"}},"type":"statement","id":"Q56099089$11E17C9D-2A9A-473A-95AB-04C0B25E5834","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2lvn1qg6nnojenhzd0chn4lh0nd05ts</sha1>
+    </revision>
+    <revision>
+      <id>1129976203</id>
+      <parentid>960271754</parentid>
+      <timestamp>2020-03-06T01:40:03Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4316" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"nl":{"language":"nl","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$63D516B4-865F-423D-9EA3-1316727F8B73","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8e5fd2eaa2e45bf7e8acd4a989901adaeeb5a590","datavalue":{"value":"18616790","type":"string"}},"type":"statement","id":"Q56099089$11E17C9D-2A9A-473A-95AB-04C0B25E5834","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$2F7AFB42-A06A-4680-B434-ECC645820935","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>53yjhcx73btpfd9v943b18lkppr1l0x</sha1>
+    </revision>
+    <revision>
+      <id>1271400490</id>
+      <parentid>1129976203</parentid>
+      <timestamp>2020-09-04T21:05:25Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1916 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4411" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"nl":{"language":"nl","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1916"},"de":{"language":"de","value":"im Jahr 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$63D516B4-865F-423D-9EA3-1316727F8B73","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8e5fd2eaa2e45bf7e8acd4a989901adaeeb5a590","datavalue":{"value":"18616790","type":"string"}},"type":"statement","id":"Q56099089$11E17C9D-2A9A-473A-95AB-04C0B25E5834","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$2F7AFB42-A06A-4680-B434-ECC645820935","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nytu1rheb7srg0ya0k7bc5blejbktsm</sha1>
+    </revision>
+    <revision>
+      <id>1559753900</id>
+      <parentid>1271400490</parentid>
+      <timestamp>2022-01-10T08:43:00Z</timestamp>
+      <contributor>
+        <username>YoaR</username>
+        <id>2858362</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ast */ artículu científicu, [[:toollabs:quickstatements/#/batch/73359|batch #73359]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4476" xml:space="preserve">{"type":"item","id":"Q56099089","labels":{"de":{"language":"de","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"en":{"language":"en","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"},"nl":{"language":"nl","value":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1916"},"de":{"language":"de","value":"im Jahr 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"81ee255f4527ac81300e5fd87a71af5d5dfe013a","datavalue":{"value":"10.1080\/00222931608693750","type":"string"}},"type":"statement","id":"Q56099089$2E875EB1-E0E6-4BBA-890D-7418FA2FA6A0","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"06cbeb167077bc9175f235d18cf63bb1db553962","datavalue":{"value":"98881","type":"string"}},"type":"statement","id":"Q56099089$C85B4065-ACB4-4F4E-A843-1F7A02DAC670","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$1D284318-50B8-455A-95B8-C5FCB4CC568A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"06598c4976a1e5bf8958e2af8b922fa8fc5aca93","datavalue":{"value":{"text":"I.\u2014Notes from the Gatty Marine Laboratory, St. Andrews.\u2014No. XXXVIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56099089$FB6E6A31-ADAF-4375-88BE-247651A62ABD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56099089$4CC7472D-0F8B-4229-BD10-E196ACE5F54A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a740c1255e3df114914442d346ffeca541cd3c29","datavalue":{"value":"1\u201368","type":"string"}},"type":"statement","id":"Q56099089$BBFDA357-18DA-4F3E-819D-C9A0E7AE3CD7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a74a61eaa124a641456e18de1a3c9494cbee0ebf","datavalue":{"value":"97","type":"string"}},"type":"statement","id":"Q56099089$0DB0D564-2DBB-4C6A-B2E3-05609C6D0E22","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56099089$A53BA0CF-2F7F-4F7E-B789-8DA1DAC0C2FC","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a09fa0cae8e82544937303dbaf31d75e116b3f04","datavalue":{"value":"M'intosh","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56099089$2F58150C-1C26-4ED0-BF48-42D6515896B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$63D516B4-865F-423D-9EA3-1316727F8B73","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"8e5fd2eaa2e45bf7e8acd4a989901adaeeb5a590","datavalue":{"value":"18616790","type":"string"}},"type":"statement","id":"Q56099089$11E17C9D-2A9A-473A-95AB-04C0B25E5834","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56099089$2F7AFB42-A06A-4680-B434-ECC645820935","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2y1v0o4eh9rljgmqc7kw8psyy3oqt9u</sha1>
+    </revision>
+  </page>
+</mediawiki>

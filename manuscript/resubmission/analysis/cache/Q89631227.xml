@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q89631227</title>
+    <ns>0</ns>
+    <id>88844347</id>
+    <revision>
+      <id>1151939143</id>
+      <timestamp>2020-04-07T04:12:23Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ [[:toollabs:quickstatements/#/batch/28555|batch #28555]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4200" xml:space="preserve">{"type":"item","id":"Q89631227","labels":{"en":{"language":"en","value":"On a remarquable fresh-water Polychaete \\\"Nereis nouhuysi\\\" from the East-Indies"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631227$0178E356-C7C6-403D-966E-96FE503FBE81","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"16784afea05f55ff8da015e45b4bb02fbb03ebf2","datavalue":{"value":{"text":"On a remarquable fresh-water Polychaete \\\"Nereis nouhuysi\\\" from the East-Indies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631227$3BBDBF6B-6985-4FB0-A63A-0C789C130EFF","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"acc248c29a5306033d9f65700af2ce135c4f78b2","datavalue":{"value":{"text":"In the year 1905 Mr.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631227$CF416374-C63C-4E59-B443-9E82976EAF78","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631227$066728DC-79CF-4273-88BD-0AC3F0590D99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3f8414a36d3020b8ad9dda08db97174f11ccbfb5","datavalue":{"value":{"time":"+1918-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q89631227$810F0BE4-3871-4139-AE0B-6FA81396210C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9cda9339ee2733a080d6a526d313c54606e24cad","datavalue":{"value":"R Horst","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631227$5B76023E-0E1A-43F1-90B2-B217A1D04E0C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"05f5f241a6de98e4d9c8ea561d1d307542c8107f","datavalue":{"value":{"entity-type":"item","numeric-id":2358748,"id":"Q2358748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631227$DB12B365-A896-46CE-8852-51BF7575D056","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q89631227$7A10BF2F-6864-47A9-90C1-73C03B3901D2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q89631227$5707D40D-5EC4-4644-919C-BC5DBB677CA3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a0e432c0bee8e7d515b295a149f225291febe95e","datavalue":{"value":"143-145","type":"string"}},"type":"statement","id":"Q89631227$C13D9F61-D669-459D-B105-AD68C3D7BB1C","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"61032d9dd59746236933dc7be8bcc369ebc8edc0","datavalue":{"value":"zoologische-mededelingen-4-143-145","type":"string"}},"type":"statement","id":"Q89631227$B7AFE412-9CB5-4CB5-A149-6DC636C65885","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"cc3dbc0ba2af4d4914ff98b4dbb433fff9bfeedc","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/document\/150085","type":"string"}},"type":"statement","id":"Q89631227$A96B06CD-D7CB-489C-AA31-39B5400558D9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"ede021dfac6b31445c2cf2fc057a4f9ca330240f","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/record\/318799","type":"string"}},"type":"statement","id":"Q89631227$460DBA1A-0594-4BFF-9AD3-5A69ACA47297","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2ug9t0ehq8ufwh0mqd3ots5f5qeszrf</sha1>
+    </revision>
+    <revision>
+      <id>1245601759</id>
+      <parentid>1151939143</parentid>
+      <timestamp>2020-08-03T01:17:45Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4375" xml:space="preserve">{"type":"item","id":"Q89631227","labels":{"en":{"language":"en","value":"On a remarquable fresh-water Polychaete \\\"Nereis nouhuysi\\\" from the East-Indies"},"nl":{"language":"nl","value":"On a remarquable fresh-water Polychaete \\\"Nereis nouhuysi\\\" from the East-Indies"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631227$0178E356-C7C6-403D-966E-96FE503FBE81","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"16784afea05f55ff8da015e45b4bb02fbb03ebf2","datavalue":{"value":{"text":"On a remarquable fresh-water Polychaete \\\"Nereis nouhuysi\\\" from the East-Indies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631227$3BBDBF6B-6985-4FB0-A63A-0C789C130EFF","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"acc248c29a5306033d9f65700af2ce135c4f78b2","datavalue":{"value":{"text":"In the year 1905 Mr.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631227$CF416374-C63C-4E59-B443-9E82976EAF78","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631227$066728DC-79CF-4273-88BD-0AC3F0590D99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"3f8414a36d3020b8ad9dda08db97174f11ccbfb5","datavalue":{"value":{"time":"+1918-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q89631227$810F0BE4-3871-4139-AE0B-6FA81396210C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9cda9339ee2733a080d6a526d313c54606e24cad","datavalue":{"value":"R Horst","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631227$5B76023E-0E1A-43F1-90B2-B217A1D04E0C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"05f5f241a6de98e4d9c8ea561d1d307542c8107f","datavalue":{"value":{"entity-type":"item","numeric-id":2358748,"id":"Q2358748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631227$DB12B365-A896-46CE-8852-51BF7575D056","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ca3c5e6054c169ee3d0dfaf660f3eecd77942070","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q89631227$7A10BF2F-6864-47A9-90C1-73C03B3901D2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q89631227$5707D40D-5EC4-4644-919C-BC5DBB677CA3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a0e432c0bee8e7d515b295a149f225291febe95e","datavalue":{"value":"143-145","type":"string"}},"type":"statement","id":"Q89631227$C13D9F61-D669-459D-B105-AD68C3D7BB1C","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"61032d9dd59746236933dc7be8bcc369ebc8edc0","datavalue":{"value":"zoologische-mededelingen-4-143-145","type":"string"}},"type":"statement","id":"Q89631227$B7AFE412-9CB5-4CB5-A149-6DC636C65885","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"cc3dbc0ba2af4d4914ff98b4dbb433fff9bfeedc","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/document\/150085","type":"string"}},"type":"statement","id":"Q89631227$A96B06CD-D7CB-489C-AA31-39B5400558D9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"ede021dfac6b31445c2cf2fc057a4f9ca330240f","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/record\/318799","type":"string"}},"type":"statement","id":"Q89631227$460DBA1A-0594-4BFF-9AD3-5A69ACA47297","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mejre4rewid30kv3otnp9zgy58nmong</sha1>
+    </revision>
+  </page>
+</mediawiki>

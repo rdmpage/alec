@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q90810492</title>
+    <ns>0</ns>
+    <id>90004427</id>
+    <revision>
+      <id>1158839162</id>
+      <timestamp>2020-04-16T13:52:17Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ [[:toollabs:quickstatements/#/batch/29992|batch #29992]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3906" xml:space="preserve">{"type":"item","id":"Q90810492","labels":{"en":{"language":"en","value":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$C695A28C-8229-4A5A-871F-1176C99B7CD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"27af43dc657dc6768ac6a0f7a4cf75f36df60362","datavalue":{"value":{"text":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q90810492$27FF6F5A-317F-4659-BBAE-2931D7CCF6D5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$E110A66E-2E42-4F53-9934-781769EC6473","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1d86f2ce72f56450d430714e5f3617b4c12f40a1","datavalue":{"value":{"time":"+1915-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q90810492$167DAB8D-166B-4B5A-9596-40C2D3D56AC0","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bf882cd44fb45d40dede089e586461fa9df49403","datavalue":{"value":"J R B Le Tomlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q90810492$22DBE771-21A5-4488-B225-1BC9FA643C96","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4332b1ccdc0fe43cb41f98f505efcead6d433d21","datavalue":{"value":{"entity-type":"item","numeric-id":42787934,"id":"Q42787934"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$9B409FFA-3EBD-4E08-B8DC-EE6C9017EA51","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03343c91350ecd674598899a3b02046ceb1891f4","datavalue":{"value":"11","type":"string"}},"type":"statement","id":"Q90810492$BC55D952-8012-488C-BBF4-A1C163B05035","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q90810492$1BED1ACB-4114-4A70-9748-F5F6EAFD8789","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d6bdf73f1d3ea81444d855875014061255550e74","datavalue":{"value":"319-320","type":"string"}},"type":"statement","id":"Q90810492$BB3B5E2B-86DA-4500-95C7-788A8CA1FB27","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ac1239bbe09d8e424687758d0926a4a48ecdea37","datavalue":{"value":"10.1093\/OXFORDJOURNALS.MOLLUS.A063587","type":"string"}},"type":"statement","id":"Q90810492$8EACB14D-6F7D-48DB-AB3D-374721EEE489","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9ef1b51136543e88c24e1c3b35f0d8fba9d95ac9","datavalue":{"value":"http:\/\/mollus.oxfordjournals.org\/content\/11\/6\/319.full.pdf","type":"string"}},"type":"statement","id":"Q90810492$7221AF35-CC1D-43CF-AE91-EC4BF92FB123","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"144404417e5d1697973c213e03c48daf78cff14e","datavalue":{"value":"http:\/\/mollus.oxfordjournals.org\/cgi\/content\/short\/11\/6\/319","type":"string"}},"type":"statement","id":"Q90810492$76CF9777-79AF-4807-8C7E-3EC11941F761","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dkz1sbykwdnimt27dnqrpy5e870nlkw</sha1>
+    </revision>
+    <revision>
+      <id>1158857662</id>
+      <parentid>1158839162</parentid>
+      <timestamp>2020-04-16T14:26:10Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4062" xml:space="preserve">{"type":"item","id":"Q90810492","labels":{"en":{"language":"en","value":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA"},"nl":{"language":"nl","value":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$C695A28C-8229-4A5A-871F-1176C99B7CD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"27af43dc657dc6768ac6a0f7a4cf75f36df60362","datavalue":{"value":{"text":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q90810492$27FF6F5A-317F-4659-BBAE-2931D7CCF6D5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$E110A66E-2E42-4F53-9934-781769EC6473","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1d86f2ce72f56450d430714e5f3617b4c12f40a1","datavalue":{"value":{"time":"+1915-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q90810492$167DAB8D-166B-4B5A-9596-40C2D3D56AC0","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bf882cd44fb45d40dede089e586461fa9df49403","datavalue":{"value":"J R B Le Tomlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q90810492$22DBE771-21A5-4488-B225-1BC9FA643C96","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4332b1ccdc0fe43cb41f98f505efcead6d433d21","datavalue":{"value":{"entity-type":"item","numeric-id":42787934,"id":"Q42787934"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$9B409FFA-3EBD-4E08-B8DC-EE6C9017EA51","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03343c91350ecd674598899a3b02046ceb1891f4","datavalue":{"value":"11","type":"string"}},"type":"statement","id":"Q90810492$BC55D952-8012-488C-BBF4-A1C163B05035","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q90810492$1BED1ACB-4114-4A70-9748-F5F6EAFD8789","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d6bdf73f1d3ea81444d855875014061255550e74","datavalue":{"value":"319-320","type":"string"}},"type":"statement","id":"Q90810492$BB3B5E2B-86DA-4500-95C7-788A8CA1FB27","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ac1239bbe09d8e424687758d0926a4a48ecdea37","datavalue":{"value":"10.1093\/OXFORDJOURNALS.MOLLUS.A063587","type":"string"}},"type":"statement","id":"Q90810492$8EACB14D-6F7D-48DB-AB3D-374721EEE489","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9ef1b51136543e88c24e1c3b35f0d8fba9d95ac9","datavalue":{"value":"http:\/\/mollus.oxfordjournals.org\/content\/11\/6\/319.full.pdf","type":"string"}},"type":"statement","id":"Q90810492$7221AF35-CC1D-43CF-AE91-EC4BF92FB123","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"144404417e5d1697973c213e03c48daf78cff14e","datavalue":{"value":"http:\/\/mollus.oxfordjournals.org\/cgi\/content\/short\/11\/6\/319","type":"string"}},"type":"statement","id":"Q90810492$76CF9777-79AF-4807-8C7E-3EC11941F761","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f1amytg35v2yqv96asc8ztui2nkzskd</sha1>
+    </revision>
+    <revision>
+      <id>1288526398</id>
+      <parentid>1158857662</parentid>
+      <timestamp>2020-10-09T03:29:43Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im August 1915 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/43648|batch #43648]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4159" xml:space="preserve">{"type":"item","id":"Q90810492","labels":{"en":{"language":"en","value":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA"},"nl":{"language":"nl","value":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im August 1915 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$C695A28C-8229-4A5A-871F-1176C99B7CD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"27af43dc657dc6768ac6a0f7a4cf75f36df60362","datavalue":{"value":{"text":"DESCRIPTION OF A NEW SPECIES OF PELTATUS FROM BRITISH EAST AFRICA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q90810492$27FF6F5A-317F-4659-BBAE-2931D7CCF6D5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$E110A66E-2E42-4F53-9934-781769EC6473","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1d86f2ce72f56450d430714e5f3617b4c12f40a1","datavalue":{"value":{"time":"+1915-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q90810492$167DAB8D-166B-4B5A-9596-40C2D3D56AC0","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bf882cd44fb45d40dede089e586461fa9df49403","datavalue":{"value":"J R B Le Tomlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q90810492$22DBE771-21A5-4488-B225-1BC9FA643C96","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4332b1ccdc0fe43cb41f98f505efcead6d433d21","datavalue":{"value":{"entity-type":"item","numeric-id":42787934,"id":"Q42787934"},"type":"wikibase-entityid"}},"type":"statement","id":"Q90810492$9B409FFA-3EBD-4E08-B8DC-EE6C9017EA51","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03343c91350ecd674598899a3b02046ceb1891f4","datavalue":{"value":"11","type":"string"}},"type":"statement","id":"Q90810492$BC55D952-8012-488C-BBF4-A1C163B05035","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q90810492$1BED1ACB-4114-4A70-9748-F5F6EAFD8789","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d6bdf73f1d3ea81444d855875014061255550e74","datavalue":{"value":"319-320","type":"string"}},"type":"statement","id":"Q90810492$BB3B5E2B-86DA-4500-95C7-788A8CA1FB27","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ac1239bbe09d8e424687758d0926a4a48ecdea37","datavalue":{"value":"10.1093\/OXFORDJOURNALS.MOLLUS.A063587","type":"string"}},"type":"statement","id":"Q90810492$8EACB14D-6F7D-48DB-AB3D-374721EEE489","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9ef1b51136543e88c24e1c3b35f0d8fba9d95ac9","datavalue":{"value":"http:\/\/mollus.oxfordjournals.org\/content\/11\/6\/319.full.pdf","type":"string"}},"type":"statement","id":"Q90810492$7221AF35-CC1D-43CF-AE91-EC4BF92FB123","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"144404417e5d1697973c213e03c48daf78cff14e","datavalue":{"value":"http:\/\/mollus.oxfordjournals.org\/cgi\/content\/short\/11\/6\/319","type":"string"}},"type":"statement","id":"Q90810492$76CF9777-79AF-4807-8C7E-3EC11941F761","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sdn9ecif55xuij2hizzjm18rfcboxsm</sha1>
+    </revision>
+  </page>
+</mediawiki>

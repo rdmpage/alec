@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56207543</title>
+    <ns>0</ns>
+    <id>56150066</id>
+    <revision>
+      <id>730587653</id>
+      <timestamp>2018-08-21T00:15:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56207543","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>egq9bd4othpk28rn6r88itg8lfknirv</sha1>
+    </revision>
+    <revision>
+      <id>730587660</id>
+      <parentid>730587653</parentid>
+      <timestamp>2018-08-21T00:15:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ The genera and subgenera of raccoons and their allies</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="188" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>4w711s1ra28jbddtllh2uaqy87cbvpu</sha1>
+    </revision>
+    <revision>
+      <id>730587665</id>
+      <parentid>730587660</parentid>
+      <timestamp>2018-08-21T00:15:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ The genera and subgenera of raccoons and their allies</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="275" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>lpyphqmr65paif68fl1u2yf0xkez6ct</sha1>
+    </revision>
+    <revision>
+      <id>730587675</id>
+      <parentid>730587665</parentid>
+      <timestamp>2018-08-21T00:15:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5479/SI.00963801.49-2100.143</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="547" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6k0w71o8mvva685e4jikgqn56tav7rz</sha1>
+    </revision>
+    <revision>
+      <id>730587683</id>
+      <parentid>730587675</parentid>
+      <timestamp>2018-08-21T00:15:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 79411</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="795" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sdxp88rj6lghsiw4ip9ik8npmikyo5e</sha1>
+    </revision>
+    <revision>
+      <id>730587691</id>
+      <parentid>730587683</parentid>
+      <timestamp>2018-08-21T00:15:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1104" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bp6f0ak8c7qm27l7vzd6sp1sroyvth9</sha1>
+    </revision>
+    <revision>
+      <id>730587695</id>
+      <parentid>730587691</parentid>
+      <timestamp>2018-08-21T00:15:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: The genera and subgenera of raccoons and their allies</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1434" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5kk0kmtws85bc6bqspgsapbtabuhm71</sha1>
+    </revision>
+    <revision>
+      <id>730587702</id>
+      <parentid>730587695</parentid>
+      <timestamp>2018-08-21T00:15:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 49</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1677" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9cc4ty7y58gtindi2l1lnre69xq2qe3</sha1>
+    </revision>
+    <revision>
+      <id>730587708</id>
+      <parentid>730587702</parentid>
+      <timestamp>2018-08-21T00:15:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 143–150</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1930" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kwnh2j1fxdz7hksf81w9h1eykr0w9yd</sha1>
+    </revision>
+    <revision>
+      <id>730587714</id>
+      <parentid>730587708</parentid>
+      <timestamp>2018-08-21T00:15:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 2100</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2175" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>inf5ubogd3uqdqlpo576cz82l0qcnui</sha1>
+    </revision>
+    <revision>
+      <id>730587724</id>
+      <parentid>730587714</parentid>
+      <timestamp>2018-08-21T00:15:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1915</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2554" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bckjzdk8rt8m0exm1cgb18szsnaw9fi</sha1>
+    </revision>
+    <revision>
+      <id>730587729</id>
+      <parentid>730587724</parentid>
+      <timestamp>2018-08-21T00:15:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Ned Hollister</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2810" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eie3e26sz6l2wjti638gg986cayrxct</sha1>
+    </revision>
+    <revision>
+      <id>730587737</id>
+      <parentid>730587729</parentid>
+      <timestamp>2018-08-21T00:15:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2996" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ddsa3vnai5g5nk81uholxie3rzg6ya2</sha1>
+    </revision>
+    <revision>
+      <id>730587742</id>
+      <parentid>730587737</parentid>
+      <timestamp>2018-08-21T00:15:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q18515885]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3309" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f7awbk17mgxi7t4z49a7o4s6we51bd7</sha1>
+    </revision>
+    <revision>
+      <id>738222659</id>
+      <parentid>730587742</parentid>
+      <timestamp>2018-09-01T23:26:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 15692226, According to [[Property:P5315]]=79411</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3558" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"534390b3b0fea5696d764c6d888f58598f70b8e8","datavalue":{"value":"15692226","type":"string"}},"type":"statement","id":"Q56207543$7BCBA0FF-BBAA-40A8-AD4C-D6E19E9D75AF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>98bkiyd82au7tjjyf05e7cov0x66xyo</sha1>
+    </revision>
+    <revision>
+      <id>779854394</id>
+      <parentid>738222659</parentid>
+      <timestamp>2018-11-02T08:37:29Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3702" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"},"nl":{"language":"nl","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"534390b3b0fea5696d764c6d888f58598f70b8e8","datavalue":{"value":"15692226","type":"string"}},"type":"statement","id":"Q56207543$7BCBA0FF-BBAA-40A8-AD4C-D6E19E9D75AF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bfci70zymfvg0sbqnk9aestxu3vjb4c</sha1>
+    </revision>
+    <revision>
+      <id>832444314</id>
+      <parentid>779854394</parentid>
+      <timestamp>2019-01-11T19:12:02Z</timestamp>
+      <contributor>
+        <username>PintochBot</username>
+        <id>2907109</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P5875]]: 266179139, add [[Property:P5875|ResearchGate publication ID]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3954" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"},"nl":{"language":"nl","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"534390b3b0fea5696d764c6d888f58598f70b8e8","datavalue":{"value":"15692226","type":"string"}},"type":"statement","id":"Q56207543$7BCBA0FF-BBAA-40A8-AD4C-D6E19E9D75AF","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"c4ce27ea38a29ad788c65ff01b2a1d59348ee802","datavalue":{"value":"266179139","type":"string"}},"type":"statement","id":"Q56207543$51734AA5-EED3-43C3-95E1-23A7BB3D78D6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oitxepc1bas05fgrcom5hkzqrdzttp3</sha1>
+    </revision>
+    <revision>
+      <id>957180000</id>
+      <parentid>832444314</parentid>
+      <timestamp>2019-06-07T05:35:45Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559871195950; Based on 1915 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4261" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"},"nl":{"language":"nl","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"534390b3b0fea5696d764c6d888f58598f70b8e8","datavalue":{"value":"15692226","type":"string"}},"type":"statement","id":"Q56207543$7BCBA0FF-BBAA-40A8-AD4C-D6E19E9D75AF","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"c4ce27ea38a29ad788c65ff01b2a1d59348ee802","datavalue":{"value":"266179139","type":"string"}},"type":"statement","id":"Q56207543$51734AA5-EED3-43C3-95E1-23A7BB3D78D6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$88589A6E-6639-4063-912F-A150DB1F1F90","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ftereqy86n1a3064mi7wq9vv5aq2qom</sha1>
+    </revision>
+    <revision>
+      <id>957180007</id>
+      <parentid>957180000</parentid>
+      <timestamp>2019-06-07T05:35:46Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559871195950</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4504" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"},"nl":{"language":"nl","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"534390b3b0fea5696d764c6d888f58598f70b8e8","datavalue":{"value":"15692226","type":"string"}},"type":"statement","id":"Q56207543$7BCBA0FF-BBAA-40A8-AD4C-D6E19E9D75AF","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"c4ce27ea38a29ad788c65ff01b2a1d59348ee802","datavalue":{"value":"266179139","type":"string"}},"type":"statement","id":"Q56207543$51734AA5-EED3-43C3-95E1-23A7BB3D78D6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56207543$88589A6E-6639-4063-912F-A150DB1F1F90","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>09alul6fs3gj23y71af410uh7t6q63s</sha1>
+    </revision>
+    <revision>
+      <id>957180011</id>
+      <parentid>957180007</parentid>
+      <timestamp>2019-06-07T05:35:47Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559871195950</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4720" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"},"nl":{"language":"nl","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"534390b3b0fea5696d764c6d888f58598f70b8e8","datavalue":{"value":"15692226","type":"string"}},"type":"statement","id":"Q56207543$7BCBA0FF-BBAA-40A8-AD4C-D6E19E9D75AF","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"c4ce27ea38a29ad788c65ff01b2a1d59348ee802","datavalue":{"value":"266179139","type":"string"}},"type":"statement","id":"Q56207543$51734AA5-EED3-43C3-95E1-23A7BB3D78D6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56207543$88589A6E-6639-4063-912F-A150DB1F1F90","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ml5nesqqenih3t3fae1awy6lionzmk4</sha1>
+    </revision>
+    <revision>
+      <id>974314982</id>
+      <parentid>957180011</parentid>
+      <timestamp>2019-07-05T04:21:19Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1915, [[:toollabs:quickstatements/#/batch/15391|batch #15391]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4919" xml:space="preserve">{"type":"item","id":"Q56207543","labels":{"de":{"language":"de","value":"The genera and subgenera of raccoons and their allies"},"en":{"language":"en","value":"The genera and subgenera of raccoons and their allies"},"nl":{"language":"nl","value":"The genera and subgenera of raccoons and their allies"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1915"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"05f24a1fb3e8e455d31d2e3dbd496ff8ae96dbde","datavalue":{"value":"10.5479\/SI.00963801.49-2100.143","type":"string"}},"type":"statement","id":"Q56207543$83A906C5-F766-40FF-91C7-F076F8571010","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3bb18323e6c7356511151dfa01b157b5beedc5f5","datavalue":{"value":"79411","type":"string"}},"type":"statement","id":"Q56207543$C7152E45-4970-4C12-B6BD-9C166E3AB54A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$B17C2E99-B226-40C7-8D43-717EDBFBB1D0","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"67679bc83746390e8f21a8042d90ca5edcfa5b2f","datavalue":{"value":{"text":"The genera and subgenera of raccoons and their allies","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56207543$AB1E18AA-5B65-4988-8E38-E27D2B2BE7C5","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7af8830fe66aa2bf4799b4192bef259b2ef53117","datavalue":{"value":"49","type":"string"}},"type":"statement","id":"Q56207543$A639FCCF-FFC5-4105-828E-C990DAEE4747","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0727664c7452718cbc3f114eee6640e463add97e","datavalue":{"value":"143\u2013150","type":"string"}},"type":"statement","id":"Q56207543$7B049505-1C62-4A5A-9D83-D1BA5E2D127A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"88a69793d27d9a627de02cd369171588f03a2f64","datavalue":{"value":"2100","type":"string"}},"type":"statement","id":"Q56207543$2CB3797B-EE97-4706-A8DB-420A3E1ABA4B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"426ec7fd87553e67cb2b7a5b30d864f48f0f85ac","datavalue":{"value":{"time":"+1915-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56207543$9594A4DB-9F3A-4240-AF5D-478C57FCE83B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"71559e2122a17295de05eed7bf5da596d513e1ed","datavalue":{"value":"Ned Hollister","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56207543$EDD8246D-D3CE-4EBD-9334-0EF0F4CCCA34","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56207543$38EE4796-5C25-4972-90A3-EFB09A25B408","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"534390b3b0fea5696d764c6d888f58598f70b8e8","datavalue":{"value":"15692226","type":"string"}},"type":"statement","id":"Q56207543$7BCBA0FF-BBAA-40A8-AD4C-D6E19E9D75AF","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"c4ce27ea38a29ad788c65ff01b2a1d59348ee802","datavalue":{"value":"266179139","type":"string"}},"type":"statement","id":"Q56207543$51734AA5-EED3-43C3-95E1-23A7BB3D78D6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56207543$88589A6E-6639-4063-912F-A150DB1F1F90","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jnnefyg558pd6gp1e2dpeq8wf1732m8</sha1>
+    </revision>
+  </page>
+</mediawiki>

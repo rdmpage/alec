@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56096736</title>
+    <ns>0</ns>
+    <id>56042635</id>
+    <revision>
+      <id>726237403</id>
+      <timestamp>2018-08-15T07:17:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56096736","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>o5l0e65s7mmi8o4e4dh4rkxma71hjpi</sha1>
+    </revision>
+    <revision>
+      <id>726237408</id>
+      <parentid>726237403</parentid>
+      <timestamp>2018-08-15T07:17:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ On a new genus and species of Siphonaptera from Nyasaland</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="192" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qk58j2j8rm0fad5j0gjo23cvjv1rkez</sha1>
+    </revision>
+    <revision>
+      <id>726237413</id>
+      <parentid>726237408</parentid>
+      <timestamp>2018-08-15T07:17:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ On a new genus and species of Siphonaptera from Nyasaland</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="283" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qs90yydybdrcaaughxb34gpogod49jh</sha1>
+    </revision>
+    <revision>
+      <id>726237416</id>
+      <parentid>726237413</parentid>
+      <timestamp>2018-08-15T07:17:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1017/S0007485300001462</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="549" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>suk9546xagcyyz5uh3i987j175unug2</sha1>
+    </revision>
+    <revision>
+      <id>726237417</id>
+      <parentid>726237416</parentid>
+      <timestamp>2018-08-15T07:17:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 98029</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="797" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9sgmb8uzxr2g1glsvsxxmnwkcpwj84u</sha1>
+    </revision>
+    <revision>
+      <id>726237420</id>
+      <parentid>726237417</parentid>
+      <timestamp>2018-08-15T07:17:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1106" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6yddoco5huer2o8yebic6yzkeghtmeh</sha1>
+    </revision>
+    <revision>
+      <id>726237426</id>
+      <parentid>726237420</parentid>
+      <timestamp>2018-08-15T07:17:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: On a new genus and species of Siphonaptera from Nyasaland</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1440" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1mm3n4hq0sgse7w8u00tyr2mt1mfnvq</sha1>
+    </revision>
+    <revision>
+      <id>726237430</id>
+      <parentid>726237426</parentid>
+      <timestamp>2018-08-15T07:17:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1682" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ktr79u4grsdziyyp5f2q8av2eiq9jzj</sha1>
+    </revision>
+    <revision>
+      <id>726237432</id>
+      <parentid>726237430</parentid>
+      <timestamp>2018-08-15T07:17:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 269</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1926" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6r824qra8b8vj8qorgu1dh71nsqtwm9</sha1>
+    </revision>
+    <revision>
+      <id>726237434</id>
+      <parentid>726237432</parentid>
+      <timestamp>2018-08-15T07:17:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 03</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2169" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>such44iali1edljnyprcljienmp8c7l</sha1>
+    </revision>
+    <revision>
+      <id>726237437</id>
+      <parentid>726237434</parentid>
+      <timestamp>2018-08-15T07:17:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: October 1911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2549" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sx356u759w9qxrzeqpu5h7hl5mk9qt7</sha1>
+    </revision>
+    <revision>
+      <id>726237440</id>
+      <parentid>726237437</parentid>
+      <timestamp>2018-08-15T07:17:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: N. Charles Rothschild</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2813" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qol5e5mw81qasqu1izznebk8j358d4e</sha1>
+    </revision>
+    <revision>
+      <id>726237445</id>
+      <parentid>726237440</parentid>
+      <timestamp>2018-08-15T07:17:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2999" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6ks5cui3c721297q70a7sf7av3pmz6j</sha1>
+    </revision>
+    <revision>
+      <id>726237450</id>
+      <parentid>726237445</parentid>
+      <timestamp>2018-08-15T07:17:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q15763806]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3312" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$7D4F7BE4-1FCC-456B-9A31-718B4D7D793B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jpi3d0adzoea8hqdnm2evmj1l8zrgyf</sha1>
+    </revision>
+    <revision>
+      <id>738415704</id>
+      <parentid>726237450</parentid>
+      <timestamp>2018-09-02T06:55:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 35840441, According to [[Property:P5315]]=98029</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3561" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$7D4F7BE4-1FCC-456B-9A31-718B4D7D793B","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"14d5462d2eca4d68086d1f9859b891ca1defb797","datavalue":{"value":"35840441","type":"string"}},"type":"statement","id":"Q56096736$41835AC9-EFCE-4C28-AB0A-E9A25FAFBD58","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8pq60yojg0s7wy84tzmeqf3vzx03oz0</sha1>
+    </revision>
+    <revision>
+      <id>781387358</id>
+      <parentid>738415704</parentid>
+      <timestamp>2018-11-04T01:34:53Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3709" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"},"nl":{"language":"nl","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$7D4F7BE4-1FCC-456B-9A31-718B4D7D793B","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"14d5462d2eca4d68086d1f9859b891ca1defb797","datavalue":{"value":"35840441","type":"string"}},"type":"statement","id":"Q56096736$41835AC9-EFCE-4C28-AB0A-E9A25FAFBD58","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fincgly5lgx4l4y094hg81whrv8iobi</sha1>
+    </revision>
+    <revision>
+      <id>970911893</id>
+      <parentid>781387358</parentid>
+      <timestamp>2019-06-29T07:01:22Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в жовтні 1911, [[:toollabs:quickstatements/#/batch/14875|batch #14875]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3945" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"},"nl":{"language":"nl","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 1911"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$7D4F7BE4-1FCC-456B-9A31-718B4D7D793B","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"14d5462d2eca4d68086d1f9859b891ca1defb797","datavalue":{"value":"35840441","type":"string"}},"type":"statement","id":"Q56096736$41835AC9-EFCE-4C28-AB0A-E9A25FAFBD58","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qy4yyyaheckh3fwxcjdmk9b3qhpqbi1</sha1>
+    </revision>
+    <revision>
+      <id>1186439746</id>
+      <parentid>970911893</parentid>
+      <timestamp>2020-05-21T14:04:52Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q52800401]], [[:toollabs:quickstatements/#/batch/34464|batch #34464]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4256" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"},"nl":{"language":"nl","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 1911"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$7D4F7BE4-1FCC-456B-9A31-718B4D7D793B","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"14d5462d2eca4d68086d1f9859b891ca1defb797","datavalue":{"value":"35840441","type":"string"}},"type":"statement","id":"Q56096736$41835AC9-EFCE-4C28-AB0A-E9A25FAFBD58","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"e8d32d67acfe69d410d599664e912fefcbe6c28c","datavalue":{"value":{"entity-type":"item","numeric-id":52800401,"id":"Q52800401"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$9983A2DC-CFB1-48F8-BC4D-0BE2F1267D03","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8mp4l42u1k800jy93rwh3atjnqore3v</sha1>
+    </revision>
+    <revision>
+      <id>1256808434</id>
+      <parentid>1186439746</parentid>
+      <timestamp>2020-08-14T13:33:06Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Oktober 1911 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/39864|batch #39864]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4354" xml:space="preserve">{"type":"item","id":"Q56096736","labels":{"de":{"language":"de","value":"On a new genus and species of Siphonaptera from Nyasaland"},"en":{"language":"en","value":"On a new genus and species of Siphonaptera from Nyasaland"},"nl":{"language":"nl","value":"On a new genus and species of Siphonaptera from Nyasaland"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 1911"},"de":{"language":"de","value":"im Oktober 1911 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"146ca32d48cfa3df136ec460ba6802ddd67410a5","datavalue":{"value":"10.1017\/S0007485300001462","type":"string"}},"type":"statement","id":"Q56096736$A6288C3E-FB7E-43D5-BC31-5B53E7B8DF35","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"42ba4bf057e5713b7d8ac80016f6de11b1dbbec9","datavalue":{"value":"98029","type":"string"}},"type":"statement","id":"Q56096736$A1B12AF8-F819-4275-8F40-15E6252F074B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$C5CB8773-6BEF-4092-BFAD-F8104960E414","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0b359bb9979f7d4d5a454bdcba7a6b7dab2fab3c","datavalue":{"value":{"text":"On a new genus and species of Siphonaptera from Nyasaland","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096736$87E6F97E-6616-4421-AB4C-C13B4DBB3BFE","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56096736$803C0D89-CDB0-4763-8B73-823AC6E16827","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3982e729e5b735430b69b16f6b428db95e9d169d","datavalue":{"value":"269","type":"string"}},"type":"statement","id":"Q56096736$B9D5C57A-DC11-404F-B261-D1FD41DB2721","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3e3bda993ac274076f53593fae02fdf09a550e7f","datavalue":{"value":"03","type":"string"}},"type":"statement","id":"Q56096736$877377FB-BCB1-4AD1-9652-6BD4590F17E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7eaac5a475d31b3e7a52f53e8a17f32b6842c5e9","datavalue":{"value":{"time":"+1911-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096736$152DCCBA-15A0-4AD6-9279-67193477DD94","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"faa419c758e641fd1af0f281d2a896614b727783","datavalue":{"value":"N. Charles Rothschild","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096736$99E09860-22B7-4D22-A37C-FD814BC228C3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$7D4F7BE4-1FCC-456B-9A31-718B4D7D793B","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"14d5462d2eca4d68086d1f9859b891ca1defb797","datavalue":{"value":"35840441","type":"string"}},"type":"statement","id":"Q56096736$41835AC9-EFCE-4C28-AB0A-E9A25FAFBD58","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"e8d32d67acfe69d410d599664e912fefcbe6c28c","datavalue":{"value":{"entity-type":"item","numeric-id":52800401,"id":"Q52800401"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096736$9983A2DC-CFB1-48F8-BC4D-0BE2F1267D03","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oohest97dfcgo4fwr4q35qs3h61mw18</sha1>
+    </revision>
+  </page>
+</mediawiki>

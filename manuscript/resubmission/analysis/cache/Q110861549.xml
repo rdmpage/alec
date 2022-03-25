@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q110861549</title>
+    <ns>0</ns>
+    <id>105884703</id>
+    <revision>
+      <id>1574837471</id>
+      <timestamp>2022-02-08T22:21:41Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1644358515662</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3993" xml:space="preserve">{"type":"item","id":"Q110861549","labels":{"en":{"language":"en","value":"New species and mating system reports in Gymnopus (Agaricales) from Costa Rica"}},"descriptions":{"en":{"language":"en","value":"Scholarly article published in 2004"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d9d3d4992387917dda6d422f35e42d02301cbde1","datavalue":{"value":{"text":"New species and mating system reports in Gymnopus (Agaricales) from Costa Rica","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q110861549$45294CA2-96BC-4FEB-8AE5-8AF5A4448132","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861549$E6677E74-AE0B-4272-A2A9-27A4F534287E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf78a3e75944a8e5c3d06fd2b1b374ea2fff238b","datavalue":{"value":{"time":"+2004-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q110861549$3C704DD1-F803-4DA1-A466-CFC8260990A2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"989a4024021bf78a639a0b731b96a0910daeba51","datavalue":{"value":"Juan L Mata","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861549$8E824B20-D51B-4B37-AB3B-AD1E99EA2317","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ec59066d3172663a78e201f58cc31ae2b3c2f29f","datavalue":{"value":"Roy E Halling","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861549$4418AC63-A00D-431A-8CF7-34FFC468C73A","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"214a5b1ccedbcbfd669989ec7b2c980802678224","datavalue":{"value":"Ronald H Petersen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861549$1E734B21-E0F8-4D2A-85DF-D557E0B48411","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6b47201c6704b8bef7950de455ada01d0348ae09","datavalue":{"value":{"entity-type":"item","numeric-id":15765496,"id":"Q15765496"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861549$DFD664AD-4C88-40F5-824C-B364B59B27DC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q110861549$37B72241-6F25-4EB3-990D-A6497F78865F","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"6ea443296784df4eb1bfa679982a0c3fff43cb69","datavalue":{"value":"https:\/\/www.fungaldiversity.org\/fdp\/sfdp\/16-3.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"0c0ee7fbc0454ac8de63ff954ae80b58ec29aec8","datavalue":{"value":"https:\/\/web.archive.org\/web\/20210413165924\/https:\/\/www.fungaldiversity.org\/fdp\/sfdp\/16-3.pdf","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q110861549$C5BDCEE7-671A-48C6-B06F-3A7AAD62F4CA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pseqro6d4j978yzbi8j4vsen7tjxgmi</sha1>
+    </revision>
+    <revision>
+      <id>1574993350</id>
+      <parentid>1574837471</parentid>
+      <timestamp>2022-02-09T12:00:50Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 113-129, #quickstatements; #temporary_batch_1644407824260</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4242" xml:space="preserve">{"type":"item","id":"Q110861549","labels":{"en":{"language":"en","value":"New species and mating system reports in Gymnopus (Agaricales) from Costa Rica"}},"descriptions":{"en":{"language":"en","value":"Scholarly article published in 2004"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d9d3d4992387917dda6d422f35e42d02301cbde1","datavalue":{"value":{"text":"New species and mating system reports in Gymnopus (Agaricales) from Costa Rica","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q110861549$45294CA2-96BC-4FEB-8AE5-8AF5A4448132","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861549$E6677E74-AE0B-4272-A2A9-27A4F534287E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf78a3e75944a8e5c3d06fd2b1b374ea2fff238b","datavalue":{"value":{"time":"+2004-06-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q110861549$3C704DD1-F803-4DA1-A466-CFC8260990A2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"989a4024021bf78a639a0b731b96a0910daeba51","datavalue":{"value":"Juan L Mata","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861549$8E824B20-D51B-4B37-AB3B-AD1E99EA2317","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ec59066d3172663a78e201f58cc31ae2b3c2f29f","datavalue":{"value":"Roy E Halling","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861549$4418AC63-A00D-431A-8CF7-34FFC468C73A","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"214a5b1ccedbcbfd669989ec7b2c980802678224","datavalue":{"value":"Ronald H Petersen","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861549$1E734B21-E0F8-4D2A-85DF-D557E0B48411","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6b47201c6704b8bef7950de455ada01d0348ae09","datavalue":{"value":{"entity-type":"item","numeric-id":15765496,"id":"Q15765496"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861549$DFD664AD-4C88-40F5-824C-B364B59B27DC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q110861549$37B72241-6F25-4EB3-990D-A6497F78865F","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"6ea443296784df4eb1bfa679982a0c3fff43cb69","datavalue":{"value":"https:\/\/www.fungaldiversity.org\/fdp\/sfdp\/16-3.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"0c0ee7fbc0454ac8de63ff954ae80b58ec29aec8","datavalue":{"value":"https:\/\/web.archive.org\/web\/20210413165924\/https:\/\/www.fungaldiversity.org\/fdp\/sfdp\/16-3.pdf","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q110861549$C5BDCEE7-671A-48C6-B06F-3A7AAD62F4CA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"69fce32bd0ea60a5bc0baee49dc7ef167b75539f","datavalue":{"value":"113-129","type":"string"}},"type":"statement","id":"Q110861549$9CE54CF3-DC7E-4171-A4FA-41D0459338D1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oeqpbiv29131lw6fhoe1dhxf8yod1ed</sha1>
+    </revision>
+  </page>
+</mediawiki>

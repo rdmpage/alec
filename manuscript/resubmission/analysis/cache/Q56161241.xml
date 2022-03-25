@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56161241</title>
+    <ns>0</ns>
+    <id>56104088</id>
+    <revision>
+      <id>728479923</id>
+      <timestamp>2018-08-18T09:43:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56161241","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>sba55pmv66mx2q9p9xn97ctgk1le6xs</sha1>
+    </revision>
+    <revision>
+      <id>728479932</id>
+      <parentid>728479923</parentid>
+      <timestamp>2018-08-18T09:43:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ XLVII.-On some new and little-known Species of Trochilida.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="193" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>blqkyc7rcayjrw9sfzdehrhqxiatv6z</sha1>
+    </revision>
+    <revision>
+      <id>728479934</id>
+      <parentid>728479932</parentid>
+      <timestamp>2018-08-18T09:43:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ XLVII.-On some new and little-known Species of Trochilida.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="285" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qwv05ws2oed749j28bstonkummmnouz</sha1>
+    </revision>
+    <revision>
+      <id>728479941</id>
+      <parentid>728479934</parentid>
+      <timestamp>2018-08-18T09:43:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1111/J.1474-919X.1881.TB06609.X</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="560" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>51nwrvb6sb5tv1lq4v7ty0eq6ocl2bw</sha1>
+    </revision>
+    <revision>
+      <id>728479944</id>
+      <parentid>728479941</parentid>
+      <timestamp>2018-08-18T09:43:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 192199</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="809" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ootku5g00x8dx5np1j28n33lxp9634o</sha1>
+    </revision>
+    <revision>
+      <id>728479948</id>
+      <parentid>728479944</parentid>
+      <timestamp>2018-08-18T09:43:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1118" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7mqzw53crtnwhblgucji4edt8h876ky</sha1>
+    </revision>
+    <revision>
+      <id>728479951</id>
+      <parentid>728479948</parentid>
+      <timestamp>2018-08-18T09:43:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: XLVII.-On some new and little-known Species of Trochilida.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1453" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>23jeiax9lpub268zb5esawmfpq9lqj0</sha1>
+    </revision>
+    <revision>
+      <id>728479956</id>
+      <parentid>728479951</parentid>
+      <timestamp>2018-08-18T09:43:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 23</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1696" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qht8skrtr8ym11dggpojjxg6wzlszxm</sha1>
+    </revision>
+    <revision>
+      <id>728479964</id>
+      <parentid>728479956</parentid>
+      <timestamp>2018-08-18T09:43:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 595–597</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1949" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>553dplm88d05nby2wdd0nbqz6ndi5ap</sha1>
+    </revision>
+    <revision>
+      <id>728479968</id>
+      <parentid>728479964</parentid>
+      <timestamp>2018-08-18T09:43:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2191" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rahveht04f546j4vydvkeoyevuzxvsm</sha1>
+    </revision>
+    <revision>
+      <id>728479971</id>
+      <parentid>728479968</parentid>
+      <timestamp>2018-08-18T09:43:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 28 June 2008</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2571" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5kz6rwxpzav6jmaj0a6mookr1afw2an</sha1>
+    </revision>
+    <revision>
+      <id>728479975</id>
+      <parentid>728479971</parentid>
+      <timestamp>2018-08-18T09:43:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Osbert Salvxn</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2827" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f0usy6arf6muxlumsdhutqzk7b4f2zd</sha1>
+    </revision>
+    <revision>
+      <id>728479980</id>
+      <parentid>728479975</parentid>
+      <timestamp>2018-08-18T09:43:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3013" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2uxl5a5k60e5p4w9llezov40rpi8660</sha1>
+    </revision>
+    <revision>
+      <id>728479985</id>
+      <parentid>728479980</parentid>
+      <timestamp>2018-08-18T09:43:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: P. D. Gtodman</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3259" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"30684c8760a711abbe4715a819b4fa0b92b19f31","datavalue":{"value":"P. D. Gtodman","type":"string"}},"type":"statement","id":"Q56161241$93EDE7A2-6367-40BE-A5A6-C8CB99D68153","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>csv7xjk6dns3ypkofk5ez87ocfohhka</sha1>
+    </revision>
+    <revision>
+      <id>728479993</id>
+      <parentid>728479985</parentid>
+      <timestamp>2018-08-18T09:43:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3445" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"30684c8760a711abbe4715a819b4fa0b92b19f31","datavalue":{"value":"P. D. Gtodman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$93EDE7A2-6367-40BE-A5A6-C8CB99D68153","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dl3ib6gnbvgc9cipsf6i2m4v5pdzc1l</sha1>
+    </revision>
+    <revision>
+      <id>728479998</id>
+      <parentid>728479993</parentid>
+      <timestamp>2018-08-18T09:43:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q1666662]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3756" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"30684c8760a711abbe4715a819b4fa0b92b19f31","datavalue":{"value":"P. D. Gtodman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$93EDE7A2-6367-40BE-A5A6-C8CB99D68153","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e980f6582338c582514b37a0587fd9ae11a6de69","datavalue":{"value":{"entity-type":"item","numeric-id":1666662,"id":"Q1666662"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$59BCF3CE-FE69-462F-978A-9088CF30C425","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9u30x6kausvi7yt3zlv8h7tfe9roh83</sha1>
+    </revision>
+    <revision>
+      <id>738819602</id>
+      <parentid>728479998</parentid>
+      <timestamp>2018-09-02T20:48:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 16251872, According to [[Property:P5315]]=192199</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4005" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"30684c8760a711abbe4715a819b4fa0b92b19f31","datavalue":{"value":"P. D. Gtodman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$93EDE7A2-6367-40BE-A5A6-C8CB99D68153","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e980f6582338c582514b37a0587fd9ae11a6de69","datavalue":{"value":{"entity-type":"item","numeric-id":1666662,"id":"Q1666662"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$59BCF3CE-FE69-462F-978A-9088CF30C425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a0d430f2cb1d5416b360bb27abd7f19a5647cb8f","datavalue":{"value":"16251872","type":"string"}},"type":"statement","id":"Q56161241$21B5A771-98F7-412E-A989-6EF6283B9119","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>85wr1ccm3mrrstmuzgdxmj7m9uy8097</sha1>
+    </revision>
+    <revision>
+      <id>780423852</id>
+      <parentid>738819602</parentid>
+      <timestamp>2018-11-02T22:44:25Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4154" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."},"nl":{"language":"nl","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"30684c8760a711abbe4715a819b4fa0b92b19f31","datavalue":{"value":"P. D. Gtodman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$93EDE7A2-6367-40BE-A5A6-C8CB99D68153","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e980f6582338c582514b37a0587fd9ae11a6de69","datavalue":{"value":{"entity-type":"item","numeric-id":1666662,"id":"Q1666662"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$59BCF3CE-FE69-462F-978A-9088CF30C425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a0d430f2cb1d5416b360bb27abd7f19a5647cb8f","datavalue":{"value":"16251872","type":"string"}},"type":"statement","id":"Q56161241$21B5A771-98F7-412E-A989-6EF6283B9119","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hdk4kopynzoo2ygj0azhfz9n2b9wb25</sha1>
+    </revision>
+    <revision>
+      <id>966589655</id>
+      <parentid>780423852</parentid>
+      <timestamp>2019-06-21T23:25:49Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в червні 2008, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4390" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."},"nl":{"language":"nl","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2008"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"30684c8760a711abbe4715a819b4fa0b92b19f31","datavalue":{"value":"P. D. Gtodman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$93EDE7A2-6367-40BE-A5A6-C8CB99D68153","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e980f6582338c582514b37a0587fd9ae11a6de69","datavalue":{"value":{"entity-type":"item","numeric-id":1666662,"id":"Q1666662"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$59BCF3CE-FE69-462F-978A-9088CF30C425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a0d430f2cb1d5416b360bb27abd7f19a5647cb8f","datavalue":{"value":"16251872","type":"string"}},"type":"statement","id":"Q56161241$21B5A771-98F7-412E-A989-6EF6283B9119","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sdxp8dok9ti1lowg10ljdwccitaarcb</sha1>
+    </revision>
+    <revision>
+      <id>1083161819</id>
+      <parentid>966589655</parentid>
+      <timestamp>2019-12-25T14:07:42Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Juni 2008 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24565|batch #24565]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4485" xml:space="preserve">{"type":"item","id":"Q56161241","labels":{"de":{"language":"de","value":"XLVII.-On some new and little-known Species of Trochilida."},"en":{"language":"en","value":"XLVII.-On some new and little-known Species of Trochilida."},"nl":{"language":"nl","value":"XLVII.-On some new and little-known Species of Trochilida."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2008"},"de":{"language":"de","value":"im Juni 2008 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c63ec6b7f889652fdcfbf3a0aa6c479dab1c1c79","datavalue":{"value":"10.1111\/J.1474-919X.1881.TB06609.X","type":"string"}},"type":"statement","id":"Q56161241$CD75AA1A-9D2A-488C-A75E-400750608D81","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d604f5af5f8cff9ef7105c224cd46edc3abb12c6","datavalue":{"value":"192199","type":"string"}},"type":"statement","id":"Q56161241$4251F578-365F-4487-AB9B-41884CD8502A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$50EA431D-BE2C-44EA-AAD8-F90E2D8B8B28","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5400d8c05304bd697b2c14ee33d8549028c98ecd","datavalue":{"value":{"text":"XLVII.-On some new and little-known Species of Trochilida.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56161241$EB2996B4-F368-44EF-935D-EFD0758D832F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q56161241$892D87C4-4AF9-4595-BEE4-E6A5D6DEED44","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"359d751d79921c247ff15d5be02f8f584cf16556","datavalue":{"value":"595\u2013597","type":"string"}},"type":"statement","id":"Q56161241$9BD86B5C-7F77-4D09-97C3-A6516844B820","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56161241$F19C3F39-A851-41C4-82F7-3E58ABC821BA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bef4e2243dcaca748284b2d0521587ce972e8583","datavalue":{"value":{"time":"+2008-06-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56161241$5C79056F-6402-4642-B529-E37214A6AB6A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"262562359ecfb4be6c788a11c5e50784454477f6","datavalue":{"value":"Osbert Salvxn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$8EB9D95B-8E88-4296-B76B-82CB93E92FBD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"30684c8760a711abbe4715a819b4fa0b92b19f31","datavalue":{"value":"P. D. Gtodman","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56161241$93EDE7A2-6367-40BE-A5A6-C8CB99D68153","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e980f6582338c582514b37a0587fd9ae11a6de69","datavalue":{"value":{"entity-type":"item","numeric-id":1666662,"id":"Q1666662"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56161241$59BCF3CE-FE69-462F-978A-9088CF30C425","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a0d430f2cb1d5416b360bb27abd7f19a5647cb8f","datavalue":{"value":"16251872","type":"string"}},"type":"statement","id":"Q56161241$21B5A771-98F7-412E-A989-6EF6283B9119","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>53yi9p4ahu4tjoa1r4dj0p4qzd5p6hj</sha1>
+    </revision>
+  </page>
+</mediawiki>

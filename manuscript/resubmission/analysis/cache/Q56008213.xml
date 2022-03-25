@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56008213</title>
+    <ns>0</ns>
+    <id>55958029</id>
+    <revision>
+      <id>722403306</id>
+      <timestamp>2018-08-07T11:03:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56008213","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8pmfuvb4kpm7f9cdl9wjnfkj74sbhdv</sha1>
+    </revision>
+    <revision>
+      <id>722403307</id>
+      <parentid>722403306</parentid>
+      <timestamp>2018-08-07T11:03:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ The Balsaminaceae in the southeastern United States</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="186" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>i4kywbflq3vetjjag677iuxpfae4e3j</sha1>
+    </revision>
+    <revision>
+      <id>722403309</id>
+      <parentid>722403307</parentid>
+      <timestamp>2018-08-07T11:03:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ The Balsaminaceae in the southeastern United States</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="271" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qxnu7bsfefsjty6r436ekvg8d9f6vte</sha1>
+    </revision>
+    <revision>
+      <id>722403311</id>
+      <parentid>722403309</parentid>
+      <timestamp>2018-08-07T11:03:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.13252</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="534" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q9fxu0haz7mppfadh2ke82waascwrht</sha1>
+    </revision>
+    <revision>
+      <id>722403313</id>
+      <parentid>722403311</parentid>
+      <timestamp>2018-08-07T11:03:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 62075</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="782" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>50ypai35zbz03jfvh9yxsc1gnbeav4r</sha1>
+    </revision>
+    <revision>
+      <id>722403316</id>
+      <parentid>722403313</parentid>
+      <timestamp>2018-08-07T11:03:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1091" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n9xmyj151dfsv0r3r48dcwh1ly43g5h</sha1>
+    </revision>
+    <revision>
+      <id>722403318</id>
+      <parentid>722403316</parentid>
+      <timestamp>2018-08-07T11:03:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: The Balsaminaceae in the southeastern United States</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1419" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p3zadka16zrje00sf7x3h91dcb5b1r4</sha1>
+    </revision>
+    <revision>
+      <id>722403320</id>
+      <parentid>722403318</parentid>
+      <timestamp>2018-08-07T11:03:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 56</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1662" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>en0jad9tu3r27l9crm4sy6nnyxfnfz0</sha1>
+    </revision>
+    <revision>
+      <id>722403322</id>
+      <parentid>722403320</parentid>
+      <timestamp>2018-08-07T11:03:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 413–426</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1915" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>88vrhh0s4bffgzfwy8lmmz1me925c0u</sha1>
+    </revision>
+    <revision>
+      <id>722403323</id>
+      <parentid>722403322</parentid>
+      <timestamp>2018-08-07T11:03:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1975</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2294" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j4buv59lmo2q5npqd4gwd5s30wqmn7a</sha1>
+    </revision>
+    <revision>
+      <id>722403325</id>
+      <parentid>722403323</parentid>
+      <timestamp>2018-08-07T11:03:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Carroll E. Wood</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2552" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>29e6sp44hoq1wxezq4yjga0m99hny1k</sha1>
+    </revision>
+    <revision>
+      <id>722403329</id>
+      <parentid>722403325</parentid>
+      <timestamp>2018-08-07T11:03:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2738" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>au7o34djpgki1dkg0377kypf9ulcnwk</sha1>
+    </revision>
+    <revision>
+      <id>722403331</id>
+      <parentid>722403329</parentid>
+      <timestamp>2018-08-07T11:03:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q1709876]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3049" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4xqoqr0yck8pypl6stlqdc1f2tbqb81</sha1>
+    </revision>
+    <revision>
+      <id>738132805</id>
+      <parentid>722403331</parentid>
+      <timestamp>2018-09-01T20:22:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 10899458, According to [[Property:P5315]]=62075</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3298" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rg4uim927e37yqy107h9544d429bfqv</sha1>
+    </revision>
+    <revision>
+      <id>784401568</id>
+      <parentid>738132805</parentid>
+      <timestamp>2018-11-08T00:51:18Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3440" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"},"nl":{"language":"nl","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5n5iit04p6rpzm1dcmqqqukuyajxbd0</sha1>
+    </revision>
+    <revision>
+      <id>803793223</id>
+      <parentid>784401568</parentid>
+      <timestamp>2018-12-02T18:28:21Z</timestamp>
+      <contributor>
+        <username>PintochBot</username>
+        <id>2907109</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P5875]]: 265235565, add [[Property:P5875|ResearchGate publication ID]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3692" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"},"nl":{"language":"nl","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"982b51309c03023bd0536feb3cedd2549987a3e4","datavalue":{"value":"265235565","type":"string"}},"type":"statement","id":"Q56008213$69D1FDFA-6074-4D5A-8CAF-C2E6EFEB172E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sbplobhj584g4nmz7j2f4lf7cb4gu2f</sha1>
+    </revision>
+    <revision>
+      <id>830261321</id>
+      <parentid>803793223</parentid>
+      <timestamp>2019-01-08T13:28:14Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q30]], #quickstatements; [[:toollabs:quickstatements/#/batch/6890|batch #6890]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3991" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"},"nl":{"language":"nl","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"982b51309c03023bd0536feb3cedd2549987a3e4","datavalue":{"value":"265235565","type":"string"}},"type":"statement","id":"Q56008213$69D1FDFA-6074-4D5A-8CAF-C2E6EFEB172E","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"747f1fc86527c52da3a5bf89f22e49195001f622","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$83CE2EF4-4EFD-44ED-B280-876C62070015","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0jcbe21pt2m6tbu2udbnspg2j4b5876</sha1>
+    </revision>
+    <revision>
+      <id>974814595</id>
+      <parentid>830261321</parentid>
+      <timestamp>2019-07-06T04:30:38Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1975, [[:toollabs:quickstatements/#/batch/15424|batch #15424]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4190" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"},"nl":{"language":"nl","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1975"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"982b51309c03023bd0536feb3cedd2549987a3e4","datavalue":{"value":"265235565","type":"string"}},"type":"statement","id":"Q56008213$69D1FDFA-6074-4D5A-8CAF-C2E6EFEB172E","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"747f1fc86527c52da3a5bf89f22e49195001f622","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$83CE2EF4-4EFD-44ED-B280-876C62070015","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2diywh0w1s25aws26o9yygeecjlz9jm</sha1>
+    </revision>
+    <revision>
+      <id>1083209867</id>
+      <parentid>974814595</parentid>
+      <timestamp>2019-12-25T15:22:05Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1975 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24566|batch #24566]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4287" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"},"nl":{"language":"nl","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1975"},"de":{"language":"de","value":"im Januar 1975 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"982b51309c03023bd0536feb3cedd2549987a3e4","datavalue":{"value":"265235565","type":"string"}},"type":"statement","id":"Q56008213$69D1FDFA-6074-4D5A-8CAF-C2E6EFEB172E","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"747f1fc86527c52da3a5bf89f22e49195001f622","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$83CE2EF4-4EFD-44ED-B280-876C62070015","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ewr3wvn0oomr7h8nmicadt707qdpuor</sha1>
+    </revision>
+    <revision>
+      <id>1293946370</id>
+      <parentid>1083209867</parentid>
+      <timestamp>2020-10-18T13:19:34Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 43782658, #quickstatements; #temporary_batch_1603026677524</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4536" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"},"nl":{"language":"nl","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1975"},"de":{"language":"de","value":"im Januar 1975 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"982b51309c03023bd0536feb3cedd2549987a3e4","datavalue":{"value":"265235565","type":"string"}},"type":"statement","id":"Q56008213$69D1FDFA-6074-4D5A-8CAF-C2E6EFEB172E","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"747f1fc86527c52da3a5bf89f22e49195001f622","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$83CE2EF4-4EFD-44ED-B280-876C62070015","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"d442408fc69534a41192ccec663750a38d9601bb","datavalue":{"value":"43782658","type":"string"}},"type":"statement","id":"Q56008213$3571BD0E-59F3-4829-8C74-DBC2E3E8F557","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>crqalzmi00ta3q8pa64moj8xo0d6bhh</sha1>
+    </revision>
+    <revision>
+      <id>1543069871</id>
+      <parentid>1293946370</parentid>
+      <timestamp>2021-12-13T07:36:51Z</timestamp>
+      <contributor>
+        <username>DrThneed</username>
+        <id>3083127</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scholarly article by Carroll E. Wood published 1975 in Journal of the Arnold Arboretum, [[:toollabs:quickstatements/#/batch/71663|batch #71663]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4656" xml:space="preserve">{"type":"item","id":"Q56008213","labels":{"de":{"language":"de","value":"The Balsaminaceae in the southeastern United States"},"en":{"language":"en","value":"The Balsaminaceae in the southeastern United States"},"nl":{"language":"nl","value":"The Balsaminaceae in the southeastern United States"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1975"},"de":{"language":"de","value":"im Januar 1975 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"en":{"language":"en","value":"scholarly article by Carroll E. Wood published 1975 in Journal of the Arnold Arboretum"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f3552ac34f49593ce497d2123f306d7808781b83","datavalue":{"value":"10.5962\/BHL.PART.13252","type":"string"}},"type":"statement","id":"Q56008213$F5925D54-BA71-4E53-B24C-8CFD8E9DCB66","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27876ca504222d2ede6157e7dabde75db151b56c","datavalue":{"value":"62075","type":"string"}},"type":"statement","id":"Q56008213$E48E2D1F-B781-4808-A3D6-BDC577066E9E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$F48AC5C5-6F23-4CFF-8021-F9E4CAECD217","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c4b5bd1e853e2df4e6529c54cf60e806552e5902","datavalue":{"value":{"text":"The Balsaminaceae in the southeastern United States","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56008213$FD1EC987-3E16-45BD-B2FE-4CFFF381CFE9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c7dba4e4e089e305a972aa5052b868e68e9ec392","datavalue":{"value":"56","type":"string"}},"type":"statement","id":"Q56008213$F8410634-B5DC-46A3-9132-E06D15911586","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3e83305406ba5edc282eea6d3b353310a34e113c","datavalue":{"value":"413\u2013426","type":"string"}},"type":"statement","id":"Q56008213$12BF8774-5B37-4239-8D7D-0520C4402C70","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"31d7d6e89687377f3cfbe7603fb9ca02a2b462a6","datavalue":{"value":{"time":"+1975-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56008213$B346B23D-79FD-4D11-AE4F-E86B0F60AF39","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fa3faca0c768e577963d46dc3c3251c22d9fe763","datavalue":{"value":"Carroll E. Wood","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56008213$EE968CE9-9F89-4CC3-B02D-6C0AA27B8E5B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$07624C46-1A26-4F9B-8113-23F6458C11F5","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d1609529031cd1f01074713e4a469cc7e21291dd","datavalue":{"value":"10899458","type":"string"}},"type":"statement","id":"Q56008213$0312B568-6C57-4B73-8E7D-5792DF95E779","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"982b51309c03023bd0536feb3cedd2549987a3e4","datavalue":{"value":"265235565","type":"string"}},"type":"statement","id":"Q56008213$69D1FDFA-6074-4D5A-8CAF-C2E6EFEB172E","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"747f1fc86527c52da3a5bf89f22e49195001f622","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56008213$83CE2EF4-4EFD-44ED-B280-876C62070015","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"d442408fc69534a41192ccec663750a38d9601bb","datavalue":{"value":"43782658","type":"string"}},"type":"statement","id":"Q56008213$3571BD0E-59F3-4829-8C74-DBC2E3E8F557","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0jr48d4gzi8q4mrwo9gdbm81zhq15e9</sha1>
+    </revision>
+  </page>
+</mediawiki>

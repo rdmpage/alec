@@ -1,0 +1,288 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55809184</title>
+    <ns>0</ns>
+    <id>55766921</id>
+    <revision>
+      <id>717593419</id>
+      <timestamp>2018-07-29T09:32:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55809184","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>sboa4aa9ify7d6ekhsnasre0773xeke</sha1>
+    </revision>
+    <revision>
+      <id>717593425</id>
+      <parentid>717593419</parentid>
+      <timestamp>2018-07-29T09:32:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Passifloraceae centrali-africanae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="174" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>du7hoaa89vnm264a44m8lk315e9mtr5</sha1>
+    </revision>
+    <revision>
+      <id>717593431</id>
+      <parentid>717593425</parentid>
+      <timestamp>2018-07-29T09:32:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Passifloraceae centrali-africanae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="247" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3mli0a9iwe0m8pzp1xj1st5s5d3nwp4</sha1>
+    </revision>
+    <revision>
+      <id>717593435</id>
+      <parentid>717593431</parentid>
+      <timestamp>2018-07-29T09:32:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/3668167</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="503" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oh2dvtfz22u7f6e1fecdalun4x2c1yn</sha1>
+    </revision>
+    <revision>
+      <id>717593437</id>
+      <parentid>717593435</parentid>
+      <timestamp>2018-07-29T09:32:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="812" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pqq3ki80somfy74zf6t58cnt8pe404u</sha1>
+    </revision>
+    <revision>
+      <id>717593442</id>
+      <parentid>717593437</parentid>
+      <timestamp>2018-07-29T09:32:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Passifloraceae centrali-africanae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1128" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7vua5yzwu3bwtxp2t4bdskvx0tzb99l</sha1>
+    </revision>
+    <revision>
+      <id>717593447</id>
+      <parentid>717593442</parentid>
+      <timestamp>2018-07-29T09:32:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 59</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1371" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sxlvs3mzi7c6q6yt7o7q12109dznb32</sha1>
+    </revision>
+    <revision>
+      <id>717593455</id>
+      <parentid>717593447</parentid>
+      <timestamp>2018-07-29T09:32:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 227</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1615" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gjxtdc51i8q3ny73rje4t2i8cduk2es</sha1>
+    </revision>
+    <revision>
+      <id>717593459</id>
+      <parentid>717593455</parentid>
+      <timestamp>2018-07-29T09:32:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 1/2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1860" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c431egm1s9cvsezj07f4gnhneqjl0su</sha1>
+    </revision>
+    <revision>
+      <id>717593465</id>
+      <parentid>717593459</parentid>
+      <timestamp>2018-07-29T09:32:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 30 June 1989</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2240" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j54r53g450wwy17fw1blym2w2icrejg</sha1>
+    </revision>
+    <revision>
+      <id>717593466</id>
+      <parentid>717593465</parentid>
+      <timestamp>2018-07-29T09:32:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: A. Robyns</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2492" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f7d2780814756c1f5aac4865fef1bc557f13d94","datavalue":{"value":"A. Robyns","type":"string"}},"type":"statement","id":"Q55809184$700E1E6A-DEFB-45EF-AB39-EE3287B33E04","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rkd162u42rh2cl7rr2gwqwovo8fmfwq</sha1>
+    </revision>
+    <revision>
+      <id>717593479</id>
+      <parentid>717593466</parentid>
+      <timestamp>2018-07-29T09:32:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2678" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f7d2780814756c1f5aac4865fef1bc557f13d94","datavalue":{"value":"A. Robyns","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809184$700E1E6A-DEFB-45EF-AB39-EE3287B33E04","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ivrbulkqcntadcqffg80hh0b1onbcs1</sha1>
+    </revision>
+    <revision>
+      <id>717593485</id>
+      <parentid>717593479</parentid>
+      <timestamp>2018-07-29T09:32:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5735512]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2989" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f7d2780814756c1f5aac4865fef1bc557f13d94","datavalue":{"value":"A. Robyns","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809184$700E1E6A-DEFB-45EF-AB39-EE3287B33E04","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8F88C21D-81F5-459C-BDB0-82E95883930C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kulafy0042e50fzrvzci20sn11qr95a</sha1>
+    </revision>
+    <revision>
+      <id>726181477</id>
+      <parentid>717593485</parentid>
+      <timestamp>2018-08-15T05:08:46Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3119" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"},"nl":{"language":"nl","value":"Passifloraceae centrali-africanae novae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f7d2780814756c1f5aac4865fef1bc557f13d94","datavalue":{"value":"A. Robyns","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809184$700E1E6A-DEFB-45EF-AB39-EE3287B33E04","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8F88C21D-81F5-459C-BDB0-82E95883930C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8dnjbb72yl077gzg0vj4ar3rt28qb2m</sha1>
+    </revision>
+    <revision>
+      <id>842515565</id>
+      <parentid>726181477</parentid>
+      <timestamp>2019-01-25T12:22:05Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 3668167, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3367" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"},"nl":{"language":"nl","value":"Passifloraceae centrali-africanae novae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f7d2780814756c1f5aac4865fef1bc557f13d94","datavalue":{"value":"A. Robyns","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809184$700E1E6A-DEFB-45EF-AB39-EE3287B33E04","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8F88C21D-81F5-459C-BDB0-82E95883930C","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"4f1227a2aacabadbab0572ab19b2541834b5a739","datavalue":{"value":"3668167","type":"string"}},"type":"statement","id":"Q55809184$4BAAB105-1F57-4A8E-9F18-6FC3D95FBDCA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3snco450whlynueqlgzw0l4jjunibny</sha1>
+    </revision>
+    <revision>
+      <id>966555755</id>
+      <parentid>842515565</parentid>
+      <timestamp>2019-06-21T22:13:35Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в червні 1989, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3603" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"},"nl":{"language":"nl","value":"Passifloraceae centrali-africanae novae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 1989"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f7d2780814756c1f5aac4865fef1bc557f13d94","datavalue":{"value":"A. Robyns","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809184$700E1E6A-DEFB-45EF-AB39-EE3287B33E04","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8F88C21D-81F5-459C-BDB0-82E95883930C","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"4f1227a2aacabadbab0572ab19b2541834b5a739","datavalue":{"value":"3668167","type":"string"}},"type":"statement","id":"Q55809184$4BAAB105-1F57-4A8E-9F18-6FC3D95FBDCA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ce8zuxr6t1ndojh29fhf4dd8lbyqk59</sha1>
+    </revision>
+    <revision>
+      <id>1193243823</id>
+      <parentid>966555755</parentid>
+      <timestamp>2020-05-29T07:40:36Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Juni 1989 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3698" xml:space="preserve">{"type":"item","id":"Q55809184","labels":{"de":{"language":"de","value":"Passifloraceae centrali-africanae novae"},"en":{"language":"en","value":"Passifloraceae centrali-africanae novae"},"nl":{"language":"nl","value":"Passifloraceae centrali-africanae novae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 1989"},"de":{"language":"de","value":"im Juni 1989 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"03d2f401d1501bdfa7d0d4a110b0f3f5c1bf367c","datavalue":{"value":"10.2307\/3668167","type":"string"}},"type":"statement","id":"Q55809184$C609B6D8-DB57-4242-90BB-5FFEFC71CA1A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8E1AE126-D2CA-473C-9A8F-B48321049282","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f44f19c962bb4c1f5de5dabfc96758d89987a39a","datavalue":{"value":{"text":"Passifloraceae centrali-africanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809184$2A8FA92C-AD75-4DF7-88E0-7B7A068D2014","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q55809184$7E8DE24D-9C44-4E70-9C67-637DD0EF6DD1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c3e966adf0c8c0f47bdc18bf98d941ba1ff93e48","datavalue":{"value":"227","type":"string"}},"type":"statement","id":"Q55809184$9DD72AFA-03BE-4FD1-BA98-9F80EF8BC87A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"554599f1335ff80829c4ffc8d4f5d68b396a954c","datavalue":{"value":"1\/2","type":"string"}},"type":"statement","id":"Q55809184$96873A45-5A98-4CD2-ADAB-0C2F46FBB0E5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"729290b59fb2d1d510b4423ed36f3ef995919797","datavalue":{"value":{"time":"+1989-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809184$8709CB30-DBB1-4EA0-811A-A81803706F35","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f7d2780814756c1f5aac4865fef1bc557f13d94","datavalue":{"value":"A. Robyns","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809184$700E1E6A-DEFB-45EF-AB39-EE3287B33E04","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809184$8F88C21D-81F5-459C-BDB0-82E95883930C","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"4f1227a2aacabadbab0572ab19b2541834b5a739","datavalue":{"value":"3668167","type":"string"}},"type":"statement","id":"Q55809184$4BAAB105-1F57-4A8E-9F18-6FC3D95FBDCA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4rxbqci6snql581nny8mqvl5ds4txf0</sha1>
+    </revision>
+  </page>
+</mediawiki>

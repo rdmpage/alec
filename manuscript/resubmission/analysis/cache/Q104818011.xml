@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104818011</title>
+    <ns>0</ns>
+    <id>100234296</id>
+    <revision>
+      <id>1340955642</id>
+      <timestamp>2021-01-14T15:12:12Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1610637060052</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4350" xml:space="preserve">{"type":"item","id":"Q104818011","labels":{"en":{"language":"en","value":"A New Species of the Genus Canna (Cannaceae) from Eastern Honduras"},"ja":{"language":"ja","value":"\u30db\u30f3\u30b8\u30e5\u30e9\u30b9\u6771\u90e8\u304b\u3089\u306e\u30ab\u30f3\u30ca\u79d1\u306e\u4e00\u65b0\u7a2e"}},"descriptions":[],"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f477580f26f92d43110452946dff4aae349d6d13","datavalue":{"value":{"text":"A New Species of the Genus Canna (Cannaceae) from Eastern Honduras","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104818011$78299C28-82E4-4412-8EF2-6DB9F61EA80D","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"22f84661e18cfc8b049494c72e5a052f6a6276db","datavalue":{"value":{"text":"\u30db\u30f3\u30b8\u30e5\u30e9\u30b9\u6771\u90e8\u304b\u3089\u306e\u30ab\u30f3\u30ca\u79d1\u306e\u4e00\u65b0\u7a2e","language":"ja"},"type":"monolingualtext"}},"type":"statement","id":"Q104818011$F44C356D-43AE-4083-B851-11F28DB0ABAA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104818011$A39F2690-ADE9-4615-99E2-850A0AAAE1CB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a4af72ab332a04e35fd1ff4bef8549f600418a3d","datavalue":{"value":{"time":"+2008-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104818011$D1D5063B-0862-4635-9FDF-4C54519B2E21","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9fc7653d2912d9bf239ba56899a70f64e7af127c","datavalue":{"value":"\u7530\u4e2d\u4f38\u5e78(Nobuyuki Tanaka)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104818011$D81B5FCC-8521-4421-8560-6CEA4EF510EA","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b897c2e86f9e2515d1120d75b907f60d77ccef1c","datavalue":{"value":{"entity-type":"item","numeric-id":5946705,"id":"Q5946705"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104818011$F8E8AF32-5067-4B41-9514-2FDF07D7AC97","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q104818011$D82603CD-74A1-4763-B76C-FC0AE3A10A97","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q104818011$A5BD99FD-C8A0-436A-8166-1CEA41107B56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ecec7c7e8f02e2346911efb31a48d2f6bce95dd8","datavalue":{"value":"007-010","type":"string"}},"type":"statement","id":"Q104818011$0931469F-FF75-4E38-BAB8-CF23ACF99C7C","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"3229176ea49ca1de991b3d8d79219422d8eabdba","datavalue":{"value":"http:\/\/www.jjbotany.com\/getpdf.php?tid=10011","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"d607cede471a6fd6790d721fa353b91b4f069351","datavalue":{"value":"https:\/\/web.archive.org\/web\/20200711162857\/http:\/\/www.jjbotany.com\/pdf\/JJB_083_007_010.pdf","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q104818011$759D6A48-69C8-440C-A9FE-6370E053E5FB","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"b1d7ec018600946c9028d4b43208908ee65b6094","datavalue":{"value":"http:\/\/www.jjbotany.com\/getpdf.php?aid=10011","type":"string"}},"type":"statement","id":"Q104818011$A1512AC6-0775-4C11-B214-AB78E10F49D7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tw9jjuv4q88vh9gecqsw97bfvxptp9h</sha1>
+    </revision>
+    <revision>
+      <id>1341000398</id>
+      <parentid>1340955642</parentid>
+      <timestamp>2021-01-14T16:30:22Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4507" xml:space="preserve">{"type":"item","id":"Q104818011","labels":{"en":{"language":"en","value":"A New Species of the Genus Canna (Cannaceae) from Eastern Honduras"},"ja":{"language":"ja","value":"\u30db\u30f3\u30b8\u30e5\u30e9\u30b9\u6771\u90e8\u304b\u3089\u306e\u30ab\u30f3\u30ca\u79d1\u306e\u4e00\u65b0\u7a2e"},"nl":{"language":"nl","value":"A New Species of the Genus Canna (Cannaceae) from Eastern Honduras"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"f477580f26f92d43110452946dff4aae349d6d13","datavalue":{"value":{"text":"A New Species of the Genus Canna (Cannaceae) from Eastern Honduras","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104818011$78299C28-82E4-4412-8EF2-6DB9F61EA80D","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"22f84661e18cfc8b049494c72e5a052f6a6276db","datavalue":{"value":{"text":"\u30db\u30f3\u30b8\u30e5\u30e9\u30b9\u6771\u90e8\u304b\u3089\u306e\u30ab\u30f3\u30ca\u79d1\u306e\u4e00\u65b0\u7a2e","language":"ja"},"type":"monolingualtext"}},"type":"statement","id":"Q104818011$F44C356D-43AE-4083-B851-11F28DB0ABAA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104818011$A39F2690-ADE9-4615-99E2-850A0AAAE1CB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"a4af72ab332a04e35fd1ff4bef8549f600418a3d","datavalue":{"value":{"time":"+2008-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104818011$D1D5063B-0862-4635-9FDF-4C54519B2E21","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9fc7653d2912d9bf239ba56899a70f64e7af127c","datavalue":{"value":"\u7530\u4e2d\u4f38\u5e78(Nobuyuki Tanaka)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104818011$D81B5FCC-8521-4421-8560-6CEA4EF510EA","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b897c2e86f9e2515d1120d75b907f60d77ccef1c","datavalue":{"value":{"entity-type":"item","numeric-id":5946705,"id":"Q5946705"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104818011$F8E8AF32-5067-4B41-9514-2FDF07D7AC97","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"89a28de9bc50b00a0906ed6f3ccbcbcde8ab87b4","datavalue":{"value":"83","type":"string"}},"type":"statement","id":"Q104818011$D82603CD-74A1-4763-B76C-FC0AE3A10A97","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q104818011$A5BD99FD-C8A0-436A-8166-1CEA41107B56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ecec7c7e8f02e2346911efb31a48d2f6bce95dd8","datavalue":{"value":"007-010","type":"string"}},"type":"statement","id":"Q104818011$0931469F-FF75-4E38-BAB8-CF23ACF99C7C","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"3229176ea49ca1de991b3d8d79219422d8eabdba","datavalue":{"value":"http:\/\/www.jjbotany.com\/getpdf.php?tid=10011","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"d607cede471a6fd6790d721fa353b91b4f069351","datavalue":{"value":"https:\/\/web.archive.org\/web\/20200711162857\/http:\/\/www.jjbotany.com\/pdf\/JJB_083_007_010.pdf","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q104818011$759D6A48-69C8-440C-A9FE-6370E053E5FB","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"b1d7ec018600946c9028d4b43208908ee65b6094","datavalue":{"value":"http:\/\/www.jjbotany.com\/getpdf.php?aid=10011","type":"string"}},"type":"statement","id":"Q104818011$A1512AC6-0775-4C11-B214-AB78E10F49D7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>39fygrh7o3ce92mdlwu5amkxgnff4qj</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q103937890</title>
+    <ns>0</ns>
+    <id>99438479</id>
+    <revision>
+      <id>1319020992</id>
+      <timestamp>2020-12-06T19:41:54Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1607283486764</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="6750" xml:space="preserve">{"type":"item","id":"Q103937890","labels":{"en":{"language":"en","value":"FAUNAS AND STRATIGRAPHY OF THE SNOWY RANGE FORMATION (UPPER CAMBRIAN) IN SOUTHWESTERN MONTANA AND NORTHWESTERN WYOMING"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8f544dd22d928683b987434d920976e6cca4aa04","datavalue":{"value":"10.1130\/MEM96-P1","type":"string"}},"type":"statement","id":"Q103937890$191D47CE-12EB-4855-9948-F6FD6E72332F","rank":"normal","references":[{"hash":"588903c4a597520d02c51633b6a18b7410c88419","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"16318248da005ea3f1d2abe90a23ce835dc287e4","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1130\/mem96-p1","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"e4725a00a8fa14f4f3d493cff608200fb0f7cf74","datavalue":{"value":{"entity-type":"item","numeric-id":1980247,"id":"Q1980247"},"type":"wikibase-entityid"}},"type":"statement","id":"Q103937890$4993C9FF-F32A-4B05-A5B0-F0FEC98C60AA","rank":"normal","references":[{"hash":"588903c4a597520d02c51633b6a18b7410c88419","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"16318248da005ea3f1d2abe90a23ce835dc287e4","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1130\/mem96-p1","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4589a5bb1e22dd307a87a24e329e2606745bfbe1","datavalue":{"value":"1-182","type":"string"}},"type":"statement","id":"Q103937890$4FC3CD34-366B-4596-98CE-C673F5FD09F0","rank":"normal","references":[{"hash":"588903c4a597520d02c51633b6a18b7410c88419","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"16318248da005ea3f1d2abe90a23ce835dc287e4","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1130\/mem96-p1","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q103937890$474AC7F4-ADB5-4055-B9B7-00B1FB401D6D","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cdf9e45d90a12351dfde8b211a7699afd870955e","datavalue":{"value":{"text":"FAUNAS AND STRATIGRAPHY OF THE SNOWY RANGE FORMATION (UPPER CAMBRIAN) IN SOUTHWESTERN MONTANA AND NORTHWESTERN WYOMING","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q103937890$4DFE6AD2-7E55-4E37-A126-A74C59481DAA","rank":"normal","references":[{"hash":"588903c4a597520d02c51633b6a18b7410c88419","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"16318248da005ea3f1d2abe90a23ce835dc287e4","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1130\/mem96-p1","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"eb7b2b7565b3b849b13183421ac961d1534ca2d8","datavalue":{"value":"Richard E. Grant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q103937890$469049B6-5534-4D2D-8D10-5F5A2DDB017A","rank":"normal","references":[{"hash":"588903c4a597520d02c51633b6a18b7410c88419","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"16318248da005ea3f1d2abe90a23ce835dc287e4","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1130\/mem96-p1","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"d22deb840b8a7d541002a221b8446dc7be78cd33","datavalue":{"value":{"entity-type":"item","numeric-id":29043976,"id":"Q29043976"},"type":"wikibase-entityid"}},"type":"statement","id":"Q103937890$200D2D4E-68E7-4945-ABF6-B84884AB2FA8","rank":"normal","references":[{"hash":"588903c4a597520d02c51633b6a18b7410c88419","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"16318248da005ea3f1d2abe90a23ce835dc287e4","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1130\/mem96-p1","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9e757cf14073228774402c9fe5082f5db1c5dfc1","datavalue":{"value":{"time":"+1965-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q103937890$3BDAB50E-48A9-414F-A5F0-5E2A06A75B3A","rank":"normal","references":[{"hash":"588903c4a597520d02c51633b6a18b7410c88419","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"16318248da005ea3f1d2abe90a23ce835dc287e4","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1130\/mem96-p1","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"92fd5c109700dfc8fd8879b51a18175867b56ee5","datavalue":{"value":"http:\/\/dx.doi.org\/10.1130\/mem96-p1","type":"string"}},"type":"statement","id":"Q103937890$C2D5EC68-34AD-4309-B427-10A5D5ECD37E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gdmovwfp4l25u70jnuvmj21iuaxh5tb</sha1>
+    </revision>
+  </page>
+</mediawiki>

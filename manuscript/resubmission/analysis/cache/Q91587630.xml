@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q91587630</title>
+    <ns>0</ns>
+    <id>90769310</id>
+    <revision>
+      <id>1164403366</id>
+      <timestamp>2020-04-23T08:41:22Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1587631272447</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3369" xml:space="preserve">{"type":"item","id":"Q91587630","labels":{"en":{"language":"en","value":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$B0925CDB-E56B-4103-BC4E-242863C37643","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d073770a8c85ac9bd952331b88c53034852fa23b","datavalue":{"value":{"text":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91587630$6A9D26A8-7443-4E8A-92E0-FC7D15A468F3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$E0AAA4C4-9968-4EB7-9671-742498ED6BE2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"319a676e9dd2d0ae245131556894042814cb56e2","datavalue":{"value":{"time":"+1997-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91587630$3989AF09-E62D-4AE0-A04F-818C9307B7BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f1664f3aaaf798ec13fb145753b2e15d0991d221","datavalue":{"value":"Jacques Florence","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91587630$E699BC7C-EEC7-48B5-A0A5-7C1B965E83B8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"62e0522fbbf0608d05bd1e30ab3b75779b60a221","datavalue":{"value":{"entity-type":"item","numeric-id":5669286,"id":"Q5669286"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$4357493E-7D8C-4E44-AAA7-AF8C947ACF82","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q91587630$B55FE5F5-232D-4DA9-9F2A-676D6BB80162","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91587630$7E396DC3-ADC9-4EC3-9751-8FDB062E8F79","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2727cf3084645a8ff5e80edf1304d79867331a0e","datavalue":{"value":"238-253","type":"string"}},"type":"statement","id":"Q91587630$6FD8A997-669C-4EF7-BFFF-E84FF61B378C","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"d2265ab6758b015bb5f2328988e0d725366d0ac4","datavalue":{"value":"23190457","type":"string"}},"type":"statement","id":"Q91587630$99031270-BAFE-4919-8314-9816FAF5B9B1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i78y2cg2qoqyzkvphktqc1zn1764oc9</sha1>
+    </revision>
+    <revision>
+      <id>1164439720</id>
+      <parentid>1164403366</parentid>
+      <timestamp>2020-04-23T09:22:39Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3575" xml:space="preserve">{"type":"item","id":"Q91587630","labels":{"en":{"language":"en","value":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands"},"nl":{"language":"nl","value":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$B0925CDB-E56B-4103-BC4E-242863C37643","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d073770a8c85ac9bd952331b88c53034852fa23b","datavalue":{"value":{"text":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91587630$6A9D26A8-7443-4E8A-92E0-FC7D15A468F3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$E0AAA4C4-9968-4EB7-9671-742498ED6BE2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"319a676e9dd2d0ae245131556894042814cb56e2","datavalue":{"value":{"time":"+1997-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91587630$3989AF09-E62D-4AE0-A04F-818C9307B7BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f1664f3aaaf798ec13fb145753b2e15d0991d221","datavalue":{"value":"Jacques Florence","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91587630$E699BC7C-EEC7-48B5-A0A5-7C1B965E83B8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"62e0522fbbf0608d05bd1e30ab3b75779b60a221","datavalue":{"value":{"entity-type":"item","numeric-id":5669286,"id":"Q5669286"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$4357493E-7D8C-4E44-AAA7-AF8C947ACF82","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q91587630$B55FE5F5-232D-4DA9-9F2A-676D6BB80162","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91587630$7E396DC3-ADC9-4EC3-9751-8FDB062E8F79","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2727cf3084645a8ff5e80edf1304d79867331a0e","datavalue":{"value":"238-253","type":"string"}},"type":"statement","id":"Q91587630$6FD8A997-669C-4EF7-BFFF-E84FF61B378C","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"d2265ab6758b015bb5f2328988e0d725366d0ac4","datavalue":{"value":"23190457","type":"string"}},"type":"statement","id":"Q91587630$99031270-BAFE-4919-8314-9816FAF5B9B1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ri8lws56wi50vvcfzrgeutk381xvmxp</sha1>
+    </revision>
+    <revision>
+      <id>1195492475</id>
+      <parentid>1164439720</parentid>
+      <timestamp>2020-05-31T21:12:12Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1997 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35608|batch #35608]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3670" xml:space="preserve">{"type":"item","id":"Q91587630","labels":{"en":{"language":"en","value":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands"},"nl":{"language":"nl","value":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Jahr 1997 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$B0925CDB-E56B-4103-BC4E-242863C37643","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d073770a8c85ac9bd952331b88c53034852fa23b","datavalue":{"value":{"text":"New Species of Plakothira (Loasaceae), Melicope (Rutaceae), and Apetahia (Campanulaceae) from the Marquesas Islands","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91587630$6A9D26A8-7443-4E8A-92E0-FC7D15A468F3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$E0AAA4C4-9968-4EB7-9671-742498ED6BE2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"319a676e9dd2d0ae245131556894042814cb56e2","datavalue":{"value":{"time":"+1997-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91587630$3989AF09-E62D-4AE0-A04F-818C9307B7BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f1664f3aaaf798ec13fb145753b2e15d0991d221","datavalue":{"value":"Jacques Florence","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91587630$E699BC7C-EEC7-48B5-A0A5-7C1B965E83B8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"62e0522fbbf0608d05bd1e30ab3b75779b60a221","datavalue":{"value":{"entity-type":"item","numeric-id":5669286,"id":"Q5669286"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91587630$4357493E-7D8C-4E44-AAA7-AF8C947ACF82","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q91587630$B55FE5F5-232D-4DA9-9F2A-676D6BB80162","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91587630$7E396DC3-ADC9-4EC3-9751-8FDB062E8F79","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2727cf3084645a8ff5e80edf1304d79867331a0e","datavalue":{"value":"238-253","type":"string"}},"type":"statement","id":"Q91587630$6FD8A997-669C-4EF7-BFFF-E84FF61B378C","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"d2265ab6758b015bb5f2328988e0d725366d0ac4","datavalue":{"value":"23190457","type":"string"}},"type":"statement","id":"Q91587630$99031270-BAFE-4919-8314-9816FAF5B9B1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ondnxkpcg4zf9h2543kvzoerhgnv9ce</sha1>
+    </revision>
+  </page>
+</mediawiki>

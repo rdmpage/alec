@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56072377</title>
+    <ns>0</ns>
+    <id>56018574</id>
+    <revision>
+      <id>725370663</id>
+      <timestamp>2018-08-13T17:37:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56072377","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6f09hmdotbar5dv3xa655b3des4iqfz</sha1>
+    </revision>
+    <revision>
+      <id>725370666</id>
+      <parentid>725370663</parentid>
+      <timestamp>2018-08-13T17:37:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="253" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ldxs6ykvtaqxom7k6jdk6yuppuzb0cf</sha1>
+    </revision>
+    <revision>
+      <id>725370674</id>
+      <parentid>725370666</parentid>
+      <timestamp>2018-08-13T17:37:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="405" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ep0z2af5kh3e338g7ibgq8h5whn8q84</sha1>
+    </revision>
+    <revision>
+      <id>725370678</id>
+      <parentid>725370674</parentid>
+      <timestamp>2018-08-13T17:37:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.7743</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="667" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>drvjgbak56hjxbrju59wng1ohfpw1vk</sha1>
+    </revision>
+    <revision>
+      <id>725370682</id>
+      <parentid>725370678</parentid>
+      <timestamp>2018-08-13T17:37:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 85331</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="915" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c8a4vcq2utq8q4ap6sykq6wopdpjhby</sha1>
+    </revision>
+    <revision>
+      <id>725370686</id>
+      <parentid>725370682</parentid>
+      <timestamp>2018-08-13T17:37:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1224" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nv8nk24o9kx9zekapbek4kjuq9536bm</sha1>
+    </revision>
+    <revision>
+      <id>725370692</id>
+      <parentid>725370686</parentid>
+      <timestamp>2018-08-13T17:37:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1619" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>metgp56ranuibzuv2s76gghc1l2imkx</sha1>
+    </revision>
+    <revision>
+      <id>725370695</id>
+      <parentid>725370692</parentid>
+      <timestamp>2018-08-13T17:37:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 46</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1862" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i2wm5xnjrv674wxq922zzsc3gin3jb5</sha1>
+    </revision>
+    <revision>
+      <id>725370699</id>
+      <parentid>725370695</parentid>
+      <timestamp>2018-08-13T17:37:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 749–762</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2115" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>106q0lnos0f1gn17kcd7uwfld6kz1nd</sha1>
+    </revision>
+    <revision>
+      <id>725370709</id>
+      <parentid>725370699</parentid>
+      <timestamp>2018-08-13T17:37:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1986</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2494" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jp2t2nteesst96xcljtexwr6e375kwx</sha1>
+    </revision>
+    <revision>
+      <id>725370713</id>
+      <parentid>725370709</parentid>
+      <timestamp>2018-08-13T17:37:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q6440472]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2805" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>by5qzqv6eekdj647ba0ew2phwkgojbv</sha1>
+    </revision>
+    <revision>
+      <id>725376567</id>
+      <parentid>725370713</parentid>
+      <timestamp>2018-08-13T17:52:13Z</timestamp>
+      <contributor>
+        <username>Reinheitsgebot</username>
+        <id>940976</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q10475106]], #quickstatements; invoked by topicmatcher_paper2taxon2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3116" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d7efaf67a7c8f7dd71c04a91df12220b481a10b0","datavalue":{"value":{"entity-type":"item","numeric-id":10475106,"id":"Q10475106"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3AF0E67D-6013-4840-A248-0E7ACF704048","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pvdwe5h9thnwst5d6s0rg1j4zapc0r0</sha1>
+    </revision>
+    <revision>
+      <id>725376577</id>
+      <parentid>725376567</parentid>
+      <timestamp>2018-08-13T17:52:15Z</timestamp>
+      <contributor>
+        <username>Reinheitsgebot</username>
+        <id>940976</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q1949029]], #quickstatements; invoked by topicmatcher_paper2taxon2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3416" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d7efaf67a7c8f7dd71c04a91df12220b481a10b0","datavalue":{"value":{"entity-type":"item","numeric-id":10475106,"id":"Q10475106"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3AF0E67D-6013-4840-A248-0E7ACF704048","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"9dc0bc56045312496da32d4237fbea7460fda375","datavalue":{"value":{"entity-type":"item","numeric-id":1949029,"id":"Q1949029"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3260E266-707A-4F35-85EE-B9DE81F9FBA2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>imtwpc3lgjgem8hmozzxkxkk3x132yx</sha1>
+    </revision>
+    <revision>
+      <id>738238096</id>
+      <parentid>725376577</parentid>
+      <timestamp>2018-09-01T23:57:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7797951, According to [[Property:P5315]]=85331</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3664" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d7efaf67a7c8f7dd71c04a91df12220b481a10b0","datavalue":{"value":{"entity-type":"item","numeric-id":10475106,"id":"Q10475106"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3AF0E67D-6013-4840-A248-0E7ACF704048","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"9dc0bc56045312496da32d4237fbea7460fda375","datavalue":{"value":{"entity-type":"item","numeric-id":1949029,"id":"Q1949029"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3260E266-707A-4F35-85EE-B9DE81F9FBA2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"560a446705f55f05b8eec9ad9f84b7cf4ac72386","datavalue":{"value":"7797951","type":"string"}},"type":"statement","id":"Q56072377$C388D118-C129-4B3F-9A72-F89112418EA1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o4ose8c1n85wmcgp1ra4bpyce09oxvl</sha1>
+    </revision>
+    <revision>
+      <id>781768461</id>
+      <parentid>738238096</parentid>
+      <timestamp>2018-11-04T12:47:51Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3873" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"nl":{"language":"nl","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d7efaf67a7c8f7dd71c04a91df12220b481a10b0","datavalue":{"value":{"entity-type":"item","numeric-id":10475106,"id":"Q10475106"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3AF0E67D-6013-4840-A248-0E7ACF704048","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"9dc0bc56045312496da32d4237fbea7460fda375","datavalue":{"value":{"entity-type":"item","numeric-id":1949029,"id":"Q1949029"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3260E266-707A-4F35-85EE-B9DE81F9FBA2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"560a446705f55f05b8eec9ad9f84b7cf4ac72386","datavalue":{"value":"7797951","type":"string"}},"type":"statement","id":"Q56072377$C388D118-C129-4B3F-9A72-F89112418EA1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1o1d1hpci94mffa5kduacs33c80axey</sha1>
+    </revision>
+    <revision>
+      <id>974731935</id>
+      <parentid>781768461</parentid>
+      <timestamp>2019-07-05T23:36:37Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1986, [[:toollabs:quickstatements/#/batch/15404|batch #15404]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4072" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"nl":{"language":"nl","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1986"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d7efaf67a7c8f7dd71c04a91df12220b481a10b0","datavalue":{"value":{"entity-type":"item","numeric-id":10475106,"id":"Q10475106"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3AF0E67D-6013-4840-A248-0E7ACF704048","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"9dc0bc56045312496da32d4237fbea7460fda375","datavalue":{"value":{"entity-type":"item","numeric-id":1949029,"id":"Q1949029"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3260E266-707A-4F35-85EE-B9DE81F9FBA2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"560a446705f55f05b8eec9ad9f84b7cf4ac72386","datavalue":{"value":"7797951","type":"string"}},"type":"statement","id":"Q56072377$C388D118-C129-4B3F-9A72-F89112418EA1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ffrcnndnpxjdie3503mzq5h8324ipps</sha1>
+    </revision>
+    <revision>
+      <id>1105324315</id>
+      <parentid>974731935</parentid>
+      <timestamp>2020-01-27T18:56:46Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1986 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25431|batch #25431]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4169" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"nl":{"language":"nl","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1986"},"de":{"language":"de","value":"im Januar 1986 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d7efaf67a7c8f7dd71c04a91df12220b481a10b0","datavalue":{"value":{"entity-type":"item","numeric-id":10475106,"id":"Q10475106"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3AF0E67D-6013-4840-A248-0E7ACF704048","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"9dc0bc56045312496da32d4237fbea7460fda375","datavalue":{"value":{"entity-type":"item","numeric-id":1949029,"id":"Q1949029"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3260E266-707A-4F35-85EE-B9DE81F9FBA2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"560a446705f55f05b8eec9ad9f84b7cf4ac72386","datavalue":{"value":"7797951","type":"string"}},"type":"statement","id":"Q56072377$C388D118-C129-4B3F-9A72-F89112418EA1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9uxr7bbgo10op4z9864j08km0dfx8lu</sha1>
+    </revision>
+    <revision>
+      <id>1529826703</id>
+      <parentid>1105324315</parentid>
+      <timestamp>2021-11-18T11:55:27Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 41712297, #quickstatements; #temporary_batch_1637236365245</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4418" xml:space="preserve">{"type":"item","id":"Q56072377","labels":{"de":{"language":"de","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"en":{"language":"en","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"},"nl":{"language":"nl","value":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1986"},"de":{"language":"de","value":"im Januar 1986 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"e47f6224a7f89a6445fea45667f494ef76122594","datavalue":{"value":"10.5962\/BHL.PART.7743","type":"string"}},"type":"statement","id":"Q56072377$60D816F2-1B52-41E4-AE02-B174BAF1A521","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"dfd6efa592b7116e75f44ddad393d90a27f8e61f","datavalue":{"value":"85331","type":"string"}},"type":"statement","id":"Q56072377$70741F71-4A0A-4C51-8DE2-75C0EC8E8397","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$0F74D84D-7BCC-4208-A16A-3ACB317508E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ffe5f34625e057962d0325388e24980aa42d795e","datavalue":{"value":{"text":"New South American leafhoppers in the genus Docalidia, with a key to 37 species (Cicadellidae: Coelidiinae, Teruliini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56072377$F2B4AB65-AFFD-4638-B948-1B38AD1E3AF1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"052b76990fdcd66040357541c3a0369f9e0a49e3","datavalue":{"value":"46","type":"string"}},"type":"statement","id":"Q56072377$7262E595-F82C-45F6-A002-934BA487C0E9","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b9eeaf33cd4dd92535add4ad8f3f19202579f7e9","datavalue":{"value":"749\u2013762","type":"string"}},"type":"statement","id":"Q56072377$3C564A5A-C82F-4D76-9819-1DD3DF15ADAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a17e46d4a2f0a91dbc56bf472d514cba2368eaf","datavalue":{"value":{"time":"+1986-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56072377$17E25927-A48D-420F-9965-65391BF0AEF8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"733f9003c582b9a0c2bff4302cde8a16ee4ca21d","datavalue":{"value":{"entity-type":"item","numeric-id":6440472,"id":"Q6440472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$191F139C-95C1-4F24-A158-D784293A07EA","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d7efaf67a7c8f7dd71c04a91df12220b481a10b0","datavalue":{"value":{"entity-type":"item","numeric-id":10475106,"id":"Q10475106"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3AF0E67D-6013-4840-A248-0E7ACF704048","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"9dc0bc56045312496da32d4237fbea7460fda375","datavalue":{"value":{"entity-type":"item","numeric-id":1949029,"id":"Q1949029"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56072377$3260E266-707A-4F35-85EE-B9DE81F9FBA2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"560a446705f55f05b8eec9ad9f84b7cf4ac72386","datavalue":{"value":"7797951","type":"string"}},"type":"statement","id":"Q56072377$C388D118-C129-4B3F-9A72-F89112418EA1","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"a8560102f704857eb1078a66bf7e693f6c8eedbb","datavalue":{"value":"41712297","type":"string"}},"type":"statement","id":"Q56072377$F4BABA56-203E-4620-85B3-94853B43893E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nlxicb2awtbiyc4el8638tq2a83lzsx</sha1>
+    </revision>
+  </page>
+</mediawiki>

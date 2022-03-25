@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56010224</title>
+    <ns>0</ns>
+    <id>55960045</id>
+    <revision>
+      <id>722480258</id>
+      <timestamp>2018-08-07T15:24:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56010224","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>92jhish54bfx5e16qypqdlneqw8bd3x</sha1>
+    </revision>
+    <revision>
+      <id>722480262</id>
+      <parentid>722480258</parentid>
+      <timestamp>2018-08-07T15:24:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Further notes on the ferns of Fiji</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="169" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>jqopdvvzh4w8b5wjh0dolyndcnow6gf</sha1>
+    </revision>
+    <revision>
+      <id>722480267</id>
+      <parentid>722480262</parentid>
+      <timestamp>2018-08-07T15:24:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Further notes on the ferns of Fiji</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="237" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>jh4xz629ot674tuk4e7kex6hunrlps9</sha1>
+    </revision>
+    <revision>
+      <id>722480270</id>
+      <parentid>722480267</parentid>
+      <timestamp>2018-08-07T15:24:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.18054</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="500" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6p17jn1pkjchlklaj61vmlxxx05s5h0</sha1>
+    </revision>
+    <revision>
+      <id>722480277</id>
+      <parentid>722480270</parentid>
+      <timestamp>2018-08-07T15:24:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 61752</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="748" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hwztj5m6sm3995rq4sgm3etc6v3u7n5</sha1>
+    </revision>
+    <revision>
+      <id>722480282</id>
+      <parentid>722480277</parentid>
+      <timestamp>2018-08-07T15:24:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1057" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5uqyvg9213yo2yrfl8tvq5a9hukav3x</sha1>
+    </revision>
+    <revision>
+      <id>722480286</id>
+      <parentid>722480282</parentid>
+      <timestamp>2018-08-07T15:24:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Further notes on the ferns of Fiji</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1368" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rpj902i35mvbh99bm78iraba3pu12t1</sha1>
+    </revision>
+    <revision>
+      <id>722480290</id>
+      <parentid>722480286</parentid>
+      <timestamp>2018-08-07T15:24:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 30</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1611" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>afuutqkm1z3jd74275pulejb2hgfbm3</sha1>
+    </revision>
+    <revision>
+      <id>722480292</id>
+      <parentid>722480290</parentid>
+      <timestamp>2018-08-07T15:24:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 433–442</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1864" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fqiecbv1s7y8kcibxoq4uqccjwtb5oc</sha1>
+    </revision>
+    <revision>
+      <id>722480296</id>
+      <parentid>722480292</parentid>
+      <timestamp>2018-08-07T15:24:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1949</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2243" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c9mwq7dd5xevgweqdpu6odc697d5szu</sha1>
+    </revision>
+    <revision>
+      <id>722480303</id>
+      <parentid>722480296</parentid>
+      <timestamp>2018-08-07T15:24:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Edwin Bingham Copeland</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2508" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c2ku75lm3497mz29gbm4t6a6mohx5dp</sha1>
+    </revision>
+    <revision>
+      <id>722480306</id>
+      <parentid>722480303</parentid>
+      <timestamp>2018-08-07T15:24:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2694" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>21n5rkqcz6pl1wz2f87sm6iuub0jk7e</sha1>
+    </revision>
+    <revision>
+      <id>722480309</id>
+      <parentid>722480306</parentid>
+      <timestamp>2018-08-07T15:24:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q1709876]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3005" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>arc7d00xzrklimrxik9a5tatp855vnn</sha1>
+    </revision>
+    <revision>
+      <id>738128140</id>
+      <parentid>722480309</parentid>
+      <timestamp>2018-09-01T20:12:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 9261433, According to [[Property:P5315]]=61752</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3253" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"299d73e7cdf8a57ace454dd39a0aefbe68920469","datavalue":{"value":"9261433","type":"string"}},"type":"statement","id":"Q56010224$148403CB-E6B8-4F2A-95D0-33748B86EF69","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tgzhizxp1zpaeq7xug4ptn4thm9glvc</sha1>
+    </revision>
+    <revision>
+      <id>784380165</id>
+      <parentid>738128140</parentid>
+      <timestamp>2018-11-08T00:10:49Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3378" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"},"nl":{"language":"nl","value":"Further notes on the ferns of Fiji"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"299d73e7cdf8a57ace454dd39a0aefbe68920469","datavalue":{"value":"9261433","type":"string"}},"type":"statement","id":"Q56010224$148403CB-E6B8-4F2A-95D0-33748B86EF69","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iqvlnftxr7jr546e0wnxq1jvjd7yzb0</sha1>
+    </revision>
+    <revision>
+      <id>973949162</id>
+      <parentid>784380165</parentid>
+      <timestamp>2019-07-04T07:20:06Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1949, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3577" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"},"nl":{"language":"nl","value":"Further notes on the ferns of Fiji"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1949"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"299d73e7cdf8a57ace454dd39a0aefbe68920469","datavalue":{"value":"9261433","type":"string"}},"type":"statement","id":"Q56010224$148403CB-E6B8-4F2A-95D0-33748B86EF69","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ryylgpeo540qdr9cvid31zftjhqm6d9</sha1>
+    </revision>
+    <revision>
+      <id>1083210235</id>
+      <parentid>973949162</parentid>
+      <timestamp>2019-12-25T15:22:38Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1949 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24566|batch #24566]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3674" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"},"nl":{"language":"nl","value":"Further notes on the ferns of Fiji"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1949"},"de":{"language":"de","value":"im Januar 1949 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"299d73e7cdf8a57ace454dd39a0aefbe68920469","datavalue":{"value":"9261433","type":"string"}},"type":"statement","id":"Q56010224$148403CB-E6B8-4F2A-95D0-33748B86EF69","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2ogsnu2ni0pt6e4o6vw6u1fw1u0wthd</sha1>
+    </revision>
+    <revision>
+      <id>1293945571</id>
+      <parentid>1083210235</parentid>
+      <timestamp>2020-10-18T13:18:07Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 43782357, #quickstatements; #temporary_batch_1603026677524</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3923" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"},"nl":{"language":"nl","value":"Further notes on the ferns of Fiji"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1949"},"de":{"language":"de","value":"im Januar 1949 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"299d73e7cdf8a57ace454dd39a0aefbe68920469","datavalue":{"value":"9261433","type":"string"}},"type":"statement","id":"Q56010224$148403CB-E6B8-4F2A-95D0-33748B86EF69","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"907fb6fb647014fc5da0719f683307325312b7e8","datavalue":{"value":"43782357","type":"string"}},"type":"statement","id":"Q56010224$68863663-7729-401E-8C23-3F5612BA076C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sb6ti941bmohmmximhovj8xg5s82osu</sha1>
+    </revision>
+    <revision>
+      <id>1471889172</id>
+      <parentid>1293945571</parentid>
+      <timestamp>2021-08-02T21:21:22Z</timestamp>
+      <contributor>
+        <username>Research Bot</username>
+        <id>2752938</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q5425748]], [[:toollabs:quickstatements/#/batch/60730|batch #60730]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4232" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"},"nl":{"language":"nl","value":"Further notes on the ferns of Fiji"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1949"},"de":{"language":"de","value":"im Januar 1949 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"299d73e7cdf8a57ace454dd39a0aefbe68920469","datavalue":{"value":"9261433","type":"string"}},"type":"statement","id":"Q56010224$148403CB-E6B8-4F2A-95D0-33748B86EF69","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"907fb6fb647014fc5da0719f683307325312b7e8","datavalue":{"value":"43782357","type":"string"}},"type":"statement","id":"Q56010224$68863663-7729-401E-8C23-3F5612BA076C","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"994677e805a559763c40a65272d961bc134a557b","datavalue":{"value":{"entity-type":"item","numeric-id":5425748,"id":"Q5425748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A21917E6-D231-4CA5-B06E-439331D6F63C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dq4v91mwyu0bx1hjun58bjjm690ohb7</sha1>
+    </revision>
+    <revision>
+      <id>1471889181</id>
+      <parentid>1471889172</parentid>
+      <timestamp>2021-08-02T21:21:23Z</timestamp>
+      <contributor>
+        <username>Research Bot</username>
+        <id>2752938</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P921]]: [[Q5425748]], [[:toollabs:quickstatements/#/batch/60730|batch #60730]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4541" xml:space="preserve">{"type":"item","id":"Q56010224","labels":{"de":{"language":"de","value":"Further notes on the ferns of Fiji"},"en":{"language":"en","value":"Further notes on the ferns of Fiji"},"nl":{"language":"nl","value":"Further notes on the ferns of Fiji"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1949"},"de":{"language":"de","value":"im Januar 1949 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c91ce7fbfc50ba44805a14dccd3131c2730a275f","datavalue":{"value":"10.5962\/BHL.PART.18054","type":"string"}},"type":"statement","id":"Q56010224$39B0E33C-CB1D-4F22-BD38-54BACFBC8E5D","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c85c647bed876a4fdc76c1329f8a243fec55e13b","datavalue":{"value":"61752","type":"string"}},"type":"statement","id":"Q56010224$9C75465B-9842-49FD-A071-8A98CA01C376","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$BD99B69E-032E-4814-9719-52A338CE2C6C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2874dab669148d922264ffa2b8810ae21fbb554e","datavalue":{"value":{"text":"Further notes on the ferns of Fiji","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56010224$92A60343-A360-45E3-A8CC-F4CD77AB0E09","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56010224$5BA0BAB1-1619-4D63-8BE3-2AEEB3DDA50B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f23f6571c144c5e511d1913ff388f4e79a8b1b8a","datavalue":{"value":"433\u2013442","type":"string"}},"type":"statement","id":"Q56010224$CDE1B54A-905D-4122-B582-2794F30AEC0B","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"27546553ee6d79cbacfa942ad68d888d55a1fbd8","datavalue":{"value":{"time":"+1949-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56010224$D848C885-6BF7-4487-BA18-084B2D5735CA","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1de3ccec3e5cbedfcb3043eacecf921cc1fe93","datavalue":{"value":"Edwin Bingham Copeland","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56010224$0B68EA16-DCAF-49C5-9833-0FB570E6D9A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A7DB932B-1CF3-477D-B21B-7EF08D52AFFF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"299d73e7cdf8a57ace454dd39a0aefbe68920469","datavalue":{"value":"9261433","type":"string"}},"type":"statement","id":"Q56010224$148403CB-E6B8-4F2A-95D0-33748B86EF69","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"907fb6fb647014fc5da0719f683307325312b7e8","datavalue":{"value":"43782357","type":"string"}},"type":"statement","id":"Q56010224$68863663-7729-401E-8C23-3F5612BA076C","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"994677e805a559763c40a65272d961bc134a557b","datavalue":{"value":{"entity-type":"item","numeric-id":5425748,"id":"Q5425748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56010224$A21917E6-D231-4CA5-B06E-439331D6F63C","rank":"normal","references":[{"hash":"0723282bb80042897ca697416c050b4bf7fb5428","snaks":{"P887":[{"snaktype":"value","property":"P887","hash":"2009eafb2646ea71bee7372b061e8521ee613fc2","datavalue":{"value":{"entity-type":"item","numeric-id":69652283,"id":"Q69652283"},"type":"wikibase-entityid"}}]},"snaks-order":["P887"]}]}]},"sitelinks":[]}</text>
+      <sha1>gc7vr21dlnovgjimahlchd2lmilgk8x</sha1>
+    </revision>
+  </page>
+</mediawiki>

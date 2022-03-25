@@ -1,0 +1,624 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56005558</title>
+    <ns>0</ns>
+    <id>55955698</id>
+    <revision>
+      <id>722305889</id>
+      <timestamp>2018-08-07T05:13:55Z</timestamp>
+      <contributor>
+        <username>GerardM</username>
+        <id>4731</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|en */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="143" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8otsxk50vi3d1ma4h5x0x9vrjjii1b6</sha1>
+    </revision>
+    <revision>
+      <id>722305935</id>
+      <parentid>722305889</parentid>
+      <timestamp>2018-08-07T05:14:07Z</timestamp>
+      <contributor>
+        <username>GerardM</username>
+        <id>4731</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P31]]: [[Q16521]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="445" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ql4jk917rbw8amx6ysi4qaepqqp0i41</sha1>
+    </revision>
+    <revision>
+      <id>722305957</id>
+      <parentid>722305935</parentid>
+      <timestamp>2018-08-07T05:14:17Z</timestamp>
+      <contributor>
+        <username>GerardM</username>
+        <id>4731</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P105]]: [[Q34740]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="750" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9xgdnevrp7so95jv2id5ypapsnr6ufo</sha1>
+    </revision>
+    <revision>
+      <id>722306095</id>
+      <parentid>722305957</parentid>
+      <timestamp>2018-08-07T05:15:01Z</timestamp>
+      <contributor>
+        <username>GerardM</username>
+        <id>4731</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P356]]: 10.3390/d10030082</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1009" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pmwuioorfdm04lcc079ydoj1n5gh3og</sha1>
+    </revision>
+    <revision>
+      <id>722306816</id>
+      <parentid>722306095</parentid>
+      <timestamp>2018-08-07T05:18:30Z</timestamp>
+      <contributor>
+        <username>GerardM</username>
+        <id>4731</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P171]]: [[Q1938881]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1318" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t4vcyyqjugl3g8iaqmd4jftzff469gl</sha1>
+    </revision>
+    <revision>
+      <id>722306906</id>
+      <parentid>722306816</parentid>
+      <timestamp>2018-08-07T05:18:57Z</timestamp>
+      <contributor>
+        <username>GerardM</username>
+        <id>4731</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P225]]: Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1567" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rgv3ouswjbsjhfw2o5hxiwqw8373835</sha1>
+    </revision>
+    <revision>
+      <id>733100512</id>
+      <parentid>722306906</parentid>
+      <timestamp>2018-08-24T20:12:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1609" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t17w33qlihw048too7npay0swalyfor</sha1>
+    </revision>
+    <revision>
+      <id>733100520</id>
+      <parentid>733100512</parentid>
+      <timestamp>2018-08-24T20:12:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|it */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1651" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>73t2cyfxwbp8m1op36wst8mlo7n8f4b</sha1>
+    </revision>
+    <revision>
+      <id>733100531</id>
+      <parentid>733100520</parentid>
+      <timestamp>2018-08-24T20:12:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|es */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1693" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>szeilou5g37gfjpwzjibf8h4d8h06an</sha1>
+    </revision>
+    <revision>
+      <id>733100538</id>
+      <parentid>733100531</parentid>
+      <timestamp>2018-08-24T20:12:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|fr */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1735" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mk5efeb2zj2ta7up4tcxywt0pmpvun8</sha1>
+    </revision>
+    <revision>
+      <id>733100548</id>
+      <parentid>733100538</parentid>
+      <timestamp>2018-08-24T20:12:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|bg */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1777" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6royiaihp1bz4lnwfvbu5wl2ya3xxd0</sha1>
+    </revision>
+    <revision>
+      <id>733100556</id>
+      <parentid>733100548</parentid>
+      <timestamp>2018-08-24T20:12:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|ru */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1819" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>buyknoe61brykiork4vjkcbw35myynl</sha1>
+    </revision>
+    <revision>
+      <id>733100565</id>
+      <parentid>733100556</parentid>
+      <timestamp>2018-08-24T20:12:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|nl */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1861" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pypeo3uko41vfwlp3t8sgdaf0b8zvf1</sha1>
+    </revision>
+    <revision>
+      <id>733100575</id>
+      <parentid>733100565</parentid>
+      <timestamp>2018-08-24T20:12:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|la */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1903" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bynhmd5uucbe851vq3g8gf9axz5v54i</sha1>
+    </revision>
+    <revision>
+      <id>733100583</id>
+      <parentid>733100575</parentid>
+      <timestamp>2018-08-24T20:12:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|uk */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1945" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2l472tlqqyefcrgql9mxw2q5vltf38f</sha1>
+    </revision>
+    <revision>
+      <id>740569262</id>
+      <parentid>733100583</parentid>
+      <timestamp>2018-09-05T13:01:37Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1983" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"39048b9a1b792d0a63008bd3c19261ae32517074","datavalue":{"value":"10.3390\/d10030082","type":"string"}},"type":"statement","id":"Q56005558$5e61484c-4f2f-d786-ddae-0360fe5522e8","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1f9sm6t68nzsoga0yn8sfucv6yu78ak</sha1>
+    </revision>
+    <revision>
+      <id>742504153</id>
+      <parentid>740569262</parentid>
+      <timestamp>2018-09-08T11:16:22Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbremoveclaims-remove:1| */ [[Property:P356]]: 10.3390/d10030082, #quickstatements; [[:toollabs:quickstatements/#/batch/4246|batch #4246]] by [[User:Harej|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1724" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aikidmlz9l8ewfacdes61m7zo9uks27</sha1>
+    </revision>
+    <revision>
+      <id>742625205</id>
+      <parentid>742504153</parentid>
+      <timestamp>2018-09-08T16:38:24Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.3390/D10030082, #quickstatements; [[:toollabs:quickstatements/#/batch/4246|batch #4246]] by [[User:Harej|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1983" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r4h2rkp2d83xroaec2lxicdrzi0jnhk</sha1>
+    </revision>
+    <revision>
+      <id>854090496</id>
+      <parentid>742625205</parentid>
+      <timestamp>2019-02-09T00:01:53Z</timestamp>
+      <contributor>
+        <username>Tom.Reding</username>
+        <id>180088</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ genus of insects, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2033" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5vt8flqpiovbf6gs9hqiifdpjv0692w</sha1>
+    </revision>
+    <revision>
+      <id>877713655</id>
+      <parentid>854090496</parentid>
+      <timestamp>2019-03-08T20:20:40Z</timestamp>
+      <contributor>
+        <username>XabatuBot</username>
+        <id>3062198</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|ast */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2077" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3dyfbv7t14ette68sq4e25orgmn962b</sha1>
+    </revision>
+    <revision>
+      <id>877713664</id>
+      <parentid>877713655</parentid>
+      <timestamp>2019-03-08T20:20:40Z</timestamp>
+      <contributor>
+        <username>XabatuBot</username>
+        <id>3062198</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ast */ xéneru d'inseutos</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2135" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f4lbiz5bxsdxycmrl404rgpjgpkgfvt</sha1>
+    </revision>
+    <revision>
+      <id>1004041197</id>
+      <parentid>877713664</parentid>
+      <timestamp>2019-08-28T08:34:51Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ рід комах, [[:toollabs:quickstatements/#/batch/17831|batch #17831]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2218" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l2tb39tg851pvrlodzfhdi6x2lh7u0n</sha1>
+    </revision>
+    <revision>
+      <id>1050529616</id>
+      <parentid>1004041197</parentid>
+      <timestamp>2019-11-11T14:42:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|ga */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2260" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oyvobglkopomdol6tlh6gxxa1iexz0o</sha1>
+    </revision>
+    <revision>
+      <id>1123977253</id>
+      <parentid>1050529616</parentid>
+      <timestamp>2020-02-26T06:10:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|ro */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2302" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>armswnq3vod5o8prny4c1wzvbrc3x87</sha1>
+    </revision>
+    <revision>
+      <id>1156865513</id>
+      <parentid>1123977253</parentid>
+      <timestamp>2020-04-13T16:47:09Z</timestamp>
+      <contributor>
+        <username>BotNinja</username>
+        <id>1529466</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|bg */ род насекоми</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2403" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5mxtk4zvsp4v5vu0aahoxwxg3dxsv2p</sha1>
+    </revision>
+    <revision>
+      <id>1185773520</id>
+      <parentid>1156865513</parentid>
+      <timestamp>2020-05-20T17:13:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|pt */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2445" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a2libmbw3aj9i5r4fd3zqgigt3t47h9</sha1>
+    </revision>
+    <revision>
+      <id>1191025873</id>
+      <parentid>1185773520</parentid>
+      <timestamp>2020-05-26T22:52:45Z</timestamp>
+      <contributor>
+        <username>Mr.Ibrahembot</username>
+        <id>142191</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ar */ جنس من الحشرات, [[:toollabs:quickstatements/#/batch/35179|batch #35179]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2553" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eb1t5mmvahgfjxoi64notqzl7ap29nz</sha1>
+    </revision>
+    <revision>
+      <id>1219307212</id>
+      <parentid>1191025873</parentid>
+      <timestamp>2020-06-28T13:19:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|pl */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2595" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7dtt5wmut155006xvkrm2l8wwmue0qi</sha1>
+    </revision>
+    <revision>
+      <id>1219307231</id>
+      <parentid>1219307212</parentid>
+      <timestamp>2020-06-28T13:19:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|vi */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2637" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fy8nkhm8jwow0oyoem6rucb73lct9gv</sha1>
+    </revision>
+    <revision>
+      <id>1239438128</id>
+      <parentid>1219307231</parentid>
+      <timestamp>2020-07-26T20:25:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|sq */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2679" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0hbghzqx9ufmyy90xw3uxge8041c2f5</sha1>
+    </revision>
+    <revision>
+      <id>1253222592</id>
+      <parentid>1239438128</parentid>
+      <timestamp>2020-08-10T09:28:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|ceb */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2723" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8h4zf7ha86sjhocsdd116d8elm4dobr</sha1>
+    </revision>
+    <revision>
+      <id>1265635664</id>
+      <parentid>1253222592</parentid>
+      <timestamp>2020-08-26T06:25:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|war */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2767" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i5b5pq1bqvuy568sxkgpg7uuaho5i8v</sha1>
+    </revision>
+    <revision>
+      <id>1305531626</id>
+      <parentid>1265635664</parentid>
+      <timestamp>2020-11-12T16:56:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|fi */ Titilayo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2809" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i5ij07j71dbnzmf721dgn1f72dpghl1</sha1>
+    </revision>
+    <revision>
+      <id>1359318533</id>
+      <parentid>1305531626</parentid>
+      <timestamp>2021-02-11T22:13:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P3606]]: 955523</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3058" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l0lzzm7ji68cn4yzk43mvkea66w9pi4</sha1>
+    </revision>
+    <revision>
+      <id>1359318543</id>
+      <parentid>1359318533</parentid>
+      <timestamp>2021-02-11T22:13:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P3606]]: 955523</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3652" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal","references":[{"hash":"8f9280f478c9a348491191c3e5ac4b81faef34e4","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1c65e846218564f7d6b921ae8fc3ce0db9fa17c6","datavalue":{"value":{"entity-type":"item","numeric-id":16934719,"id":"Q16934719"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"4d782f04a60bdd299ccd6eb127c7a0109402f77d","datavalue":{"value":{"time":"+2021-02-11T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}]},"sitelinks":[]}</text>
+      <sha1>axaauxk82argxfvkb9av218datuqdhv</sha1>
+    </revision>
+    <revision>
+      <id>1431442380</id>
+      <parentid>1359318543</parentid>
+      <timestamp>2021-05-30T07:20:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P685]]: 2835226</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3900" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal","references":[{"hash":"8f9280f478c9a348491191c3e5ac4b81faef34e4","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1c65e846218564f7d6b921ae8fc3ce0db9fa17c6","datavalue":{"value":{"entity-type":"item","numeric-id":16934719,"id":"Q16934719"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"4d782f04a60bdd299ccd6eb127c7a0109402f77d","datavalue":{"value":{"time":"+2021-02-11T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P685":[{"mainsnak":{"snaktype":"value","property":"P685","hash":"cc0c743e35a2a96b77043ae9fc6bb0befee8476f","datavalue":{"value":"2835226","type":"string"}},"type":"statement","id":"Q56005558$B6DD9922-8FA8-4CC3-9CCF-89C74CE966EC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3qf30n11w1pbqj47iw38pmgat3a5x8z</sha1>
+    </revision>
+    <revision>
+      <id>1431442387</id>
+      <parentid>1431442380</parentid>
+      <timestamp>2021-05-30T07:20:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P685]]: 2835226</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4494" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"taxon"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal","references":[{"hash":"8f9280f478c9a348491191c3e5ac4b81faef34e4","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1c65e846218564f7d6b921ae8fc3ce0db9fa17c6","datavalue":{"value":{"entity-type":"item","numeric-id":16934719,"id":"Q16934719"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"4d782f04a60bdd299ccd6eb127c7a0109402f77d","datavalue":{"value":{"time":"+2021-02-11T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P685":[{"mainsnak":{"snaktype":"value","property":"P685","hash":"cc0c743e35a2a96b77043ae9fc6bb0befee8476f","datavalue":{"value":"2835226","type":"string"}},"type":"statement","id":"Q56005558$B6DD9922-8FA8-4CC3-9CCF-89C74CE966EC","rank":"normal","references":[{"hash":"0cfc3781d54b2abb6a75fab8b94b8c17109fd4d1","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1851bc60ddfbcf6f76bd45aa7124fc0d5857a379","datavalue":{"value":{"entity-type":"item","numeric-id":13711410,"id":"Q13711410"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"c4f7bd8737c6fa0bf6b555fb3eef72cd4188e105","datavalue":{"value":{"time":"+2021-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}]},"sitelinks":[]}</text>
+      <sha1>fx5bns7x1b70q6n6eh1shlmg9w27ju7</sha1>
+    </revision>
+    <revision>
+      <id>1438673320</id>
+      <parentid>1431442387</parentid>
+      <timestamp>2021-06-10T07:57:00Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ #genus-update</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4510" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"geslacht van insecten"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal","references":[{"hash":"8f9280f478c9a348491191c3e5ac4b81faef34e4","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1c65e846218564f7d6b921ae8fc3ce0db9fa17c6","datavalue":{"value":{"entity-type":"item","numeric-id":16934719,"id":"Q16934719"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"4d782f04a60bdd299ccd6eb127c7a0109402f77d","datavalue":{"value":{"time":"+2021-02-11T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P685":[{"mainsnak":{"snaktype":"value","property":"P685","hash":"cc0c743e35a2a96b77043ae9fc6bb0befee8476f","datavalue":{"value":"2835226","type":"string"}},"type":"statement","id":"Q56005558$B6DD9922-8FA8-4CC3-9CCF-89C74CE966EC","rank":"normal","references":[{"hash":"0cfc3781d54b2abb6a75fab8b94b8c17109fd4d1","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1851bc60ddfbcf6f76bd45aa7124fc0d5857a379","datavalue":{"value":{"entity-type":"item","numeric-id":13711410,"id":"Q13711410"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"c4f7bd8737c6fa0bf6b555fb3eef72cd4188e105","datavalue":{"value":{"time":"+2021-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}]},"sitelinks":[]}</text>
+      <sha1>awcyaomwhpzftgf8p7pp9vsjbne060j</sha1>
+    </revision>
+    <revision>
+      <id>1505358973</id>
+      <parentid>1438673320</parentid>
+      <timestamp>2021-09-29T13:00:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P846]]: 10873791</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4759" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"geslacht van insecten"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal","references":[{"hash":"8f9280f478c9a348491191c3e5ac4b81faef34e4","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1c65e846218564f7d6b921ae8fc3ce0db9fa17c6","datavalue":{"value":{"entity-type":"item","numeric-id":16934719,"id":"Q16934719"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"4d782f04a60bdd299ccd6eb127c7a0109402f77d","datavalue":{"value":{"time":"+2021-02-11T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P685":[{"mainsnak":{"snaktype":"value","property":"P685","hash":"cc0c743e35a2a96b77043ae9fc6bb0befee8476f","datavalue":{"value":"2835226","type":"string"}},"type":"statement","id":"Q56005558$B6DD9922-8FA8-4CC3-9CCF-89C74CE966EC","rank":"normal","references":[{"hash":"0cfc3781d54b2abb6a75fab8b94b8c17109fd4d1","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1851bc60ddfbcf6f76bd45aa7124fc0d5857a379","datavalue":{"value":{"entity-type":"item","numeric-id":13711410,"id":"Q13711410"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"c4f7bd8737c6fa0bf6b555fb3eef72cd4188e105","datavalue":{"value":{"time":"+2021-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P846":[{"mainsnak":{"snaktype":"value","property":"P846","hash":"4c00c0b16c7e3645c819e5c98f7865893bf8ca2e","datavalue":{"value":"10873791","type":"string"}},"type":"statement","id":"Q56005558$63FC9E17-6F61-4985-AFC0-C69FC05DDAD4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kods34c6582c13z56gjbwz5umsz35cq</sha1>
+    </revision>
+    <revision>
+      <id>1505358985</id>
+      <parentid>1505358973</parentid>
+      <timestamp>2021-09-29T13:00:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P846]]: 10873791</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5351" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"geslacht van insecten"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal","references":[{"hash":"8f9280f478c9a348491191c3e5ac4b81faef34e4","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1c65e846218564f7d6b921ae8fc3ce0db9fa17c6","datavalue":{"value":{"entity-type":"item","numeric-id":16934719,"id":"Q16934719"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"4d782f04a60bdd299ccd6eb127c7a0109402f77d","datavalue":{"value":{"time":"+2021-02-11T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P685":[{"mainsnak":{"snaktype":"value","property":"P685","hash":"cc0c743e35a2a96b77043ae9fc6bb0befee8476f","datavalue":{"value":"2835226","type":"string"}},"type":"statement","id":"Q56005558$B6DD9922-8FA8-4CC3-9CCF-89C74CE966EC","rank":"normal","references":[{"hash":"0cfc3781d54b2abb6a75fab8b94b8c17109fd4d1","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1851bc60ddfbcf6f76bd45aa7124fc0d5857a379","datavalue":{"value":{"entity-type":"item","numeric-id":13711410,"id":"Q13711410"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"c4f7bd8737c6fa0bf6b555fb3eef72cd4188e105","datavalue":{"value":{"time":"+2021-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P846":[{"mainsnak":{"snaktype":"value","property":"P846","hash":"4c00c0b16c7e3645c819e5c98f7865893bf8ca2e","datavalue":{"value":"10873791","type":"string"}},"type":"statement","id":"Q56005558$63FC9E17-6F61-4985-AFC0-C69FC05DDAD4","rank":"normal","references":[{"hash":"e0d6e72ed2b41fada678090540cb4f59c88c8d66","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"dbb8dd1efbe0158a5227213bd628eeac27a1da65","datavalue":{"value":{"entity-type":"item","numeric-id":1531570,"id":"Q1531570"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"85ea22a51e2754f68995adedbe871fb46b17df5f","datavalue":{"value":{"time":"+2021-09-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}]},"sitelinks":[]}</text>
+      <sha1>p0ii5r46r7l543xqsxrochdbnk5s3qa</sha1>
+    </revision>
+    <revision>
+      <id>1592523091</id>
+      <parentid>1505358985</parentid>
+      <timestamp>2022-03-12T19:00:43Z</timestamp>
+      <contributor>
+        <username>Emijrpbot</username>
+        <id>6811</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||eu, ext, pt-br, io, oc, eo, ca, ia, vo, an, gl, ie */ BOT - Adding labels (12 languages): an, ca, eo, eu, ext, gl, ia, ie, io, oc, pt-br, vo</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5863" xml:space="preserve">{"type":"item","id":"Q56005558","labels":{"en":{"language":"en","value":"Titilayo"},"de":{"language":"de","value":"Titilayo"},"it":{"language":"it","value":"Titilayo"},"es":{"language":"es","value":"Titilayo"},"fr":{"language":"fr","value":"Titilayo"},"bg":{"language":"bg","value":"Titilayo"},"ru":{"language":"ru","value":"Titilayo"},"nl":{"language":"nl","value":"Titilayo"},"la":{"language":"la","value":"Titilayo"},"uk":{"language":"uk","value":"Titilayo"},"ast":{"language":"ast","value":"Titilayo"},"ga":{"language":"ga","value":"Titilayo"},"ro":{"language":"ro","value":"Titilayo"},"pt":{"language":"pt","value":"Titilayo"},"pl":{"language":"pl","value":"Titilayo"},"vi":{"language":"vi","value":"Titilayo"},"sq":{"language":"sq","value":"Titilayo"},"ceb":{"language":"ceb","value":"Titilayo"},"war":{"language":"war","value":"Titilayo"},"fi":{"language":"fi","value":"Titilayo"},"eu":{"language":"eu","value":"Titilayo"},"ext":{"language":"ext","value":"Titilayo"},"pt-br":{"language":"pt-br","value":"Titilayo"},"io":{"language":"io","value":"Titilayo"},"oc":{"language":"oc","value":"Titilayo"},"eo":{"language":"eo","value":"Titilayo"},"ca":{"language":"ca","value":"Titilayo"},"ia":{"language":"ia","value":"Titilayo"},"vo":{"language":"vo","value":"Titilayo"},"an":{"language":"an","value":"Titilayo"},"gl":{"language":"gl","value":"Titilayo"},"ie":{"language":"ie","value":"Titilayo"}},"descriptions":{"nl":{"language":"nl","value":"geslacht van insecten"},"en":{"language":"en","value":"genus of insects"},"ast":{"language":"ast","value":"x\u00e9neru d'inseutos"},"uk":{"language":"uk","value":"\u0440\u0456\u0434 \u043a\u043e\u043c\u0430\u0445"},"bg":{"language":"bg","value":"\u0440\u043e\u0434 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u0438"},"ar":{"language":"ar","value":"\u062c\u0646\u0633 \u0645\u0646 \u0627\u0644\u062d\u0634\u0631\u0627\u062a"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"06629d890d7ab0ff85c403d8aadf57ce9809c01f","datavalue":{"value":{"entity-type":"item","numeric-id":16521,"id":"Q16521"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$d8bed283-4185-a95e-7769-73bdc56c6d63","rank":"normal"}],"P105":[{"mainsnak":{"snaktype":"value","property":"P105","hash":"c6333aece40001914ceabb5b9bc49266bafb2676","datavalue":{"value":{"entity-type":"item","numeric-id":34740,"id":"Q34740"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$703a7cc7-40f9-7b48-5399-6882f4141b91","rank":"normal"}],"P171":[{"mainsnak":{"snaktype":"value","property":"P171","hash":"39481fe295fd8b8817c55e644761ead0ed68dc51","datavalue":{"value":{"entity-type":"item","numeric-id":1938881,"id":"Q1938881"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56005558$dd2f0120-4f23-e72f-03c9-20b8d0f2bb16","rank":"normal"}],"P225":[{"mainsnak":{"snaktype":"value","property":"P225","hash":"076ca71cd58b610cf976d96a99e03ed958a11b27","datavalue":{"value":"Titilayo","type":"string"}},"type":"statement","id":"Q56005558$9be746e8-4029-ac83-1b33-8ced240ecafc","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a4ef0942e6dc14901e25db87d207d8bc4bb328dc","datavalue":{"value":"10.3390\/D10030082","type":"string"}},"type":"statement","id":"Q56005558$479EDAB2-B90E-438D-8B88-F71771030FAD","rank":"normal"}],"P3606":[{"mainsnak":{"snaktype":"value","property":"P3606","hash":"a3c9e2e1314c585fd7d272023fd74c57061b406b","datavalue":{"value":"955523","type":"string"}},"type":"statement","id":"Q56005558$90CEB0B0-3E82-4DA8-8634-83E9C1D0C61D","rank":"normal","references":[{"hash":"8f9280f478c9a348491191c3e5ac4b81faef34e4","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1c65e846218564f7d6b921ae8fc3ce0db9fa17c6","datavalue":{"value":{"entity-type":"item","numeric-id":16934719,"id":"Q16934719"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"4d782f04a60bdd299ccd6eb127c7a0109402f77d","datavalue":{"value":{"time":"+2021-02-11T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P685":[{"mainsnak":{"snaktype":"value","property":"P685","hash":"cc0c743e35a2a96b77043ae9fc6bb0befee8476f","datavalue":{"value":"2835226","type":"string"}},"type":"statement","id":"Q56005558$B6DD9922-8FA8-4CC3-9CCF-89C74CE966EC","rank":"normal","references":[{"hash":"0cfc3781d54b2abb6a75fab8b94b8c17109fd4d1","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"1851bc60ddfbcf6f76bd45aa7124fc0d5857a379","datavalue":{"value":{"entity-type":"item","numeric-id":13711410,"id":"Q13711410"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"c4f7bd8737c6fa0bf6b555fb3eef72cd4188e105","datavalue":{"value":{"time":"+2021-05-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}],"P846":[{"mainsnak":{"snaktype":"value","property":"P846","hash":"4c00c0b16c7e3645c819e5c98f7865893bf8ca2e","datavalue":{"value":"10873791","type":"string"}},"type":"statement","id":"Q56005558$63FC9E17-6F61-4985-AFC0-C69FC05DDAD4","rank":"normal","references":[{"hash":"e0d6e72ed2b41fada678090540cb4f59c88c8d66","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"dbb8dd1efbe0158a5227213bd628eeac27a1da65","datavalue":{"value":{"entity-type":"item","numeric-id":1531570,"id":"Q1531570"},"type":"wikibase-entityid"}}],"P813":[{"snaktype":"value","property":"P813","hash":"85ea22a51e2754f68995adedbe871fb46b17df5f","datavalue":{"value":{"time":"+2021-09-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}}]},"snaks-order":["P248","P813"]}]}]},"sitelinks":[]}</text>
+      <sha1>t5fgqlfy6eao13k40um3d64gqow8jde</sha1>
+    </revision>
+  </page>
+</mediawiki>

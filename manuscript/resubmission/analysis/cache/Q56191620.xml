@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56191620</title>
+    <ns>0</ns>
+    <id>56134160</id>
+    <revision>
+      <id>729662621</id>
+      <timestamp>2018-08-19T21:53:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56191620","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>c7a9n2hj3v49b227m80rc1k9t6sruxv</sha1>
+    </revision>
+    <revision>
+      <id>729662627</id>
+      <parentid>729662621</parentid>
+      <timestamp>2018-08-19T21:53:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Culture Experiments with Melampsora in Japan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="179" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3945ob9jvck01h78a41gvr31jesw6xu</sha1>
+    </revision>
+    <revision>
+      <id>729662635</id>
+      <parentid>729662627</parentid>
+      <timestamp>2018-08-19T21:53:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Culture Experiments with Melampsora in Japan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="257" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>gvmfazt7v9bboz4qsair88vu9fgoexs</sha1>
+    </revision>
+    <revision>
+      <id>729662645</id>
+      <parentid>729662635</parentid>
+      <timestamp>2018-08-19T21:53:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/2990133</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="513" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tgkmwy3twxhzswqdv0f61dlztkrij6t</sha1>
+    </revision>
+    <revision>
+      <id>729662652</id>
+      <parentid>729662645</parentid>
+      <timestamp>2018-08-19T21:53:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 11407</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="761" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>marb55i0l1zz54ljyvhmy72pft8pysw</sha1>
+    </revision>
+    <revision>
+      <id>729662658</id>
+      <parentid>729662652</parentid>
+      <timestamp>2018-08-19T21:53:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1070" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bexcegz1uq2gh7ucj9gevya9exy8t4j</sha1>
+    </revision>
+    <revision>
+      <id>729662662</id>
+      <parentid>729662658</parentid>
+      <timestamp>2018-08-19T21:53:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Culture Experiments with Melampsora in Japan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1391" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a3tsm7dxsw7veg3q8m4v2d8yi0pvosj</sha1>
+    </revision>
+    <revision>
+      <id>729662670</id>
+      <parentid>729662662</parentid>
+      <timestamp>2018-08-19T21:53:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 6</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1633" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kadk0tiz78oble863fbio9vdmrw8efk</sha1>
+    </revision>
+    <revision>
+      <id>729662675</id>
+      <parentid>729662670</parentid>
+      <timestamp>2018-08-19T21:53:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 309</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1877" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eogbks89e5lzpzd3cc46rhyi8g4wnfx</sha1>
+    </revision>
+    <revision>
+      <id>729662684</id>
+      <parentid>729662675</parentid>
+      <timestamp>2018-08-19T21:53:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2119" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5o745pyjqyeyr805vogqlcyfzpma4rp</sha1>
+    </revision>
+    <revision>
+      <id>729662692</id>
+      <parentid>729662684</parentid>
+      <timestamp>2018-08-19T21:53:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: November 1919</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2499" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i7zrkbypflszzv9nquv4v7tjzs4vick</sha1>
+    </revision>
+    <revision>
+      <id>729662698</id>
+      <parentid>729662692</parentid>
+      <timestamp>2018-08-19T21:53:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Takashi Matsumoto</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2759" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gad009vccw1vrdoohntgldnznmr42vz</sha1>
+    </revision>
+    <revision>
+      <id>729662708</id>
+      <parentid>729662698</parentid>
+      <timestamp>2018-08-19T21:53:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2945" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1ga7ps8i7zrgh45soevaf9mjatenjaw</sha1>
+    </revision>
+    <revision>
+      <id>729662717</id>
+      <parentid>729662708</parentid>
+      <timestamp>2018-08-19T21:53:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2530335]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3256" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a8c4jmv1tbvawcq8hj2r4wruh8wbcaj</sha1>
+    </revision>
+    <revision>
+      <id>737988604</id>
+      <parentid>729662717</parentid>
+      <timestamp>2018-09-01T15:29:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 15991971, According to [[Property:P5315]]=11407</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3505" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91e85ad29de344a2ecf5fc80f6613ab3a613b2c7","datavalue":{"value":"15991971","type":"string"}},"type":"statement","id":"Q56191620$E605414F-4846-4A51-BA08-A8FBB81C8425","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>flv8ncmxryoge3qhdufqzvo9hbsvysd</sha1>
+    </revision>
+    <revision>
+      <id>780074526</id>
+      <parentid>737988604</parentid>
+      <timestamp>2018-11-02T14:13:42Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3640" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"},"nl":{"language":"nl","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91e85ad29de344a2ecf5fc80f6613ab3a613b2c7","datavalue":{"value":"15991971","type":"string"}},"type":"statement","id":"Q56191620$E605414F-4846-4A51-BA08-A8FBB81C8425","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rmbi6jw040m5x3ssrrvlo66nwdxb05h</sha1>
+    </revision>
+    <revision>
+      <id>847138319</id>
+      <parentid>780074526</parentid>
+      <timestamp>2019-01-31T06:06:33Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 2990133, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3888" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"},"nl":{"language":"nl","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91e85ad29de344a2ecf5fc80f6613ab3a613b2c7","datavalue":{"value":"15991971","type":"string"}},"type":"statement","id":"Q56191620$E605414F-4846-4A51-BA08-A8FBB81C8425","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7d1431c3d7664c0a92b6779d9d6e2f780c0d49c","datavalue":{"value":"2990133","type":"string"}},"type":"statement","id":"Q56191620$A8E91029-A5D8-4E20-B826-0DA7DDF1CFB1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ntaabl6588es3wxemqjh1zeick14jhx</sha1>
+    </revision>
+    <revision>
+      <id>972768160</id>
+      <parentid>847138319</parentid>
+      <timestamp>2019-07-02T03:31:49Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в листопаді 1919, [[:toollabs:quickstatements/#/batch/15174|batch #15174]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4142" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"},"nl":{"language":"nl","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1919"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91e85ad29de344a2ecf5fc80f6613ab3a613b2c7","datavalue":{"value":"15991971","type":"string"}},"type":"statement","id":"Q56191620$E605414F-4846-4A51-BA08-A8FBB81C8425","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7d1431c3d7664c0a92b6779d9d6e2f780c0d49c","datavalue":{"value":"2990133","type":"string"}},"type":"statement","id":"Q56191620$A8E91029-A5D8-4E20-B826-0DA7DDF1CFB1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1k1cv1g0k9qqulwqhhid21zgdg1naa0</sha1>
+    </revision>
+    <revision>
+      <id>973079293</id>
+      <parentid>972768160</parentid>
+      <timestamp>2019-07-02T15:41:19Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4183" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"},"nl":{"language":"nl","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1919"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91e85ad29de344a2ecf5fc80f6613ab3a613b2c7","datavalue":{"value":"15991971","type":"string"}},"type":"statement","id":"Q56191620$E605414F-4846-4A51-BA08-A8FBB81C8425","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7d1431c3d7664c0a92b6779d9d6e2f780c0d49c","datavalue":{"value":"2990133","type":"string"}},"type":"statement","id":"Q56191620$A8E91029-A5D8-4E20-B826-0DA7DDF1CFB1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dvv4ierkaw6uj40az370msbgpdos4ga</sha1>
+    </revision>
+    <revision>
+      <id>1089356395</id>
+      <parentid>973079293</parentid>
+      <timestamp>2020-01-02T15:16:19Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im November 1919 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24735|batch #24735]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4282" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"},"nl":{"language":"nl","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1919"},"en":{"language":"en","value":"article"},"de":{"language":"de","value":"im November 1919 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91e85ad29de344a2ecf5fc80f6613ab3a613b2c7","datavalue":{"value":"15991971","type":"string"}},"type":"statement","id":"Q56191620$E605414F-4846-4A51-BA08-A8FBB81C8425","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7d1431c3d7664c0a92b6779d9d6e2f780c0d49c","datavalue":{"value":"2990133","type":"string"}},"type":"statement","id":"Q56191620$A8E91029-A5D8-4E20-B826-0DA7DDF1CFB1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kbbu2gtloutrhj9h4muxyf8jojziuur</sha1>
+    </revision>
+    <revision>
+      <id>1116344882</id>
+      <parentid>1089356395</parentid>
+      <timestamp>2020-02-16T07:39:54Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1581833176757</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4346" xml:space="preserve">{"type":"item","id":"Q56191620","labels":{"de":{"language":"de","value":"Culture Experiments with Melampsora in Japan"},"en":{"language":"en","value":"Culture Experiments with Melampsora in Japan"},"nl":{"language":"nl","value":"Culture Experiments with Melampsora in Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1919"},"en":{"language":"en","value":"article"},"de":{"language":"de","value":"im November 1919 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"32ccce50e337e1b26975b4d4ee15631df9affb1d","datavalue":{"value":"10.2307\/2990133","type":"string"}},"type":"statement","id":"Q56191620$E9B315D1-16EC-41A1-98D8-9925B598AF97","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"457b030e20148efee11e63e87ec6c840da9166ee","datavalue":{"value":"11407","type":"string"}},"type":"statement","id":"Q56191620$B775F687-500B-4B4A-8D40-E123494FD09F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$2F2E5FF5-FE4C-4492-86D8-36E00B669FB9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6c722637d47bd82e671719896a75c50b1f342009","datavalue":{"value":{"text":"Culture Experiments with Melampsora in Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191620$B8167C73-BEAF-4DF9-9E3C-B511DA3C6CA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191620$3447A27E-247D-42B5-9684-11B24B989EE0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"d915a19edb44f398875d3bb55bcefcfbce146a7e","datavalue":{"value":"309","type":"string"}},"type":"statement","id":"Q56191620$7535A393-3D3A-4E0F-841D-7989F076F05D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q56191620$46428D0C-4641-44BF-B20A-3D40963C89A7","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"bd1f0ff567e64ff65eb917b9cd90f3461edaae70","datavalue":{"value":{"time":"+1919-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191620$77D28008-8E25-4E14-B9CE-72ACD4B2CF1D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d7d05a44d074c4cd3215d84168d0b1776cc2bc2e","datavalue":{"value":"Takashi Matsumoto","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191620$64BF6D11-3BB2-44AB-9F8A-C8B55C3DE5DF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191620$9989B0D7-DCC5-4A42-A5A8-7A1250BFB6B6","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"91e85ad29de344a2ecf5fc80f6613ab3a613b2c7","datavalue":{"value":"15991971","type":"string"}},"type":"statement","id":"Q56191620$E605414F-4846-4A51-BA08-A8FBB81C8425","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e7d1431c3d7664c0a92b6779d9d6e2f780c0d49c","datavalue":{"value":"2990133","type":"string"}},"type":"statement","id":"Q56191620$A8E91029-A5D8-4E20-B826-0DA7DDF1CFB1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8lof90mkdyhh68h93cr3f1hpx6nm6ty</sha1>
+    </revision>
+  </page>
+</mediawiki>

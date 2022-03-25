@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q60181502</title>
+    <ns>0</ns>
+    <id>60059184</id>
+    <revision>
+      <id>821305935</id>
+      <timestamp>2018-12-27T16:54:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q60181502","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>staigvogkh7jhz2aazxg3jaifhl4r2y</sha1>
+    </revision>
+    <revision>
+      <id>821305938</id>
+      <parentid>821305935</parentid>
+      <timestamp>2018-12-27T16:54:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="239" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>eyi5vinrcttkq2q94yug8iji4wj3uxe</sha1>
+    </revision>
+    <revision>
+      <id>821305944</id>
+      <parentid>821305938</parentid>
+      <timestamp>2018-12-27T16:54:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="377" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>54ba2w9xxickov6r9ohhnu4qjlerjyg</sha1>
+    </revision>
+    <revision>
+      <id>821305949</id>
+      <parentid>821305944</parentid>
+      <timestamp>2018-12-27T16:54:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.11646/PHYTOTAXA.336.2.7</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="644" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5j5v37f90vlqq1l9qe5w3kvk02h34e1</sha1>
+    </revision>
+    <revision>
+      <id>821305954</id>
+      <parentid>821305949</parentid>
+      <timestamp>2018-12-27T16:54:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="953" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2c17xdxvv4z65y78bntsxu0emfynq0q</sha1>
+    </revision>
+    <revision>
+      <id>821305960</id>
+      <parentid>821305954</parentid>
+      <timestamp>2018-12-27T16:54:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1334" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2oc1knl0vwku2gvp12ryrw9k08b98h3</sha1>
+    </revision>
+    <revision>
+      <id>821305962</id>
+      <parentid>821305960</parentid>
+      <timestamp>2018-12-27T16:54:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 336</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1578" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hbyoot7u6emdx5dqy5bbxv3fncx1uea</sha1>
+    </revision>
+    <revision>
+      <id>821305967</id>
+      <parentid>821305962</parentid>
+      <timestamp>2018-12-27T16:54:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 197–200</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1831" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ofopcvlffu3sn8qsld01jet0bjd3lw5</sha1>
+    </revision>
+    <revision>
+      <id>821305974</id>
+      <parentid>821305967</parentid>
+      <timestamp>2018-12-27T16:54:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2073" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dne60b6chlphemhbqntfcrz9cq7xbwt</sha1>
+    </revision>
+    <revision>
+      <id>821305978</id>
+      <parentid>821305974</parentid>
+      <timestamp>2018-12-27T16:54:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 30 January 2018</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2453" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a2egfr2o4t4v33e5ps03lwxmxz8f0sw</sha1>
+    </revision>
+    <revision>
+      <id>821305982</id>
+      <parentid>821305978</parentid>
+      <timestamp>2018-12-27T16:54:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Makoto Kakishima</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2712" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>go6epv9sa4eihi90i4kxne8rki4skl9</sha1>
+    </revision>
+    <revision>
+      <id>821305989</id>
+      <parentid>821305982</parentid>
+      <timestamp>2018-12-27T16:54:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2898" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5vdomo08wsz6zuj802918w2nun0uyv5</sha1>
+    </revision>
+    <revision>
+      <id>821305993</id>
+      <parentid>821305989</parentid>
+      <timestamp>2018-12-27T16:54:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Jing-Xin Ji</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3142" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>et4rmlo9iy4cksyjcdrxug5eg0vvbqz</sha1>
+    </revision>
+    <revision>
+      <id>821305997</id>
+      <parentid>821305993</parentid>
+      <timestamp>2018-12-27T16:54:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3328" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ea2kd7xnl3wavf6ia3mrllvc5shqxbh</sha1>
+    </revision>
+    <revision>
+      <id>821306004</id>
+      <parentid>821305997</parentid>
+      <timestamp>2018-12-27T16:54:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Taiga Kasuya</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3573" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"706d1275fde809a7009046811ee4f4b7432dea33","datavalue":{"value":"Taiga Kasuya","type":"string"}},"type":"statement","id":"Q60181502$85F053E1-5252-4DBA-B692-E718C31AEF85","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>putnmw9je7av9h5gwnanrrpif6dy2sb</sha1>
+    </revision>
+    <revision>
+      <id>821306008</id>
+      <parentid>821306004</parentid>
+      <timestamp>2018-12-27T16:54:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3759" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"706d1275fde809a7009046811ee4f4b7432dea33","datavalue":{"value":"Taiga Kasuya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$85F053E1-5252-4DBA-B692-E718C31AEF85","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mnqrcjxotvpmgd2va1em1jwbzzr6fll</sha1>
+    </revision>
+    <revision>
+      <id>821306011</id>
+      <parentid>821306008</parentid>
+      <timestamp>2018-12-27T16:54:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4807825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4070" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"706d1275fde809a7009046811ee4f4b7432dea33","datavalue":{"value":"Taiga Kasuya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$85F053E1-5252-4DBA-B692-E718C31AEF85","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$6EA9B402-B66C-408F-AA3E-36E504E27A17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p6k64tde1d5amxqcar786msk8o4oi60</sha1>
+    </revision>
+    <revision>
+      <id>906186916</id>
+      <parentid>821306011</parentid>
+      <timestamp>2019-04-07T15:09:27Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4265" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"nl":{"language":"nl","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"706d1275fde809a7009046811ee4f4b7432dea33","datavalue":{"value":"Taiga Kasuya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$85F053E1-5252-4DBA-B692-E718C31AEF85","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$6EA9B402-B66C-408F-AA3E-36E504E27A17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i4q2f5wkomm05aj3efv730lptgfr52h</sha1>
+    </revision>
+    <revision>
+      <id>958423137</id>
+      <parentid>906186916</parentid>
+      <timestamp>2019-06-09T12:21:42Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 2018, [[:toollabs:quickstatements/#/batch/13629|batch #13629]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4495" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"nl":{"language":"nl","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 2018"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"706d1275fde809a7009046811ee4f4b7432dea33","datavalue":{"value":"Taiga Kasuya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$85F053E1-5252-4DBA-B692-E718C31AEF85","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$6EA9B402-B66C-408F-AA3E-36E504E27A17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ecyst716qshciz5t3qlilr3w0u0gmkg</sha1>
+    </revision>
+    <revision>
+      <id>1134097914</id>
+      <parentid>958423137</parentid>
+      <timestamp>2020-03-11T19:59:07Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 2018 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/26345|batch #26345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4592" xml:space="preserve">{"type":"item","id":"Q60181502","labels":{"de":{"language":"de","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"en":{"language":"en","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"},"nl":{"language":"nl","value":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 2018"},"de":{"language":"de","value":"im Januar 2018 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"6b5d0944d68064263c72b389e202372c33c22b3d","datavalue":{"value":"10.11646\/PHYTOTAXA.336.2.7","type":"string"}},"type":"statement","id":"Q60181502$E05D792E-96D3-4BD3-98F7-3A8AE2C82391","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$D653EB0D-95F7-4D8A-AE83-0CC712A565C8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"be0e98f19f8ee131ed52b8d3787c6da168257894","datavalue":{"value":{"text":"Puccinia neovelutina nom. nov., a replaced name for Aecidium elaeagni and its new aecial host from Japan","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181502$E2979818-1BB9-4026-9156-A576967F9358","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"9fb5c74317fc8113a0d77207f84805e987930733","datavalue":{"value":"336","type":"string"}},"type":"statement","id":"Q60181502$8D847197-54BA-48E1-862B-86572A783553","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5b36d25281c62ef4c0ee9592293e23e5078f8877","datavalue":{"value":"197\u2013200","type":"string"}},"type":"statement","id":"Q60181502$0A1703CF-58A8-4299-9EA4-079B3ED31E7C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q60181502$47623A23-BA43-47A1-9BC9-70DD591C1238","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfcdb6374e625edb79c3840b2b277255198fc12","datavalue":{"value":{"time":"+2018-01-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181502$944C26D2-150C-4D34-B194-D3A658DA93C2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0392420e4bd8b9a0242564404d68f6245ff91da6","datavalue":{"value":"Makoto Kakishima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$42D81035-499A-42BB-B34A-8204BC9880B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"deafa53139279f443725fc46099fca5be86f69ea","datavalue":{"value":"Jing-Xin Ji","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$F06D1BC9-9DEC-49DC-BB44-DADF9E701AF7","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"706d1275fde809a7009046811ee4f4b7432dea33","datavalue":{"value":"Taiga Kasuya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181502$85F053E1-5252-4DBA-B692-E718C31AEF85","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181502$6EA9B402-B66C-408F-AA3E-36E504E27A17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>afy1ga93iuqfodbdgdm221i70k88vc4</sha1>
+    </revision>
+  </page>
+</mediawiki>

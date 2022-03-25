@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56096863</title>
+    <ns>0</ns>
+    <id>56042761</id>
+    <revision>
+      <id>726244852</id>
+      <timestamp>2018-08-15T07:34:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56096863","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>4xzvqcffujbrp76r5w921uu9rptibrd</sha1>
+    </revision>
+    <revision>
+      <id>726244857</id>
+      <parentid>726244852</parentid>
+      <timestamp>2018-08-15T07:34:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Notes on African Chalcidoidea—IV</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="172" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>kpq6x88ip7jof0sov5aq7ohisroew8u</sha1>
+    </revision>
+    <revision>
+      <id>726244861</id>
+      <parentid>726244857</parentid>
+      <timestamp>2018-08-15T07:34:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Notes on African Chalcidoidea—IV</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="243" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>h1wnsrh6gs8awrniceiriwhtz8g9x9k</sha1>
+    </revision>
+    <revision>
+      <id>726244865</id>
+      <parentid>726244861</parentid>
+      <timestamp>2018-08-15T07:34:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1017/S000748530004373X</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="509" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qr6zdu2h5wpp40dyr9jk7rqmf1af0r7</sha1>
+    </revision>
+    <revision>
+      <id>726244870</id>
+      <parentid>726244865</parentid>
+      <timestamp>2018-08-15T07:34:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 98036</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="757" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d686356x4yhf99rd9kjfvru81clpbb0</sha1>
+    </revision>
+    <revision>
+      <id>726244879</id>
+      <parentid>726244870</parentid>
+      <timestamp>2018-08-15T07:34:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1066" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fspzxtymr57fs5efdekmv1ekd4js4rf</sha1>
+    </revision>
+    <revision>
+      <id>726244883</id>
+      <parentid>726244879</parentid>
+      <timestamp>2018-08-15T07:34:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Notes on African Chalcidoidea—IV</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1380" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bvhazkdrfggjzcu0voza3oxqbjyb0kh</sha1>
+    </revision>
+    <revision>
+      <id>726244889</id>
+      <parentid>726244883</parentid>
+      <timestamp>2018-08-15T07:34:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 6</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1622" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ndvtmgbw41exoo61qyzdqvw4s48jad6</sha1>
+    </revision>
+    <revision>
+      <id>726244895</id>
+      <parentid>726244889</parentid>
+      <timestamp>2018-08-15T07:34:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 413</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1866" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b9csue54uewgxhpuek178t2kvwimp1x</sha1>
+    </revision>
+    <revision>
+      <id>726244898</id>
+      <parentid>726244895</parentid>
+      <timestamp>2018-08-15T07:34:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 04</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2109" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9qvgzf85f55mjiufii0d13ibqte2nrm</sha1>
+    </revision>
+    <revision>
+      <id>726244905</id>
+      <parentid>726244898</parentid>
+      <timestamp>2018-08-15T07:34:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: January 1916</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2489" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iciv7bxznm6f3nm6e0jljqaake2tbue</sha1>
+    </revision>
+    <revision>
+      <id>726244910</id>
+      <parentid>726244905</parentid>
+      <timestamp>2018-08-15T07:34:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: James Waterston</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2747" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"df22d2a92438ec1979426f754ae447ff3da353fb","datavalue":{"value":"James Waterston","type":"string"}},"type":"statement","id":"Q56096863$9F1B3729-3993-4BD7-A8F4-3F49DDC2546A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mf4e58qpxol319j7q5n5lcrz7h82a0c</sha1>
+    </revision>
+    <revision>
+      <id>726244917</id>
+      <parentid>726244910</parentid>
+      <timestamp>2018-08-15T07:34:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2933" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"df22d2a92438ec1979426f754ae447ff3da353fb","datavalue":{"value":"James Waterston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096863$9F1B3729-3993-4BD7-A8F4-3F49DDC2546A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sosq6iud46vdzye05jh929fxslgtuk9</sha1>
+    </revision>
+    <revision>
+      <id>726244921</id>
+      <parentid>726244917</parentid>
+      <timestamp>2018-08-15T07:34:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q15763806]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3246" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"df22d2a92438ec1979426f754ae447ff3da353fb","datavalue":{"value":"James Waterston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096863$9F1B3729-3993-4BD7-A8F4-3F49DDC2546A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$1D9B5E6E-5BB5-4CF4-BFE8-2D7C534EE1E3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dp5obqk5y1myi4oerp8bmuxr5jpbrjp</sha1>
+    </revision>
+    <revision>
+      <id>738415809</id>
+      <parentid>726244921</parentid>
+      <timestamp>2018-09-02T06:56:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 35769178, According to [[Property:P5315]]=98036</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3495" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"df22d2a92438ec1979426f754ae447ff3da353fb","datavalue":{"value":"James Waterston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096863$9F1B3729-3993-4BD7-A8F4-3F49DDC2546A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$1D9B5E6E-5BB5-4CF4-BFE8-2D7C534EE1E3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d69a4fd5126224b33d6350fcd63d3d7b77054ee1","datavalue":{"value":"35769178","type":"string"}},"type":"statement","id":"Q56096863$67DDB6E7-BA30-48AC-B58E-778AF10851EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>axlqjg6pqoicrllhbcnm7aoj1xl740t</sha1>
+    </revision>
+    <revision>
+      <id>781385860</id>
+      <parentid>738415809</parentid>
+      <timestamp>2018-11-04T01:31:37Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3623" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"},"nl":{"language":"nl","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"df22d2a92438ec1979426f754ae447ff3da353fb","datavalue":{"value":"James Waterston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096863$9F1B3729-3993-4BD7-A8F4-3F49DDC2546A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$1D9B5E6E-5BB5-4CF4-BFE8-2D7C534EE1E3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d69a4fd5126224b33d6350fcd63d3d7b77054ee1","datavalue":{"value":"35769178","type":"string"}},"type":"statement","id":"Q56096863$67DDB6E7-BA30-48AC-B58E-778AF10851EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9hifcuj0d4pjp77d7pv1azfj12dzdon</sha1>
+    </revision>
+    <revision>
+      <id>959819112</id>
+      <parentid>781385860</parentid>
+      <timestamp>2019-06-11T04:55:12Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 1916, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3853" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"},"nl":{"language":"nl","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"df22d2a92438ec1979426f754ae447ff3da353fb","datavalue":{"value":"James Waterston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096863$9F1B3729-3993-4BD7-A8F4-3F49DDC2546A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$1D9B5E6E-5BB5-4CF4-BFE8-2D7C534EE1E3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d69a4fd5126224b33d6350fcd63d3d7b77054ee1","datavalue":{"value":"35769178","type":"string"}},"type":"statement","id":"Q56096863$67DDB6E7-BA30-48AC-B58E-778AF10851EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b59efk36cb5uszga9kxxk2z55z790xj</sha1>
+    </revision>
+    <revision>
+      <id>1256773885</id>
+      <parentid>959819112</parentid>
+      <timestamp>2020-08-14T12:11:40Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1916 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/39864|batch #39864]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3948" xml:space="preserve">{"type":"item","id":"Q56096863","labels":{"de":{"language":"de","value":"Notes on African Chalcidoidea\u2014IV"},"en":{"language":"en","value":"Notes on African Chalcidoidea\u2014IV"},"nl":{"language":"nl","value":"Notes on African Chalcidoidea\u2014IV"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1916"},"de":{"language":"de","value":"im Jahr 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ea81e3060d39b8bb40f5d278f164c7acd2e10671","datavalue":{"value":"10.1017\/S000748530004373X","type":"string"}},"type":"statement","id":"Q56096863$86591E42-96BA-4E13-BE93-849DCC3D259C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"8981eb7b2d077bde8724013cbd8f7fe612f5c9c9","datavalue":{"value":"98036","type":"string"}},"type":"statement","id":"Q56096863$79DCEC72-8B69-48BC-92D8-212A2C8D7F07","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$4511DD31-9AF2-4651-A642-907377E832A8","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"38fd82cf3c2221a2939b9acc1bf59ad47fae4966","datavalue":{"value":{"text":"Notes on African Chalcidoidea\u2014IV","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096863$0F0484B1-1F96-4F7F-8733-88AF90A7875E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56096863$694DC5E2-9738-434F-92C1-6A074E0B1C06","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c8dc148af7b130bd4d216049225d6aec819528c8","datavalue":{"value":"413","type":"string"}},"type":"statement","id":"Q56096863$B32FF616-8852-4E9F-899F-2A01CFA9087C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"e5e2ee4665fa05065775fd76cf014e3358493f22","datavalue":{"value":"04","type":"string"}},"type":"statement","id":"Q56096863$4FF048B5-3345-4B3E-890E-F618375D2EAC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"69ea22767aefa0c0de1f58cc33d8411838186874","datavalue":{"value":{"time":"+1916-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096863$05B50F4B-D92E-4C75-9C7D-E60D91133B70","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"df22d2a92438ec1979426f754ae447ff3da353fb","datavalue":{"value":"James Waterston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096863$9F1B3729-3993-4BD7-A8F4-3F49DDC2546A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096863$1D9B5E6E-5BB5-4CF4-BFE8-2D7C534EE1E3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"d69a4fd5126224b33d6350fcd63d3d7b77054ee1","datavalue":{"value":"35769178","type":"string"}},"type":"statement","id":"Q56096863$67DDB6E7-BA30-48AC-B58E-778AF10851EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9qenrwouqmlf52z8wzrd7vn1l0nknci</sha1>
+    </revision>
+  </page>
+</mediawiki>

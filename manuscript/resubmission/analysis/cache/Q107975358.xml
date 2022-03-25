@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q107975358</title>
+    <ns>0</ns>
+    <id>103252473</id>
+    <revision>
+      <id>1474647313</id>
+      <timestamp>2021-08-06T17:48:12Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1628272042264</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4334" xml:space="preserve">{"type":"item","id":"Q107975358","labels":{"en":{"language":"en","value":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety"}},"descriptions":[],"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c77d6ade8b6fa46c9c3c7f644a8c4d57b8bcd94","datavalue":{"value":{"text":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q107975358$88291CEC-2FF2-4C04-8037-B9CFDD35D038","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q107975358$456C6199-316E-4C22-90A0-CF36498588D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"10a0f64ee55b5d05f56bf5bad4ce8138173068a0","datavalue":{"value":{"time":"+2021-03-02T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q107975358$5F5EC747-56C2-44DF-A793-0BAD75FDA310","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"143c41cc623ab0215d364f3810154d1d2b085cae","datavalue":{"value":"Kizhakkethil Aishwarya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q107975358$CD48A9E9-7B4A-4D86-9B0A-8D61937ABB46","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"db5d91652e637ad24254c02f23713bcba484d52c","datavalue":{"value":"Mamiyil Sabu","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q107975358$6432FD24-8716-4175-9EAC-093563AA92CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ce1cc49aa86a8c53c52bb8e290f0754be80405d1","datavalue":{"value":{"entity-type":"item","numeric-id":9081496,"id":"Q9081496"},"type":"wikibase-entityid"}},"type":"statement","id":"Q107975358$616A3E87-C10A-4CA1-B595-6C46C9DB55FC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"abb42cd662a61ab0a1b867f545a6043cbe681667","datavalue":{"value":"66","type":"string"}},"type":"statement","id":"Q107975358$8474730D-A9D0-4AEE-9F57-8A433D31E0FA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q107975358$8716A9CA-2ED6-4460-A45E-6666453223BA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c942278b84dab7403c5ce389c41bea3357edb208","datavalue":{"value":"79-88","type":"string"}},"type":"statement","id":"Q107975358$AF90F86F-A93D-48C3-9C84-44543A6CA4F6","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"55cd2c835a23926be3cf69ef1778afebce65a9b6","datavalue":{"value":"10.6165\/TAI.2021.66.79","type":"string"}},"type":"statement","qualifiers":{"P2378":[{"snaktype":"value","property":"P2378","hash":"51b2eb0b31c007404b5abed9f9be7f15e0938c02","datavalue":{"value":{"entity-type":"item","numeric-id":4698727,"id":"Q4698727"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2378"],"id":"Q107975358$4710477F-1FAF-41B2-81BF-500FD212A4A7","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"a163e8dcb3c593f48b641d40e1ac2d0f7594f3cf","datavalue":{"value":"https:\/\/taiwania.ntu.edu.tw\/download.php?file=tai.2021.66.79.pdf&amp;id=1738&amp;type=abstract","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q107975358$D96E7D1B-D698-4B5B-A577-316701A9C570","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9pcdy0ivqw540p2gq63dtckrgb6iji8</sha1>
+    </revision>
+    <revision>
+      <id>1474654542</id>
+      <parentid>1474647313</parentid>
+      <timestamp>2021-08-06T18:01:50Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4526" xml:space="preserve">{"type":"item","id":"Q107975358","labels":{"en":{"language":"en","value":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety"},"nl":{"language":"nl","value":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c77d6ade8b6fa46c9c3c7f644a8c4d57b8bcd94","datavalue":{"value":{"text":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q107975358$88291CEC-2FF2-4C04-8037-B9CFDD35D038","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q107975358$456C6199-316E-4C22-90A0-CF36498588D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"10a0f64ee55b5d05f56bf5bad4ce8138173068a0","datavalue":{"value":{"time":"+2021-03-02T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q107975358$5F5EC747-56C2-44DF-A793-0BAD75FDA310","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"143c41cc623ab0215d364f3810154d1d2b085cae","datavalue":{"value":"Kizhakkethil Aishwarya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q107975358$CD48A9E9-7B4A-4D86-9B0A-8D61937ABB46","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"db5d91652e637ad24254c02f23713bcba484d52c","datavalue":{"value":"Mamiyil Sabu","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q107975358$6432FD24-8716-4175-9EAC-093563AA92CB","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ce1cc49aa86a8c53c52bb8e290f0754be80405d1","datavalue":{"value":{"entity-type":"item","numeric-id":9081496,"id":"Q9081496"},"type":"wikibase-entityid"}},"type":"statement","id":"Q107975358$616A3E87-C10A-4CA1-B595-6C46C9DB55FC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"abb42cd662a61ab0a1b867f545a6043cbe681667","datavalue":{"value":"66","type":"string"}},"type":"statement","id":"Q107975358$8474730D-A9D0-4AEE-9F57-8A433D31E0FA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q107975358$8716A9CA-2ED6-4460-A45E-6666453223BA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c942278b84dab7403c5ce389c41bea3357edb208","datavalue":{"value":"79-88","type":"string"}},"type":"statement","id":"Q107975358$AF90F86F-A93D-48C3-9C84-44543A6CA4F6","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"55cd2c835a23926be3cf69ef1778afebce65a9b6","datavalue":{"value":"10.6165\/TAI.2021.66.79","type":"string"}},"type":"statement","qualifiers":{"P2378":[{"snaktype":"value","property":"P2378","hash":"51b2eb0b31c007404b5abed9f9be7f15e0938c02","datavalue":{"value":{"entity-type":"item","numeric-id":4698727,"id":"Q4698727"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2378"],"id":"Q107975358$4710477F-1FAF-41B2-81BF-500FD212A4A7","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"a163e8dcb3c593f48b641d40e1ac2d0f7594f3cf","datavalue":{"value":"https:\/\/taiwania.ntu.edu.tw\/download.php?file=tai.2021.66.79.pdf&amp;id=1738&amp;type=abstract","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q107975358$D96E7D1B-D698-4B5B-A577-316701A9C570","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5hhrimj77lhudrcz9r1cy8jzmol2oje</sha1>
+    </revision>
+    <revision>
+      <id>1546805821</id>
+      <parentid>1474654542</parentid>
+      <timestamp>2021-12-20T01:35:34Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q5988154]] ([[:toollabs:editgroups/b/AD/dd4c10ca|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4749" xml:space="preserve">{"type":"item","id":"Q107975358","labels":{"en":{"language":"en","value":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety"},"nl":{"language":"nl","value":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c77d6ade8b6fa46c9c3c7f644a8c4d57b8bcd94","datavalue":{"value":{"text":"Taxonomic revision of the genus Cautleya (Zingiberaceae) in India with a description of a new variety","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q107975358$88291CEC-2FF2-4C04-8037-B9CFDD35D038","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q107975358$456C6199-316E-4C22-90A0-CF36498588D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"10a0f64ee55b5d05f56bf5bad4ce8138173068a0","datavalue":{"value":{"time":"+2021-03-02T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q107975358$5F5EC747-56C2-44DF-A793-0BAD75FDA310","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"143c41cc623ab0215d364f3810154d1d2b085cae","datavalue":{"value":"Kizhakkethil Aishwarya","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q107975358$CD48A9E9-7B4A-4D86-9B0A-8D61937ABB46","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ce1cc49aa86a8c53c52bb8e290f0754be80405d1","datavalue":{"value":{"entity-type":"item","numeric-id":9081496,"id":"Q9081496"},"type":"wikibase-entityid"}},"type":"statement","id":"Q107975358$616A3E87-C10A-4CA1-B595-6C46C9DB55FC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"abb42cd662a61ab0a1b867f545a6043cbe681667","datavalue":{"value":"66","type":"string"}},"type":"statement","id":"Q107975358$8474730D-A9D0-4AEE-9F57-8A433D31E0FA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q107975358$8716A9CA-2ED6-4460-A45E-6666453223BA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c942278b84dab7403c5ce389c41bea3357edb208","datavalue":{"value":"79-88","type":"string"}},"type":"statement","id":"Q107975358$AF90F86F-A93D-48C3-9C84-44543A6CA4F6","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"55cd2c835a23926be3cf69ef1778afebce65a9b6","datavalue":{"value":"10.6165\/TAI.2021.66.79","type":"string"}},"type":"statement","qualifiers":{"P2378":[{"snaktype":"value","property":"P2378","hash":"51b2eb0b31c007404b5abed9f9be7f15e0938c02","datavalue":{"value":{"entity-type":"item","numeric-id":4698727,"id":"Q4698727"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2378"],"id":"Q107975358$4710477F-1FAF-41B2-81BF-500FD212A4A7","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"a163e8dcb3c593f48b641d40e1ac2d0f7594f3cf","datavalue":{"value":"https:\/\/taiwania.ntu.edu.tw\/download.php?file=tai.2021.66.79.pdf&amp;id=1738&amp;type=abstract","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q107975358$D96E7D1B-D698-4B5B-A577-316701A9C570","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"a98f364e581a9502bafb3576128805f9e261bf25","datavalue":{"value":{"entity-type":"item","numeric-id":5988154,"id":"Q5988154"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"168c275c78a961bfecfa19b6b55edbf517a8bdd7","datavalue":{"value":"Mamiyil Sabu","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q107975358$35504D46-44F6-459D-A576-F2C64E796B85","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>efe7weqk5rmx6qjzv2bclegdrpk8wwp</sha1>
+    </revision>
+  </page>
+</mediawiki>

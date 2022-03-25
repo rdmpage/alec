@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56658379</title>
+    <ns>0</ns>
+    <id>56599279</id>
+    <revision>
+      <id>748685045</id>
+      <timestamp>2018-09-19T04:52:18Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1537324100539; invoked by SourceMD:CreateFromWikipediaDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2786" xml:space="preserve">{"type":"item","id":"Q56658379","labels":{"en":{"language":"en","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7d7020181734c1d17b355bb7bf5f95a1101d1123","datavalue":{"value":"10.1127\/0077-7749\/2014\/0401","type":"string"}},"type":"statement","id":"Q56658379$50A05FA0-A1B3-49CE-BD83-335B2AD1D21F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56658379$8CCBB700-69E4-44D9-BA73-35234C2D5C33","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"63f6aae76087b27f4a03aaddbf577991544458c9","datavalue":{"value":{"text":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56658379$50090143-39B7-42A5-8303-38810A6FB366","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56658379$D728CECC-A8A5-4C43-98FA-39C7AA5CBA12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4dd461ebaf237913915005c0aac35a5515ac79e6","datavalue":{"value":"225-236","type":"string"}},"type":"statement","id":"Q56658379$36550F3D-A945-45C7-B06B-AD6BEA12A933","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fe56c6e0873803ffc0146b488bf7682ef4bfde70","datavalue":{"value":"272","type":"string"}},"type":"statement","id":"Q56658379$FDB22A1F-6371-4595-B377-D30D459DFDF0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42e5e169d07f4ebe7f883fc4bd1db2cf6a753f57","datavalue":{"value":{"time":"+2014-05-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56658379$B76FC4E0-A048-401A-9CB2-4550E88E79FD","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ce60f65198a7f1acfbf7ff3bfcc67753e2a78540","datavalue":{"value":"Rainer R. Schoch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56658379$9C43DF53-F1C9-44FF-9DDA-1462296F0361","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m2dn4v8ouxvtbi966pkjhvq9ui818n8</sha1>
+    </revision>
+    <revision>
+      <id>771899716</id>
+      <parentid>748685045</parentid>
+      <timestamp>2018-10-24T10:05:30Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2982" xml:space="preserve">{"type":"item","id":"Q56658379","labels":{"en":{"language":"en","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)"},"nl":{"language":"nl","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7d7020181734c1d17b355bb7bf5f95a1101d1123","datavalue":{"value":"10.1127\/0077-7749\/2014\/0401","type":"string"}},"type":"statement","id":"Q56658379$50A05FA0-A1B3-49CE-BD83-335B2AD1D21F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56658379$8CCBB700-69E4-44D9-BA73-35234C2D5C33","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"63f6aae76087b27f4a03aaddbf577991544458c9","datavalue":{"value":{"text":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56658379$50090143-39B7-42A5-8303-38810A6FB366","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56658379$D728CECC-A8A5-4C43-98FA-39C7AA5CBA12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4dd461ebaf237913915005c0aac35a5515ac79e6","datavalue":{"value":"225-236","type":"string"}},"type":"statement","id":"Q56658379$36550F3D-A945-45C7-B06B-AD6BEA12A933","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fe56c6e0873803ffc0146b488bf7682ef4bfde70","datavalue":{"value":"272","type":"string"}},"type":"statement","id":"Q56658379$FDB22A1F-6371-4595-B377-D30D459DFDF0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42e5e169d07f4ebe7f883fc4bd1db2cf6a753f57","datavalue":{"value":{"time":"+2014-05-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56658379$B76FC4E0-A048-401A-9CB2-4550E88E79FD","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ce60f65198a7f1acfbf7ff3bfcc67753e2a78540","datavalue":{"value":"Rainer R. Schoch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56658379$9C43DF53-F1C9-44FF-9DDA-1462296F0361","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>semtad5as3djqspssb4wa0fy3se9536</sha1>
+    </revision>
+    <revision>
+      <id>965260773</id>
+      <parentid>771899716</parentid>
+      <timestamp>2019-06-19T18:03:13Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в травні 2014, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3218" xml:space="preserve">{"type":"item","id":"Q56658379","labels":{"en":{"language":"en","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)"},"nl":{"language":"nl","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 2014"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7d7020181734c1d17b355bb7bf5f95a1101d1123","datavalue":{"value":"10.1127\/0077-7749\/2014\/0401","type":"string"}},"type":"statement","id":"Q56658379$50A05FA0-A1B3-49CE-BD83-335B2AD1D21F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56658379$8CCBB700-69E4-44D9-BA73-35234C2D5C33","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"63f6aae76087b27f4a03aaddbf577991544458c9","datavalue":{"value":{"text":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56658379$50090143-39B7-42A5-8303-38810A6FB366","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56658379$D728CECC-A8A5-4C43-98FA-39C7AA5CBA12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4dd461ebaf237913915005c0aac35a5515ac79e6","datavalue":{"value":"225-236","type":"string"}},"type":"statement","id":"Q56658379$36550F3D-A945-45C7-B06B-AD6BEA12A933","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fe56c6e0873803ffc0146b488bf7682ef4bfde70","datavalue":{"value":"272","type":"string"}},"type":"statement","id":"Q56658379$FDB22A1F-6371-4595-B377-D30D459DFDF0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42e5e169d07f4ebe7f883fc4bd1db2cf6a753f57","datavalue":{"value":{"time":"+2014-05-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56658379$B76FC4E0-A048-401A-9CB2-4550E88E79FD","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ce60f65198a7f1acfbf7ff3bfcc67753e2a78540","datavalue":{"value":"Rainer R. Schoch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56658379$9C43DF53-F1C9-44FF-9DDA-1462296F0361","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gxlvpz95sv0xl4sqce69352gmab68zg</sha1>
+    </revision>
+    <revision>
+      <id>971361342</id>
+      <parentid>965260773</parentid>
+      <timestamp>2019-06-29T21:54:25Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3259" xml:space="preserve">{"type":"item","id":"Q56658379","labels":{"en":{"language":"en","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)"},"nl":{"language":"nl","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 2014"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7d7020181734c1d17b355bb7bf5f95a1101d1123","datavalue":{"value":"10.1127\/0077-7749\/2014\/0401","type":"string"}},"type":"statement","id":"Q56658379$50A05FA0-A1B3-49CE-BD83-335B2AD1D21F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56658379$8CCBB700-69E4-44D9-BA73-35234C2D5C33","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"63f6aae76087b27f4a03aaddbf577991544458c9","datavalue":{"value":{"text":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56658379$50090143-39B7-42A5-8303-38810A6FB366","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56658379$D728CECC-A8A5-4C43-98FA-39C7AA5CBA12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4dd461ebaf237913915005c0aac35a5515ac79e6","datavalue":{"value":"225-236","type":"string"}},"type":"statement","id":"Q56658379$36550F3D-A945-45C7-B06B-AD6BEA12A933","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fe56c6e0873803ffc0146b488bf7682ef4bfde70","datavalue":{"value":"272","type":"string"}},"type":"statement","id":"Q56658379$FDB22A1F-6371-4595-B377-D30D459DFDF0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42e5e169d07f4ebe7f883fc4bd1db2cf6a753f57","datavalue":{"value":{"time":"+2014-05-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56658379$B76FC4E0-A048-401A-9CB2-4550E88E79FD","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ce60f65198a7f1acfbf7ff3bfcc67753e2a78540","datavalue":{"value":"Rainer R. Schoch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56658379$9C43DF53-F1C9-44FF-9DDA-1462296F0361","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rdf4qt2gk1ynjdt10zzg4omaic9xf5q</sha1>
+    </revision>
+    <revision>
+      <id>1119161823</id>
+      <parentid>971361342</parentid>
+      <timestamp>2020-02-20T12:18:39Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1582187301015</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3323" xml:space="preserve">{"type":"item","id":"Q56658379","labels":{"en":{"language":"en","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)"},"nl":{"language":"nl","value":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 2014"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7d7020181734c1d17b355bb7bf5f95a1101d1123","datavalue":{"value":"10.1127\/0077-7749\/2014\/0401","type":"string"}},"type":"statement","id":"Q56658379$50A05FA0-A1B3-49CE-BD83-335B2AD1D21F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56658379$8CCBB700-69E4-44D9-BA73-35234C2D5C33","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"63f6aae76087b27f4a03aaddbf577991544458c9","datavalue":{"value":{"text":"First evidence of the branchiosaurid temnospondyl Leptorophus in the Early Permian of the Saar-Nahe Basin (SW Germany)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56658379$50090143-39B7-42A5-8303-38810A6FB366","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56658379$D728CECC-A8A5-4C43-98FA-39C7AA5CBA12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4dd461ebaf237913915005c0aac35a5515ac79e6","datavalue":{"value":"225-236","type":"string"}},"type":"statement","id":"Q56658379$36550F3D-A945-45C7-B06B-AD6BEA12A933","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"fe56c6e0873803ffc0146b488bf7682ef4bfde70","datavalue":{"value":"272","type":"string"}},"type":"statement","id":"Q56658379$FDB22A1F-6371-4595-B377-D30D459DFDF0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42e5e169d07f4ebe7f883fc4bd1db2cf6a753f57","datavalue":{"value":{"time":"+2014-05-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56658379$B76FC4E0-A048-401A-9CB2-4550E88E79FD","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ce60f65198a7f1acfbf7ff3bfcc67753e2a78540","datavalue":{"value":"Rainer R. Schoch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56658379$9C43DF53-F1C9-44FF-9DDA-1462296F0361","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hcrn16srecjtvlqi6tpug6ngaf02cxq</sha1>
+    </revision>
+  </page>
+</mediawiki>

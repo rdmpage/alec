@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55777698</title>
+    <ns>0</ns>
+    <id>55750939</id>
+    <revision>
+      <id>716793840</id>
+      <timestamp>2018-07-27T22:26:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55777698","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0b5jvxo24j3ce74a118wry078yqy2zu</sha1>
+    </revision>
+    <revision>
+      <id>716793848</id>
+      <parentid>716793840</parentid>
+      <timestamp>2018-07-27T22:26:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Ericaceae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="150" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3mmckn06x02ytm37b5wimwurpu1xdow</sha1>
+    </revision>
+    <revision>
+      <id>716793852</id>
+      <parentid>716793848</parentid>
+      <timestamp>2018-07-27T22:26:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Ericaceae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="199" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>hrkii8qel8thkeirosu87u5rxcunp97</sha1>
+    </revision>
+    <revision>
+      <id>716793859</id>
+      <parentid>716793852</parentid>
+      <timestamp>2018-07-27T22:26:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ wissenschaftlicher Artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="258" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>5irjledvpn8li8u67oy96b1xcfmu325</sha1>
+    </revision>
+    <revision>
+      <id>716793865</id>
+      <parentid>716793859</parentid>
+      <timestamp>2018-07-27T22:26:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scientific article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="310" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6cet4wj3ygxcbmslnt5dxsa0z8rt5a4</sha1>
+    </revision>
+    <revision>
+      <id>716793870</id>
+      <parentid>716793865</parentid>
+      <timestamp>2018-07-27T22:26:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/3994981</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="566" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2wedaxcjorpg6co69mgtsqbmmkiox8v</sha1>
+    </revision>
+    <revision>
+      <id>716793877</id>
+      <parentid>716793870</parentid>
+      <timestamp>2018-07-27T22:26:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="875" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>878ajxm5kn4ifkdbkb243a9qtgebhho</sha1>
+    </revision>
+    <revision>
+      <id>716793882</id>
+      <parentid>716793877</parentid>
+      <timestamp>2018-07-27T22:26:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Ericaceae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1167" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6e6s4b8832nlfrx3255jn0wcnombr7a</sha1>
+    </revision>
+    <revision>
+      <id>716793892</id>
+      <parentid>716793882</parentid>
+      <timestamp>2018-07-27T22:26:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 12</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1410" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8a9r03jdgur9oayhi93dctzl5wurs5y</sha1>
+    </revision>
+    <revision>
+      <id>716793897</id>
+      <parentid>716793892</parentid>
+      <timestamp>2018-07-27T22:26:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 478</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1654" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ebzxnxiv8cbxktkbfk6g70nz476a2dn</sha1>
+    </revision>
+    <revision>
+      <id>716793902</id>
+      <parentid>716793897</parentid>
+      <timestamp>2018-07-27T22:26:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 114</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1898" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kk7wpxf5w0wwrmgflb9difpoix1wsfu</sha1>
+    </revision>
+    <revision>
+      <id>716793911</id>
+      <parentid>716793902</parentid>
+      <timestamp>2018-07-27T22:26:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 30 June 1935</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2278" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2waukk4o3qo2dh11tzsebxbvyjcyni1</sha1>
+    </revision>
+    <revision>
+      <id>716793919</id>
+      <parentid>716793911</parentid>
+      <timestamp>2018-07-27T22:26:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Hermann Sleumer</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2536" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>66pt15pe7scx7hqsjzukqpd6hcuxdyn</sha1>
+    </revision>
+    <revision>
+      <id>716793926</id>
+      <parentid>716793919</parentid>
+      <timestamp>2018-07-27T22:26:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2722" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ie0868nrbnzh69av4pr34g5kr1qvu5c</sha1>
+    </revision>
+    <revision>
+      <id>716793934</id>
+      <parentid>716793926</parentid>
+      <timestamp>2018-07-27T22:26:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q6045723]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3033" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$69651271-2E0F-4576-A8D7-81A5B9C04CA4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>87rdlqmnoen2nfpyoa2njl7pkgnl1fq</sha1>
+    </revision>
+    <revision>
+      <id>726365038</id>
+      <parentid>716793934</parentid>
+      <timestamp>2018-08-15T11:45:02Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3140" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"},"nl":{"language":"nl","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$69651271-2E0F-4576-A8D7-81A5B9C04CA4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mf3yomnygbtsx4l8ox7xh17q5ldwsar</sha1>
+    </revision>
+    <revision>
+      <id>764528211</id>
+      <parentid>726365038</parentid>
+      <timestamp>2018-10-15T04:18:27Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3253" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"},"nl":{"language":"nl","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$69651271-2E0F-4576-A8D7-81A5B9C04CA4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>83nkhkjk9jnp35ary11hr0onb5hr0z3</sha1>
+    </revision>
+    <revision>
+      <id>847184843</id>
+      <parentid>764528211</parentid>
+      <timestamp>2019-01-31T07:29:41Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 3994981, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3501" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"},"nl":{"language":"nl","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$69651271-2E0F-4576-A8D7-81A5B9C04CA4","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"34debbcf65d2d82841b0e6bb15e79495063304c3","datavalue":{"value":"3994981","type":"string"}},"type":"statement","id":"Q55777698$6A5455B6-8418-411B-AC17-D66D0A37A1A9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>keyj5l60b5by9bey4j43osjd3rjc3vx</sha1>
+    </revision>
+    <revision>
+      <id>878873536</id>
+      <parentid>847184843</parentid>
+      <timestamp>2019-03-10T01:32:44Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-set:1|uk */ наукова стаття, опублікована в червні 1935, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3624" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"},"nl":{"language":"nl","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 1935"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$69651271-2E0F-4576-A8D7-81A5B9C04CA4","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"34debbcf65d2d82841b0e6bb15e79495063304c3","datavalue":{"value":"3994981","type":"string"}},"type":"statement","id":"Q55777698$6A5455B6-8418-411B-AC17-D66D0A37A1A9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l2qvl1lm5x1wjhjgeprvw5czf7e1upl</sha1>
+    </revision>
+    <revision>
+      <id>895698204</id>
+      <parentid>878873536</parentid>
+      <timestamp>2019-03-28T08:44:56Z</timestamp>
+      <contributor>
+        <username>Emijrpbot</username>
+        <id>6811</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ BOT - Adding descriptions (56 languages): ar, ast, bg, bn, ca, cs, da, el, eo, es, et, fa, fi, fr, gl, he, hu, hy, it, ja, ka, ko, lt, nan, nb, nn, oc, pl, pt, pt-br, ro, ru, sk, sq, sr, sr-ec, sr-el, sv, tg, tg-cyrl, th, tl, tr, ur, vi, wuu, yue, zh, zh-cn, zh-hans, zh-hant, zh-hk, zh-mo, zh-my, zh-sg, zh-tw</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="8009" xml:space="preserve">{"type":"item","id":"Q55777698","labels":{"de":{"language":"de","value":"Ericaceae novae"},"en":{"language":"en","value":"Ericaceae novae"},"nl":{"language":"nl","value":"Ericaceae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 1935"},"it":{"language":"it","value":"articolo scientifico"},"zh-hans":{"language":"zh-hans","value":"1935\u5e74\u5b66\u672f\u6587\u7ae0"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"ca":{"language":"ca","value":"article cient\u00edfic"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"ja":{"language":"ja","value":"1935\u5e74\u306e\u8ad6\u6587"},"ur":{"language":"ur","value":"\u0633\u0627\u0626\u0646\u0633\u06cc \u0645\u0636\u0645\u0648\u0646"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"nan":{"language":"nan","value":"1935 n\u00ee l\u016bn-b\u00fbn"},"oc":{"language":"oc","value":"article scientific"},"yue":{"language":"yue","value":"1935\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"1935\u5e74\u5b78\u8853\u6587\u7ae0"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e9\u09eb-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1935)"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"tl":{"language":"tl","value":"artikulong pang-agham"},"sq":{"language":"sq","value":"artikull shkencor"},"zh-sg":{"language":"zh-sg","value":"1935\u5e74\u5b66\u672f\u6587\u7ae0"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"tr":{"language":"tr","value":"bilimsel makale"},"wuu":{"language":"wuu","value":"1935\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"1935\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hk":{"language":"zh-hk","value":"1935\u5e74\u5b78\u8853\u6587\u7ae0"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"eo":{"language":"eo","value":"scienca artikolo"},"et":{"language":"et","value":"teaduslik artikkel"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1935"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1935)"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1935)"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"zh":{"language":"zh","value":"1935\u5e74\u5b78\u8853\u6587\u7ae0"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1935)"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"zh-my":{"language":"zh-my","value":"1935\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-mo":{"language":"zh-mo","value":"1935\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-cn":{"language":"zh-cn","value":"1935\u5e74\u5b66\u672f\u6587\u7ae0"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"ko":{"language":"ko","value":"1935\ub144 \ub17c\ubb38"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2a849a6a66f8406a17979226445d19a60ccf070d","datavalue":{"value":"10.2307\/3994981","type":"string"}},"type":"statement","id":"Q55777698$6D12AAE7-8A6B-4DD4-9615-1825266DF135","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$DD5D2336-BAFE-4B9E-8F82-BA9A811AE5E1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"ccf4fef8d10cb8680779c499537c852d8bb7eb6f","datavalue":{"value":{"text":"Ericaceae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55777698$804A5AC0-09F9-494D-9D3F-1812AF58B090","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"70163715e4c070eba1291f4f1711c40b4967f32b","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q55777698$BB44F07B-0933-4CB2-B861-13CEB8D838CF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7004694db1a4b50215130be3fd6fef171be8d715","datavalue":{"value":"478","type":"string"}},"type":"statement","id":"Q55777698$80BA99EF-48B3-4739-9E63-12587C6FFB7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ec60ccc5cf99060b17425654fa27fe784da0925e","datavalue":{"value":"114","type":"string"}},"type":"statement","id":"Q55777698$1B611591-EFB6-4AFB-A83E-991B846A1C6D","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"64f06431db7e039764750c4f5dcae2000df8459b","datavalue":{"value":{"time":"+1935-06-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55777698$702B4DAB-604B-48A5-9B6B-4733FE90DF30","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7adb065ebfe5ab08c4fb5187afb1780c66a24ec","datavalue":{"value":"Hermann Sleumer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55777698$C5CFB1E7-A80D-4D04-AF93-11E8CFCA453B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55777698$69651271-2E0F-4576-A8D7-81A5B9C04CA4","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"34debbcf65d2d82841b0e6bb15e79495063304c3","datavalue":{"value":"3994981","type":"string"}},"type":"statement","id":"Q55777698$6A5455B6-8418-411B-AC17-D66D0A37A1A9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>snn3ntvxntl34otnw0zuc3n55ciyisz</sha1>
+    </revision>
+  </page>
+</mediawiki>

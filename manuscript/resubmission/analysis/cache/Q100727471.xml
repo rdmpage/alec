@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q100727471</title>
+    <ns>0</ns>
+    <id>98288118</id>
+    <revision>
+      <id>1295553427</id>
+      <timestamp>2020-10-22T19:19:53Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1603393755913</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4559" xml:space="preserve">{"type":"item","id":"Q100727471","labels":{"fr":{"language":"fr","value":"Les G\u00e9osiridac\u00e9es, une nouvelle famille de Madagascar"},"en":{"language":"en","value":"Les G\u00e9osiridac\u00e9es, une nouvelle famille de Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c562caa54c8ccd8788aa1b1c4b0b557a17704323","datavalue":{"value":{"text":"Les G\u00e9osiridac\u00e9es, une nouvelle famille de Madagascar","language":"fr"},"type":"monolingualtext"}},"type":"statement","id":"Q100727471$1527728C-54CD-4C44-A749-5567A5C09D41","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"d197d0a5efa4b4c23a302a829dd3ef43684fe002","datavalue":{"value":{"entity-type":"item","numeric-id":150,"id":"Q150"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100727471$A82C4415-EC81-42BE-B104-5A7006ED7C95","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"bcc2b50d0b350f20889b636aa3381d74065ce429","datavalue":{"value":{"text":"En 1894, H. B\u00e2illon (Bull.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100727471$F0BE99D2-3A23-42D5-B112-3A9D62E939A1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100727471$1232A0AC-68B8-4B2F-8250-58C6510E941A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cb6108385c248e5d6fb19f43de1c0b6d07dd4c74","datavalue":{"value":{"time":"+1940-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q100727471$5BF67A11-9BB6-4C8F-94A6-8D836F7A4A9B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"37010d081b81e3b2889191d44196c51efa174299","datavalue":{"value":"F P Jonker","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q100727471$D301609C-6143-4B2F-8006-A277E9BDBB7B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ac580eaba3ed5b949323d4df74b6e0dfa97f7d65","datavalue":{"value":{"entity-type":"item","numeric-id":6102874,"id":"Q6102874"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100727471$74C7D783-B904-4100-8896-4581F63ED7CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"95c830f9cb34576c5025622a0ca25c66ff5266ce","datavalue":{"value":"36","type":"string"}},"type":"statement","id":"Q100727471$1D7B81C3-5DE0-4F21-A53C-F99FF46CE90B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q100727471$1DA5CDD6-2C68-412B-B8E4-3AFFD9852AE7","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"42c2dc1f49336af1f7bfca94ea27f1d7e5e5db61","datavalue":{"value":"473-479","type":"string"}},"type":"statement","id":"Q100727471$4B35D712-6E23-4895-81A7-9D0A7ACEB7B0","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"aa3e5f79ada74cc04df22219ee0e3a0af18a55b3","datavalue":{"value":"recueil-des-travaux-botaniques-neerlandais-36-473-479","type":"string"}},"type":"statement","id":"Q100727471$735B4DAC-1506-40BA-AE2D-FA951C509E73","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"30063eacefb5dae44c26a248a7d08de746f36b72","datavalue":{"value":"http:\/\/natuurtijdschriften.nl\/download?type=document;docid=552381","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q100727471$E6B2FBDD-508F-4128-8C32-B55DEBED99B4","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"351ff665aa6020a8fbc2b2e20a6aaf3f791cc7ad","datavalue":{"value":"http:\/\/natuurtijdschriften.nl\/record\/552381","type":"string"}},"type":"statement","id":"Q100727471$0EB60E9F-D294-4C1B-8854-F23CD81FC469","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dfxxazioksqndp8sg9618rh7d8kl0dk</sha1>
+    </revision>
+  </page>
+</mediawiki>

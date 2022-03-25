@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q101059722</title>
+    <ns>0</ns>
+    <id>98530386</id>
+    <revision>
+      <id>1300257020</id>
+      <timestamp>2020-10-31T17:10:30Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ [[:toollabs:quickstatements/#/batch/44775|batch #44775]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="8983" xml:space="preserve">{"type":"item","id":"Q101059722","labels":{"de":{"language":"de","value":"Weitere Beitr\u00e4ge zur Kenntnis der Eu-Hieracien Tirols, S\u00fcdbayerns und der \u00f6sterreichischen Alpenl\u00e4nder"},"en":{"language":"en","value":"Weitere Beitr\u00e4ge zur Kenntnis der Eu-Hieracien Tirols, S\u00fcdbayerns und der \u00f6sterreichischen Alpenl\u00e4nder"}},"descriptions":[],"aliases":[],"claims":{"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q101059722$1486A439-9413-46C6-971C-1C23E4AB3228","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"813ae9b19fd4b629e78cc5031eabcd6e1f3da88c","datavalue":{"value":"10.1007\/BF01794046","type":"string"}},"type":"statement","id":"Q101059722$71AAC2A2-67D7-4148-AEC5-F8A6A6C924BD","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q101059722$CE1C7900-1809-4621-AA3D-4014548C15CC","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"1ffc3bc353e12a53c8bb93d35bb07532f38fc6a4","datavalue":{"value":"389-396","type":"string"}},"type":"statement","id":"Q101059722$9EAF5FB6-72BB-4A88-BE19-CF0F50AB051D","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"149e5e7face520e816619f3055dce42f2c3504dd","datavalue":{"value":{"text":"Weitere Beitr\u00e4ge zur Kenntnis der Eu-Hieracien Tirols, S\u00fcdbayerns und der \u00f6sterreichischen Alpenl\u00e4nder","language":"de"},"type":"monolingualtext"}},"type":"statement","id":"Q101059722$10601632-9DB5-4ADB-93B6-56918017BA7A","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"46bfd327b830f66f7061ea92d1be430c135fa91f","datavalue":{"value":{"entity-type":"item","numeric-id":188,"id":"Q188"},"type":"wikibase-entityid"}},"type":"statement","id":"Q101059722$50E797F0-AF39-4CD6-9DFB-6A2D45A573A7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ff02312193605808eb8692616e01b9b638f63233","datavalue":{"value":"52","type":"string"}},"type":"statement","id":"Q101059722$90F99946-1184-4A79-90BC-DCF6EA795AD2","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f8edca7debaa466c67e55c256938eab2823a59e1","datavalue":{"value":"J. Murr","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q101059722$56398ACE-38E7-4837-9F17-42A310FB51F9","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e64904a613bd3b197ce0ff441811ce404fc71e49","datavalue":{"value":{"entity-type":"item","numeric-id":22046832,"id":"Q22046832"},"type":"wikibase-entityid"}},"type":"statement","id":"Q101059722$B542D7AB-1771-41B2-8C46-7E589CE55FAD","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"12ac575a0f32390c26c715c490d9073ea8f660de","datavalue":{"value":"http:\/\/link.springer.com\/content\/pdf\/10.1007\/BF01794046.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q101059722$DD8598F4-6E73-4DE6-A9D4-F6E98690CDC7","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"8cf7669bad19693a8bcbebd41b92c6097a325c47","datavalue":{"value":"http:\/\/dx.doi.org\/10.1007\/bf01794046","type":"string"}},"type":"statement","id":"Q101059722$44734718-2BB7-49A0-9684-B7A293AE736A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1aca4ee527267710ef15ce01f9a0970d093b8dd0","datavalue":{"value":{"time":"+1902-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q101059722$DC9502A9-683C-49F9-BAED-466F4A0F0143","rank":"normal","references":[{"hash":"f59c075cd3f82efefce4412cea432b62265c01ca","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"2c60cbcbf86af15c914fb46567e05ea1bdff20aa","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01794046","type":"string"}}]},"snaks-order":["P248","P854"]}]}]},"sitelinks":[]}</text>
+      <sha1>jn9o29go9zfwbjz3lspgtfdvvolha3j</sha1>
+    </revision>
+  </page>
+</mediawiki>

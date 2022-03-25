@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56198117</title>
+    <ns>0</ns>
+    <id>56140621</id>
+    <revision>
+      <id>730314938</id>
+      <timestamp>2018-08-20T17:07:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56198117","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>noavr78pcoxfejspdha9floi7xi9ug0</sha1>
+    </revision>
+    <revision>
+      <id>730314945</id>
+      <parentid>730314938</parentid>
+      <timestamp>2018-08-20T17:07:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ A NEW LEPTODESMID FROM MONTANA.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="166" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qzzyumpqekwyj0t93jjms59yrr14fuh</sha1>
+    </revision>
+    <revision>
+      <id>730314951</id>
+      <parentid>730314945</parentid>
+      <timestamp>2018-08-20T17:07:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ A NEW LEPTODESMID FROM MONTANA.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="231" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1o3qojkvjtokqqlbyhgdonom3h0till</sha1>
+    </revision>
+    <revision>
+      <id>730314958</id>
+      <parentid>730314951</parentid>
+      <timestamp>2018-08-20T17:07:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.4039/ENT45424-12</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="491" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>802ai4bx4gy9ilv2blzgcasrr5zxur6</sha1>
+    </revision>
+    <revision>
+      <id>730314963</id>
+      <parentid>730314958</parentid>
+      <timestamp>2018-08-20T17:07:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 85149</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="739" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pvhd74uplsneukahn83wx26mu7w75sg</sha1>
+    </revision>
+    <revision>
+      <id>730314970</id>
+      <parentid>730314963</parentid>
+      <timestamp>2018-08-20T17:07:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1048" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p59a2ph9qg9l3b7izoynvnj7zxfwzi0</sha1>
+    </revision>
+    <revision>
+      <id>730314980</id>
+      <parentid>730314970</parentid>
+      <timestamp>2018-08-20T17:07:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: A NEW LEPTODESMID FROM MONTANA.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1356" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>frry6z434gwhosfmwolrb7qo73gufaw</sha1>
+    </revision>
+    <revision>
+      <id>730314988</id>
+      <parentid>730314980</parentid>
+      <timestamp>2018-08-20T17:07:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 45</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1599" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tf8frvwea91zulhq17ygosa0kj09n5w</sha1>
+    </revision>
+    <revision>
+      <id>730314992</id>
+      <parentid>730314988</parentid>
+      <timestamp>2018-08-20T17:07:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 424–426</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1852" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ihv5dkc8ufc2dt2zxjt2uxkj449s4gg</sha1>
+    </revision>
+    <revision>
+      <id>730314998</id>
+      <parentid>730314992</parentid>
+      <timestamp>2018-08-20T17:07:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 12</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2095" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>an0bm086kocdxxzxrrmjb6uydcobmwj</sha1>
+    </revision>
+    <revision>
+      <id>730315005</id>
+      <parentid>730314998</parentid>
+      <timestamp>2018-08-20T17:07:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: December 1913</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2475" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gr9ew0apqw3a9gcj5flkhr5tnlc7f6a</sha1>
+    </revision>
+    <revision>
+      <id>730315010</id>
+      <parentid>730315005</parentid>
+      <timestamp>2018-08-20T17:07:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Ralph V. Chamberlin</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2737" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>50c1d9wuvtquiimunu6awts1esux2iu</sha1>
+    </revision>
+    <revision>
+      <id>730315017</id>
+      <parentid>730315010</parentid>
+      <timestamp>2018-08-20T17:07:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2923" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>indlcs8u8f5v0d71pg3flehtqdjka6d</sha1>
+    </revision>
+    <revision>
+      <id>730315023</id>
+      <parentid>730315017</parentid>
+      <timestamp>2018-08-20T17:07:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4035802]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3234" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$93067DCA-A24B-4A73-9CF1-EE8826A20203","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>epxsbpkz54hnq78ibwqp5kpzmou8d5n</sha1>
+    </revision>
+    <revision>
+      <id>738235361</id>
+      <parentid>730315023</parentid>
+      <timestamp>2018-09-01T23:52:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 3101615, According to [[Property:P5315]]=85149</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3482" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$93067DCA-A24B-4A73-9CF1-EE8826A20203","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ee066905049ee43058f9bb2dc19a6f58aab35e8f","datavalue":{"value":"3101615","type":"string"}},"type":"statement","id":"Q56198117$C7FB7D93-3F94-49B2-B510-331D9BD5D61D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4s1ql344bq2sx8fh6snhzv18jyr0f8m</sha1>
+    </revision>
+    <revision>
+      <id>779977705</id>
+      <parentid>738235361</parentid>
+      <timestamp>2018-11-02T11:49:49Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3604" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."},"nl":{"language":"nl","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$93067DCA-A24B-4A73-9CF1-EE8826A20203","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ee066905049ee43058f9bb2dc19a6f58aab35e8f","datavalue":{"value":"3101615","type":"string"}},"type":"statement","id":"Q56198117$C7FB7D93-3F94-49B2-B510-331D9BD5D61D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d9qhssp8fj6ltrm6ved9o35s06aigxx</sha1>
+    </revision>
+    <revision>
+      <id>973327581</id>
+      <parentid>779977705</parentid>
+      <timestamp>2019-07-03T03:02:40Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в грудні 1913, [[:toollabs:quickstatements/#/batch/15219|batch #15219]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3840" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."},"nl":{"language":"nl","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0433\u0440\u0443\u0434\u043d\u0456 1913"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$93067DCA-A24B-4A73-9CF1-EE8826A20203","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ee066905049ee43058f9bb2dc19a6f58aab35e8f","datavalue":{"value":"3101615","type":"string"}},"type":"statement","id":"Q56198117$C7FB7D93-3F94-49B2-B510-331D9BD5D61D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fvuy8oya81uzpoogtjhpqby3zcx4k4r</sha1>
+    </revision>
+    <revision>
+      <id>1109323244</id>
+      <parentid>973327581</parentid>
+      <timestamp>2020-02-03T21:58:24Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Dezember 1913 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25546|batch #25546]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3939" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."},"nl":{"language":"nl","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0433\u0440\u0443\u0434\u043d\u0456 1913"},"de":{"language":"de","value":"im Dezember 1913 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$93067DCA-A24B-4A73-9CF1-EE8826A20203","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ee066905049ee43058f9bb2dc19a6f58aab35e8f","datavalue":{"value":"3101615","type":"string"}},"type":"statement","id":"Q56198117$C7FB7D93-3F94-49B2-B510-331D9BD5D61D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>78umwnp1s57vu8vhhzf9d1dgxddai8z</sha1>
+    </revision>
+    <revision>
+      <id>1259492928</id>
+      <parentid>1109323244</parentid>
+      <timestamp>2020-08-18T04:59:56Z</timestamp>
+      <contributor>
+        <username>Animalparty</username>
+        <id>359259</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P50]]: [[Q2295020]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4246" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."},"nl":{"language":"nl","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0433\u0440\u0443\u0434\u043d\u0456 1913"},"de":{"language":"de","value":"im Dezember 1913 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fe55573b927117c8e178616841a5a096b6e1cac7","datavalue":{"value":"Ralph V. Chamberlin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198117$6E872E73-37D8-464A-9E5E-E09FA5300DC3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$93067DCA-A24B-4A73-9CF1-EE8826A20203","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ee066905049ee43058f9bb2dc19a6f58aab35e8f","datavalue":{"value":"3101615","type":"string"}},"type":"statement","id":"Q56198117$C7FB7D93-3F94-49B2-B510-331D9BD5D61D","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"fa1385b9670ab73420ffb1f65bfba9125e0e79a2","datavalue":{"value":{"entity-type":"item","numeric-id":2295020,"id":"Q2295020"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$05f98e32-49bc-408c-36f5-9cbaeb0ab074","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sqcw5z1euj4jcnlgt5p68xawx3cp3mn</sha1>
+    </revision>
+    <revision>
+      <id>1259492958</id>
+      <parentid>1259492928</parentid>
+      <timestamp>2020-08-18T05:00:06Z</timestamp>
+      <contributor>
+        <username>Animalparty</username>
+        <id>359259</id>
+      </contributor>
+      <comment>/* wbremoveclaims-remove:1| */ [[Property:P2093]]: Ralph V. Chamberlin</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3798" xml:space="preserve">{"type":"item","id":"Q56198117","labels":{"de":{"language":"de","value":"A NEW LEPTODESMID FROM MONTANA."},"en":{"language":"en","value":"A NEW LEPTODESMID FROM MONTANA."},"nl":{"language":"nl","value":"A NEW LEPTODESMID FROM MONTANA."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0433\u0440\u0443\u0434\u043d\u0456 1913"},"de":{"language":"de","value":"im Dezember 1913 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"b58a681e159fa6924f5554021a18bf5037b900d8","datavalue":{"value":"10.4039\/ENT45424-12","type":"string"}},"type":"statement","id":"Q56198117$80B23567-8EC1-4AC6-982F-7D6704FADF1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"b26c769dcda02aa26358e0d5e6dc5f0356355c92","datavalue":{"value":"85149","type":"string"}},"type":"statement","id":"Q56198117$BE592290-4E0A-4B96-B337-A865E24DA6E6","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$289AE07D-21C2-43D2-ABFE-E1BC2217DF17","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b9b9626969fcd841d5e129ed4b797992e7201fa0","datavalue":{"value":{"text":"A NEW LEPTODESMID FROM MONTANA.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198117$333A6126-BDC6-4A0C-B62F-34CD39DDE6DA","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f7304e0b641570c6f4c2912466f7e9a1415dde49","datavalue":{"value":"45","type":"string"}},"type":"statement","id":"Q56198117$AE9A5B32-8703-4179-AFA4-48B98907411E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"257d41b0cba6447ed78b0979a51c908cfb4bce42","datavalue":{"value":"424\u2013426","type":"string"}},"type":"statement","id":"Q56198117$0DC04EEF-AB08-4FBB-B083-1F1E3E811A07","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"db717438da4cdc1e3f5145bc0bb3a600a0fc8e97","datavalue":{"value":"12","type":"string"}},"type":"statement","id":"Q56198117$02DD4EF2-7B87-464C-86B0-248E0ED78B7E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9a6a27daa8e71d6616c93c1d6b426dfbf37e6f21","datavalue":{"value":{"time":"+1913-12-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198117$4BD255D4-2D24-434F-8F9D-E08048FFA22E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$93067DCA-A24B-4A73-9CF1-EE8826A20203","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ee066905049ee43058f9bb2dc19a6f58aab35e8f","datavalue":{"value":"3101615","type":"string"}},"type":"statement","id":"Q56198117$C7FB7D93-3F94-49B2-B510-331D9BD5D61D","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"fa1385b9670ab73420ffb1f65bfba9125e0e79a2","datavalue":{"value":{"entity-type":"item","numeric-id":2295020,"id":"Q2295020"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198117$05f98e32-49bc-408c-36f5-9cbaeb0ab074","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kbceyusyvzkces9rv1z7qt2lj7g2wp1</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56155289</title>
+    <ns>0</ns>
+    <id>56098511</id>
+    <revision>
+      <id>728220951</id>
+      <timestamp>2018-08-18T00:17:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56155289","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0itcfah9gh7rrp5ce80dgnqr48jzsuw</sha1>
+    </revision>
+    <revision>
+      <id>728220960</id>
+      <parentid>728220951</parentid>
+      <timestamp>2018-08-18T00:17:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ III. REPTILES.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="149" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>5p553wvmjdqi4efh3ijhogvrsmdvrtp</sha1>
+    </revision>
+    <revision>
+      <id>728220964</id>
+      <parentid>728220960</parentid>
+      <timestamp>2018-08-18T00:17:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ III. REPTILES.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="197" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>p6144ny0o1ysbgsh8sum09h2cv6pmqd</sha1>
+    </revision>
+    <revision>
+      <id>728220972</id>
+      <parentid>728220964</parentid>
+      <timestamp>2018-08-18T00:17:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1111/J.1096-3642.1887.TB03001.X</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="472" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l0tzu221mv5t3iyjhbnhiu2pz90x6mj</sha1>
+    </revision>
+    <revision>
+      <id>728220977</id>
+      <parentid>728220972</parentid>
+      <timestamp>2018-08-18T00:17:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 108235</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="721" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gr5j1gzuit4w285t1xhdljn8pfenffj</sha1>
+    </revision>
+    <revision>
+      <id>728220982</id>
+      <parentid>728220977</parentid>
+      <timestamp>2018-08-18T00:17:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1030" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3ce3y308lkm7ub90gwage6qw9v9w28o</sha1>
+    </revision>
+    <revision>
+      <id>728220988</id>
+      <parentid>728220982</parentid>
+      <timestamp>2018-08-18T00:17:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: III. REPTILES.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1321" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>80l1pfa8kqafmtbi2y0nz77kzjtngkc</sha1>
+    </revision>
+    <revision>
+      <id>728220995</id>
+      <parentid>728220988</parentid>
+      <timestamp>2018-08-18T00:17:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 55</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1564" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>65hlflny9uhvebo608zytvfw6emmmgq</sha1>
+    </revision>
+    <revision>
+      <id>728221002</id>
+      <parentid>728220995</parentid>
+      <timestamp>2018-08-18T00:17:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 516–517</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1817" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g2zh7c7tjj8jsw3i86ada94vuz9b7dr</sha1>
+    </revision>
+    <revision>
+      <id>728221008</id>
+      <parentid>728221002</parentid>
+      <timestamp>2018-08-18T00:17:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2059" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>37mz6ka9s1bv7usyr6hqn82cae84pu8</sha1>
+    </revision>
+    <revision>
+      <id>728221013</id>
+      <parentid>728221008</parentid>
+      <timestamp>2018-08-18T00:17:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 20 August 2009</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2439" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>phji55ddzmqrcajfq1ot548r4srvy6r</sha1>
+    </revision>
+    <revision>
+      <id>728221021</id>
+      <parentid>728221013</parentid>
+      <timestamp>2018-08-18T00:17:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: G. A. Boulenger</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2697" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ft2p8p97aqjastzxi3xcld5jgk8v956</sha1>
+    </revision>
+    <revision>
+      <id>728221027</id>
+      <parentid>728221021</parentid>
+      <timestamp>2018-08-18T00:17:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2883" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2r0ndz19xh4vj67ix7k6s73yrjgyloa</sha1>
+    </revision>
+    <revision>
+      <id>728221031</id>
+      <parentid>728221027</parentid>
+      <timestamp>2018-08-18T00:17:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19622568]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3196" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pvhybkhxmjf8gkildtpqj7voohp7sf5</sha1>
+    </revision>
+    <revision>
+      <id>738454128</id>
+      <parentid>728221031</parentid>
+      <timestamp>2018-09-02T08:33:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 31784157, According to [[Property:P5315]]=108235</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3445" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>re99dgri5kcboew33u6794tx6hq7viq</sha1>
+    </revision>
+    <revision>
+      <id>780507151</id>
+      <parentid>738454128</parentid>
+      <timestamp>2018-11-03T00:42:12Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3550" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."},"nl":{"language":"nl","value":"III. REPTILES."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1tmunsa5yiw91y8kn6gr0y1n3iybrub</sha1>
+    </revision>
+    <revision>
+      <id>967955676</id>
+      <parentid>780507151</parentid>
+      <timestamp>2019-06-24T04:47:09Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в серпні 2009, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3786" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."},"nl":{"language":"nl","value":"III. REPTILES."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cqvxn1gl7rmhpfl3jmg4k0jukbr9ee0</sha1>
+    </revision>
+    <revision>
+      <id>1271494936</id>
+      <parentid>967955676</parentid>
+      <timestamp>2020-09-05T02:05:05Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im August 2009 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3883" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."},"nl":{"language":"nl","value":"III. REPTILES."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"de":{"language":"de","value":"im August 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0c066epzytyvlbd8je561djdpfnierq</sha1>
+    </revision>
+    <revision>
+      <id>1321164424</id>
+      <parentid>1271494936</parentid>
+      <timestamp>2020-12-11T09:03:45Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P50]]: [[Q435731]], #quickstatements; #temporary_batch_1607675931512</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4188" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."},"nl":{"language":"nl","value":"III. REPTILES."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"de":{"language":"de","value":"im August 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"b3c148cde9bbfc7321014b3de2b9daae5d7adb29","datavalue":{"value":{"entity-type":"item","numeric-id":435731,"id":"Q435731"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$29C6EEE5-79C7-4295-B380-0F11CE1CB216","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>no2ulrlgd980sj899psvdxn1pabpndg</sha1>
+    </revision>
+    <revision>
+      <id>1321164430</id>
+      <parentid>1321164424</parentid>
+      <timestamp>2020-12-11T09:03:47Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1, #quickstatements; #temporary_batch_1607675931512</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4374" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."},"nl":{"language":"nl","value":"III. REPTILES."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"de":{"language":"de","value":"im August 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"b3c148cde9bbfc7321014b3de2b9daae5d7adb29","datavalue":{"value":{"entity-type":"item","numeric-id":435731,"id":"Q435731"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$29C6EEE5-79C7-4295-B380-0F11CE1CB216","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0jzcb07oqaetbb5dj1fqft5df10nv19</sha1>
+    </revision>
+    <revision>
+      <id>1321164440</id>
+      <parentid>1321164430</parentid>
+      <timestamp>2020-12-11T09:03:47Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1932]]: G. A. Boulenger, #quickstatements; #temporary_batch_1607675931512</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4538" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."},"nl":{"language":"nl","value":"III. REPTILES."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"de":{"language":"de","value":"im August 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"1c505ceec12035534b4815117fff40934c421831","datavalue":{"value":"G. A. Boulenger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155289$3203AC35-37C1-41BB-B4FD-D25CC8A86388","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"b3c148cde9bbfc7321014b3de2b9daae5d7adb29","datavalue":{"value":{"entity-type":"item","numeric-id":435731,"id":"Q435731"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"2897df06d6baedf3e088264527ccacff64687a3a","datavalue":{"value":"G. A. Boulenger","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q56155289$29C6EEE5-79C7-4295-B380-0F11CE1CB216","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lbcfr906ljfpr7j1xfdft08gnf6zm1l</sha1>
+    </revision>
+    <revision>
+      <id>1321164444</id>
+      <parentid>1321164440</parentid>
+      <timestamp>2020-12-11T09:03:49Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbremoveclaims-remove:1| */ [[Property:P2093]]: G. A. Boulenger, #quickstatements; #temporary_batch_1607675931512</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4094" xml:space="preserve">{"type":"item","id":"Q56155289","labels":{"de":{"language":"de","value":"III. REPTILES."},"en":{"language":"en","value":"III. REPTILES."},"nl":{"language":"nl","value":"III. REPTILES."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"de":{"language":"de","value":"im August 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cfd3339b43c3136b62d00b257dd9f4a11f91d86e","datavalue":{"value":"10.1111\/J.1096-3642.1887.TB03001.X","type":"string"}},"type":"statement","id":"Q56155289$217C73DA-8B5B-46D1-8567-475ABEC6DB23","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"d6bf931c096a36f16bf301a8063e8abb6b67a017","datavalue":{"value":"108235","type":"string"}},"type":"statement","id":"Q56155289$460B9D3C-5730-41B1-8BD3-BFFC9BC75CCB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$02F6B9A5-AEA4-47DB-9971-8C5F74BBA630","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8b4ba56e2f86d849407aa0b61340a85f2bc9724f","datavalue":{"value":{"text":"III. REPTILES.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155289$47699369-DA54-43A7-8AA1-442B8C74A8E2","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"4ede167b2a46b830a076883d77ba4f2e1d953663","datavalue":{"value":"55","type":"string"}},"type":"statement","id":"Q56155289$9D6D9B62-B50E-42B9-A406-FB733650F90F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"4bd9644fa630c98013085daebe156fe63aceeda2","datavalue":{"value":"516\u2013517","type":"string"}},"type":"statement","id":"Q56155289$137AD386-2641-470B-9E4A-FAD36B4D07D9","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56155289$933411A0-AFCB-4F28-80F4-7DA496277368","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b26b9ab70966d725c5c7a68bb317352f33b0f222","datavalue":{"value":{"time":"+2009-08-20T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155289$F4179C0E-96A9-4884-AC61-AC4BD02601A7","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155289$E053BB47-B3D1-4164-B4E9-95FFE62EF373","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0e1c6d675120a39119fc26bf9d365f394f81152a","datavalue":{"value":"31784157","type":"string"}},"type":"statement","id":"Q56155289$E928AAE8-5E30-4DDC-8B25-B9DC7F69A424","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"b3c148cde9bbfc7321014b3de2b9daae5d7adb29","datavalue":{"value":{"entity-type":"item","numeric-id":435731,"id":"Q435731"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"2897df06d6baedf3e088264527ccacff64687a3a","datavalue":{"value":"G. A. Boulenger","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q56155289$29C6EEE5-79C7-4295-B380-0F11CE1CB216","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>56d0ohi2rtdez79l6aw1eoaxz3kxwnk</sha1>
+    </revision>
+  </page>
+</mediawiki>

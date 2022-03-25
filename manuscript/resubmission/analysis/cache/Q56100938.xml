@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56100938</title>
+    <ns>0</ns>
+    <id>56046660</id>
+    <revision>
+      <id>726495183</id>
+      <timestamp>2018-08-15T15:34:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56100938","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>lax1f0nyp3xngcgg3vtgf0slqpkors1</sha1>
+    </revision>
+    <revision>
+      <id>726495188</id>
+      <parentid>726495183</parentid>
+      <timestamp>2018-08-15T15:34:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Amphioxus Lanceolatus</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="156" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qdchzkjb1jjsriy7zor6phwcryf0pln</sha1>
+    </revision>
+    <revision>
+      <id>726495194</id>
+      <parentid>726495188</parentid>
+      <timestamp>2018-08-15T15:34:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Amphioxus Lanceolatus</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="211" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8a8msozjeltoav86hvbklgs9c2ppn4w</sha1>
+    </revision>
+    <revision>
+      <id>726495197</id>
+      <parentid>726495194</parentid>
+      <timestamp>2018-08-15T15:34:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00222935608697647</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="477" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c2cgtfstmesg85w4u4g1a0vgsaztogh</sha1>
+    </revision>
+    <revision>
+      <id>726495205</id>
+      <parentid>726495197</parentid>
+      <timestamp>2018-08-15T15:34:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 90290</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="725" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b5ut9qjtshli5ciwh84ccenir2mt8uk</sha1>
+    </revision>
+    <revision>
+      <id>726495221</id>
+      <parentid>726495205</parentid>
+      <timestamp>2018-08-15T15:34:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1034" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7dutysxqsn87fh2kvsxnuo0k5szoviy</sha1>
+    </revision>
+    <revision>
+      <id>726495227</id>
+      <parentid>726495221</parentid>
+      <timestamp>2018-08-15T15:34:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Amphioxus Lanceolatus</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1332" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7rhsxkwtg4wc94m2xsg2j2vck57hp9e</sha1>
+    </revision>
+    <revision>
+      <id>726495237</id>
+      <parentid>726495227</parentid>
+      <timestamp>2018-08-15T15:34:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 18</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1575" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d1gzwgclpn4318ymvbuphnc52ssxjry</sha1>
+    </revision>
+    <revision>
+      <id>726495245</id>
+      <parentid>726495237</parentid>
+      <timestamp>2018-08-15T15:34:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 350</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1819" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e9z8at84b3xuoictfp2fkc2ktwevfix</sha1>
+    </revision>
+    <revision>
+      <id>726495252</id>
+      <parentid>726495245</parentid>
+      <timestamp>2018-08-15T15:34:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 106</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2063" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2ntkx2whxnozfn16f3utszlgbviejb3</sha1>
+    </revision>
+    <revision>
+      <id>726495254</id>
+      <parentid>726495252</parentid>
+      <timestamp>2018-08-15T15:34:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: October 1856</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2443" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4w4t5f5l6by4adsdd0l890pcs2b8pt9</sha1>
+    </revision>
+    <revision>
+      <id>726495262</id>
+      <parentid>726495254</parentid>
+      <timestamp>2018-08-15T15:34:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19798858]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2756" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mjeqh6o9xkfgutoptf05rct1jj7tegh</sha1>
+    </revision>
+    <revision>
+      <id>738313748</id>
+      <parentid>726495262</parentid>
+      <timestamp>2018-09-02T02:53:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 2313298, According to [[Property:P5315]]=90290</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3004" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c7ac4i75qde8rd026u9ispdfpu3baop</sha1>
+    </revision>
+    <revision>
+      <id>781336885</id>
+      <parentid>738313748</parentid>
+      <timestamp>2018-11-04T00:05:36Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3116" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"},"nl":{"language":"nl","value":"Amphioxus Lanceolatus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j5vy02zib51975vpdp7mquzp474j4gt</sha1>
+    </revision>
+    <revision>
+      <id>887320139</id>
+      <parentid>781336885</parentid>
+      <timestamp>2019-03-18T23:51:52Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3423" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"},"nl":{"language":"nl","value":"Amphioxus Lanceolatus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$464C9E4B-F03F-46D0-A594-A52FCB0F7DBE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>17cv2incq1l5l5kvo4yap7ulllvv86w</sha1>
+    </revision>
+    <revision>
+      <id>887320243</id>
+      <parentid>887320139</parentid>
+      <timestamp>2019-03-18T23:51:59Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3666" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"},"nl":{"language":"nl","value":"Amphioxus Lanceolatus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56100938$464C9E4B-F03F-46D0-A594-A52FCB0F7DBE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2v0zrsd0lu25t38hcpt36pog2ke4ygj</sha1>
+    </revision>
+    <revision>
+      <id>887320363</id>
+      <parentid>887320243</parentid>
+      <timestamp>2019-03-18T23:52:08Z</timestamp>
+      <contributor>
+        <username>Jarekt</username>
+        <id>1274</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1552685684671</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3882" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"},"nl":{"language":"nl","value":"Amphioxus Lanceolatus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56100938$464C9E4B-F03F-46D0-A594-A52FCB0F7DBE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a6j8k1ab5segm364hmenrdmi0mh2eyz</sha1>
+    </revision>
+    <revision>
+      <id>971618466</id>
+      <parentid>887320363</parentid>
+      <timestamp>2019-06-30T06:27:04Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в жовтні 1856, [[:toollabs:quickstatements/#/batch/15023|batch #15023]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4118" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"},"nl":{"language":"nl","value":"Amphioxus Lanceolatus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 1856"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56100938$464C9E4B-F03F-46D0-A594-A52FCB0F7DBE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0synwq9f9kfendu6eru4755zxgi817l</sha1>
+    </revision>
+    <revision>
+      <id>1129916790</id>
+      <parentid>971618466</parentid>
+      <timestamp>2020-03-05T23:19:40Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4421" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"},"nl":{"language":"nl","value":"Amphioxus Lanceolatus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 1856"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56100938$464C9E4B-F03F-46D0-A594-A52FCB0F7DBE","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$D8301174-8EF4-40CB-B66A-A4CF8AAC6E70","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>90tqfmkoxk0ds80dyq6jb8b4honjg1t</sha1>
+    </revision>
+    <revision>
+      <id>1271430648</id>
+      <parentid>1129916790</parentid>
+      <timestamp>2020-09-04T22:29:30Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Oktober 1856 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4519" xml:space="preserve">{"type":"item","id":"Q56100938","labels":{"de":{"language":"de","value":"Amphioxus Lanceolatus"},"en":{"language":"en","value":"Amphioxus Lanceolatus"},"nl":{"language":"nl","value":"Amphioxus Lanceolatus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 1856"},"de":{"language":"de","value":"im Oktober 1856 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"544b8b4f876d48d4e435db4dbeabfcecc73682d8","datavalue":{"value":"10.1080\/00222935608697647","type":"string"}},"type":"statement","id":"Q56100938$D34FAB30-C389-4923-9DF4-B2BF262C4581","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"6fd0c647340a89323a41dede385903086fa82f97","datavalue":{"value":"90290","type":"string"}},"type":"statement","id":"Q56100938$FF120368-1BFD-47BB-96BC-E3A977D364DC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$17FAB6E5-5DCA-4668-8699-03880D1306A6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"019b5dad86b9529dce1a7c8b50895bdfe73ec86c","datavalue":{"value":{"text":"Amphioxus Lanceolatus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56100938$925F6905-E5E4-4ADD-B7E7-8A7E89A49BA7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56100938$0509CA96-0E42-4CD1-B3B5-4481B5C05243","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9fa700bdd55ae0bf0421ffe34456ea411cb0ceda","datavalue":{"value":"350","type":"string"}},"type":"statement","id":"Q56100938$9FCA4325-A266-4A9A-A440-9EF969F03762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"45850b1af5b993bd7bf5c1d0f3b00094f21515b2","datavalue":{"value":"106","type":"string"}},"type":"statement","id":"Q56100938$1C32854B-5C70-47EA-9480-0C6844A98531","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"36a90e5dfc21bb29d58584ee171490cee6f4af05","datavalue":{"value":{"time":"+1856-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56100938$F63E1FF7-CFED-4AF0-BD2D-2DDAA3371A01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$2307EBBC-0A0C-48D7-AD2E-93E89BCA5CF3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"0ca45ad961f085f8be6f5f10f31bb7e5c65c8f2f","datavalue":{"value":"2313298","type":"string"}},"type":"statement","id":"Q56100938$142F80E9-D7D5-4054-A58B-B9017764C3C9","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56100938$464C9E4B-F03F-46D0-A594-A52FCB0F7DBE","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56100938$D8301174-8EF4-40CB-B66A-A4CF8AAC6E70","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7wxsz1oa15c8s6at1306w27nz8bjkno</sha1>
+    </revision>
+  </page>
+</mediawiki>

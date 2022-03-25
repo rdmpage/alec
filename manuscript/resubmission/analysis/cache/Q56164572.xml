@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56164572</title>
+    <ns>0</ns>
+    <id>56107075</id>
+    <revision>
+      <id>728680409</id>
+      <timestamp>2018-08-18T16:40:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56164572","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rw6dmkeqhh26fc9rrbee1ebsqdq84cs</sha1>
+    </revision>
+    <revision>
+      <id>728680415</id>
+      <parentid>728680409</parentid>
+      <timestamp>2018-08-18T16:40:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Some Flies of the Family Asilidae (Diptera)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="178" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dq05nxtjxo66sllxzraizzoolxkltqu</sha1>
+    </revision>
+    <revision>
+      <id>728680421</id>
+      <parentid>728680415</parentid>
+      <timestamp>2018-08-18T16:40:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Some Flies of the Family Asilidae (Diptera)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="255" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1bnev1pghlcsphubb8047z75v106s7r</sha1>
+    </revision>
+    <revision>
+      <id>728680426</id>
+      <parentid>728680421</parentid>
+      <timestamp>2018-08-18T16:40:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1155/1957/80328</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="515" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>850u880ndr4zy8k7npj58pgmhz75020</sha1>
+    </revision>
+    <revision>
+      <id>728680430</id>
+      <parentid>728680426</parentid>
+      <timestamp>2018-08-18T16:40:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 174064</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="764" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gbl2qi47eiih0va779mq70vxmk7ko9e</sha1>
+    </revision>
+    <revision>
+      <id>728680434</id>
+      <parentid>728680430</parentid>
+      <timestamp>2018-08-18T16:40:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1073" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p98brf1cepcn3hh85yezspbq10xvm2d</sha1>
+    </revision>
+    <revision>
+      <id>728680438</id>
+      <parentid>728680434</parentid>
+      <timestamp>2018-08-18T16:40:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Some Flies of the Family Asilidae (Diptera)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1393" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fpjsq6vmtxm032cg1var5x3hosrnn6l</sha1>
+    </revision>
+    <revision>
+      <id>728680442</id>
+      <parentid>728680438</parentid>
+      <timestamp>2018-08-18T16:40:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 64</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1636" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4vuysmx5hky5i7dt0d1i1e5sootxzp0</sha1>
+    </revision>
+    <revision>
+      <id>728680448</id>
+      <parentid>728680442</parentid>
+      <timestamp>2018-08-18T16:40:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 90–96</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1887" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iotasokocqmcrewh2acif8mh695eio1</sha1>
+    </revision>
+    <revision>
+      <id>728680450</id>
+      <parentid>728680448</parentid>
+      <timestamp>2018-08-18T16:40:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2129" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hl8yf7ahjmxhqx2clow633cco0l1f7c</sha1>
+    </revision>
+    <revision>
+      <id>728680453</id>
+      <parentid>728680450</parentid>
+      <timestamp>2018-08-18T16:40:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1957</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2508" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6xf9cd4upfzx7bp6jf9xvh9zg6jd0wn</sha1>
+    </revision>
+    <revision>
+      <id>728680458</id>
+      <parentid>728680453</parentid>
+      <timestamp>2018-08-18T16:40:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Frank M. Hull</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2764" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2sv56p1wwwszfpixvjq48vtfg3llkos</sha1>
+    </revision>
+    <revision>
+      <id>728680461</id>
+      <parentid>728680458</parentid>
+      <timestamp>2018-08-18T16:40:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2950" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s30nngptassq0l91ujm49j0quigd9w4</sha1>
+    </revision>
+    <revision>
+      <id>728680466</id>
+      <parentid>728680461</parentid>
+      <timestamp>2018-08-18T16:40:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2071295]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3261" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kpe4zggt0a32d9pxhtdff9k8u8ee7us</sha1>
+    </revision>
+    <revision>
+      <id>738790819</id>
+      <parentid>728680466</parentid>
+      <timestamp>2018-09-02T19:52:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 50890599, According to [[Property:P5315]]=174064</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3510" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"74c24457a64abbb3f4f79a3766ce885903cbb601","datavalue":{"value":"50890599","type":"string"}},"type":"statement","id":"Q56164572$E68C2319-529B-4990-9AB5-04877AC618E9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s6midgqrvu01hjyirp4um908gm2kqw7</sha1>
+    </revision>
+    <revision>
+      <id>780375692</id>
+      <parentid>738790819</parentid>
+      <timestamp>2018-11-02T21:34:52Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3634" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"},"nl":{"language":"nl","value":"Some Flies of the Family Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"74c24457a64abbb3f4f79a3766ce885903cbb601","datavalue":{"value":"50890599","type":"string"}},"type":"statement","id":"Q56164572$E68C2319-529B-4990-9AB5-04877AC618E9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6xfijf5q0ajpm1d7pxc6abfx0jxzr1p</sha1>
+    </revision>
+    <revision>
+      <id>803821557</id>
+      <parentid>780375692</parentid>
+      <timestamp>2018-12-02T19:27:41Z</timestamp>
+      <contributor>
+        <username>PintochBot</username>
+        <id>2907109</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P5875]]: 27372427, add [[Property:P5875|ResearchGate publication ID]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3885" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"},"nl":{"language":"nl","value":"Some Flies of the Family Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"74c24457a64abbb3f4f79a3766ce885903cbb601","datavalue":{"value":"50890599","type":"string"}},"type":"statement","id":"Q56164572$E68C2319-529B-4990-9AB5-04877AC618E9","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"ecada62ee6acb1a3bfcc8cef56d241ccde7e89aa","datavalue":{"value":"27372427","type":"string"}},"type":"statement","id":"Q56164572$F8860B59-6C81-4AE7-B7BD-33E9CA6E9C17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5a94yo1raltred8w8zqmxyn1j88vpcj</sha1>
+    </revision>
+    <revision>
+      <id>974826029</id>
+      <parentid>803821557</parentid>
+      <timestamp>2019-07-06T05:22:24Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1957, [[:toollabs:quickstatements/#/batch/15424|batch #15424]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4084" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"},"nl":{"language":"nl","value":"Some Flies of the Family Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1957"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"74c24457a64abbb3f4f79a3766ce885903cbb601","datavalue":{"value":"50890599","type":"string"}},"type":"statement","id":"Q56164572$E68C2319-529B-4990-9AB5-04877AC618E9","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"ecada62ee6acb1a3bfcc8cef56d241ccde7e89aa","datavalue":{"value":"27372427","type":"string"}},"type":"statement","id":"Q56164572$F8860B59-6C81-4AE7-B7BD-33E9CA6E9C17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tvxjevgu7094ry5h5fjhy8zc6z3gpqu</sha1>
+    </revision>
+    <revision>
+      <id>1085773628</id>
+      <parentid>974826029</parentid>
+      <timestamp>2019-12-29T02:59:13Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1957 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24671|batch #24671]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4181" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"},"nl":{"language":"nl","value":"Some Flies of the Family Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1957"},"de":{"language":"de","value":"im Januar 1957 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"74c24457a64abbb3f4f79a3766ce885903cbb601","datavalue":{"value":"50890599","type":"string"}},"type":"statement","id":"Q56164572$E68C2319-529B-4990-9AB5-04877AC618E9","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"ecada62ee6acb1a3bfcc8cef56d241ccde7e89aa","datavalue":{"value":"27372427","type":"string"}},"type":"statement","id":"Q56164572$F8860B59-6C81-4AE7-B7BD-33E9CA6E9C17","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dfd9jv046jjdc0rl4ctavxye4ocxsko</sha1>
+    </revision>
+    <revision>
+      <id>1287545568</id>
+      <parentid>1085773628</parentid>
+      <timestamp>2020-10-06T19:23:48Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: 6ace2510-c4d4-452b-8986-aaeefc9b706a, #quickstatements; #temporary_batch_1602011829853</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4460" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"},"nl":{"language":"nl","value":"Some Flies of the Family Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1957"},"de":{"language":"de","value":"im Januar 1957 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"20d3dedfe771d5134ddb9c66698f41b7a1a05a99","datavalue":{"value":"Frank M. Hull","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164572$58B7142D-A8D0-4D33-899C-ADFCAEE47699","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"74c24457a64abbb3f4f79a3766ce885903cbb601","datavalue":{"value":"50890599","type":"string"}},"type":"statement","id":"Q56164572$E68C2319-529B-4990-9AB5-04877AC618E9","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"ecada62ee6acb1a3bfcc8cef56d241ccde7e89aa","datavalue":{"value":"27372427","type":"string"}},"type":"statement","id":"Q56164572$F8860B59-6C81-4AE7-B7BD-33E9CA6E9C17","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"9a6aac9d92841040f2c9527fd8a849055e28e57b","datavalue":{"value":"6ace2510-c4d4-452b-8986-aaeefc9b706a","type":"string"}},"type":"statement","id":"Q56164572$F5E67EBB-8D41-4598-8E3F-3A2076A2F91F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i1jiafny15acxfqdumzfdow54nyitoo</sha1>
+    </revision>
+    <revision>
+      <id>1430443072</id>
+      <parentid>1287545568</parentid>
+      <timestamp>2021-05-28T19:36:45Z</timestamp>
+      <contributor>
+        <username>Friesen5000</username>
+        <id>4272229</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q27926165]] ([[:toollabs:editgroups/b/AD/64407b03|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4675" xml:space="preserve">{"type":"item","id":"Q56164572","labels":{"de":{"language":"de","value":"Some Flies of the Family Asilidae (Diptera)"},"en":{"language":"en","value":"Some Flies of the Family Asilidae (Diptera)"},"nl":{"language":"nl","value":"Some Flies of the Family Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1957"},"de":{"language":"de","value":"im Januar 1957 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1237a7499d68b6041ff265dd92c70722811f175b","datavalue":{"value":"10.1155\/1957\/80328","type":"string"}},"type":"statement","id":"Q56164572$169DB28A-1D15-4606-8452-E71BBD1EED60","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"fa9bdb61913da24182bfa98da4435c5e63c3f046","datavalue":{"value":"174064","type":"string"}},"type":"statement","id":"Q56164572$2C05CE9E-4087-4DF3-9D09-87A3EBC94DC4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$96EFA19D-22C5-4D74-A8D6-BE2311023177","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e8a6bd9915e62e254e872f99e1d88fed0324cc2b","datavalue":{"value":{"text":"Some Flies of the Family Asilidae (Diptera)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164572$E1B3DEE8-E7B4-49F2-BE87-3CF8224E8273","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3ae54915be3be67845fce101a4e9ee28a37d3baf","datavalue":{"value":"64","type":"string"}},"type":"statement","id":"Q56164572$F37F4124-6D76-4184-8158-8E62C7402112","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2c795d7d13f6d0e9843aee028a0b19209c18758d","datavalue":{"value":"90\u201396","type":"string"}},"type":"statement","id":"Q56164572$0B5998EB-B0C6-4083-9080-418FB1CB3CD2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56164572$04D6BFCE-33F2-4875-8E7E-9C293F593658","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"625fbe079b66e6268a4d7cf4ef2cc448b0f86269","datavalue":{"value":{"time":"+1957-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164572$B8E7F89F-3143-428B-8D18-1DAE58C6B254","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164572$B848569D-2EA5-46B0-87E3-876AA17186FF","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"74c24457a64abbb3f4f79a3766ce885903cbb601","datavalue":{"value":"50890599","type":"string"}},"type":"statement","id":"Q56164572$E68C2319-529B-4990-9AB5-04877AC618E9","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"ecada62ee6acb1a3bfcc8cef56d241ccde7e89aa","datavalue":{"value":"27372427","type":"string"}},"type":"statement","id":"Q56164572$F8860B59-6C81-4AE7-B7BD-33E9CA6E9C17","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"9a6aac9d92841040f2c9527fd8a849055e28e57b","datavalue":{"value":"6ace2510-c4d4-452b-8986-aaeefc9b706a","type":"string"}},"type":"statement","id":"Q56164572$F5E67EBB-8D41-4598-8E3F-3A2076A2F91F","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"2a6b8b91151abf9b94f18c992efead88e7851e4f","datavalue":{"value":{"entity-type":"item","numeric-id":27926165,"id":"Q27926165"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"bbf2f7486d9f0d37fc0b8fb63419609afb5df51f","datavalue":{"value":"Frank M. Hull","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q56164572$99DB937D-482F-49AF-A2CA-BB2C19E95915","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o63zlh0w9x1h6eptv7w9spurnxi4zfe</sha1>
+    </revision>
+  </page>
+</mediawiki>

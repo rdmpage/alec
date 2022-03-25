@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q91206556</title>
+    <ns>0</ns>
+    <id>90396801</id>
+    <revision>
+      <id>1161630391</id>
+      <timestamp>2020-04-20T11:06:07Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1587378014688</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3782" xml:space="preserve">{"type":"item","id":"Q91206556","labels":{"en":{"language":"en","value":"A NEW SPECIES OF ZIGADENUS (LILIACEAE) FROM NEW MEXICO, WITH ADDITIONAL COMMENTS ON THE SECTION ANTICLEA"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206556$08DDF612-DE05-497D-A760-FB5C8AE751BC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"910df0d48e47b0bd3aed1d8efc8ee06ebf48c467","datavalue":{"value":{"text":"A NEW SPECIES OF ZIGADENUS (LILIACEAE) FROM NEW MEXICO, WITH ADDITIONAL COMMENTS ON THE SECTION ANTICLEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91206556$4A3DD2F2-669C-4130-903B-4CF8C8AC3506","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206556$1E4CF178-A8D9-4690-8FED-513BEE5C3ABD","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91206556$EF0A08FD-CB84-4461-9C96-FD2BFFB44BF9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50d997beb8a9fc56c17bfedf22033b70a667d32e","datavalue":{"value":"William J Hess","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206556$CDE930AB-9D97-4CC6-AA1C-D3189202D576","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"841ce3678bd2cef6ff43140c8c2bfc37cc80024b","datavalue":{"value":"Robert C Sivinski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206556$5B5E8451-38A9-4D4F-8227-1B549E6892F8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206556$F6A6E8F5-A70C-4656-99D9-42EEEAC2DBA0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q91206556$81346259-475E-47B4-9701-000717651F3C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q91206556$EE7C03FD-12FF-412B-AF12-9329D78AD8FF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"92da7987d79601daeecbc075c1586bc0a99d3778","datavalue":{"value":"389-400","type":"string"}},"type":"statement","id":"Q91206556$543FD81A-2BCC-4057-84F0-C3CCFE043BDE","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"9d4acd3e2cbbe4106d5aca4c2f1e10fc0c33fb79","datavalue":{"value":"41967136","type":"string"}},"type":"statement","id":"Q91206556$4FD97778-2A5E-4614-A9A6-F31CAA3DD036","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aml4srb1pdfhdgvl9scqcn7d48tl0b3</sha1>
+    </revision>
+    <revision>
+      <id>1161724764</id>
+      <parentid>1161630391</parentid>
+      <timestamp>2020-04-20T13:09:07Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3977" xml:space="preserve">{"type":"item","id":"Q91206556","labels":{"en":{"language":"en","value":"A NEW SPECIES OF ZIGADENUS (LILIACEAE) FROM NEW MEXICO, WITH ADDITIONAL COMMENTS ON THE SECTION ANTICLEA"},"nl":{"language":"nl","value":"A NEW SPECIES OF ZIGADENUS (LILIACEAE) FROM NEW MEXICO, WITH ADDITIONAL COMMENTS ON THE SECTION ANTICLEA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206556$08DDF612-DE05-497D-A760-FB5C8AE751BC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"910df0d48e47b0bd3aed1d8efc8ee06ebf48c467","datavalue":{"value":{"text":"A NEW SPECIES OF ZIGADENUS (LILIACEAE) FROM NEW MEXICO, WITH ADDITIONAL COMMENTS ON THE SECTION ANTICLEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91206556$4A3DD2F2-669C-4130-903B-4CF8C8AC3506","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206556$1E4CF178-A8D9-4690-8FED-513BEE5C3ABD","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91206556$EF0A08FD-CB84-4461-9C96-FD2BFFB44BF9","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"50d997beb8a9fc56c17bfedf22033b70a667d32e","datavalue":{"value":"William J Hess","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206556$CDE930AB-9D97-4CC6-AA1C-D3189202D576","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"841ce3678bd2cef6ff43140c8c2bfc37cc80024b","datavalue":{"value":"Robert C Sivinski","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206556$5B5E8451-38A9-4D4F-8227-1B549E6892F8","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206556$F6A6E8F5-A70C-4656-99D9-42EEEAC2DBA0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"c6d9ab79d7e0a7bda3a388ebe3dd94a2da80b455","datavalue":{"value":"16","type":"string"}},"type":"statement","id":"Q91206556$81346259-475E-47B4-9701-000717651F3C","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q91206556$EE7C03FD-12FF-412B-AF12-9329D78AD8FF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"92da7987d79601daeecbc075c1586bc0a99d3778","datavalue":{"value":"389-400","type":"string"}},"type":"statement","id":"Q91206556$543FD81A-2BCC-4057-84F0-C3CCFE043BDE","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"9d4acd3e2cbbe4106d5aca4c2f1e10fc0c33fb79","datavalue":{"value":"41967136","type":"string"}},"type":"statement","id":"Q91206556$4FD97778-2A5E-4614-A9A6-F31CAA3DD036","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>od4mc3alfswnz84bgowbveg319qcnoa</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,274 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q43032370</title>
+    <ns>0</ns>
+    <id>44276296</id>
+    <revision>
+      <id>592790778</id>
+      <timestamp>2017-11-12T18:43:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q43032370","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>cxf9iu6adiv7jnlj6oayl4vh3i69oe5</sha1>
+    </revision>
+    <revision>
+      <id>592790789</id>
+      <parentid>592790778</parentid>
+      <timestamp>2017-11-12T18:43:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Juncus alpinoarticulatus: the legitimate name for Juncus alpinus</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="199" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rzticm5a6fm0z96qzpucwnmagqeedce</sha1>
+    </revision>
+    <revision>
+      <id>592790798</id>
+      <parentid>592790789</parentid>
+      <timestamp>2017-11-12T18:43:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Juncus alpinoarticulatus: the legitimate name for Juncus alpinus</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="297" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>e7v2tkfzxpmfnworlrdpwtbz6yu2b4x</sha1>
+    </revision>
+    <revision>
+      <id>592790806</id>
+      <parentid>592790798</parentid>
+      <timestamp>2017-11-12T18:43:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="605" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6pv0eq5snmg6cks0s8n7etcua4cyssz</sha1>
+    </revision>
+    <revision>
+      <id>592790813</id>
+      <parentid>592790806</parentid>
+      <timestamp>2017-11-12T18:43:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Juncus alpinoarticulatus: the legitimate name for Juncus alpinus</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="946" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>frnjvq2qgkorn4aad22tu30y20qx7y9</sha1>
+    </revision>
+    <revision>
+      <id>592790824</id>
+      <parentid>592790813</parentid>
+      <timestamp>2017-11-12T18:43:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 23726060</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1195" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lu07cw44f20zpmjti77g8jcst1n87vd</sha1>
+    </revision>
+    <revision>
+      <id>592790836</id>
+      <parentid>592790824</parentid>
+      <timestamp>2017-11-12T18:43:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 17</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1438" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dzzgpjhnqyco42t6esb508p25zzr5vb</sha1>
+    </revision>
+    <revision>
+      <id>592790842</id>
+      <parentid>592790836</parentid>
+      <timestamp>2017-11-12T18:43:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 341–342</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1691" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ky07wl4th85mtq84c5ilfn4s2id51aq</sha1>
+    </revision>
+    <revision>
+      <id>592790850</id>
+      <parentid>592790842</parentid>
+      <timestamp>2017-11-12T18:43:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1933" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qv9kiojroojqoi68ke7o5yyt9nfiiig</sha1>
+    </revision>
+    <revision>
+      <id>592790860</id>
+      <parentid>592790850</parentid>
+      <timestamp>2017-11-12T18:43:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1980</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2312" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"28257f5beb5474ee5d6023a4863cc2ff349bc513","datavalue":{"value":{"time":"+1980-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q43032370$B0D03360-A66A-4165-8AD0-A385CCB94799","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c0fhnenjshbo8xnjka9rkw2cdfc8zwt</sha1>
+    </revision>
+    <revision>
+      <id>592790871</id>
+      <parentid>592790860</parentid>
+      <timestamp>2017-11-12T18:43:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Leena Hämet-Ahti</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2576" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"28257f5beb5474ee5d6023a4863cc2ff349bc513","datavalue":{"value":{"time":"+1980-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q43032370$B0D03360-A66A-4165-8AD0-A385CCB94799","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1a2336e3a95a4a9653b705e2e1b609b2557822","datavalue":{"value":"Leena H\u00e4met-Ahti","type":"string"}},"type":"statement","id":"Q43032370$108B45C5-B01A-4D03-AFFB-B8BCD88010FE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7a97ay3sto6kgg71re274kmiiq6q31p</sha1>
+    </revision>
+    <revision>
+      <id>592790882</id>
+      <parentid>592790871</parentid>
+      <timestamp>2017-11-12T18:43:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2762" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"28257f5beb5474ee5d6023a4863cc2ff349bc513","datavalue":{"value":{"time":"+1980-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q43032370$B0D03360-A66A-4165-8AD0-A385CCB94799","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1a2336e3a95a4a9653b705e2e1b609b2557822","datavalue":{"value":"Leena H\u00e4met-Ahti","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q43032370$108B45C5-B01A-4D03-AFFB-B8BCD88010FE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k245i5bka2v16hwrvguszek986zl4ma</sha1>
+    </revision>
+    <revision>
+      <id>592790897</id>
+      <parentid>592790882</parentid>
+      <timestamp>2017-11-12T18:43:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5696319]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3073" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":[],"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"28257f5beb5474ee5d6023a4863cc2ff349bc513","datavalue":{"value":{"time":"+1980-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q43032370$B0D03360-A66A-4165-8AD0-A385CCB94799","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1a2336e3a95a4a9653b705e2e1b609b2557822","datavalue":{"value":"Leena H\u00e4met-Ahti","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q43032370$108B45C5-B01A-4D03-AFFB-B8BCD88010FE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"00332cfbd8c7ae1674029c1b7a2f49ec707ee55e","datavalue":{"value":{"entity-type":"item","numeric-id":5696319,"id":"Q5696319"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$1D24AF47-5593-435D-B84B-7FC2F5D38BE0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k237ie7fa5qztvhylmrl9fmwwzqs830</sha1>
+    </revision>
+    <revision>
+      <id>593133089</id>
+      <parentid>592790897</parentid>
+      <timestamp>2017-11-13T04:57:15Z</timestamp>
+      <contributor>
+        <username>Mr.Ibrahembot</username>
+        <id>142191</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Bot: - Add descriptions:(58 langs).</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7463" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":{"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"eo":{"language":"eo","value":"scienca artikolo"},"en":{"language":"en","value":"scientific article published in 1980"},"zh":{"language":"zh","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"wuu":{"language":"wuu","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"it":{"language":"it","value":"articolo scientifico"},"zh-hk":{"language":"zh-hk","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629 \u0646\u0634\u0631\u062a \u0641\u064a 1980"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"et":{"language":"et","value":"teaduslik artikkel"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"id":{"language":"id","value":"artikel ilmiah"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1980"},"en-gb":{"language":"en-gb","value":"scientific article published in 1980"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"pt":{"language":"pt","value":"artigo cient\u00edfico"},"zh-tw":{"language":"zh-tw","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"tr":{"language":"tr","value":"bilimsel makale"},"zh-cn":{"language":"zh-cn","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"tl":{"language":"tl","value":"artikulong pang-agham"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"ca":{"language":"ca","value":"article cient\u00edfic"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"fr":{"language":"fr","value":"article scientifique"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"zh-sg":{"language":"zh-sg","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09ee\u09e6-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"de":{"language":"de","value":"wissenschaftlicher Artikel"},"zh-my":{"language":"zh-my","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"ko":{"language":"ko","value":"1980\ub144 \ub17c\ubb38"},"da":{"language":"da","value":"videnskabelig artikel"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"zh-mo":{"language":"zh-mo","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"ja":{"language":"ja","value":"1980\u5e74\u306e\u8ad6\u6587"},"en-ca":{"language":"en-ca","value":"scientific article published in 1980"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"zh-hans":{"language":"zh-hans","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"sq":{"language":"sq","value":"artikull shkencor"},"nan":{"language":"nan","value":"1980 n\u00ee l\u016bn-b\u00fbn"},"oc":{"language":"oc","value":"article scientific"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"zh-hant":{"language":"zh-hant","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"},"yue":{"language":"yue","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"28257f5beb5474ee5d6023a4863cc2ff349bc513","datavalue":{"value":{"time":"+1980-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q43032370$B0D03360-A66A-4165-8AD0-A385CCB94799","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1a2336e3a95a4a9653b705e2e1b609b2557822","datavalue":{"value":"Leena H\u00e4met-Ahti","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q43032370$108B45C5-B01A-4D03-AFFB-B8BCD88010FE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"00332cfbd8c7ae1674029c1b7a2f49ec707ee55e","datavalue":{"value":{"entity-type":"item","numeric-id":5696319,"id":"Q5696319"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$1D24AF47-5593-435D-B84B-7FC2F5D38BE0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mghka4sgta4dm6ehuzyadg3yyqkehsz</sha1>
+    </revision>
+    <revision>
+      <id>824582139</id>
+      <parentid>593133089</parentid>
+      <timestamp>2019-01-01T04:34:50Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7561" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"nl":{"language":"nl","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":{"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"eo":{"language":"eo","value":"scienca artikolo"},"en":{"language":"en","value":"scientific article published in 1980"},"zh":{"language":"zh","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"wuu":{"language":"wuu","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"it":{"language":"it","value":"articolo scientifico"},"zh-hk":{"language":"zh-hk","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629 \u0646\u0634\u0631\u062a \u0641\u064a 1980"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"et":{"language":"et","value":"teaduslik artikkel"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"id":{"language":"id","value":"artikel ilmiah"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1980"},"en-gb":{"language":"en-gb","value":"scientific article published in 1980"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"pt":{"language":"pt","value":"artigo cient\u00edfico"},"zh-tw":{"language":"zh-tw","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"tr":{"language":"tr","value":"bilimsel makale"},"zh-cn":{"language":"zh-cn","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"tl":{"language":"tl","value":"artikulong pang-agham"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"ca":{"language":"ca","value":"article cient\u00edfic"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"fr":{"language":"fr","value":"article scientifique"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"zh-sg":{"language":"zh-sg","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09ee\u09e6-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"de":{"language":"de","value":"wissenschaftlicher Artikel"},"zh-my":{"language":"zh-my","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"ko":{"language":"ko","value":"1980\ub144 \ub17c\ubb38"},"da":{"language":"da","value":"videnskabelig artikel"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"zh-mo":{"language":"zh-mo","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"ja":{"language":"ja","value":"1980\u5e74\u306e\u8ad6\u6587"},"en-ca":{"language":"en-ca","value":"scientific article published in 1980"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"zh-hans":{"language":"zh-hans","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"sq":{"language":"sq","value":"artikull shkencor"},"nan":{"language":"nan","value":"1980 n\u00ee l\u016bn-b\u00fbn"},"oc":{"language":"oc","value":"article scientific"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"zh-hant":{"language":"zh-hant","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"},"yue":{"language":"yue","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"28257f5beb5474ee5d6023a4863cc2ff349bc513","datavalue":{"value":{"time":"+1980-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q43032370$B0D03360-A66A-4165-8AD0-A385CCB94799","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1a2336e3a95a4a9653b705e2e1b609b2557822","datavalue":{"value":"Leena H\u00e4met-Ahti","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q43032370$108B45C5-B01A-4D03-AFFB-B8BCD88010FE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"00332cfbd8c7ae1674029c1b7a2f49ec707ee55e","datavalue":{"value":{"entity-type":"item","numeric-id":5696319,"id":"Q5696319"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$1D24AF47-5593-435D-B84B-7FC2F5D38BE0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5h4mcrj45wlbbson3xwvgit4eei4gxd</sha1>
+    </revision>
+    <revision>
+      <id>988133338</id>
+      <parentid>824582139</parentid>
+      <timestamp>2019-07-28T21:47:25Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-set:1|uk */ наукова стаття, опублікована в 1980, [[:toollabs:quickstatements/#/batch/16438|batch #16438]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7647" xml:space="preserve">{"type":"item","id":"Q43032370","labels":{"de":{"language":"de","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"en":{"language":"en","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"},"nl":{"language":"nl","value":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus"}},"descriptions":{"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"eo":{"language":"eo","value":"scienca artikolo"},"en":{"language":"en","value":"scientific article published in 1980"},"zh":{"language":"zh","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"wuu":{"language":"wuu","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"it":{"language":"it","value":"articolo scientifico"},"zh-hk":{"language":"zh-hk","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629 \u0646\u0634\u0631\u062a \u0641\u064a 1980"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"et":{"language":"et","value":"teaduslik artikkel"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"id":{"language":"id","value":"artikel ilmiah"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1980"},"en-gb":{"language":"en-gb","value":"scientific article published in 1980"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"pt":{"language":"pt","value":"artigo cient\u00edfico"},"zh-tw":{"language":"zh-tw","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"tr":{"language":"tr","value":"bilimsel makale"},"zh-cn":{"language":"zh-cn","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"tl":{"language":"tl","value":"artikulong pang-agham"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"ca":{"language":"ca","value":"article cient\u00edfic"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"fr":{"language":"fr","value":"article scientifique"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"zh-sg":{"language":"zh-sg","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09ee\u09e6-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"de":{"language":"de","value":"wissenschaftlicher Artikel"},"zh-my":{"language":"zh-my","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"ko":{"language":"ko","value":"1980\ub144 \ub17c\ubb38"},"da":{"language":"da","value":"videnskabelig artikel"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"zh-mo":{"language":"zh-mo","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"ja":{"language":"ja","value":"1980\u5e74\u306e\u8ad6\u6587"},"en-ca":{"language":"en-ca","value":"scientific article published in 1980"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"zh-hans":{"language":"zh-hans","value":"1980\u5e74\u5b66\u672f\u6587\u7ae0"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"sq":{"language":"sq","value":"artikull shkencor"},"nan":{"language":"nan","value":"1980 n\u00ee l\u016bn-b\u00fbn"},"oc":{"language":"oc","value":"article scientific"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"zh-hant":{"language":"zh-hant","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1980"},"yue":{"language":"yue","value":"1980\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$EB0C0789-BDFF-4439-9089-A0DB0E326676","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"dae0efa8438ca65f516926b0c16a64d5f101f52d","datavalue":{"value":{"text":"Juncus alpinoarticulatus: the legitimate name for Juncus alpinus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q43032370$95F4BE4C-4943-4453-9C60-56F5B4EC66B9","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"10a5c945958fede235ab5d053df3bd7b6677415b","datavalue":{"value":"23726060","type":"string"}},"type":"statement","id":"Q43032370$143C13F7-3BA1-4422-A4F2-B68C04617AAB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q43032370$686932BE-18F9-4138-A195-D2538AB33385","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e9706171c90b10deea573726e9fc9eb92d7d9310","datavalue":{"value":"341\u2013342","type":"string"}},"type":"statement","id":"Q43032370$1C76706E-0AD4-405D-AD27-87D0E29366A7","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q43032370$C43152FB-EBA5-4F0D-9E69-A346D062BFA3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"28257f5beb5474ee5d6023a4863cc2ff349bc513","datavalue":{"value":{"time":"+1980-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q43032370$B0D03360-A66A-4165-8AD0-A385CCB94799","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be1a2336e3a95a4a9653b705e2e1b609b2557822","datavalue":{"value":"Leena H\u00e4met-Ahti","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q43032370$108B45C5-B01A-4D03-AFFB-B8BCD88010FE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"00332cfbd8c7ae1674029c1b7a2f49ec707ee55e","datavalue":{"value":{"entity-type":"item","numeric-id":5696319,"id":"Q5696319"},"type":"wikibase-entityid"}},"type":"statement","id":"Q43032370$1D24AF47-5593-435D-B84B-7FC2F5D38BE0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>745n0q4he0wpc0pu4c5qqi4vl5y1g6n</sha1>
+    </revision>
+  </page>
+</mediawiki>

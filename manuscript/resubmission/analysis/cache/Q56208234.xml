@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56208234</title>
+    <ns>0</ns>
+    <id>56150729</id>
+    <revision>
+      <id>730611694</id>
+      <timestamp>2018-08-21T00:53:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56208234","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>73v4trbqjaopu8yi161k708vt228uub</sha1>
+    </revision>
+    <revision>
+      <id>730611699</id>
+      <parentid>730611694</parentid>
+      <timestamp>2018-08-21T00:53:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Notes on a collection of shells from Trinidad, California</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="192" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7aru1vx69wjo692s0qzorwb5n98ggl9</sha1>
+    </revision>
+    <revision>
+      <id>730611701</id>
+      <parentid>730611699</parentid>
+      <timestamp>2018-08-21T00:53:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Notes on a collection of shells from Trinidad, California</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="283" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rle40m4mmqo54uc657u1fmwvx6r3bbc</sha1>
+    </revision>
+    <revision>
+      <id>730611708</id>
+      <parentid>730611701</parentid>
+      <timestamp>2018-08-21T00:53:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5479/SI.00963801.58-2325.1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="553" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>06k3pynfrfo48z98aidbh08do6j85g4</sha1>
+    </revision>
+    <revision>
+      <id>730611716</id>
+      <parentid>730611708</parentid>
+      <timestamp>2018-08-21T00:53:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 79563</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="801" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>os94uhqj7wtecvluj2imrwdloa3f93g</sha1>
+    </revision>
+    <revision>
+      <id>730611721</id>
+      <parentid>730611716</parentid>
+      <timestamp>2018-08-21T00:53:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1110" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>81l89jawaqwdjixpvrz5kes6q1trphc</sha1>
+    </revision>
+    <revision>
+      <id>730611730</id>
+      <parentid>730611721</parentid>
+      <timestamp>2018-08-21T00:53:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Notes on a collection of shells from Trinidad, California</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1444" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>shp6zo8potfnkhwkq6h6964acvqgrlt</sha1>
+    </revision>
+    <revision>
+      <id>730611736</id>
+      <parentid>730611730</parentid>
+      <timestamp>2018-08-21T00:53:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 58</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1687" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>42caoknsh9kpu3xb0mosonisnovdp43</sha1>
+    </revision>
+    <revision>
+      <id>730611743</id>
+      <parentid>730611736</parentid>
+      <timestamp>2018-08-21T00:53:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 1–5</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1936" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a65nsd3saajq5fi2q8zaplwc1urky2z</sha1>
+    </revision>
+    <revision>
+      <id>730611748</id>
+      <parentid>730611743</parentid>
+      <timestamp>2018-08-21T00:53:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 2325</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2181" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>02120kq39dzyd2he9ocxpbgtw87a5s6</sha1>
+    </revision>
+    <revision>
+      <id>730611755</id>
+      <parentid>730611748</parentid>
+      <timestamp>2018-08-21T00:53:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1920</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2560" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e0jbcqj84iwk42qvywqtinezfq1em58</sha1>
+    </revision>
+    <revision>
+      <id>730611764</id>
+      <parentid>730611755</parentid>
+      <timestamp>2018-08-21T00:53:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Eric Knight Jordan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2821" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0ts2lpxkuib7ykuahykskeglsr9455z</sha1>
+    </revision>
+    <revision>
+      <id>730611768</id>
+      <parentid>730611764</parentid>
+      <timestamp>2018-08-21T00:53:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3007" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dwkap066jggjgqxj8olbt56w67nidhx</sha1>
+    </revision>
+    <revision>
+      <id>730611776</id>
+      <parentid>730611768</parentid>
+      <timestamp>2018-08-21T00:53:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q18515885]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3320" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$7CD5369C-1A11-4026-98AD-857FE2FA4C61","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d6hfpwcnvgpn034u5rdyfneqb85wl13</sha1>
+    </revision>
+    <revision>
+      <id>738225026</id>
+      <parentid>730611776</parentid>
+      <timestamp>2018-09-01T23:31:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7290083, According to [[Property:P5315]]=79563</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3568" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$7CD5369C-1A11-4026-98AD-857FE2FA4C61","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9c1b417d35af14979c4b75cd8eedb0e020eed73d","datavalue":{"value":"7290083","type":"string"}},"type":"statement","id":"Q56208234$33C0B69C-6298-4DB4-A566-7BE9F3173EF6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cb4uvxjlk10j8v8vyzsnsqxm6soq3yb</sha1>
+    </revision>
+    <revision>
+      <id>779846311</id>
+      <parentid>738225026</parentid>
+      <timestamp>2018-11-02T08:23:49Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3716" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"},"nl":{"language":"nl","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$7CD5369C-1A11-4026-98AD-857FE2FA4C61","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9c1b417d35af14979c4b75cd8eedb0e020eed73d","datavalue":{"value":"7290083","type":"string"}},"type":"statement","id":"Q56208234$33C0B69C-6298-4DB4-A566-7BE9F3173EF6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>84fuvpo93353rc6drflgadezryossin</sha1>
+    </revision>
+    <revision>
+      <id>953915965</id>
+      <parentid>779846311</parentid>
+      <timestamp>2019-06-01T22:20:15Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1920 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4023" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"},"nl":{"language":"nl","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$7CD5369C-1A11-4026-98AD-857FE2FA4C61","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9c1b417d35af14979c4b75cd8eedb0e020eed73d","datavalue":{"value":"7290083","type":"string"}},"type":"statement","id":"Q56208234$33C0B69C-6298-4DB4-A566-7BE9F3173EF6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$F0C16A93-4280-40F2-B0F2-ADD9DE6E5301","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iogc87ty4p2ibdiuhdgxsf0u3koeh6h</sha1>
+    </revision>
+    <revision>
+      <id>953916027</id>
+      <parentid>953915965</parentid>
+      <timestamp>2019-06-01T22:20:21Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4266" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"},"nl":{"language":"nl","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$7CD5369C-1A11-4026-98AD-857FE2FA4C61","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9c1b417d35af14979c4b75cd8eedb0e020eed73d","datavalue":{"value":"7290083","type":"string"}},"type":"statement","id":"Q56208234$33C0B69C-6298-4DB4-A566-7BE9F3173EF6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56208234$F0C16A93-4280-40F2-B0F2-ADD9DE6E5301","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qirmg97ek7uot1k5b1ypwbrsuiw7x04</sha1>
+    </revision>
+    <revision>
+      <id>953916069</id>
+      <parentid>953916027</parentid>
+      <timestamp>2019-06-01T22:20:25Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4482" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"},"nl":{"language":"nl","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$7CD5369C-1A11-4026-98AD-857FE2FA4C61","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9c1b417d35af14979c4b75cd8eedb0e020eed73d","datavalue":{"value":"7290083","type":"string"}},"type":"statement","id":"Q56208234$33C0B69C-6298-4DB4-A566-7BE9F3173EF6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56208234$F0C16A93-4280-40F2-B0F2-ADD9DE6E5301","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d0mjitxf1xeenba3l9o4w8boo0whf9q</sha1>
+    </revision>
+    <revision>
+      <id>973957042</id>
+      <parentid>953916069</parentid>
+      <timestamp>2019-07-04T07:54:17Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1920, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4681" xml:space="preserve">{"type":"item","id":"Q56208234","labels":{"de":{"language":"de","value":"Notes on a collection of shells from Trinidad, California"},"en":{"language":"en","value":"Notes on a collection of shells from Trinidad, California"},"nl":{"language":"nl","value":"Notes on a collection of shells from Trinidad, California"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1920"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d15a42eccfc213f66f96ac9eb4871f3f009a63d2","datavalue":{"value":"10.5479\/SI.00963801.58-2325.1","type":"string"}},"type":"statement","id":"Q56208234$C04764E4-FFCB-4849-8969-B58D0E5E2ECD","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0d95380c4ae4a227633cc77517d231be3fb26de5","datavalue":{"value":"79563","type":"string"}},"type":"statement","id":"Q56208234$000E289A-93A9-4223-B455-26ED5293C0D9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$BD9ED372-4AB8-4C29-846B-7DDBC1FB09B6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"aae4ed9d0ea2b01e16c0848b83c8d6c0495fd6f4","datavalue":{"value":{"text":"Notes on a collection of shells from Trinidad, California","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56208234$F71B3B8C-E449-4595-AF4F-8BAB088D9B49","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q56208234$1E8177DD-7EA3-4F7B-99A5-77AF4FD8E56B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"81e601cd8b15245fb2f446b22ae35c7d6c3af063","datavalue":{"value":"1\u20135","type":"string"}},"type":"statement","id":"Q56208234$F532353B-D3A6-497A-8A33-A4E92E474DA2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"97fda2552da23a4ba2bd7d8b442dea7e91727154","datavalue":{"value":"2325","type":"string"}},"type":"statement","id":"Q56208234$8AAE98CF-8AA3-433E-9EF4-3AF68DFEE18C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56208234$AB417368-0CD6-4B88-B6EF-7F14870A7843","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"887cd079ea61f7e13aa7e5ca67702f1d25922073","datavalue":{"value":"Eric Knight Jordan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56208234$F018D343-9DDA-4692-A542-B51E8292D807","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56208234$7CD5369C-1A11-4026-98AD-857FE2FA4C61","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9c1b417d35af14979c4b75cd8eedb0e020eed73d","datavalue":{"value":"7290083","type":"string"}},"type":"statement","id":"Q56208234$33C0B69C-6298-4DB4-A566-7BE9F3173EF6","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56208234$F0C16A93-4280-40F2-B0F2-ADD9DE6E5301","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>spezedqnaf76tdkkrsiknh4iclpjet7</sha1>
+    </revision>
+  </page>
+</mediawiki>

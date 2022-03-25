@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55808750</title>
+    <ns>0</ns>
+    <id>55766545</id>
+    <revision>
+      <id>717577792</id>
+      <timestamp>2018-07-29T08:54:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55808750","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dyulf884u8f09bsg5axu63tk5acftgh</sha1>
+    </revision>
+    <revision>
+      <id>717577794</id>
+      <parentid>717577792</parentid>
+      <timestamp>2018-07-29T08:54:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Plantes du Spitzberg</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="155" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>b3x62s1ml20crjaf9kc0avafcbk4yj2</sha1>
+    </revision>
+    <revision>
+      <id>717577799</id>
+      <parentid>717577794</parentid>
+      <timestamp>2018-07-29T08:54:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Plantes du Spitzberg</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="209" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1y2k2j6cs561ylsguhtzrw73b1o4cmb</sha1>
+    </revision>
+    <revision>
+      <id>717577803</id>
+      <parentid>717577799</parentid>
+      <timestamp>2018-07-29T08:54:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00378941.1925.10832822</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="480" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t0w6des7jbvtmzg95t7bh929w3p3nkx</sha1>
+    </revision>
+    <revision>
+      <id>717577806</id>
+      <parentid>717577803</parentid>
+      <timestamp>2018-07-29T08:54:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="789" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7negm38fal0vu86gid8rxtn5v4l5m8z</sha1>
+    </revision>
+    <revision>
+      <id>717577811</id>
+      <parentid>717577806</parentid>
+      <timestamp>2018-07-29T08:54:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Plantes du Spitzberg</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1086" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r1nsb23zojxskk2py66ihae7xvhjc77</sha1>
+    </revision>
+    <revision>
+      <id>717577813</id>
+      <parentid>717577811</parentid>
+      <timestamp>2018-07-29T08:54:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 72</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1329" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>03n441yk5qnhixsx6plzp8w9oxqocby</sha1>
+    </revision>
+    <revision>
+      <id>717577818</id>
+      <parentid>717577813</parentid>
+      <timestamp>2018-07-29T08:54:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 1042–1045</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1584" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jxweyb0hjsplrbej1erfodre9i7c309</sha1>
+    </revision>
+    <revision>
+      <id>717577821</id>
+      <parentid>717577818</parentid>
+      <timestamp>2018-07-29T08:54:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 5</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1826" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nholvqpt2x2kijwckpecl94rgnkxuyy</sha1>
+    </revision>
+    <revision>
+      <id>717577827</id>
+      <parentid>717577821</parentid>
+      <timestamp>2018-07-29T08:54:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: January 1925</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2206" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gkpkd6v2dx0pclcvpusniog8an37kmz</sha1>
+    </revision>
+    <revision>
+      <id>717577833</id>
+      <parentid>717577827</parentid>
+      <timestamp>2018-07-29T08:54:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Michel Gandoger</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2464" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r61zqhxhtt5hra2enu1n1lyjfswawqs</sha1>
+    </revision>
+    <revision>
+      <id>717577834</id>
+      <parentid>717577833</parentid>
+      <timestamp>2018-07-29T08:54:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2650" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l7t3ixsed8doh1f4187on0eyp2egwbm</sha1>
+    </revision>
+    <revision>
+      <id>717577839</id>
+      <parentid>717577834</parentid>
+      <timestamp>2018-07-29T08:54:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5735483]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2961" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$B1A51E51-3718-4DE3-A347-17CA5ADD776C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>afg4o4u0frw7h6w05l3g2lkrmjj6wag</sha1>
+    </revision>
+    <revision>
+      <id>726185059</id>
+      <parentid>717577839</parentid>
+      <timestamp>2018-08-15T05:16:52Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3072" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"},"nl":{"language":"nl","value":"Plantes du Spitzberg"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$B1A51E51-3718-4DE3-A347-17CA5ADD776C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cvx5udca9r7s2d1nzvhtbpxz3fhtfmm</sha1>
+    </revision>
+    <revision>
+      <id>960080340</id>
+      <parentid>726185059</parentid>
+      <timestamp>2019-06-11T14:31:56Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 1925, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3302" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"},"nl":{"language":"nl","value":"Plantes du Spitzberg"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1925"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$B1A51E51-3718-4DE3-A347-17CA5ADD776C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p36ezspxevsw4z4me1z4knrvyxqbq6e</sha1>
+    </revision>
+    <revision>
+      <id>970053002</id>
+      <parentid>960080340</parentid>
+      <timestamp>2019-06-27T21:48:56Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3343" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"},"nl":{"language":"nl","value":"Plantes du Spitzberg"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1925"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$B1A51E51-3718-4DE3-A347-17CA5ADD776C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kgjlkel8znta17kgtei4ktqwcko379c</sha1>
+    </revision>
+    <revision>
+      <id>1112274637</id>
+      <parentid>970053002</parentid>
+      <timestamp>2020-02-09T12:21:42Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1581239684622</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3407" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"},"nl":{"language":"nl","value":"Plantes du Spitzberg"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1925"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$B1A51E51-3718-4DE3-A347-17CA5ADD776C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cvzpxe8i4b9y3hp3lydqo74biy8ni0o</sha1>
+    </revision>
+    <revision>
+      <id>1193243488</id>
+      <parentid>1112274637</parentid>
+      <timestamp>2020-05-29T07:40:24Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1925 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3502" xml:space="preserve">{"type":"item","id":"Q55808750","labels":{"de":{"language":"de","value":"Plantes du Spitzberg"},"en":{"language":"en","value":"Plantes du Spitzberg"},"nl":{"language":"nl","value":"Plantes du Spitzberg"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1925"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im Jahr 1925 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d5f17fa0c89cf89d6954870b81def5359d32e74f","datavalue":{"value":"10.1080\/00378941.1925.10832822","type":"string"}},"type":"statement","id":"Q55808750$43D54D7C-B75E-4CDA-98B2-63B47BC18B3F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$6C85734C-5DF6-4DC2-BF91-54A3EF5F4719","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a4682790c744c242c6fa944c469538aebc9fb234","datavalue":{"value":{"text":"Plantes du Spitzberg","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808750$E6879DFC-8668-4F9A-B9AF-38E823EBA0A9","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6d110933349b9f29d7b0e69b5ea3623e03cebeb8","datavalue":{"value":"72","type":"string"}},"type":"statement","id":"Q55808750$028F5862-D1E5-4746-B64B-58985D072FEE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"937a91024b9e63f87a23724268fc1caf9b63fa5b","datavalue":{"value":"1042\u20131045","type":"string"}},"type":"statement","id":"Q55808750$C9FC7DE7-07CC-4944-B9AC-35158CC953BE","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"2ecad66b725d7ef06d56fe39227d55e9eb5f17e6","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q55808750$4C691888-D13A-4204-B0E4-D274489F6CAB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cf9dfc6e60f9023fc84e845656bfface7e1cfeed","datavalue":{"value":{"time":"+1925-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808750$A3A7AC50-2F50-4A99-97B4-A23B4EE03E1A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c384333e97f12822fa0bfd103865bf98a4e2efc2","datavalue":{"value":"Michel Gandoger","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808750$46D87099-08A0-4D8D-815A-9EB204C4AFA1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808750$B1A51E51-3718-4DE3-A347-17CA5ADD776C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ntcy1letnv8vwvagqo6jjsph4bb01l4</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56098384</title>
+    <ns>0</ns>
+    <id>56044146</id>
+    <revision>
+      <id>726334017</id>
+      <timestamp>2018-08-15T10:43:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56098384","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>al6ewiqibv682ewoqgdtbx6scwd9ik1</sha1>
+    </revision>
+    <revision>
+      <id>726334025</id>
+      <parentid>726334017</parentid>
+      <timestamp>2018-08-15T10:43:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ II.—Notes on some upper Palæozoic shells from Madagascar</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="201" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>g4ywemhe74o8hktcp016vk77shirsbp</sha1>
+    </revision>
+    <revision>
+      <id>726334032</id>
+      <parentid>726334025</parentid>
+      <timestamp>2018-08-15T10:43:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ II.—Notes on some upper Palæozoic shells from Madagascar</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="301" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ijuc4t3ijgen7ead0j926s9kmkz0o6c</sha1>
+    </revision>
+    <revision>
+      <id>726334039</id>
+      <parentid>726334032</parentid>
+      <timestamp>2018-08-15T10:43:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00222931008692720</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="567" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qxfge0mykq1t7ycatmsg1k43hm9i5zc</sha1>
+    </revision>
+    <revision>
+      <id>726334045</id>
+      <parentid>726334039</parentid>
+      <timestamp>2018-08-15T10:43:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 97680</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="815" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>op7lu1kzz4vyhvhcf7ng7xcoeqfd5r9</sha1>
+    </revision>
+    <revision>
+      <id>726334049</id>
+      <parentid>726334045</parentid>
+      <timestamp>2018-08-15T10:43:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1124" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mriwazfjgiovn0l9am2eimys40apyb5</sha1>
+    </revision>
+    <revision>
+      <id>726334055</id>
+      <parentid>726334049</parentid>
+      <timestamp>2018-08-15T10:43:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: II.—Notes on some upper Palæozoic shells from Madagascar</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1467" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5nq3thzaj2x9zslc8plqgdcevtohsjm</sha1>
+    </revision>
+    <revision>
+      <id>726334062</id>
+      <parentid>726334055</parentid>
+      <timestamp>2018-08-15T10:43:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 5</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1709" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8yhqiwbzuy28n06eaotb8uqm07ye1i9</sha1>
+    </revision>
+    <revision>
+      <id>726334065</id>
+      <parentid>726334062</parentid>
+      <timestamp>2018-08-15T10:43:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 6–10</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1959" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>12rcguz689s34f5v92os12kf9mzvdjv</sha1>
+    </revision>
+    <revision>
+      <id>726334071</id>
+      <parentid>726334065</parentid>
+      <timestamp>2018-08-15T10:43:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 25</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2202" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>42pxyb5jptl5r8kt3j8kr46ntt74il1</sha1>
+    </revision>
+    <revision>
+      <id>726334076</id>
+      <parentid>726334071</parentid>
+      <timestamp>2018-08-15T10:43:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: January 1910</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2582" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2c0151xepgzzscxya0bixk9cvbyteul</sha1>
+    </revision>
+    <revision>
+      <id>726334082</id>
+      <parentid>726334076</parentid>
+      <timestamp>2018-08-15T10:43:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: R. Bullen Newton</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2841" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lwnw9ozscw4ylfp1dex4fu7g2bnc1lv</sha1>
+    </revision>
+    <revision>
+      <id>726334087</id>
+      <parentid>726334082</parentid>
+      <timestamp>2018-08-15T10:43:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3027" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kxjfw4e58qri0vokikvuu77l5duxyq0</sha1>
+    </revision>
+    <revision>
+      <id>726334094</id>
+      <parentid>726334087</parentid>
+      <timestamp>2018-08-15T10:43:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19798858]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3340" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$2B70567B-F1ED-4D9B-9EAC-E86062A9A795","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qa7y3q8tzjjwx6bvm1q8pz10t0prupg</sha1>
+    </revision>
+    <revision>
+      <id>738412890</id>
+      <parentid>726334094</parentid>
+      <timestamp>2018-09-02T06:48:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 16094406, According to [[Property:P5315]]=97680</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3589" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$2B70567B-F1ED-4D9B-9EAC-E86062A9A795","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"83356536d967b5cf746b9b1838bfe80236ebf4b8","datavalue":{"value":"16094406","type":"string"}},"type":"statement","id":"Q56098384$AD2493A0-D03A-4933-8F26-46C7ECEF6811","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a2wn7unalq2nzxg82mtz9prigpuj74s</sha1>
+    </revision>
+    <revision>
+      <id>781368091</id>
+      <parentid>738412890</parentid>
+      <timestamp>2018-11-04T00:55:59Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3746" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"nl":{"language":"nl","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$2B70567B-F1ED-4D9B-9EAC-E86062A9A795","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"83356536d967b5cf746b9b1838bfe80236ebf4b8","datavalue":{"value":"16094406","type":"string"}},"type":"statement","id":"Q56098384$AD2493A0-D03A-4933-8F26-46C7ECEF6811","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rbai7d6jlhfhk7xlneg8e82q9lsem7p</sha1>
+    </revision>
+    <revision>
+      <id>959188611</id>
+      <parentid>781368091</parentid>
+      <timestamp>2019-06-10T11:12:06Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 1910, [[:toollabs:quickstatements/#/batch/13687|batch #13687]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3976" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"nl":{"language":"nl","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1910"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$2B70567B-F1ED-4D9B-9EAC-E86062A9A795","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"83356536d967b5cf746b9b1838bfe80236ebf4b8","datavalue":{"value":"16094406","type":"string"}},"type":"statement","id":"Q56098384$AD2493A0-D03A-4933-8F26-46C7ECEF6811","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ecp9m04l2jwdemr3c6t5ute3x5xryqa</sha1>
+    </revision>
+    <revision>
+      <id>1129998551</id>
+      <parentid>959188611</parentid>
+      <timestamp>2020-03-06T02:23:16Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4279" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"nl":{"language":"nl","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1910"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$2B70567B-F1ED-4D9B-9EAC-E86062A9A795","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"83356536d967b5cf746b9b1838bfe80236ebf4b8","datavalue":{"value":"16094406","type":"string"}},"type":"statement","id":"Q56098384$AD2493A0-D03A-4933-8F26-46C7ECEF6811","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$AB50E2D2-4B89-49AA-8280-E5BCADAE1CED","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kdo58t1lsa05wcmdzyz1yncez3zmvz2</sha1>
+    </revision>
+    <revision>
+      <id>1271423997</id>
+      <parentid>1129998551</parentid>
+      <timestamp>2020-09-04T22:07:06Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1910 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4374" xml:space="preserve">{"type":"item","id":"Q56098384","labels":{"de":{"language":"de","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"en":{"language":"en","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"},"nl":{"language":"nl","value":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1910"},"de":{"language":"de","value":"im Jahr 1910 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f80e70026d3f1a406af973e063ed004004430bc4","datavalue":{"value":"10.1080\/00222931008692720","type":"string"}},"type":"statement","id":"Q56098384$C3DC1C83-6742-4DA0-8DC2-75E2C9F27BF7","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c312ce6358c34d401ef165255685045f95f70ef0","datavalue":{"value":"97680","type":"string"}},"type":"statement","id":"Q56098384$AB8969FF-E6B6-4FEA-8618-F4DE29329CDD","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$9147FDCC-B835-40A6-BACF-60B6CED03151","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e465e96d3a8d5798b63b2b38f83b11a483d2a413","datavalue":{"value":{"text":"II.\u2014Notes on some upper Pal\u00e6ozoic shells from Madagascar","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56098384$2F3A57E6-3E05-47CA-8537-C743DA9729CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56098384$98490831-B35C-4EB7-822D-8A216A50D15B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9cac4d8079caf1806187e8cd7cbf3eaf56565352","datavalue":{"value":"6\u201310","type":"string"}},"type":"statement","id":"Q56098384$B46796E2-3B0F-44DB-A857-FC51E34A93CA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f94c6ac2c7ca88f2369691f57fbe5c9a156943bb","datavalue":{"value":"25","type":"string"}},"type":"statement","id":"Q56098384$4D96EA1D-E33F-4C5D-8F93-5542ADD1D1F1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"0156a9df43f843d55b3378d847e203d3c2e10c4a","datavalue":{"value":{"time":"+1910-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56098384$BFD3F42D-E404-4466-B9D4-770766A2A25D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56059498fe80f76a1b7c96fdec79308c8fdf407c","datavalue":{"value":"R. Bullen Newton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56098384$97C10367-CE40-4057-B72A-92E457D872A5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc84d496f9fe998919cf9d093ee541e512f3b49","datavalue":{"value":{"entity-type":"item","numeric-id":19798858,"id":"Q19798858"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$2B70567B-F1ED-4D9B-9EAC-E86062A9A795","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"83356536d967b5cf746b9b1838bfe80236ebf4b8","datavalue":{"value":"16094406","type":"string"}},"type":"statement","id":"Q56098384$AD2493A0-D03A-4933-8F26-46C7ECEF6811","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56098384$AB50E2D2-4B89-49AA-8280-E5BCADAE1CED","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pl083q2mv1zo167n8d3aix8vz7wvr0u</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56200166</title>
+    <ns>0</ns>
+    <id>56142757</id>
+    <revision>
+      <id>730421160</id>
+      <timestamp>2018-08-20T19:54:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56200166","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>iy96rrw15ui72vrsgpbu8fb13ttdiiq</sha1>
+    </revision>
+    <revision>
+      <id>730421164</id>
+      <parentid>730421160</parentid>
+      <timestamp>2018-08-20T19:54:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Three North American Cretaceous Fishes</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="173" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rsfosd5lyeqvpm6iifubch40tolp1jm</sha1>
+    </revision>
+    <revision>
+      <id>730421173</id>
+      <parentid>730421164</parentid>
+      <timestamp>2018-08-20T19:54:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Three North American Cretaceous Fishes</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="245" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>aswvplzzz18nzslscsurfllho9jrvpc</sha1>
+    </revision>
+    <revision>
+      <id>730421177</id>
+      <parentid>730421173</parentid>
+      <timestamp>2018-08-20T19:54:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5479/SI.00963801.108-3401.269</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="518" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qutgbvfjihu9inyoalimbltpocs93de</sha1>
+    </revision>
+    <revision>
+      <id>730421187</id>
+      <parentid>730421177</parentid>
+      <timestamp>2018-08-20T19:54:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 79969</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="766" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jtfiynuy5n9rp7cshhpowuk1y2mafns</sha1>
+    </revision>
+    <revision>
+      <id>730421188</id>
+      <parentid>730421187</parentid>
+      <timestamp>2018-08-20T19:54:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1075" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kqmbea1pztc96yxvscszhhr9om28n4a</sha1>
+    </revision>
+    <revision>
+      <id>730421194</id>
+      <parentid>730421188</parentid>
+      <timestamp>2018-08-20T19:54:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Three North American Cretaceous Fishes</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1390" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gqnwgm8zqyhdkm2qw0dj8iyrfhybr35</sha1>
+    </revision>
+    <revision>
+      <id>730421204</id>
+      <parentid>730421194</parentid>
+      <timestamp>2018-08-20T19:54:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 108</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1634" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i23m7wde2p8vxh0qorgku8ike8ywyiw</sha1>
+    </revision>
+    <revision>
+      <id>730421210</id>
+      <parentid>730421204</parentid>
+      <timestamp>2018-08-20T19:54:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 269–277</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1887" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qjg5gfiqpz83dpvt9bxuw5ffc1hscd5</sha1>
+    </revision>
+    <revision>
+      <id>730421217</id>
+      <parentid>730421210</parentid>
+      <timestamp>2018-08-20T19:54:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3401</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2132" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3hkjx40pn21snswelwmt68ljdyfvfos</sha1>
+    </revision>
+    <revision>
+      <id>730421223</id>
+      <parentid>730421217</parentid>
+      <timestamp>2018-08-20T19:54:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1958</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2511" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q5gbppfmydoe33nvtxgqwody23373f0</sha1>
+    </revision>
+    <revision>
+      <id>730421237</id>
+      <parentid>730421223</parentid>
+      <timestamp>2018-08-20T19:54:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: David H. Dunkle</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2769" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r10limvxomh8s2kbxcjyegrrwbq6opm</sha1>
+    </revision>
+    <revision>
+      <id>730421252</id>
+      <parentid>730421237</parentid>
+      <timestamp>2018-08-20T19:54:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2955" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>73ewwreccr6p4ax4gavfs9385h5p0mt</sha1>
+    </revision>
+    <revision>
+      <id>730421262</id>
+      <parentid>730421252</parentid>
+      <timestamp>2018-08-20T19:54:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q18515885]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3268" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$366A766F-81D4-4DB4-A44D-6075B376A046","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k71w39g9eq3jx9petraq7pn9qrte5r0</sha1>
+    </revision>
+    <revision>
+      <id>738232659</id>
+      <parentid>730421262</parentid>
+      <timestamp>2018-09-01T23:46:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7603699, According to [[Property:P5315]]=79969</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3516" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$366A766F-81D4-4DB4-A44D-6075B376A046","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"5ed0ecfccab175d8f8551b2686ad5b74bb946d31","datavalue":{"value":"7603699","type":"string"}},"type":"statement","id":"Q56200166$772AC141-9B28-4127-88DB-44C9C81892FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o7qg0c6eh80y0szkdzsvnmh41acfwft</sha1>
+    </revision>
+    <revision>
+      <id>779949332</id>
+      <parentid>738232659</parentid>
+      <timestamp>2018-11-02T11:05:14Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3645" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"},"nl":{"language":"nl","value":"Three North American Cretaceous Fishes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$366A766F-81D4-4DB4-A44D-6075B376A046","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"5ed0ecfccab175d8f8551b2686ad5b74bb946d31","datavalue":{"value":"7603699","type":"string"}},"type":"statement","id":"Q56200166$772AC141-9B28-4127-88DB-44C9C81892FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o1jm2zvkuek8dxdtw9jnsd0z4rri96w</sha1>
+    </revision>
+    <revision>
+      <id>783011631</id>
+      <parentid>779949332</parentid>
+      <timestamp>2018-11-06T03:33:47Z</timestamp>
+      <contributor>
+        <username>PintochBot</username>
+        <id>2907109</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P5875]]: 260319018, add [[Property:P5875|ResearchGate publication ID]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3897" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"},"nl":{"language":"nl","value":"Three North American Cretaceous Fishes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$366A766F-81D4-4DB4-A44D-6075B376A046","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"5ed0ecfccab175d8f8551b2686ad5b74bb946d31","datavalue":{"value":"7603699","type":"string"}},"type":"statement","id":"Q56200166$772AC141-9B28-4127-88DB-44C9C81892FD","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"138dd16e80c72ae4d3da7bf41be05086fd02c1b9","datavalue":{"value":"260319018","type":"string"}},"type":"statement","id":"Q56200166$555D3D49-0E34-4A99-87D1-80F5E8968586","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>noy9uox8eburas2s7cukhk5o56fbd86</sha1>
+    </revision>
+    <revision>
+      <id>837685208</id>
+      <parentid>783011631</parentid>
+      <timestamp>2019-01-19T17:49:20Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q44626]], #quickstatements; [[:toollabs:quickstatements/#/batch/7348|batch #7348]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4202" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"},"nl":{"language":"nl","value":"Three North American Cretaceous Fishes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$366A766F-81D4-4DB4-A44D-6075B376A046","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"5ed0ecfccab175d8f8551b2686ad5b74bb946d31","datavalue":{"value":"7603699","type":"string"}},"type":"statement","id":"Q56200166$772AC141-9B28-4127-88DB-44C9C81892FD","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"138dd16e80c72ae4d3da7bf41be05086fd02c1b9","datavalue":{"value":"260319018","type":"string"}},"type":"statement","id":"Q56200166$555D3D49-0E34-4A99-87D1-80F5E8968586","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d388bdd0a9d58601a9d633a1076519b1106c9aac","datavalue":{"value":{"entity-type":"item","numeric-id":44626,"id":"Q44626"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$437C1EA1-AE13-4BE4-92C4-6FC8837B28C0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3l1dv47m3o502r3ilkflmkkei9to0pl</sha1>
+    </revision>
+    <revision>
+      <id>973954204</id>
+      <parentid>837685208</parentid>
+      <timestamp>2019-07-04T07:43:06Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1958, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4401" xml:space="preserve">{"type":"item","id":"Q56200166","labels":{"de":{"language":"de","value":"Three North American Cretaceous Fishes"},"en":{"language":"en","value":"Three North American Cretaceous Fishes"},"nl":{"language":"nl","value":"Three North American Cretaceous Fishes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1958"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"95b41f98129347344efdc4b4321d82aa312ab09c","datavalue":{"value":"10.5479\/SI.00963801.108-3401.269","type":"string"}},"type":"statement","id":"Q56200166$ECE6D1DA-EF11-4D16-8728-97985007A3D2","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"4ac534aa9bf4acaf4b2538124dae967b200c2207","datavalue":{"value":"79969","type":"string"}},"type":"statement","id":"Q56200166$AB6B97EC-320E-40EB-A1B5-250E727555CB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$6422AF85-14C9-45DB-B58D-150BA58B4F52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"630ee1d43baf6f8a7f4e6d4b3051b2309d0b8c51","datavalue":{"value":{"text":"Three North American Cretaceous Fishes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56200166$4623E26E-12F9-407E-A26F-0057AAC94A06","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6e0e1bf500631f4a1dc36f87de447d174240b8fe","datavalue":{"value":"108","type":"string"}},"type":"statement","id":"Q56200166$0359AE5E-08BE-4825-BAE5-0BFFA1DB8052","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e45a245d7fcc8b2df63bb221062f7f3d6fbb7d65","datavalue":{"value":"269\u2013277","type":"string"}},"type":"statement","id":"Q56200166$2EF3E417-CD68-4587-8018-89A1C506C3DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"3bcf782eabbc63e680595d0c209b407a6e68d39a","datavalue":{"value":"3401","type":"string"}},"type":"statement","id":"Q56200166$D4FB6717-6079-439E-BCE8-A93209C2CDAA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56200166$370AFFC8-3DCE-4A61-A563-47C4AF2D5742","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"98c62eb96ede287e7c29aa1b30a09939d0e65c4a","datavalue":{"value":"David H. Dunkle","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56200166$94B8302C-DEFD-4237-AAE3-57A90432A17B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$366A766F-81D4-4DB4-A44D-6075B376A046","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"5ed0ecfccab175d8f8551b2686ad5b74bb946d31","datavalue":{"value":"7603699","type":"string"}},"type":"statement","id":"Q56200166$772AC141-9B28-4127-88DB-44C9C81892FD","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"138dd16e80c72ae4d3da7bf41be05086fd02c1b9","datavalue":{"value":"260319018","type":"string"}},"type":"statement","id":"Q56200166$555D3D49-0E34-4A99-87D1-80F5E8968586","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"d388bdd0a9d58601a9d633a1076519b1106c9aac","datavalue":{"value":{"entity-type":"item","numeric-id":44626,"id":"Q44626"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56200166$437C1EA1-AE13-4BE4-92C4-6FC8837B28C0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>15dkpjvjkbdeuz5hfqatn4greicuso4</sha1>
+    </revision>
+  </page>
+</mediawiki>

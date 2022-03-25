@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55757007</title>
+    <ns>0</ns>
+    <id>55732217</id>
+    <revision>
+      <id>715815873</id>
+      <timestamp>2018-07-26T04:15:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55757007","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>d5n6uobselo3o8dk3bk3jt81sq3gx7k</sha1>
+    </revision>
+    <revision>
+      <id>715815876</id>
+      <parentid>715815873</parentid>
+      <timestamp>2018-07-26T04:15:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Contribution à la Flore du pays des Touaregs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="184" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>5lu3ifjue813bb7fow7owt6qvpqi7nt</sha1>
+    </revision>
+    <revision>
+      <id>715815878</id>
+      <parentid>715815876</parentid>
+      <timestamp>2018-07-26T04:15:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Contribution à la Flore du pays des Touaregs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="267" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>gay5eczf5cqc4h8qzhobevgjzho5wk5</sha1>
+    </revision>
+    <revision>
+      <id>715815885</id>
+      <parentid>715815878</parentid>
+      <timestamp>2018-07-26T04:15:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ wissenschaftlicher Artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="326" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dku6s5pyggbbjshsob264xlszj5f355</sha1>
+    </revision>
+    <revision>
+      <id>715815888</id>
+      <parentid>715815885</parentid>
+      <timestamp>2018-07-26T04:15:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scientific article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="378" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qppt5gp1vvgrhxktrc7ace7nwhrqa2k</sha1>
+    </revision>
+    <revision>
+      <id>715815893</id>
+      <parentid>715815888</parentid>
+      <timestamp>2018-07-26T04:15:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1080/00378941.1911.10832363</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="649" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0vtq3o3ngllzb2f6o7qcgsfzomm2mrm</sha1>
+    </revision>
+    <revision>
+      <id>715815895</id>
+      <parentid>715815893</parentid>
+      <timestamp>2018-07-26T04:15:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="958" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ay4titwjl8upujao4e2oqbm8jkxs9vs</sha1>
+    </revision>
+    <revision>
+      <id>715815898</id>
+      <parentid>715815895</parentid>
+      <timestamp>2018-07-26T04:15:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Contribution à la Flore du pays des Touaregs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1284" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o506rmb4v5w3he7tmfiwy5vuv4xcku8</sha1>
+    </revision>
+    <revision>
+      <id>715815900</id>
+      <parentid>715815898</parentid>
+      <timestamp>2018-07-26T04:15:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 58</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1527" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jjwv5gsj0n8hinjh5r0axsp9oq1w593</sha1>
+    </revision>
+    <revision>
+      <id>715815903</id>
+      <parentid>715815900</parentid>
+      <timestamp>2018-07-26T04:15:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 623–629</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1780" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pg2zruovfxiq18bbu3j2ldf1wsupsqf</sha1>
+    </revision>
+    <revision>
+      <id>715815910</id>
+      <parentid>715815903</parentid>
+      <timestamp>2018-07-26T04:15:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 6</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2022" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kgv9gnwouf2h8urlv5v8kdcqhkkxnno</sha1>
+    </revision>
+    <revision>
+      <id>715815913</id>
+      <parentid>715815910</parentid>
+      <timestamp>2018-07-26T04:15:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: January 1911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2402" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eidqyz62lw2zg8ax3q12dqlx1nclf17</sha1>
+    </revision>
+    <revision>
+      <id>715815916</id>
+      <parentid>715815913</parentid>
+      <timestamp>2018-07-26T04:15:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Mm J. A. Battandier</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2664" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>biilkozfm47714bsuutxx8imzgl1uz7</sha1>
+    </revision>
+    <revision>
+      <id>715815917</id>
+      <parentid>715815916</parentid>
+      <timestamp>2018-07-26T04:15:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2850" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>60g4yy6mfbkh4mekmvb6gyv2tnyg5og</sha1>
+    </revision>
+    <revision>
+      <id>715815921</id>
+      <parentid>715815917</parentid>
+      <timestamp>2018-07-26T04:15:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: L. Trabut</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3092" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3278cfb5eed8fef294f666c8e35a21dd0263596a","datavalue":{"value":"L. Trabut","type":"string"}},"type":"statement","id":"Q55757007$502A8CF5-7662-49AF-BEED-59EF5D0080B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bzv7e1w8xjad2qdmva8rnpcyl7orq7z</sha1>
+    </revision>
+    <revision>
+      <id>715815926</id>
+      <parentid>715815921</parentid>
+      <timestamp>2018-07-26T04:15:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3278" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3278cfb5eed8fef294f666c8e35a21dd0263596a","datavalue":{"value":"L. Trabut","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$502A8CF5-7662-49AF-BEED-59EF5D0080B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7a5lrkt8im6hb469xj57x8t23o73whm</sha1>
+    </revision>
+    <revision>
+      <id>715815928</id>
+      <parentid>715815926</parentid>
+      <timestamp>2018-07-26T04:15:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5735483]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3589" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3278cfb5eed8fef294f666c8e35a21dd0263596a","datavalue":{"value":"L. Trabut","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$502A8CF5-7662-49AF-BEED-59EF5D0080B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$2C389C48-E691-4727-8ED9-3265539A4E1B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mmjciap9b19yrd7nru2yzz5ids0cb82</sha1>
+    </revision>
+    <revision>
+      <id>764303746</id>
+      <parentid>715815928</parentid>
+      <timestamp>2018-10-14T20:44:05Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3702" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3278cfb5eed8fef294f666c8e35a21dd0263596a","datavalue":{"value":"L. Trabut","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$502A8CF5-7662-49AF-BEED-59EF5D0080B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$2C389C48-E691-4727-8ED9-3265539A4E1B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>35na470cuf6zx40bjcl3mm0orlfzrvs</sha1>
+    </revision>
+    <revision>
+      <id>864645803</id>
+      <parentid>764303746</parentid>
+      <timestamp>2019-02-23T07:44:40Z</timestamp>
+      <contributor>
+        <username>Emijrpbot</username>
+        <id>6811</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ BOT - Adding descriptions (57 languages): ar, ast, bg, bn, ca, cs, da, el, eo, es, et, fa, fi, fr, gl, he, hu, hy, it, ja, ka, ko, lt, nan, nb, nl, nn, oc, pl, pt, pt-br, ro, ru, sk, sq, sr, sr-ec, sr-el, sv, tg, tg-cyrl, th, tl, tr, ur, vi, wuu, yue, zh, zh-cn, zh-hans, zh-hant, zh-hk, zh-mo, zh-my, zh-sg, zh-tw</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="8145" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1911)"},"wuu":{"language":"wuu","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"tr":{"language":"tr","value":"bilimsel makale"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1911)"},"et":{"language":"et","value":"teaduslik artikkel"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"sq":{"language":"sq","value":"artikull shkencor"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"ko":{"language":"ko","value":"1911\ub144 \ub17c\ubb38"},"eo":{"language":"eo","value":"scienca artikolo"},"nan":{"language":"nan","value":"1911 n\u00ee l\u016bn-b\u00fbn"},"zh-tw":{"language":"zh-tw","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"zh-my":{"language":"zh-my","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"zh-hans":{"language":"zh-hans","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"oc":{"language":"oc","value":"article scientific"},"it":{"language":"it","value":"articolo scientifico"},"zh-cn":{"language":"zh-cn","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e7\u09e7-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1911)"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1911"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1911)"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"ca":{"language":"ca","value":"article cient\u00edfic"},"zh":{"language":"zh","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"zh-sg":{"language":"zh-sg","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"ur":{"language":"ur","value":"\u0633\u0627\u0626\u0646\u0633\u06cc \u0645\u0636\u0645\u0648\u0646"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"yue":{"language":"yue","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"tl":{"language":"tl","value":"artikulong pang-agham"},"zh-hk":{"language":"zh-hk","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"ja":{"language":"ja","value":"1911\u5e74\u306e\u8ad6\u6587"},"zh-mo":{"language":"zh-mo","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3278cfb5eed8fef294f666c8e35a21dd0263596a","datavalue":{"value":"L. Trabut","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$502A8CF5-7662-49AF-BEED-59EF5D0080B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$2C389C48-E691-4727-8ED9-3265539A4E1B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p22eqykkhxa9vgqzs8pr5vipyknjoth</sha1>
+    </revision>
+    <revision>
+      <id>917365116</id>
+      <parentid>864645803</parentid>
+      <timestamp>2019-04-18T01:53:11Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-set:1|uk */ наукова стаття, опублікована в січні 1911, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="8262" xml:space="preserve">{"type":"item","id":"Q55757007","labels":{"de":{"language":"de","value":"Contribution \u00e0 la Flore du pays des Touaregs"},"en":{"language":"en","value":"Contribution \u00e0 la Flore du pays des Touaregs"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1911"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1911)"},"wuu":{"language":"wuu","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"tr":{"language":"tr","value":"bilimsel makale"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1911)"},"et":{"language":"et","value":"teaduslik artikkel"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"sq":{"language":"sq","value":"artikull shkencor"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"ko":{"language":"ko","value":"1911\ub144 \ub17c\ubb38"},"eo":{"language":"eo","value":"scienca artikolo"},"nan":{"language":"nan","value":"1911 n\u00ee l\u016bn-b\u00fbn"},"zh-tw":{"language":"zh-tw","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"zh-my":{"language":"zh-my","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"zh-hans":{"language":"zh-hans","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"oc":{"language":"oc","value":"article scientific"},"it":{"language":"it","value":"articolo scientifico"},"zh-cn":{"language":"zh-cn","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e7\u09e7-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1911)"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1911"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1911)"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"ca":{"language":"ca","value":"article cient\u00edfic"},"zh":{"language":"zh","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"zh-sg":{"language":"zh-sg","value":"1911\u5e74\u5b66\u672f\u6587\u7ae0"},"ur":{"language":"ur","value":"\u0633\u0627\u0626\u0646\u0633\u06cc \u0645\u0636\u0645\u0648\u0646"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"yue":{"language":"yue","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"tl":{"language":"tl","value":"artikulong pang-agham"},"zh-hk":{"language":"zh-hk","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"ja":{"language":"ja","value":"1911\u5e74\u306e\u8ad6\u6587"},"zh-mo":{"language":"zh-mo","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"1911\u5e74\u5b78\u8853\u6587\u7ae0"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"414e4aac081953f583379c65427f916086d2b170","datavalue":{"value":"10.1080\/00378941.1911.10832363","type":"string"}},"type":"statement","id":"Q55757007$55A2C62D-37B0-4CCB-8029-2B681AB94333","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$3F918155-ECFE-4039-8882-EABCC5A0ADD9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"388f710507e035db2587e93b7766efb878e5a60e","datavalue":{"value":{"text":"Contribution \u00e0 la Flore du pays des Touaregs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55757007$F056CDA0-03B0-4F05-805E-2FB0976D4833","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"525cc9d19e00d28fe7b2fedf28638b01261fd79c","datavalue":{"value":"58","type":"string"}},"type":"statement","id":"Q55757007$98689B0B-0A35-41E1-A1FB-DE14116589CC","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ea3fd5fc3d177b1e60b740429688125f0bde4fb","datavalue":{"value":"623\u2013629","type":"string"}},"type":"statement","id":"Q55757007$A3F79113-32DF-438A-9911-8B26D2A8BFEA","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"d1661592d72f9489a6843e1b2291131a10a7fbad","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q55757007$9F755DA9-1619-4958-A918-7BEB3C8D0870","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7604a5f9225fe2b25a41caf196672986b9d6b3bc","datavalue":{"value":{"time":"+1911-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55757007$AD8F9CE2-5505-4093-8923-23A0658FE921","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"da6d2e2261855da55c6c9be5356aae41e0d5e957","datavalue":{"value":"Mm J. A. Battandier","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$445D882C-4BD1-4CAD-898E-69C73E4880B2","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3278cfb5eed8fef294f666c8e35a21dd0263596a","datavalue":{"value":"L. Trabut","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55757007$502A8CF5-7662-49AF-BEED-59EF5D0080B0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0eb45c1aec14631698fcc9477beee56dec985243","datavalue":{"value":{"entity-type":"item","numeric-id":5735483,"id":"Q5735483"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55757007$2C389C48-E691-4727-8ED9-3265539A4E1B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e7vydxqq9n9urmcnjgyw9sne4f1coho</sha1>
+    </revision>
+  </page>
+</mediawiki>

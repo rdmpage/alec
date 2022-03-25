@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56012486</title>
+    <ns>0</ns>
+    <id>55962352</id>
+    <revision>
+      <id>722586450</id>
+      <timestamp>2018-08-07T20:15:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56012486","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>cjtqehayhzmbyy6fbkctj3bxetkh9qz</sha1>
+    </revision>
+    <revision>
+      <id>722586452</id>
+      <parentid>722586450</parentid>
+      <timestamp>2018-08-07T20:15:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Some new Oriental Anthribidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="164" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>r27sqvt437r5qoat1nr2vbreo1277m3</sha1>
+    </revision>
+    <revision>
+      <id>722586457</id>
+      <parentid>722586452</parentid>
+      <timestamp>2018-08-07T20:15:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Some new Oriental Anthribidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="227" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>57pnbdfldpph7r8et91eeq375etje4v</sha1>
+    </revision>
+    <revision>
+      <id>722586460</id>
+      <parentid>722586457</parentid>
+      <timestamp>2018-08-07T20:15:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.24159</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="490" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l8v3gbjytkl67cp85hmzt09o2h8p59q</sha1>
+    </revision>
+    <revision>
+      <id>722586464</id>
+      <parentid>722586460</parentid>
+      <timestamp>2018-08-07T20:15:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 104376</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="739" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iwkhhd5ur87qbimz8uvd5miabmpt9fm</sha1>
+    </revision>
+    <revision>
+      <id>722586467</id>
+      <parentid>722586464</parentid>
+      <timestamp>2018-08-07T20:15:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1048" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p8tom0scztggyf337i20lmn9xfosa0u</sha1>
+    </revision>
+    <revision>
+      <id>722586472</id>
+      <parentid>722586467</parentid>
+      <timestamp>2018-08-07T20:15:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Some new Oriental Anthribidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1354" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ln8xet1iquf6xkzazyfsf9dlqtue13n</sha1>
+    </revision>
+    <revision>
+      <id>722586476</id>
+      <parentid>722586472</parentid>
+      <timestamp>2018-08-07T20:15:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 41</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1597" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>22ere5f153c1r6ynl2t8rmw2sbruic0</sha1>
+    </revision>
+    <revision>
+      <id>722586480</id>
+      <parentid>722586476</parentid>
+      <timestamp>2018-08-07T20:15:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 80–91</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1848" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c3fsat3npgo7lfvpoxusmklvvohd8ky</sha1>
+    </revision>
+    <revision>
+      <id>722586486</id>
+      <parentid>722586480</parentid>
+      <timestamp>2018-08-07T20:15:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1904</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2227" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3lyxtdj95ltl7zco1zav3q8608dctlu</sha1>
+    </revision>
+    <revision>
+      <id>722586489</id>
+      <parentid>722586486</parentid>
+      <timestamp>2018-08-07T20:15:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385141]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2540" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n3gz1c4xib0wqqjmzxmu1bllpldxast</sha1>
+    </revision>
+    <revision>
+      <id>738434640</id>
+      <parentid>722586489</parentid>
+      <timestamp>2018-09-02T07:44:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7930672, According to [[Property:P5315]]=104376</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2788" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"be07d5db1c5c9b40abbaade46439be1cd024a9bb","datavalue":{"value":"7930672","type":"string"}},"type":"statement","id":"Q56012486$6B5EF32D-B8E3-4E25-BC5B-4F7C3AF1786F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0lfawehro6rw5b7owimxci3ds5rbphn</sha1>
+    </revision>
+    <revision>
+      <id>784358710</id>
+      <parentid>738434640</parentid>
+      <timestamp>2018-11-07T23:29:09Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2908" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"},"nl":{"language":"nl","value":"Some new Oriental Anthribidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"be07d5db1c5c9b40abbaade46439be1cd024a9bb","datavalue":{"value":"7930672","type":"string"}},"type":"statement","id":"Q56012486$6B5EF32D-B8E3-4E25-BC5B-4F7C3AF1786F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ewamub3s63n9yyuyymyq2ig4qw5purb</sha1>
+    </revision>
+    <revision>
+      <id>951849528</id>
+      <parentid>784358710</parentid>
+      <timestamp>2019-05-30T05:03:12Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559142680556; Based on 1904 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3215" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"},"nl":{"language":"nl","value":"Some new Oriental Anthribidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"be07d5db1c5c9b40abbaade46439be1cd024a9bb","datavalue":{"value":"7930672","type":"string"}},"type":"statement","id":"Q56012486$6B5EF32D-B8E3-4E25-BC5B-4F7C3AF1786F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$11F01FFF-F71E-455F-AC51-7958D13B39C9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3bpezcyds7cydwj2ssfxv6y2okf7a0h</sha1>
+    </revision>
+    <revision>
+      <id>951849564</id>
+      <parentid>951849528</parentid>
+      <timestamp>2019-05-30T05:03:17Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559142680556</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3458" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"},"nl":{"language":"nl","value":"Some new Oriental Anthribidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"be07d5db1c5c9b40abbaade46439be1cd024a9bb","datavalue":{"value":"7930672","type":"string"}},"type":"statement","id":"Q56012486$6B5EF32D-B8E3-4E25-BC5B-4F7C3AF1786F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56012486$11F01FFF-F71E-455F-AC51-7958D13B39C9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ifpcacwh5wg5sjaetkltxbe3d00xs7m</sha1>
+    </revision>
+    <revision>
+      <id>951849584</id>
+      <parentid>951849564</parentid>
+      <timestamp>2019-05-30T05:03:20Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559142680556</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3674" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"},"nl":{"language":"nl","value":"Some new Oriental Anthribidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"be07d5db1c5c9b40abbaade46439be1cd024a9bb","datavalue":{"value":"7930672","type":"string"}},"type":"statement","id":"Q56012486$6B5EF32D-B8E3-4E25-BC5B-4F7C3AF1786F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012486$11F01FFF-F71E-455F-AC51-7958D13B39C9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2kvq34dpmu46t0rbc0wsxvijojdftkf</sha1>
+    </revision>
+    <revision>
+      <id>974547060</id>
+      <parentid>951849584</parentid>
+      <timestamp>2019-07-05T15:54:20Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1904, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3873" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"},"nl":{"language":"nl","value":"Some new Oriental Anthribidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1904"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"be07d5db1c5c9b40abbaade46439be1cd024a9bb","datavalue":{"value":"7930672","type":"string"}},"type":"statement","id":"Q56012486$6B5EF32D-B8E3-4E25-BC5B-4F7C3AF1786F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012486$11F01FFF-F71E-455F-AC51-7958D13B39C9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ln354yqx3bvog193nw68qelhadx81v3</sha1>
+    </revision>
+    <revision>
+      <id>1272479992</id>
+      <parentid>974547060</parentid>
+      <timestamp>2020-09-06T18:46:12Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1904 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3968" xml:space="preserve">{"type":"item","id":"Q56012486","labels":{"de":{"language":"de","value":"Some new Oriental Anthribidae"},"en":{"language":"en","value":"Some new Oriental Anthribidae"},"nl":{"language":"nl","value":"Some new Oriental Anthribidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1904"},"de":{"language":"de","value":"im Jahr 1904 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2c78ecddf938ad878a9e18863305169ab456c076","datavalue":{"value":"10.5962\/BHL.PART.24159","type":"string"}},"type":"statement","id":"Q56012486$BC348510-FA15-474E-9174-9A79317EC3BF","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"005e4c7dbe587cbbe6b808ec4b9990c121b9f40f","datavalue":{"value":"104376","type":"string"}},"type":"statement","id":"Q56012486$1B5C55EF-A0E8-45C9-8C9A-613190D04ACC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$04482C43-2686-4479-8306-A6891560BEDA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9bd7add0dbcd26feb13469b898e2bd39b245d34d","datavalue":{"value":{"text":"Some new Oriental Anthribidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012486$D65800BA-75FB-40B8-AF9E-3B6900A08C04","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56012486$39580D93-96EE-46D3-B6D4-0E9CE4B58178","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9d7244e4b3ced384bf03bcf353dd9326e1d981f4","datavalue":{"value":"80\u201391","type":"string"}},"type":"statement","id":"Q56012486$CBE891BA-7EE0-40F9-BCAD-D0B35C0FCBC3","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"89d673e4ce6ef4b7395c4f277995fe54ff40d270","datavalue":{"value":{"time":"+1904-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012486$DBE87ED3-941A-4993-BC81-279B265CB16B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0b3828f1f0a4ad6ee3336e1dd58537d1b220280c","datavalue":{"value":{"entity-type":"item","numeric-id":21385141,"id":"Q21385141"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012486$97C8C6CA-8FBD-4A69-9397-69AD2FE00D6E","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"be07d5db1c5c9b40abbaade46439be1cd024a9bb","datavalue":{"value":"7930672","type":"string"}},"type":"statement","id":"Q56012486$6B5EF32D-B8E3-4E25-BC5B-4F7C3AF1786F","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56012486$11F01FFF-F71E-455F-AC51-7958D13B39C9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>33p8ljxka8ockuihqacmxdcq87j6x0p</sha1>
+    </revision>
+  </page>
+</mediawiki>

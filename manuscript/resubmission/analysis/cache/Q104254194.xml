@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104254194</title>
+    <ns>0</ns>
+    <id>99701576</id>
+    <revision>
+      <id>1324989667</id>
+      <timestamp>2020-12-18T22:27:58Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1608330012081</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3280" xml:space="preserve">{"type":"item","id":"Q104254194","labels":{"en":{"language":"en","value":"Frogs of the Papuan hylid genus Nyctimystes"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254194$5DE9728F-876A-42B0-B4E9-47D585745978","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6d4334d9d598534c5192a9f7ec7ad90acdadf5e7","datavalue":{"value":{"text":"Frogs of the Papuan hylid genus Nyctimystes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104254194$6A679369-AD94-4117-89EB-932549923425","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254194$7AAF242C-C0D3-4CB4-A360-2DBED0241742","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104254194$284C504A-CFF8-4A39-A93B-6D54A2A5AC82","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5e987e8598a4a501a4a9f2c63bcc12f432cfa27c","datavalue":{"value":"Richard George Zweifel","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104254194$E69AEE06-78CF-4522-9AED-1D7453A6EF72","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254194$930EBB4B-7952-45DB-8E57-A18250E6FA41","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"174f56c1516282b68587e52bd3806ca4e67f3b2f","datavalue":{"value":"1896","type":"string"}},"type":"statement","id":"Q104254194$68700918-51DD-4C2B-8B06-165A6D73B5C0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"952687b454687779e89762e3a35fb46e3a22c3f6","datavalue":{"value":"1-51","type":"string"}},"type":"statement","id":"Q104254194$635743AA-0F52-4E09-AFFD-D9B4A9B7C562","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"9b79d428545a2121652b6269fbe32ecccdfac392","datavalue":{"value":"2246\/4567","type":"string"}},"type":"statement","id":"Q104254194$942419B8-3363-4801-8413-441101722C9A","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"3258e50a141b5b20e2d9a58553d1cbaaa86c72a6","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/4567","type":"string"}},"type":"statement","id":"Q104254194$E754CD0F-8D13-4785-B9DA-CDA61216C844","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d3bl9y6oh6qryfmsgfy2hozh3vg32pm</sha1>
+    </revision>
+    <revision>
+      <id>1325025846</id>
+      <parentid>1324989667</parentid>
+      <timestamp>2020-12-18T23:31:20Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3414" xml:space="preserve">{"type":"item","id":"Q104254194","labels":{"en":{"language":"en","value":"Frogs of the Papuan hylid genus Nyctimystes"},"nl":{"language":"nl","value":"Frogs of the Papuan hylid genus Nyctimystes"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254194$5DE9728F-876A-42B0-B4E9-47D585745978","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6d4334d9d598534c5192a9f7ec7ad90acdadf5e7","datavalue":{"value":{"text":"Frogs of the Papuan hylid genus Nyctimystes","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104254194$6A679369-AD94-4117-89EB-932549923425","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254194$7AAF242C-C0D3-4CB4-A360-2DBED0241742","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8eab5cf3334f65132c37de963e05ae62804bb956","datavalue":{"value":{"time":"+1958-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104254194$284C504A-CFF8-4A39-A93B-6D54A2A5AC82","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5e987e8598a4a501a4a9f2c63bcc12f432cfa27c","datavalue":{"value":"Richard George Zweifel","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104254194$E69AEE06-78CF-4522-9AED-1D7453A6EF72","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254194$930EBB4B-7952-45DB-8E57-A18250E6FA41","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"174f56c1516282b68587e52bd3806ca4e67f3b2f","datavalue":{"value":"1896","type":"string"}},"type":"statement","id":"Q104254194$68700918-51DD-4C2B-8B06-165A6D73B5C0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"952687b454687779e89762e3a35fb46e3a22c3f6","datavalue":{"value":"1-51","type":"string"}},"type":"statement","id":"Q104254194$635743AA-0F52-4E09-AFFD-D9B4A9B7C562","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"9b79d428545a2121652b6269fbe32ecccdfac392","datavalue":{"value":"2246\/4567","type":"string"}},"type":"statement","id":"Q104254194$942419B8-3363-4801-8413-441101722C9A","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"3258e50a141b5b20e2d9a58553d1cbaaa86c72a6","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/4567","type":"string"}},"type":"statement","id":"Q104254194$E754CD0F-8D13-4785-B9DA-CDA61216C844","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1hs5k3bdq1j9y3uvvo4lglz3430c3kz</sha1>
+    </revision>
+  </page>
+</mediawiki>

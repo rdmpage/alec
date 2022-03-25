@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q89631519</title>
+    <ns>0</ns>
+    <id>88844641</id>
+    <revision>
+      <id>1151940342</id>
+      <timestamp>2020-04-07T04:14:05Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ [[:toollabs:quickstatements/#/batch/28555|batch #28555]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5297" xml:space="preserve">{"type":"item","id":"Q89631519","labels":{"en":{"language":"en","value":"Three new species of the genus Adelophryne (Amphibia: Anura: Leptodactylidae) from northeastern Brazil, with remarks on the other species of the genus"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631519$6AD93D99-37AD-4500-9897-E4E896586252","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b68d7b0e2f0320799de368047f9e3edc9f81a8f6","datavalue":{"value":{"text":"Three new species of the genus Adelophryne (Amphibia: Anura: Leptodactylidae) from northeastern Brazil, with remarks on the other species of the genus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631519$5322F4B0-3797-4964-86C5-FA6CB8D2CC06","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"7d29bb8bf5ac092a1432c53192605f341877a76b","datavalue":{"value":{"text":"In the present paper three new species of the genus Adelophryne from the coastal Atlantic forest in Brazil are described.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631519$0FFC8286-2793-4818-AF39-8E12747D955B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631519$A993D01F-2FE9-4381-A218-A635B596C5E1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6d667644be2a99abadeebf3b342d19d7609125e9","datavalue":{"value":{"time":"+1994-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q89631519$ADA61028-9C40-4F4D-802D-A86F1DA93C6B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a112f239fbeb7a4a41b33669e7cab146d607099f","datavalue":{"value":"M S Hoogmoed","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631519$8940ADF5-3F41-486C-94E7-BA2464B9264A","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"73ceaca4cb25d8def637e4d185e77a5f61dbad16","datavalue":{"value":"D M Borges","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631519$2D95AFB7-B00C-4BD9-8B8D-9842116665A0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c17281186a49e63f42a1a22b38b7d1702c05702","datavalue":{"value":"P Cascon","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631519$6BA1E325-47E4-4069-B835-F7720C2642FC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"05f5f241a6de98e4d9c8ea561d1d307542c8107f","datavalue":{"value":{"entity-type":"item","numeric-id":2358748,"id":"Q2358748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631519$50008E3F-CB89-4F19-840E-E37C9D2BDF29","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ffedf1cc99134b8570d2787e4787705c16155d23","datavalue":{"value":"68","type":"string"}},"type":"statement","id":"Q89631519$57313886-9305-4DA9-B4BC-61C91E645D9D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"433164dc54b6c97c15e4ff5b933fb079353071ac","datavalue":{"value":"24","type":"string"}},"type":"statement","id":"Q89631519$5EE617C8-09FA-495C-BA10-6D6964EBE5CA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f219221768cb9bbdff35d49af6c8bef4a740d48a","datavalue":{"value":"271-300","type":"string"}},"type":"statement","id":"Q89631519$C3F28B52-17EE-4BFF-87A4-47C736E68EA7","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"2498ff7afcc2d4a740603c457ab3b4d59d156596","datavalue":{"value":"zoologische-mededelingen-68-271-300","type":"string"}},"type":"statement","id":"Q89631519$873661DB-5229-4559-8B34-58D7DC6B9558","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9463c0ba133cc694940e0012ed9646727329d76f","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/document\/150677","type":"string"}},"type":"statement","id":"Q89631519$2FFC1C28-762F-4C9B-ABD8-90299A88C602","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"6a78ce991e1bdc336a72f755f49bf30ff60b45de","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/record\/319391","type":"string"}},"type":"statement","id":"Q89631519$9324BD3D-7E56-4341-A005-DC18A26CD99D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jayromkcrcrco437ptmd3z0uz2fyyql</sha1>
+    </revision>
+    <revision>
+      <id>1245597742</id>
+      <parentid>1151940342</parentid>
+      <timestamp>2020-08-03T01:12:15Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5538" xml:space="preserve">{"type":"item","id":"Q89631519","labels":{"en":{"language":"en","value":"Three new species of the genus Adelophryne (Amphibia: Anura: Leptodactylidae) from northeastern Brazil, with remarks on the other species of the genus"},"nl":{"language":"nl","value":"Three new species of the genus Adelophryne (Amphibia: Anura: Leptodactylidae) from northeastern Brazil, with remarks on the other species of the genus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631519$6AD93D99-37AD-4500-9897-E4E896586252","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b68d7b0e2f0320799de368047f9e3edc9f81a8f6","datavalue":{"value":{"text":"Three new species of the genus Adelophryne (Amphibia: Anura: Leptodactylidae) from northeastern Brazil, with remarks on the other species of the genus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631519$5322F4B0-3797-4964-86C5-FA6CB8D2CC06","rank":"normal"}],"P1922":[{"mainsnak":{"snaktype":"value","property":"P1922","hash":"7d29bb8bf5ac092a1432c53192605f341877a76b","datavalue":{"value":{"text":"In the present paper three new species of the genus Adelophryne from the coastal Atlantic forest in Brazil are described.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q89631519$0FFC8286-2793-4818-AF39-8E12747D955B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631519$A993D01F-2FE9-4381-A218-A635B596C5E1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6d667644be2a99abadeebf3b342d19d7609125e9","datavalue":{"value":{"time":"+1994-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q89631519$ADA61028-9C40-4F4D-802D-A86F1DA93C6B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a112f239fbeb7a4a41b33669e7cab146d607099f","datavalue":{"value":"M S Hoogmoed","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631519$8940ADF5-3F41-486C-94E7-BA2464B9264A","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"73ceaca4cb25d8def637e4d185e77a5f61dbad16","datavalue":{"value":"D M Borges","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631519$2D95AFB7-B00C-4BD9-8B8D-9842116665A0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c17281186a49e63f42a1a22b38b7d1702c05702","datavalue":{"value":"P Cascon","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q89631519$6BA1E325-47E4-4069-B835-F7720C2642FC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"05f5f241a6de98e4d9c8ea561d1d307542c8107f","datavalue":{"value":{"entity-type":"item","numeric-id":2358748,"id":"Q2358748"},"type":"wikibase-entityid"}},"type":"statement","id":"Q89631519$50008E3F-CB89-4F19-840E-E37C9D2BDF29","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ffedf1cc99134b8570d2787e4787705c16155d23","datavalue":{"value":"68","type":"string"}},"type":"statement","id":"Q89631519$57313886-9305-4DA9-B4BC-61C91E645D9D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"433164dc54b6c97c15e4ff5b933fb079353071ac","datavalue":{"value":"24","type":"string"}},"type":"statement","id":"Q89631519$5EE617C8-09FA-495C-BA10-6D6964EBE5CA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f219221768cb9bbdff35d49af6c8bef4a740d48a","datavalue":{"value":"271-300","type":"string"}},"type":"statement","id":"Q89631519$C3F28B52-17EE-4BFF-87A4-47C736E68EA7","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"2498ff7afcc2d4a740603c457ab3b4d59d156596","datavalue":{"value":"zoologische-mededelingen-68-271-300","type":"string"}},"type":"statement","id":"Q89631519$873661DB-5229-4559-8B34-58D7DC6B9558","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9463c0ba133cc694940e0012ed9646727329d76f","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/document\/150677","type":"string"}},"type":"statement","id":"Q89631519$2FFC1C28-762F-4C9B-ABD8-90299A88C602","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"6a78ce991e1bdc336a72f755f49bf30ff60b45de","datavalue":{"value":"http:\/\/www.repository.naturalis.nl\/record\/319391","type":"string"}},"type":"statement","id":"Q89631519$9324BD3D-7E56-4341-A005-DC18A26CD99D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3m6ysqm9y7u0tnybndpbgoug3vyuim3</sha1>
+    </revision>
+  </page>
+</mediawiki>

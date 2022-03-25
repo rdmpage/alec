@@ -1,0 +1,35 @@
+{
+  "head" : {
+    "vars" : [ "o", "p" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "o" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42730287"
+      },
+      "p" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P248"
+      }
+    }, {
+      "p" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1433"
+      },
+      "o" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4807825"
+      }
+    }, {
+      "p" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/prop/direct/P1433"
+      },
+      "o" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4807825"
+      }
+    } ]
+  }
+}

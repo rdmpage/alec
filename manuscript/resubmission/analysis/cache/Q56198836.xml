@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56198836</title>
+    <ns>0</ns>
+    <id>56141338</id>
+    <revision>
+      <id>730335805</id>
+      <timestamp>2018-08-20T17:41:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56198836","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rf7golgfq81cdbf7q7nt51pge8a4kr5</sha1>
+    </revision>
+    <revision>
+      <id>730335815</id>
+      <parentid>730335805</parentid>
+      <timestamp>2018-08-20T17:41:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ The  Genus  Olinia.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="154" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>r9db7xe67utfcw016zpu3xedfad9797</sha1>
+    </revision>
+    <revision>
+      <id>730335819</id>
+      <parentid>730335815</parentid>
+      <timestamp>2018-08-20T17:41:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ The  Genus  Olinia.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="207" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>bmuub8pxa9xqwwy6l3bwp8hivgfw51h</sha1>
+    </revision>
+    <revision>
+      <id>730335825</id>
+      <parentid>730335819</parentid>
+      <timestamp>2018-08-20T17:41:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.4102/ABC.V1I2.1778</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="469" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ai70eyjiq6n5doft85sxygokwfqgaqg</sha1>
+    </revision>
+    <revision>
+      <id>730335829</id>
+      <parentid>730335825</parentid>
+      <timestamp>2018-08-20T17:41:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 160588</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="718" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6n49ed4vqdcp9in0z2bka6i7x9glhvj</sha1>
+    </revision>
+    <revision>
+      <id>730335840</id>
+      <parentid>730335829</parentid>
+      <timestamp>2018-08-20T17:41:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1027" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hk9whc0njsdrtrimjcqwwewnkarld5z</sha1>
+    </revision>
+    <revision>
+      <id>730335844</id>
+      <parentid>730335840</parentid>
+      <timestamp>2018-08-20T17:41:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: The  Genus  Olinia.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1323" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6o8f9eywmq2tjgco470k56nbgsmqude</sha1>
+    </revision>
+    <revision>
+      <id>730335848</id>
+      <parentid>730335844</parentid>
+      <timestamp>2018-08-20T17:41:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1565" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>54pltg0arvik49ed682m0p9uuiq3f3b</sha1>
+    </revision>
+    <revision>
+      <id>730335857</id>
+      <parentid>730335848</parentid>
+      <timestamp>2018-08-20T17:41:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1807" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3glcekp8ju9c0faixao12lx306m7s3b</sha1>
+    </revision>
+    <revision>
+      <id>730335863</id>
+      <parentid>730335857</parentid>
+      <timestamp>2018-08-20T17:41:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 15 December 1922</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2187" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>78vzjrotu181ts6wdlbl8iypwr7p7o0</sha1>
+    </revision>
+    <revision>
+      <id>730335868</id>
+      <parentid>730335863</parentid>
+      <timestamp>2018-08-20T17:41:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Joan Hofmeyer</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2443" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e1zg8r7m61e6021niiede2o3hn0kg5s</sha1>
+    </revision>
+    <revision>
+      <id>730335877</id>
+      <parentid>730335868</parentid>
+      <timestamp>2018-08-20T17:41:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2629" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qxk893g98mwhbhos7pa80zt93vhg173</sha1>
+    </revision>
+    <revision>
+      <id>730335886</id>
+      <parentid>730335877</parentid>
+      <timestamp>2018-08-20T17:41:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: E. P. Phillips</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2876" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"570f76d9a7154d31a79295a7b221399f6f91788b","datavalue":{"value":"E. P. Phillips","type":"string"}},"type":"statement","id":"Q56198836$28233DFD-A867-417A-8034-21D55729FE41","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4wel0n6uv661znbi90k3aw4ljtr8tlg</sha1>
+    </revision>
+    <revision>
+      <id>730335891</id>
+      <parentid>730335886</parentid>
+      <timestamp>2018-08-20T17:41:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3062" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"570f76d9a7154d31a79295a7b221399f6f91788b","datavalue":{"value":"E. P. Phillips","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$28233DFD-A867-417A-8034-21D55729FE41","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>087i57xln7whmvu9kmqkgrt5bbb9esw</sha1>
+    </revision>
+    <revision>
+      <id>730335895</id>
+      <parentid>730335891</parentid>
+      <timestamp>2018-08-20T17:41:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5732717]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3373" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"570f76d9a7154d31a79295a7b221399f6f91788b","datavalue":{"value":"E. P. Phillips","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$28233DFD-A867-417A-8034-21D55729FE41","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7f37fa29827e49d50131f19bd41318d57b4834d6","datavalue":{"value":{"entity-type":"item","numeric-id":5732717,"id":"Q5732717"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$F0E12B02-DB30-44F3-AEDA-CDC8AD9B9F92","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5tikdb4wbt51tu2na88aobcujrzpwx3</sha1>
+    </revision>
+    <revision>
+      <id>738738848</id>
+      <parentid>730335895</parentid>
+      <timestamp>2018-09-02T18:14:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 42307838, According to [[Property:P5315]]=160588</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3622" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"570f76d9a7154d31a79295a7b221399f6f91788b","datavalue":{"value":"E. P. Phillips","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$28233DFD-A867-417A-8034-21D55729FE41","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7f37fa29827e49d50131f19bd41318d57b4834d6","datavalue":{"value":{"entity-type":"item","numeric-id":5732717,"id":"Q5732717"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$F0E12B02-DB30-44F3-AEDA-CDC8AD9B9F92","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"906ca837534baf84a818ef20b7f0e5805a4d488c","datavalue":{"value":"42307838","type":"string"}},"type":"statement","id":"Q56198836$5C7B10C4-47D6-4DA6-AE00-288A54F0300C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0w2mv4ro29i827p69pbjo3w0ezijvou</sha1>
+    </revision>
+    <revision>
+      <id>779969061</id>
+      <parentid>738738848</parentid>
+      <timestamp>2018-11-02T11:36:03Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3732" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."},"nl":{"language":"nl","value":"The  Genus  Olinia."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"570f76d9a7154d31a79295a7b221399f6f91788b","datavalue":{"value":"E. P. Phillips","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$28233DFD-A867-417A-8034-21D55729FE41","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7f37fa29827e49d50131f19bd41318d57b4834d6","datavalue":{"value":{"entity-type":"item","numeric-id":5732717,"id":"Q5732717"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$F0E12B02-DB30-44F3-AEDA-CDC8AD9B9F92","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"906ca837534baf84a818ef20b7f0e5805a4d488c","datavalue":{"value":"42307838","type":"string"}},"type":"statement","id":"Q56198836$5C7B10C4-47D6-4DA6-AE00-288A54F0300C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3xspo7hwd4w3s3m3jh3dd0vic22davf</sha1>
+    </revision>
+    <revision>
+      <id>974003844</id>
+      <parentid>779969061</parentid>
+      <timestamp>2019-07-04T10:34:49Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в грудні 1922, [[:toollabs:quickstatements/#/batch/15341|batch #15341]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3968" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."},"nl":{"language":"nl","value":"The  Genus  Olinia."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0433\u0440\u0443\u0434\u043d\u0456 1922"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"570f76d9a7154d31a79295a7b221399f6f91788b","datavalue":{"value":"E. P. Phillips","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$28233DFD-A867-417A-8034-21D55729FE41","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7f37fa29827e49d50131f19bd41318d57b4834d6","datavalue":{"value":{"entity-type":"item","numeric-id":5732717,"id":"Q5732717"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$F0E12B02-DB30-44F3-AEDA-CDC8AD9B9F92","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"906ca837534baf84a818ef20b7f0e5805a4d488c","datavalue":{"value":"42307838","type":"string"}},"type":"statement","id":"Q56198836$5C7B10C4-47D6-4DA6-AE00-288A54F0300C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>maxopznxq155nlsj5gnvdkix0ny8nbp</sha1>
+    </revision>
+    <revision>
+      <id>1193483259</id>
+      <parentid>974003844</parentid>
+      <timestamp>2020-05-29T12:53:18Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Dezember 1922 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4067" xml:space="preserve">{"type":"item","id":"Q56198836","labels":{"de":{"language":"de","value":"The  Genus  Olinia."},"en":{"language":"en","value":"The  Genus  Olinia."},"nl":{"language":"nl","value":"The  Genus  Olinia."}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0433\u0440\u0443\u0434\u043d\u0456 1922"},"de":{"language":"de","value":"im Dezember 1922 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d1bfb7de3f5c615775301e45029b68ca047d080e","datavalue":{"value":"10.4102\/ABC.V1I2.1778","type":"string"}},"type":"statement","id":"Q56198836$49837974-2256-4259-A375-09DC0C38ADCC","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ef0439abb48fc58bbf77ca99ac4381105eb6da31","datavalue":{"value":"160588","type":"string"}},"type":"statement","id":"Q56198836$CDB73D33-EDA1-414B-BCA3-4729796390B5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$649CF306-4E2D-4156-B7C8-D2080EBBA85E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a05ab298529685b8dbdd59b8cb353bb050f79eaf","datavalue":{"value":{"text":"The  Genus  Olinia.","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198836$55D405F2-55DC-4873-AD03-4F5593DD4F7E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"585f4382f4aab7434102d16f63881d1c957b43a4","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56198836$4C3C3269-5982-46B3-AFD1-B29D7C160A8B","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56198836$B7533BB5-AAE4-4B9F-8915-ADA6C3546F99","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"809e3db7635a6f038ba444d61e224b653dfb1017","datavalue":{"value":{"time":"+1922-12-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198836$F75FF60A-B300-4E47-95ED-06A181AC38EE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c388ec72b602ce352c7a1e13fb48f1a6019e7785","datavalue":{"value":"Joan Hofmeyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$CA598DB0-59D4-4EF8-A160-608B76135014","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"570f76d9a7154d31a79295a7b221399f6f91788b","datavalue":{"value":"E. P. Phillips","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198836$28233DFD-A867-417A-8034-21D55729FE41","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"7f37fa29827e49d50131f19bd41318d57b4834d6","datavalue":{"value":{"entity-type":"item","numeric-id":5732717,"id":"Q5732717"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198836$F0E12B02-DB30-44F3-AEDA-CDC8AD9B9F92","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"906ca837534baf84a818ef20b7f0e5805a4d488c","datavalue":{"value":"42307838","type":"string"}},"type":"statement","id":"Q56198836$5C7B10C4-47D6-4DA6-AE00-288A54F0300C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tr7duxme9qwjwkj80ilivqgk5maf2ix</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q57276447</title>
+    <ns>0</ns>
+    <id>57193000</id>
+    <revision>
+      <id>763186020</id>
+      <timestamp>2018-10-13T03:09:06Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1539397689409; invoked by SourceMD:CreateFromWikipediaDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2333" xml:space="preserve">{"type":"item","id":"Q57276447","labels":{"en":{"language":"en","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cf9c8b5c1bb921d163e63e7274c329a9b3864331","datavalue":{"value":"10.4202\/APP.2011.0108","type":"string"}},"type":"statement","id":"Q57276447$D8F7F37D-2604-468F-8AC3-4A7A8D297958","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$6E041FE9-0049-40F6-BF47-D90293E204C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e21903625d2ed443e6c5fa01d89f2bd84646ecdb","datavalue":{"value":{"text":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57276447$20648594-8488-4BB6-96FA-AC7B8A5D6791","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57276447$6528919F-9079-4910-8AA9-EB220448E10B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$FC38FA86-2A0D-4DE1-B954-7FE77B224C9C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"754cc8bd6fc705637d8c0a07c481d012ef2fee0e","datavalue":{"value":"Colin Sumrall","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57276447$186DBFD1-0ABE-4622-8EE0-9E9F969E9BA0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5u354aq3n63tht5i5eg0hyb69djpin1</sha1>
+    </revision>
+    <revision>
+      <id>795441634</id>
+      <parentid>763186020</parentid>
+      <timestamp>2018-11-21T15:32:12Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2534" xml:space="preserve">{"type":"item","id":"Q57276447","labels":{"en":{"language":"en","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"},"nl":{"language":"nl","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cf9c8b5c1bb921d163e63e7274c329a9b3864331","datavalue":{"value":"10.4202\/APP.2011.0108","type":"string"}},"type":"statement","id":"Q57276447$D8F7F37D-2604-468F-8AC3-4A7A8D297958","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$6E041FE9-0049-40F6-BF47-D90293E204C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e21903625d2ed443e6c5fa01d89f2bd84646ecdb","datavalue":{"value":{"text":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57276447$20648594-8488-4BB6-96FA-AC7B8A5D6791","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57276447$6528919F-9079-4910-8AA9-EB220448E10B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$FC38FA86-2A0D-4DE1-B954-7FE77B224C9C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"754cc8bd6fc705637d8c0a07c481d012ef2fee0e","datavalue":{"value":"Colin Sumrall","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57276447$186DBFD1-0ABE-4622-8EE0-9E9F969E9BA0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1hkxngssjrwa8dd0hxlwbyb5c7z2tzx</sha1>
+    </revision>
+    <revision>
+      <id>838521799</id>
+      <parentid>795441634</parentid>
+      <timestamp>2019-01-21T02:13:08Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q1337995]], #quickstatements; [[:toollabs:quickstatements/#/batch/7424|batch #7424]] by [[User:Trilotat|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2843" xml:space="preserve">{"type":"item","id":"Q57276447","labels":{"en":{"language":"en","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"},"nl":{"language":"nl","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cf9c8b5c1bb921d163e63e7274c329a9b3864331","datavalue":{"value":"10.4202\/APP.2011.0108","type":"string"}},"type":"statement","id":"Q57276447$D8F7F37D-2604-468F-8AC3-4A7A8D297958","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$6E041FE9-0049-40F6-BF47-D90293E204C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e21903625d2ed443e6c5fa01d89f2bd84646ecdb","datavalue":{"value":{"text":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57276447$20648594-8488-4BB6-96FA-AC7B8A5D6791","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57276447$6528919F-9079-4910-8AA9-EB220448E10B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$FC38FA86-2A0D-4DE1-B954-7FE77B224C9C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"754cc8bd6fc705637d8c0a07c481d012ef2fee0e","datavalue":{"value":"Colin Sumrall","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57276447$186DBFD1-0ABE-4622-8EE0-9E9F969E9BA0","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"3ab0bc23766c4c2a0ffce0106c74cbc68a33ec07","datavalue":{"value":{"entity-type":"item","numeric-id":1337995,"id":"Q1337995"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$C2FDC421-D3A6-471C-B66D-D177862F2117","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fi2ezilmjka8f3jmofqlzcajq6i7dxl</sha1>
+    </revision>
+    <revision>
+      <id>974844983</id>
+      <parentid>838521799</parentid>
+      <timestamp>2019-07-06T06:45:22Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у 2012, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3042" xml:space="preserve">{"type":"item","id":"Q57276447","labels":{"en":{"language":"en","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"},"nl":{"language":"nl","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 2012"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cf9c8b5c1bb921d163e63e7274c329a9b3864331","datavalue":{"value":"10.4202\/APP.2011.0108","type":"string"}},"type":"statement","id":"Q57276447$D8F7F37D-2604-468F-8AC3-4A7A8D297958","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$6E041FE9-0049-40F6-BF47-D90293E204C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e21903625d2ed443e6c5fa01d89f2bd84646ecdb","datavalue":{"value":{"text":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57276447$20648594-8488-4BB6-96FA-AC7B8A5D6791","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57276447$6528919F-9079-4910-8AA9-EB220448E10B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$FC38FA86-2A0D-4DE1-B954-7FE77B224C9C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"754cc8bd6fc705637d8c0a07c481d012ef2fee0e","datavalue":{"value":"Colin Sumrall","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57276447$186DBFD1-0ABE-4622-8EE0-9E9F969E9BA0","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"3ab0bc23766c4c2a0ffce0106c74cbc68a33ec07","datavalue":{"value":{"entity-type":"item","numeric-id":1337995,"id":"Q1337995"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$C2FDC421-D3A6-471C-B66D-D177862F2117","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ryxpjz2zxe96sorjf8fmogxwlrik45k</sha1>
+    </revision>
+    <revision>
+      <id>1077897260</id>
+      <parentid>974844983</parentid>
+      <timestamp>2019-12-17T00:42:54Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 2012 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24016|batch #24016]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3139" xml:space="preserve">{"type":"item","id":"Q57276447","labels":{"en":{"language":"en","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"},"nl":{"language":"nl","value":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 2012"},"de":{"language":"de","value":"im Januar 2012 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"cf9c8b5c1bb921d163e63e7274c329a9b3864331","datavalue":{"value":"10.4202\/APP.2011.0108","type":"string"}},"type":"statement","id":"Q57276447$D8F7F37D-2604-468F-8AC3-4A7A8D297958","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$6E041FE9-0049-40F6-BF47-D90293E204C4","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e21903625d2ed443e6c5fa01d89f2bd84646ecdb","datavalue":{"value":{"text":"The first report of South American edrioasteroids and the paleoecology and ontogeny of rhenopyrgid echinoderms","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57276447$20648594-8488-4BB6-96FA-AC7B8A5D6791","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57276447$6528919F-9079-4910-8AA9-EB220448E10B","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$FC38FA86-2A0D-4DE1-B954-7FE77B224C9C","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"754cc8bd6fc705637d8c0a07c481d012ef2fee0e","datavalue":{"value":"Colin Sumrall","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57276447$186DBFD1-0ABE-4622-8EE0-9E9F969E9BA0","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"3ab0bc23766c4c2a0ffce0106c74cbc68a33ec07","datavalue":{"value":{"entity-type":"item","numeric-id":1337995,"id":"Q1337995"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57276447$C2FDC421-D3A6-471C-B66D-D177862F2117","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4ty98wf5r8hupek8eueam1frwindrz2</sha1>
+    </revision>
+  </page>
+</mediawiki>

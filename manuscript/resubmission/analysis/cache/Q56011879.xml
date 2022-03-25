@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56011879</title>
+    <ns>0</ns>
+    <id>55961699</id>
+    <revision>
+      <id>722557574</id>
+      <timestamp>2018-08-07T19:02:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56011879","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>l4xu0mnblqzi8qa2kbmnqpkwpal8qsl</sha1>
+    </revision>
+    <revision>
+      <id>722557577</id>
+      <parentid>722557574</parentid>
+      <timestamp>2018-08-07T19:02:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Sur quelques Hemipteres nuisibles de Cochinchine</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="183" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>lgjf1xztdbl55r0fl4lypk5sk831onw</sha1>
+    </revision>
+    <revision>
+      <id>722557582</id>
+      <parentid>722557577</parentid>
+      <timestamp>2018-08-07T19:02:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Sur quelques Hemipteres nuisibles de Cochinchine</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="265" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>4wku5lomhgi5veyx6nzqya37wzi3z87</sha1>
+    </revision>
+    <revision>
+      <id>722557586</id>
+      <parentid>722557582</parentid>
+      <timestamp>2018-08-07T19:02:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.22265</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="528" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dfuq7uutlv30zju0mazat42wmlqytws</sha1>
+    </revision>
+    <revision>
+      <id>722557591</id>
+      <parentid>722557586</parentid>
+      <timestamp>2018-08-07T19:02:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 103723</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="777" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5mkj5q2ml3fzn2lf31sjcmox00hm9vq</sha1>
+    </revision>
+    <revision>
+      <id>722557593</id>
+      <parentid>722557591</parentid>
+      <timestamp>2018-08-07T19:02:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1086" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5vlnj3xmrgl8pm2voqhopq2bukc8o38</sha1>
+    </revision>
+    <revision>
+      <id>722557597</id>
+      <parentid>722557593</parentid>
+      <timestamp>2018-08-07T19:02:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Sur quelques Hemipteres nuisibles de Cochinchine</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1411" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g5cm1rtxeouflw5841m2lcbngm37xca</sha1>
+    </revision>
+    <revision>
+      <id>722557598</id>
+      <parentid>722557597</parentid>
+      <timestamp>2018-08-07T19:02:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 1906</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1656" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1s9v3uy251jirud3lld6lotvjmit3lz</sha1>
+    </revision>
+    <revision>
+      <id>722557604</id>
+      <parentid>722557598</parentid>
+      <timestamp>2018-08-07T19:02:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 295–297</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1909" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bexkgk07ugzvqfqvfn2iljxb7gk8w4v</sha1>
+    </revision>
+    <revision>
+      <id>722557607</id>
+      <parentid>722557604</parentid>
+      <timestamp>2018-08-07T19:02:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1906</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2288" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>74342e4rnq4e8w98jvw1sqh17w3d3td</sha1>
+    </revision>
+    <revision>
+      <id>722557610</id>
+      <parentid>722557607</parentid>
+      <timestamp>2018-08-07T19:02:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385878]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2601" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0z9bcm0fdviklcte01vayttbxsf8gre</sha1>
+    </revision>
+    <revision>
+      <id>738432403</id>
+      <parentid>722557610</parentid>
+      <timestamp>2018-09-02T07:38:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 9486891, According to [[Property:P5315]]=103723</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2849" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oexvhpieqo7csa2pbfkz9i453zsjngl</sha1>
+    </revision>
+    <revision>
+      <id>784364250</id>
+      <parentid>738432403</parentid>
+      <timestamp>2018-11-07T23:40:02Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2988" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>95dhwlh1nlw7ty92xqhr3tdr58jylyv</sha1>
+    </revision>
+    <revision>
+      <id>952540972</id>
+      <parentid>784364250</parentid>
+      <timestamp>2019-05-31T04:18:25Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559142680556; Based on 1906 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3295" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l2jglqhugev3ubv3cfnyr84ivfzmyaa</sha1>
+    </revision>
+    <revision>
+      <id>952541038</id>
+      <parentid>952540972</parentid>
+      <timestamp>2019-05-31T04:18:31Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559142680556</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3538" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7e5lpbvs6ddozcxrtxv3mcfzpo0h9h2</sha1>
+    </revision>
+    <revision>
+      <id>952541084</id>
+      <parentid>952541038</parentid>
+      <timestamp>2019-05-31T04:18:35Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559142680556</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3754" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4971s4rnn06zl1m94cibu41ty6ldio3</sha1>
+    </revision>
+    <revision>
+      <id>974714893</id>
+      <parentid>952541084</parentid>
+      <timestamp>2019-07-05T22:51:17Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1906, [[:toollabs:quickstatements/#/batch/15404|batch #15404]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3953" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1906"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gcna033jyl0jimcjttjls3d60cyyqcu</sha1>
+    </revision>
+    <revision>
+      <id>1272795676</id>
+      <parentid>974714893</parentid>
+      <timestamp>2020-09-07T05:36:02Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1906 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42380|batch #42380]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4048" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1906"},"de":{"language":"de","value":"im Jahr 1906 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p77ruylx2qw1xz68y3aogunlurazsbb</sha1>
+    </revision>
+    <revision>
+      <id>1508569096</id>
+      <parentid>1272795676</parentid>
+      <timestamp>2021-10-06T11:46:22Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P8758]]: bsef_0037-928x_1906_num_11_20_24018, #quickstatements; #temporary_batch_1633520655795</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4326" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1906"},"de":{"language":"de","value":"im Jahr 1906 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}],"P8758":[{"mainsnak":{"snaktype":"value","property":"P8758","hash":"3bce47793194ae535fe83c2e4f254188fd02e700","datavalue":{"value":"bsef_0037-928x_1906_num_11_20_24018","type":"string"}},"type":"statement","id":"Q56011879$2919F3DC-A89B-4DEE-9E83-B59CD12E9A60","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ne7b0nf5908oalya7dml2ydsm4q3yup</sha1>
+    </revision>
+    <revision>
+      <id>1591704165</id>
+      <parentid>1508569096</parentid>
+      <timestamp>2022-03-11T20:27:19Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.3406/bsef.1906.24018, #quickstatements; #temporary_batch_1647029214270</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4582" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1906"},"de":{"language":"de","value":"im Jahr 1906 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P356","hash":"9ebaf4c104310641908c91fbf05dacbb0144ca79","datavalue":{"value":"10.3406\/bsef.1906.24018","type":"string"}},"type":"statement","id":"Q56011879$0EA5D65B-57EE-4C32-ABB8-BB6B04DF3615","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}],"P8758":[{"mainsnak":{"snaktype":"value","property":"P8758","hash":"3bce47793194ae535fe83c2e4f254188fd02e700","datavalue":{"value":"bsef_0037-928x_1906_num_11_20_24018","type":"string"}},"type":"statement","id":"Q56011879$2919F3DC-A89B-4DEE-9E83-B59CD12E9A60","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e1m88izk0kwmcel2rb2km32iot7f29v</sha1>
+    </revision>
+    <revision>
+      <id>1591704172</id>
+      <parentid>1591704165</parentid>
+      <timestamp>2022-03-11T20:27:19Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P356]]: 10.3406/bsef.1906.24018, #quickstatements; #temporary_batch_1647029214270</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4889" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1906"},"de":{"language":"de","value":"im Jahr 1906 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P356","hash":"9ebaf4c104310641908c91fbf05dacbb0144ca79","datavalue":{"value":"10.3406\/bsef.1906.24018","type":"string"}},"type":"statement","id":"Q56011879$0EA5D65B-57EE-4C32-ABB8-BB6B04DF3615","rank":"normal","references":[{"hash":"c01f952b9e76a555eff4584f9126368cb700f3c3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}]},"snaks-order":["P248"]}]}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}],"P8758":[{"mainsnak":{"snaktype":"value","property":"P8758","hash":"3bce47793194ae535fe83c2e4f254188fd02e700","datavalue":{"value":"bsef_0037-928x_1906_num_11_20_24018","type":"string"}},"type":"statement","id":"Q56011879$2919F3DC-A89B-4DEE-9E83-B59CD12E9A60","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mmsz9lbjepgh8frn1z3zfv8q7o3e2gk</sha1>
+    </revision>
+    <revision>
+      <id>1594343419</id>
+      <parentid>1591704172</parentid>
+      <timestamp>2022-03-14T19:20:20Z</timestamp>
+      <contributor>
+        <username>KrBot</username>
+        <id>150965</id>
+      </contributor>
+      <comment>/* wbsetclaimvalue:1| */ [[Property:P356]]: 10.3406/BSEF.1906.24018, см. / see [[Template:Autofix|autofix]] на / on [[Property talk:P356]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4889" xml:space="preserve">{"type":"item","id":"Q56011879","labels":{"de":{"language":"de","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"en":{"language":"en","value":"Sur quelques Hemipteres nuisibles de Cochinchine"},"nl":{"language":"nl","value":"Sur quelques Hemipteres nuisibles de Cochinchine"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1906"},"de":{"language":"de","value":"im Jahr 1906 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c0ffcb3b67703d7633a781ed2140ee7272d43f90","datavalue":{"value":"10.5962\/BHL.PART.22265","type":"string"}},"type":"statement","id":"Q56011879$6A25F2EF-45C6-4310-AC54-ED16D770C67E","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P356","hash":"cbefb47a5beeb524cde66501d40bd35873588bc0","datavalue":{"value":"10.3406\/BSEF.1906.24018","type":"string"}},"type":"statement","id":"Q56011879$0EA5D65B-57EE-4C32-ABB8-BB6B04DF3615","rank":"normal","references":[{"hash":"c01f952b9e76a555eff4584f9126368cb700f3c3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}]},"snaks-order":["P248"]}]}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"689279a9b827bdbd588368390bace5384dab7c16","datavalue":{"value":"103723","type":"string"}},"type":"statement","id":"Q56011879$3C66AA04-59A6-437B-BAD8-B2B6FD7F2D25","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$6E082D0A-AB10-4DB9-890C-D07B27695B6E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"272e11d427d9d141d6582e8a70d5a17d9e1d1e6d","datavalue":{"value":{"text":"Sur quelques Hemipteres nuisibles de Cochinchine","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011879$42434217-A697-4D80-BA92-28DD6262BFE1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8130529ff086da0011a768a2f6c94d4bd4dece5b","datavalue":{"value":"1906","type":"string"}},"type":"statement","id":"Q56011879$71BF760E-482E-4BC6-8072-B828301F03D5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c99aed5b16626b9e0e670c9a673857b804ddd6c4","datavalue":{"value":"295\u2013297","type":"string"}},"type":"statement","id":"Q56011879$9A1A2D96-C460-4E3E-A287-30A791E06B69","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2e29a0e37efc5130964e695d15acabf84cce9425","datavalue":{"value":{"time":"+1906-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011879$16F8A038-A36E-458C-A2FC-97D46BEB3C53","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"43c4c1ffb36cadda83a12e4331d8c179d11a6ef1","datavalue":{"value":{"entity-type":"item","numeric-id":21385878,"id":"Q21385878"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011879$0DD314B4-5E5B-4BB8-A44D-AFD4296E4FB9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"639b912df43f84d454f489be82dc747feba312f8","datavalue":{"value":"9486891","type":"string"}},"type":"statement","id":"Q56011879$2B5B04A3-A9C7-43CA-A1C7-3A2716270AF8","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011879$F90DEC39-8233-49E9-8B51-CDA55B53F874","rank":"normal"}],"P8758":[{"mainsnak":{"snaktype":"value","property":"P8758","hash":"3bce47793194ae535fe83c2e4f254188fd02e700","datavalue":{"value":"bsef_0037-928x_1906_num_11_20_24018","type":"string"}},"type":"statement","id":"Q56011879$2919F3DC-A89B-4DEE-9E83-B59CD12E9A60","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>egdcqup0bqmb4u157plthl3wkbcgbd3</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55782067</title>
+    <ns>0</ns>
+    <id>55753988</id>
+    <revision>
+      <id>716940970</id>
+      <timestamp>2018-07-28T03:20:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55782067","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>9tv43bnkltxb3ntcz2pu814baam7gh1</sha1>
+    </revision>
+    <revision>
+      <id>716940974</id>
+      <parentid>716940970</parentid>
+      <timestamp>2018-07-28T03:20:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ On the Flora of the Gallipoli Peninsula</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="174" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>593sgmidbz33hv10dsugru3ywenp3v3</sha1>
+    </revision>
+    <revision>
+      <id>716940978</id>
+      <parentid>716940974</parentid>
+      <timestamp>2018-07-28T03:20:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ On the Flora of the Gallipoli Peninsula</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="247" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>i897cqm4ui0ve2d53kvaee6ukp1lsja</sha1>
+    </revision>
+    <revision>
+      <id>716941580</id>
+      <parentid>716940978</parentid>
+      <timestamp>2018-07-28T03:22:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/4111881</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="503" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qkep90gw020nv3qoqi4kutm1d28ewkb</sha1>
+    </revision>
+    <revision>
+      <id>716941586</id>
+      <parentid>716941580</parentid>
+      <timestamp>2018-07-28T03:22:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="812" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n5grwsxg8bwrm3ed5iv59vc79hk3cpd</sha1>
+    </revision>
+    <revision>
+      <id>716941592</id>
+      <parentid>716941586</parentid>
+      <timestamp>2018-07-28T03:22:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: On the Flora of the Gallipoli Peninsula</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1128" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>agyofxekptf0frtnlrupygh9zsfck46</sha1>
+    </revision>
+    <revision>
+      <id>716941596</id>
+      <parentid>716941592</parentid>
+      <timestamp>2018-07-28T03:22:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 1924</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1373" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ih2votmarir90w5kvca04annwn8z2q7</sha1>
+    </revision>
+    <revision>
+      <id>716941599</id>
+      <parentid>716941596</parentid>
+      <timestamp>2018-07-28T03:22:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 337</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1617" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hp6g21yinv9jqs857tnuvxij6403a7g</sha1>
+    </revision>
+    <revision>
+      <id>716941602</id>
+      <parentid>716941599</parentid>
+      <timestamp>2018-07-28T03:22:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 9</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1859" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>30onzofv1ljwydku32lg1sqc0h152tu</sha1>
+    </revision>
+    <revision>
+      <id>716941605</id>
+      <parentid>716941602</parentid>
+      <timestamp>2018-07-28T03:22:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1924</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2238" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l3wvtkxo2s9gb0g4956ttykccjns42n</sha1>
+    </revision>
+    <revision>
+      <id>716941607</id>
+      <parentid>716941605</parentid>
+      <timestamp>2018-07-28T03:22:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: W. B. Turrill</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2494" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sljxj9hdbfplqzezj1downgo4zllogq</sha1>
+    </revision>
+    <revision>
+      <id>716941609</id>
+      <parentid>716941607</parentid>
+      <timestamp>2018-07-28T03:22:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2680" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>194sehr7phawyvyni98pgsbkr659s0q</sha1>
+    </revision>
+    <revision>
+      <id>716941613</id>
+      <parentid>716941609</parentid>
+      <timestamp>2018-07-28T03:22:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5735532]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2991" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2xfoe09ofgni7svfzw303kwxz70ifz3</sha1>
+    </revision>
+    <revision>
+      <id>726335051</id>
+      <parentid>716941613</parentid>
+      <timestamp>2018-08-15T10:45:38Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3121" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fqvhg2rb2aglt456sxjfp3una0gj56n</sha1>
+    </revision>
+    <revision>
+      <id>842219693</id>
+      <parentid>726335051</parentid>
+      <timestamp>2019-01-25T04:37:57Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 4111881, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3369" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"eb906f25e3b262255a6e80a810a81b54aa8e1364","datavalue":{"value":"4111881","type":"string"}},"type":"statement","id":"Q55782067$9D620273-0723-46C7-AA91-10EB28B2A6FF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dkypbkyem08pqz41pxb4pt1murdzbmq</sha1>
+    </revision>
+    <revision>
+      <id>954755258</id>
+      <parentid>842219693</parentid>
+      <timestamp>2019-06-03T07:23:16Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1924 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3676" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"eb906f25e3b262255a6e80a810a81b54aa8e1364","datavalue":{"value":"4111881","type":"string"}},"type":"statement","id":"Q55782067$9D620273-0723-46C7-AA91-10EB28B2A6FF","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$94ACFDC0-5DFB-4AA1-8F19-AC8F6283101F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cfo8gmz8bnfxwinopwshghjgxgtafc3</sha1>
+    </revision>
+    <revision>
+      <id>954755299</id>
+      <parentid>954755258</parentid>
+      <timestamp>2019-06-03T07:23:23Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3919" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"eb906f25e3b262255a6e80a810a81b54aa8e1364","datavalue":{"value":"4111881","type":"string"}},"type":"statement","id":"Q55782067$9D620273-0723-46C7-AA91-10EB28B2A6FF","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q55782067$94ACFDC0-5DFB-4AA1-8F19-AC8F6283101F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pznokotszjoubume4krf391gnbg60bz</sha1>
+    </revision>
+    <revision>
+      <id>954755341</id>
+      <parentid>954755299</parentid>
+      <timestamp>2019-06-03T07:23:31Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4135" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"eb906f25e3b262255a6e80a810a81b54aa8e1364","datavalue":{"value":"4111881","type":"string"}},"type":"statement","id":"Q55782067$9D620273-0723-46C7-AA91-10EB28B2A6FF","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q55782067$94ACFDC0-5DFB-4AA1-8F19-AC8F6283101F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bpb48c6xg6v7f4o0968ka7qoppg5u2w</sha1>
+    </revision>
+    <revision>
+      <id>974481170</id>
+      <parentid>954755341</parentid>
+      <timestamp>2019-07-05T12:52:00Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1924, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4334" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1924"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"eb906f25e3b262255a6e80a810a81b54aa8e1364","datavalue":{"value":"4111881","type":"string"}},"type":"statement","id":"Q55782067$9D620273-0723-46C7-AA91-10EB28B2A6FF","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q55782067$94ACFDC0-5DFB-4AA1-8F19-AC8F6283101F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0wqlq0xevv8zt1jfrcifecylzp8zn5v</sha1>
+    </revision>
+    <revision>
+      <id>1193227564</id>
+      <parentid>974481170</parentid>
+      <timestamp>2020-05-29T07:20:58Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1924 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4429" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1924"},"de":{"language":"de","value":"im Jahr 1924 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"eb906f25e3b262255a6e80a810a81b54aa8e1364","datavalue":{"value":"4111881","type":"string"}},"type":"statement","id":"Q55782067$9D620273-0723-46C7-AA91-10EB28B2A6FF","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q55782067$94ACFDC0-5DFB-4AA1-8F19-AC8F6283101F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>23qxmhnuu1q2e7c574q66jxd6zhrwbi</sha1>
+    </revision>
+    <revision>
+      <id>1502931297</id>
+      <parentid>1193227564</parentid>
+      <timestamp>2021-09-25T02:46:47Z</timestamp>
+      <contributor>
+        <username>YoaR</username>
+        <id>2858362</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ast */ artículu científicu, [[:toollabs:quickstatements/#/batch/65591|batch #65591]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4494" xml:space="preserve">{"type":"item","id":"Q55782067","labels":{"de":{"language":"de","value":"On the Flora of the Gallipoli Peninsula"},"en":{"language":"en","value":"On the Flora of the Gallipoli Peninsula"},"nl":{"language":"nl","value":"On the Flora of the Gallipoli Peninsula"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1924"},"de":{"language":"de","value":"im Jahr 1924 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"d4cb4ed07834872363b0c048d00e7c6b11c0307f","datavalue":{"value":"10.2307\/4111881","type":"string"}},"type":"statement","id":"Q55782067$605428D0-B10E-4E56-839C-FD92EA987A58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$22B77547-510A-4006-85EA-23520F06AF12","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a14c56e1044e05ab372aa682983d2e0541c7936","datavalue":{"value":{"text":"On the Flora of the Gallipoli Peninsula","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55782067$DA8CDF1C-7FBE-44AC-9F87-DCB89010CD4F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"536b5d91f166c984a153b5dbfd38220502ea9f31","datavalue":{"value":"1924","type":"string"}},"type":"statement","id":"Q55782067$33D18594-DE4C-4093-A5E5-DAA97906EA82","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"01cc61be062adb6f44901bfadd029d82a1e2ffb4","datavalue":{"value":"337","type":"string"}},"type":"statement","id":"Q55782067$8CF531DD-1F13-4CDA-BCF9-5A4A30FD3839","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q55782067$35EEDF80-CD81-4539-98A9-CDD2C908AD01","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da2e3419802eeeb28a6c34ad21c231794068d48b","datavalue":{"value":{"time":"+1924-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55782067$654086B7-6DCB-407B-82AC-09638A405325","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"0916f53de69cc2e23e166dd9d1cac51714d4b62f","datavalue":{"value":"W. B. Turrill","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55782067$2CC2E822-0815-4BAD-A403-2DF37FF5A7A1","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"cf8eb3176fafd24dde9092289c0438b49ba20e50","datavalue":{"value":{"entity-type":"item","numeric-id":5735532,"id":"Q5735532"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55782067$C3C6DF44-4D4F-43A3-AA6C-387EFDD86411","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"eb906f25e3b262255a6e80a810a81b54aa8e1364","datavalue":{"value":"4111881","type":"string"}},"type":"statement","id":"Q55782067$9D620273-0723-46C7-AA91-10EB28B2A6FF","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q55782067$94ACFDC0-5DFB-4AA1-8F19-AC8F6283101F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1z7fce2bpt3rmthjure91s3a0g4hl8i</sha1>
+    </revision>
+  </page>
+</mediawiki>

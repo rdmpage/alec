@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56197831</title>
+    <ns>0</ns>
+    <id>56140339</id>
+    <revision>
+      <id>730308241</id>
+      <timestamp>2018-08-20T16:57:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56197831","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>e20e4apb6sy9on33vlcbz6xzs0956uc</sha1>
+    </revision>
+    <revision>
+      <id>730308248</id>
+      <parentid>730308241</parentid>
+      <timestamp>2018-08-20T16:57:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ MOSQUITO COMMENT</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="151" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>m8qpezbb41eko8w2ns0duzzqyy2pwn4</sha1>
+    </revision>
+    <revision>
+      <id>730308257</id>
+      <parentid>730308248</parentid>
+      <timestamp>2018-08-20T16:57:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ MOSQUITO COMMENT</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="201" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>l1rgtd157ftixzelfgl6oxjtvvpe4ep</sha1>
+    </revision>
+    <revision>
+      <id>730308265</id>
+      <parentid>730308257</parentid>
+      <timestamp>2018-08-20T16:57:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.4039/ENT4121-1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="459" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r3o50kk1u84dwp4lzzz8wpqhfohffxg</sha1>
+    </revision>
+    <revision>
+      <id>730308274</id>
+      <parentid>730308265</parentid>
+      <timestamp>2018-08-20T16:57:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 85181</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="707" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fha1lycgpxeo3l8ptqgpopw86ogqckf</sha1>
+    </revision>
+    <revision>
+      <id>730308282</id>
+      <parentid>730308274</parentid>
+      <timestamp>2018-08-20T16:57:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1016" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h2urbylw0q5vta3jrcgb2slatkarbf8</sha1>
+    </revision>
+    <revision>
+      <id>730308290</id>
+      <parentid>730308282</parentid>
+      <timestamp>2018-08-20T16:57:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: MOSQUITO COMMENT</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1309" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>em3bqhfifwazndavw7wu6u0lxfg1qhq</sha1>
+    </revision>
+    <revision>
+      <id>730308295</id>
+      <parentid>730308290</parentid>
+      <timestamp>2018-08-20T16:57:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 41</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1552" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g2a7kdpmu4h1fnc6215l76kd1nhjgtt</sha1>
+    </revision>
+    <revision>
+      <id>730308304</id>
+      <parentid>730308295</parentid>
+      <timestamp>2018-08-20T16:57:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 21–24</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1803" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rpi2hn153kwae6sua0e46omoxyzjd1l</sha1>
+    </revision>
+    <revision>
+      <id>730308309</id>
+      <parentid>730308304</parentid>
+      <timestamp>2018-08-20T16:57:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 01</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2046" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pnvx8vmbir9ngm54fif4klo7abtgrx2</sha1>
+    </revision>
+    <revision>
+      <id>730308316</id>
+      <parentid>730308309</parentid>
+      <timestamp>2018-08-20T16:57:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: January 1909</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2426" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rn1wf15p2c2sqt8hv1xxh3x8vnct9lj</sha1>
+    </revision>
+    <revision>
+      <id>730308321</id>
+      <parentid>730308316</parentid>
+      <timestamp>2018-08-20T16:57:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: C. S. Ludlow Ph D.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2687" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"512a9b75d4c74901af7947ef12c8e61602ef1766","datavalue":{"value":"C. S. Ludlow Ph D.","type":"string"}},"type":"statement","id":"Q56197831$AD16AEEB-BB51-4359-A348-0F05493019C5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fhiklpnvwstf5x7tnbb8vqzxw93kz61</sha1>
+    </revision>
+    <revision>
+      <id>730308331</id>
+      <parentid>730308321</parentid>
+      <timestamp>2018-08-20T16:57:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2873" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"512a9b75d4c74901af7947ef12c8e61602ef1766","datavalue":{"value":"C. S. Ludlow Ph D.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56197831$AD16AEEB-BB51-4359-A348-0F05493019C5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a9jyjw6hzgozmnzeqhz6pun3eevc4a3</sha1>
+    </revision>
+    <revision>
+      <id>730308339</id>
+      <parentid>730308331</parentid>
+      <timestamp>2018-08-20T16:57:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4035802]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3184" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"512a9b75d4c74901af7947ef12c8e61602ef1766","datavalue":{"value":"C. S. Ludlow Ph D.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56197831$AD16AEEB-BB51-4359-A348-0F05493019C5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$5158A36D-E304-4004-91B3-A68530AB3ED3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ltclsrascjkxyynnqdq7c8p3oneaion</sha1>
+    </revision>
+    <revision>
+      <id>738235880</id>
+      <parentid>730308339</parentid>
+      <timestamp>2018-09-01T23:53:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 3073887, According to [[Property:P5315]]=85181</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3432" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"512a9b75d4c74901af7947ef12c8e61602ef1766","datavalue":{"value":"C. S. Ludlow Ph D.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56197831$AD16AEEB-BB51-4359-A348-0F05493019C5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$5158A36D-E304-4004-91B3-A68530AB3ED3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"6d96b2629e72724c36d814008a841964382ee6bb","datavalue":{"value":"3073887","type":"string"}},"type":"statement","id":"Q56197831$AD6B837D-4C8D-49A4-A988-44925FBED429","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1nzhfbeu68qrvhnu4q8he3xeflgqqt0</sha1>
+    </revision>
+    <revision>
+      <id>779981291</id>
+      <parentid>738235880</parentid>
+      <timestamp>2018-11-02T11:55:35Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3539" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"},"nl":{"language":"nl","value":"MOSQUITO COMMENT"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"512a9b75d4c74901af7947ef12c8e61602ef1766","datavalue":{"value":"C. S. Ludlow Ph D.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56197831$AD16AEEB-BB51-4359-A348-0F05493019C5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$5158A36D-E304-4004-91B3-A68530AB3ED3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"6d96b2629e72724c36d814008a841964382ee6bb","datavalue":{"value":"3073887","type":"string"}},"type":"statement","id":"Q56197831$AD6B837D-4C8D-49A4-A988-44925FBED429","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>exe87ygbys6xhgkpc606x510n50xc4n</sha1>
+    </revision>
+    <revision>
+      <id>959228576</id>
+      <parentid>779981291</parentid>
+      <timestamp>2019-06-10T12:22:59Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 1909, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3769" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"},"nl":{"language":"nl","value":"MOSQUITO COMMENT"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1909"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"512a9b75d4c74901af7947ef12c8e61602ef1766","datavalue":{"value":"C. S. Ludlow Ph D.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56197831$AD16AEEB-BB51-4359-A348-0F05493019C5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$5158A36D-E304-4004-91B3-A68530AB3ED3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"6d96b2629e72724c36d814008a841964382ee6bb","datavalue":{"value":"3073887","type":"string"}},"type":"statement","id":"Q56197831$AD6B837D-4C8D-49A4-A988-44925FBED429","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ktt4cpcixrglrw26w31uigd5zg7qsr4</sha1>
+    </revision>
+    <revision>
+      <id>1109324312</id>
+      <parentid>959228576</parentid>
+      <timestamp>2020-02-03T21:59:54Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1909 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25546|batch #25546]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3866" xml:space="preserve">{"type":"item","id":"Q56197831","labels":{"de":{"language":"de","value":"MOSQUITO COMMENT"},"en":{"language":"en","value":"MOSQUITO COMMENT"},"nl":{"language":"nl","value":"MOSQUITO COMMENT"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 1909"},"de":{"language":"de","value":"im Januar 1909 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"643d7fc3dbce847757ce3ab80821b83f534c7942","datavalue":{"value":"10.4039\/ENT4121-1","type":"string"}},"type":"statement","id":"Q56197831$27E4625C-80DF-4CFB-8417-44D826A85952","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"27461e0ed99c29dce5975c81730e1649802d8c0a","datavalue":{"value":"85181","type":"string"}},"type":"statement","id":"Q56197831$8DC4FBD3-D40F-4098-A24E-6F4BF3905CA5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$7044AF70-1A94-4CBB-B596-1674676AA711","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"6563ce05271d205b7b783f34f4179710a2970795","datavalue":{"value":{"text":"MOSQUITO COMMENT","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56197831$16EA5449-B2A2-4978-9760-3BC89CF6F1A6","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q56197831$B77D7C4A-76BF-4BA0-B195-5E64B1DFCED5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c659338e3081de4374cb5521a86ea0f3bb8bf0fc","datavalue":{"value":"21\u201324","type":"string"}},"type":"statement","id":"Q56197831$11909A56-2851-4C63-BA49-AEC75C777644","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"66f0028b23c718740cd5f6f3739b680456b66f2b","datavalue":{"value":"01","type":"string"}},"type":"statement","id":"Q56197831$D326F4E6-9409-4864-9D1F-4144F2F8E661","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c31641dc6827dac020baa197c1d6012dda025c5d","datavalue":{"value":{"time":"+1909-01-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56197831$1C6F8A0B-31EC-4F5E-A745-1E7E2398188B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"512a9b75d4c74901af7947ef12c8e61602ef1766","datavalue":{"value":"C. S. Ludlow Ph D.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56197831$AD16AEEB-BB51-4359-A348-0F05493019C5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56197831$5158A36D-E304-4004-91B3-A68530AB3ED3","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"6d96b2629e72724c36d814008a841964382ee6bb","datavalue":{"value":"3073887","type":"string"}},"type":"statement","id":"Q56197831$AD6B837D-4C8D-49A4-A988-44925FBED429","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h4vp7jjzavm9xxja2vhtxp38tz6vbmu</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q100597686</title>
+    <ns>0</ns>
+    <id>98234241</id>
+    <revision>
+      <id>1294423519</id>
+      <timestamp>2020-10-19T12:34:00Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1603110513369</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3989" xml:space="preserve">{"type":"item","id":"Q100597686","labels":{"en":{"language":"en","value":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$A7CEAC03-3413-452B-BE14-6B17FFBC1F5A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a07fd08185c6a5d19e7efc5132c10ce2df2d97f9","datavalue":{"value":{"text":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100597686$9E2AB9AB-8535-465D-B9AE-E6F2E19244D8","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$2A299EBE-F4BD-4BFF-8B88-5798DAA91D33","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7ffa24ccf7c2ec11bff02b88e5f974ebd69e7b3c","datavalue":{"value":{"time":"+1998-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q100597686$CCE37AF0-57DE-49D3-9764-6388F382A720","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc34c65a289b07b9ca5f5a09502d9410ba5c1925","datavalue":{"value":"M Asche","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q100597686$CC22C03B-E49F-42ED-BFB0-994CA715F2B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"14559c75e1cac69274d73a7d813daa021e75b68a","datavalue":{"value":{"entity-type":"item","numeric-id":16859933,"id":"Q16859933"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$5B65D16E-FE48-4DC4-A542-AFDA3B3876B1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f1137f0b6987119ed667192bbdb2733d94006beb","datavalue":{"value":"33","type":"string"}},"type":"statement","id":"Q100597686$9EE3F927-1240-44B9-9C3B-2DB57A6F166F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"272df3e9e8aeeac16fb58457c732c0279599a546","datavalue":{"value":"89-124","type":"string"}},"type":"statement","id":"Q100597686$68DD46D9-DFA5-4303-AC45-B131DEEB6074","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"a6372260e7df1abdc368d2fe6f751dd7d3259961","datavalue":{"value":"10125\/16307","type":"string"}},"type":"statement","id":"Q100597686$AE78B49E-525D-4311-8764-FED3401AC3BD","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"93f3429e75adb86dfcb864e23398b46f89491c79","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/bitstream\/10125\/16307\/1\/PHES33_89-124.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q100597686$8434BB06-2E3F-4F1F-B44E-1A6090E2C4B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"152c4e0e0a6b317d101ce732c3f5866bcd7874a3","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/handle\/10125\/16307","type":"string"}},"type":"statement","id":"Q100597686$BA3B3D04-7356-4CA0-8466-6B31F7B9F49A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kce1cecbbp3b5fx6ql4ki9cv1pi5842</sha1>
+    </revision>
+    <revision>
+      <id>1294436211</id>
+      <parentid>1294423519</parentid>
+      <timestamp>2020-10-19T13:13:46Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4187" xml:space="preserve">{"type":"item","id":"Q100597686","labels":{"en":{"language":"en","value":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)"},"nl":{"language":"nl","value":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$A7CEAC03-3413-452B-BE14-6B17FFBC1F5A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a07fd08185c6a5d19e7efc5132c10ce2df2d97f9","datavalue":{"value":{"text":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100597686$9E2AB9AB-8535-465D-B9AE-E6F2E19244D8","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$2A299EBE-F4BD-4BFF-8B88-5798DAA91D33","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7ffa24ccf7c2ec11bff02b88e5f974ebd69e7b3c","datavalue":{"value":{"time":"+1998-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q100597686$CCE37AF0-57DE-49D3-9764-6388F382A720","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc34c65a289b07b9ca5f5a09502d9410ba5c1925","datavalue":{"value":"M Asche","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q100597686$CC22C03B-E49F-42ED-BFB0-994CA715F2B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"14559c75e1cac69274d73a7d813daa021e75b68a","datavalue":{"value":{"entity-type":"item","numeric-id":16859933,"id":"Q16859933"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$5B65D16E-FE48-4DC4-A542-AFDA3B3876B1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f1137f0b6987119ed667192bbdb2733d94006beb","datavalue":{"value":"33","type":"string"}},"type":"statement","id":"Q100597686$9EE3F927-1240-44B9-9C3B-2DB57A6F166F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"272df3e9e8aeeac16fb58457c732c0279599a546","datavalue":{"value":"89-124","type":"string"}},"type":"statement","id":"Q100597686$68DD46D9-DFA5-4303-AC45-B131DEEB6074","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"a6372260e7df1abdc368d2fe6f751dd7d3259961","datavalue":{"value":"10125\/16307","type":"string"}},"type":"statement","id":"Q100597686$AE78B49E-525D-4311-8764-FED3401AC3BD","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"93f3429e75adb86dfcb864e23398b46f89491c79","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/bitstream\/10125\/16307\/1\/PHES33_89-124.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q100597686$8434BB06-2E3F-4F1F-B44E-1A6090E2C4B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"152c4e0e0a6b317d101ce732c3f5866bcd7874a3","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/handle\/10125\/16307","type":"string"}},"type":"statement","id":"Q100597686$BA3B3D04-7356-4CA0-8466-6B31F7B9F49A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6v0qnmeqh1pr0ejbbqimioab8xz4cz0</sha1>
+    </revision>
+    <revision>
+      <id>1431069731</id>
+      <parentid>1294436211</parentid>
+      <timestamp>2021-05-29T19:28:04Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P724]]: proceedings-hawaiian-entomological-society-33-089-124, #quickstatements; #temporary_batch_1622300050203</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4482" xml:space="preserve">{"type":"item","id":"Q100597686","labels":{"en":{"language":"en","value":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)"},"nl":{"language":"nl","value":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$A7CEAC03-3413-452B-BE14-6B17FFBC1F5A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a07fd08185c6a5d19e7efc5132c10ce2df2d97f9","datavalue":{"value":{"text":"A Review of the Planthopper Genus Nesodryas Kirkaldy and Related Taxa (Homoptera: Fulgoroidea: Delphacidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q100597686$9E2AB9AB-8535-465D-B9AE-E6F2E19244D8","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$2A299EBE-F4BD-4BFF-8B88-5798DAA91D33","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7ffa24ccf7c2ec11bff02b88e5f974ebd69e7b3c","datavalue":{"value":{"time":"+1998-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q100597686$CCE37AF0-57DE-49D3-9764-6388F382A720","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc34c65a289b07b9ca5f5a09502d9410ba5c1925","datavalue":{"value":"M Asche","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q100597686$CC22C03B-E49F-42ED-BFB0-994CA715F2B3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"14559c75e1cac69274d73a7d813daa021e75b68a","datavalue":{"value":{"entity-type":"item","numeric-id":16859933,"id":"Q16859933"},"type":"wikibase-entityid"}},"type":"statement","id":"Q100597686$5B65D16E-FE48-4DC4-A542-AFDA3B3876B1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"f1137f0b6987119ed667192bbdb2733d94006beb","datavalue":{"value":"33","type":"string"}},"type":"statement","id":"Q100597686$9EE3F927-1240-44B9-9C3B-2DB57A6F166F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"272df3e9e8aeeac16fb58457c732c0279599a546","datavalue":{"value":"89-124","type":"string"}},"type":"statement","id":"Q100597686$68DD46D9-DFA5-4303-AC45-B131DEEB6074","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"a6372260e7df1abdc368d2fe6f751dd7d3259961","datavalue":{"value":"10125\/16307","type":"string"}},"type":"statement","id":"Q100597686$AE78B49E-525D-4311-8764-FED3401AC3BD","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"93f3429e75adb86dfcb864e23398b46f89491c79","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/bitstream\/10125\/16307\/1\/PHES33_89-124.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q100597686$8434BB06-2E3F-4F1F-B44E-1A6090E2C4B0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"152c4e0e0a6b317d101ce732c3f5866bcd7874a3","datavalue":{"value":"http:\/\/scholarspace.manoa.hawaii.edu\/handle\/10125\/16307","type":"string"}},"type":"statement","id":"Q100597686$BA3B3D04-7356-4CA0-8466-6B31F7B9F49A","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"ceaf12eee44ac433d5c6c9ce9b8a8e984a34db1c","datavalue":{"value":"proceedings-hawaiian-entomological-society-33-089-124","type":"string"}},"type":"statement","id":"Q100597686$0C617E36-2B51-4AFD-86A6-7AB87323D8AC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bgxw87ar6peftih2dck6sljwdgdeig9</sha1>
+    </revision>
+  </page>
+</mediawiki>

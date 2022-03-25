@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56096793</title>
+    <ns>0</ns>
+    <id>56042692</id>
+    <revision>
+      <id>726240823</id>
+      <timestamp>2018-08-15T07:25:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56096793","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>q7l89sgb9q1i25t0frp3z9g1784cj80</sha1>
+    </revision>
+    <revision>
+      <id>726240830</id>
+      <parentid>726240823</parentid>
+      <timestamp>2018-08-15T07:25:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Two New Species of Fruit Flies from Southern India</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="185" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8n4ilrv37u0amuyl5mfehejul7ckcgp</sha1>
+    </revision>
+    <revision>
+      <id>726240832</id>
+      <parentid>726240830</parentid>
+      <timestamp>2018-08-15T07:25:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Two New Species of Fruit Flies from Southern India</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="269" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dfkaf03sgd5bgd0ba4vhouuw6rd9y8a</sha1>
+    </revision>
+    <revision>
+      <id>726240843</id>
+      <parentid>726240832</parentid>
+      <timestamp>2018-08-15T07:25:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1017/S0007485300034027</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="535" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kb7axocd0gadf5hf1wepr79po88zlxe</sha1>
+    </revision>
+    <revision>
+      <id>726240850</id>
+      <parentid>726240843</parentid>
+      <timestamp>2018-08-15T07:25:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 98053</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="783" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p1wke9br5ys08070w6zmlfl7z63iuu2</sha1>
+    </revision>
+    <revision>
+      <id>726240856</id>
+      <parentid>726240850</parentid>
+      <timestamp>2018-08-15T07:25:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1092" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5btso8ji0qxwtlhpvib1bdz34e1o5a1</sha1>
+    </revision>
+    <revision>
+      <id>726240861</id>
+      <parentid>726240856</parentid>
+      <timestamp>2018-08-15T07:25:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Two New Species of Fruit Flies from Southern India</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1419" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>olzsprtaagtna6wnucwg11zz5z0mz79</sha1>
+    </revision>
+    <revision>
+      <id>726240864</id>
+      <parentid>726240861</parentid>
+      <timestamp>2018-08-15T07:25:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 5</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1661" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a3zwhfg3dn8hhphp3n7o9tln5f8si3d</sha1>
+    </revision>
+    <revision>
+      <id>726240871</id>
+      <parentid>726240864</parentid>
+      <timestamp>2018-08-15T07:25:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 153</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1905" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4vtcxngyp0wbxw8dt7kug6bnjy7jikt</sha1>
+    </revision>
+    <revision>
+      <id>726240875</id>
+      <parentid>726240871</parentid>
+      <timestamp>2018-08-15T07:25:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 02</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2148" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>abbuft6oaqt38gude7lv6ppqvmw1xd9</sha1>
+    </revision>
+    <revision>
+      <id>726240880</id>
+      <parentid>726240875</parentid>
+      <timestamp>2018-08-15T07:25:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: September 1914</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2528" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pkim25jm1nndhpw36anv8at1b6i0nvc</sha1>
+    </revision>
+    <revision>
+      <id>726240887</id>
+      <parentid>726240880</parentid>
+      <timestamp>2018-08-15T07:25:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: M. Bezzi</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2779" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>89h9bmybkvr1drd3bz61z7ezj8r9wx0</sha1>
+    </revision>
+    <revision>
+      <id>726240894</id>
+      <parentid>726240887</parentid>
+      <timestamp>2018-08-15T07:25:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2965" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a0824uwbin0194uhvb837xuc0iis1y7</sha1>
+    </revision>
+    <revision>
+      <id>726240899</id>
+      <parentid>726240894</parentid>
+      <timestamp>2018-08-15T07:25:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q15763806]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3278" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>433gu4y2dpk7kb5im5kbd0bs9r6oly2</sha1>
+    </revision>
+    <revision>
+      <id>738416062</id>
+      <parentid>726240899</parentid>
+      <timestamp>2018-09-02T06:56:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 36026444, According to [[Property:P5315]]=98053</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3527" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p5dpmpal3rm4p96kxte1yp84mryz0jr</sha1>
+    </revision>
+    <revision>
+      <id>781386723</id>
+      <parentid>738416062</parentid>
+      <timestamp>2018-11-04T01:33:30Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3668" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"},"nl":{"language":"nl","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e3rwb0eq0fgccpiehevtv9g6w9bolp2</sha1>
+    </revision>
+    <revision>
+      <id>970311350</id>
+      <parentid>781386723</parentid>
+      <timestamp>2019-06-28T05:38:09Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у вересні 1914, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3910" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"},"nl":{"language":"nl","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1914"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kerec2wsdikng3k1ru2yrm6mtd8ftd5</sha1>
+    </revision>
+    <revision>
+      <id>1185433382</id>
+      <parentid>970311350</parentid>
+      <timestamp>2020-05-20T08:58:04Z</timestamp>
+      <contributor>
+        <username>Research Bot</username>
+        <id>2752938</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q668]], [[:toollabs:quickstatements/#/batch/34296|batch #34296]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4211" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"},"nl":{"language":"nl","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1914"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"7dfd4ed3112fdb118b4a3579c0e7e4f02043ef5d","datavalue":{"value":{"entity-type":"item","numeric-id":668,"id":"Q668"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4884B8C6-61A8-4D8C-86D0-0BD7F8A3A651","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mt58pwneg0hkrjgqu3h61yljjn4q8ty</sha1>
+    </revision>
+    <revision>
+      <id>1185620720</id>
+      <parentid>1185433382</parentid>
+      <timestamp>2020-05-20T13:02:58Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], [[:toollabs:quickstatements/#/batch/34345|batch #34345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4513" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"},"nl":{"language":"nl","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1914"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"7dfd4ed3112fdb118b4a3579c0e7e4f02043ef5d","datavalue":{"value":{"entity-type":"item","numeric-id":668,"id":"Q668"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4884B8C6-61A8-4D8C-86D0-0BD7F8A3A651","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$E98E5BFB-1B35-4639-A2E0-A010BE0B5FEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2wuces4iuqciea8go9t6s16pgfg3n1m</sha1>
+    </revision>
+    <revision>
+      <id>1185729767</id>
+      <parentid>1185620720</parentid>
+      <timestamp>2020-05-20T16:04:27Z</timestamp>
+      <contributor>
+        <username>Research Bot</username>
+        <id>2752938</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P921]]: [[Q668]], [[:toollabs:quickstatements/#/batch/34296|batch #34296]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4822" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"},"nl":{"language":"nl","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1914"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"7dfd4ed3112fdb118b4a3579c0e7e4f02043ef5d","datavalue":{"value":{"entity-type":"item","numeric-id":668,"id":"Q668"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4884B8C6-61A8-4D8C-86D0-0BD7F8A3A651","rank":"normal","references":[{"hash":"0723282bb80042897ca697416c050b4bf7fb5428","snaks":{"P887":[{"snaktype":"value","property":"P887","hash":"2009eafb2646ea71bee7372b061e8521ee613fc2","datavalue":{"value":{"entity-type":"item","numeric-id":69652283,"id":"Q69652283"},"type":"wikibase-entityid"}}]},"snaks-order":["P887"]}]},{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$E98E5BFB-1B35-4639-A2E0-A010BE0B5FEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>teqm9eto7c4yj5svdzpgqaj70bswuu8</sha1>
+    </revision>
+    <revision>
+      <id>1256773471</id>
+      <parentid>1185729767</parentid>
+      <timestamp>2020-08-14T12:10:39Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im September 1914 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/39864|batch #39864]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4922" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"},"nl":{"language":"nl","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1914"},"de":{"language":"de","value":"im September 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"7dfd4ed3112fdb118b4a3579c0e7e4f02043ef5d","datavalue":{"value":{"entity-type":"item","numeric-id":668,"id":"Q668"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4884B8C6-61A8-4D8C-86D0-0BD7F8A3A651","rank":"normal","references":[{"hash":"0723282bb80042897ca697416c050b4bf7fb5428","snaks":{"P887":[{"snaktype":"value","property":"P887","hash":"2009eafb2646ea71bee7372b061e8521ee613fc2","datavalue":{"value":{"entity-type":"item","numeric-id":69652283,"id":"Q69652283"},"type":"wikibase-entityid"}}]},"snaks-order":["P887"]}]},{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$E98E5BFB-1B35-4639-A2E0-A010BE0B5FEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>awp6jtsfzr6proeqneifqu86ojm7uhv</sha1>
+    </revision>
+    <revision>
+      <id>1549618782</id>
+      <parentid>1256773471</parentid>
+      <timestamp>2021-12-24T23:16:51Z</timestamp>
+      <contributor>
+        <username>DrThneed</username>
+        <id>3083127</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article by M. Bezzi published September 1914 in Bulletin of Entomological Research, [[:toollabs:quickstatements/#/batch/72398|batch #72398]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5038" xml:space="preserve">{"type":"item","id":"Q56096793","labels":{"de":{"language":"de","value":"Two New Species of Fruit Flies from Southern India"},"en":{"language":"en","value":"Two New Species of Fruit Flies from Southern India"},"nl":{"language":"nl","value":"Two New Species of Fruit Flies from Southern India"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1914"},"de":{"language":"de","value":"im September 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"en":{"language":"en","value":"article by M. Bezzi published September 1914 in Bulletin of Entomological Research"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"dc398508fc2b8fa80372958dd002a2ea3a223351","datavalue":{"value":"10.1017\/S0007485300034027","type":"string"}},"type":"statement","id":"Q56096793$8FC30E2B-32E7-4EE9-915C-0A41BE4E5E72","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"aa200ff64b9a3bc2a3086b5297054d9e978cd731","datavalue":{"value":"98053","type":"string"}},"type":"statement","id":"Q56096793$F54BB75D-469F-4440-8CF7-53728C4BE2A0","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4FC96F8E-80B1-41B3-868E-27F60DDC0B4C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"8f22d57dfc49e5d0398832703db73015b72ad259","datavalue":{"value":{"text":"Two New Species of Fruit Flies from Southern India","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56096793$D3F2B48C-8059-4C95-A945-ABA216F5BA22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab49dc08d24a45b6e4ca6b5613d63a1756aa3d7f","datavalue":{"value":"5","type":"string"}},"type":"statement","id":"Q56096793$194C4CEB-BE1E-43B6-9029-C2A37D7B3588","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"e16886dc78a4c8a53a48013ef22e49889e05f34e","datavalue":{"value":"153","type":"string"}},"type":"statement","id":"Q56096793$1C7DD4CB-575B-4B3D-AB90-B3BA07065D37","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"93df95bb935932b9278ae59a393bb10ad16b6cf3","datavalue":{"value":"02","type":"string"}},"type":"statement","id":"Q56096793$E3159BF9-3882-4257-80A5-84D9442E21C5","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ea515d301802a89c7fd399f6a388da89650c5eec","datavalue":{"value":{"time":"+1914-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56096793$C5B00403-2998-47E0-AE32-5DFE9B18C9BE","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"19793324991e93af212a56a2c7e0fd9ed3a2a02e","datavalue":{"value":"M. Bezzi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56096793$F2CBDA69-03A2-4D3C-A31B-56409B2A3A1E","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"8c5c0c6a1bb2a7d3015e492c27da6cbecdd56b0d","datavalue":{"value":{"entity-type":"item","numeric-id":15763806,"id":"Q15763806"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$1CBB61EA-59C2-4173-8FE2-0092564DE435","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"186a4779108e11ace7010bc08cf2829f73bdd37c","datavalue":{"value":"36026444","type":"string"}},"type":"statement","id":"Q56096793$9EA6EA92-6E46-4526-AB1D-30404A353325","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"7dfd4ed3112fdb118b4a3579c0e7e4f02043ef5d","datavalue":{"value":{"entity-type":"item","numeric-id":668,"id":"Q668"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$4884B8C6-61A8-4D8C-86D0-0BD7F8A3A651","rank":"normal","references":[{"hash":"0723282bb80042897ca697416c050b4bf7fb5428","snaks":{"P887":[{"snaktype":"value","property":"P887","hash":"2009eafb2646ea71bee7372b061e8521ee613fc2","datavalue":{"value":{"entity-type":"item","numeric-id":69652283,"id":"Q69652283"},"type":"wikibase-entityid"}}]},"snaks-order":["P887"]}]},{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56096793$E98E5BFB-1B35-4639-A2E0-A010BE0B5FEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6dzzwht7t6uav4nv2qtrmu9n4flfotj</sha1>
+    </revision>
+  </page>
+</mediawiki>

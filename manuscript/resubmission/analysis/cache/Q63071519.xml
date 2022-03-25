@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q63071519</title>
+    <ns>0</ns>
+    <id>62848621</id>
+    <revision>
+      <id>908563707</id>
+      <timestamp>2019-04-10T02:43:04Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; [[:toollabs:editgroups/b/CB/5cad54c1d0682345480133|details]]; invoked by SourceMD:CreateFromWikipediaDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3576" xml:space="preserve">{"type":"item","id":"Q63071519","labels":{"en":{"language":"en","value":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7f973c55e7055a3c1e06d93bac0044e5f7a94215","datavalue":{"value":"10.11646\/PALAEOENTOMOLOGY.2.1.6","type":"string"}},"type":"statement","id":"Q63071519$8F15CD02-4B13-459D-9AC9-B71F31F0996A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q63071519$69E54298-F196-4623-A040-2DEBB747842C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"98ebf9827f4a263ead4e0f6248905f3924dd9546","datavalue":{"value":{"text":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q63071519$8DB4B502-31DB-4B6F-B38D-787663A03D7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q63071519$1B779BA0-A024-41C1-9CD4-ED2DF60ECA95","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f3a1e6a4c824465327071ac50e44239739e034fd","datavalue":{"value":"85","type":"string"}},"type":"statement","id":"Q63071519$F9992A87-41BA-4046-8D8B-6563C11FB13C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q63071519$A1170A84-10B7-4F4D-B665-D147E2232F8C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b7e594d8e70f3bd121800ab1c7c0f97e9b2dd78a","datavalue":{"value":{"time":"+2019-02-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q63071519$98FA0DBC-56F2-4A7C-B0D8-EC643E69E264","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fad57954eaf75c7555ec159c7d69a8f593f12992","datavalue":{"value":"ROMAIN GARROUSTE","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$4FCAB55E-9FF8-4A73-A086-BFD231464B21","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62826bf04cafc08f6a196da63935e7700b2ceeeb","datavalue":{"value":"THOMAS SCHUBNEL","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$C42E1B72-57B2-435C-8C85-6B1926623175","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9184eea97946312d14c4ea8279e1b4c99208b6d9","datavalue":{"value":"ANDR\u00c9 NEL","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$73E37482-3316-46C0-B3EE-467A6A5FA6A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e9678fnl9gqtlni2ddiorwg3o7ftu07</sha1>
+    </revision>
+    <revision>
+      <id>926641636</id>
+      <parentid>908563707</parentid>
+      <timestamp>2019-04-28T05:06:25Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3749" xml:space="preserve">{"type":"item","id":"Q63071519","labels":{"en":{"language":"en","value":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber"},"nl":{"language":"nl","value":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7f973c55e7055a3c1e06d93bac0044e5f7a94215","datavalue":{"value":"10.11646\/PALAEOENTOMOLOGY.2.1.6","type":"string"}},"type":"statement","id":"Q63071519$8F15CD02-4B13-459D-9AC9-B71F31F0996A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q63071519$69E54298-F196-4623-A040-2DEBB747842C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"98ebf9827f4a263ead4e0f6248905f3924dd9546","datavalue":{"value":{"text":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q63071519$8DB4B502-31DB-4B6F-B38D-787663A03D7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q63071519$1B779BA0-A024-41C1-9CD4-ED2DF60ECA95","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f3a1e6a4c824465327071ac50e44239739e034fd","datavalue":{"value":"85","type":"string"}},"type":"statement","id":"Q63071519$F9992A87-41BA-4046-8D8B-6563C11FB13C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q63071519$A1170A84-10B7-4F4D-B665-D147E2232F8C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b7e594d8e70f3bd121800ab1c7c0f97e9b2dd78a","datavalue":{"value":{"time":"+2019-02-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q63071519$98FA0DBC-56F2-4A7C-B0D8-EC643E69E264","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fad57954eaf75c7555ec159c7d69a8f593f12992","datavalue":{"value":"ROMAIN GARROUSTE","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$4FCAB55E-9FF8-4A73-A086-BFD231464B21","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62826bf04cafc08f6a196da63935e7700b2ceeeb","datavalue":{"value":"THOMAS SCHUBNEL","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$C42E1B72-57B2-435C-8C85-6B1926623175","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9184eea97946312d14c4ea8279e1b4c99208b6d9","datavalue":{"value":"ANDR\u00c9 NEL","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$73E37482-3316-46C0-B3EE-467A6A5FA6A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>prvdert6jo1lebsmlzjuu946redwbmy</sha1>
+    </revision>
+    <revision>
+      <id>960740232</id>
+      <parentid>926641636</parentid>
+      <timestamp>2019-06-12T11:48:57Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в лютому 2019, [[:toollabs:quickstatements/#/batch/13877|batch #13877]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3985" xml:space="preserve">{"type":"item","id":"Q63071519","labels":{"en":{"language":"en","value":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber"},"nl":{"language":"nl","value":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2019"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"7f973c55e7055a3c1e06d93bac0044e5f7a94215","datavalue":{"value":"10.11646\/PALAEOENTOMOLOGY.2.1.6","type":"string"}},"type":"statement","id":"Q63071519$8F15CD02-4B13-459D-9AC9-B71F31F0996A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q63071519$69E54298-F196-4623-A040-2DEBB747842C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"98ebf9827f4a263ead4e0f6248905f3924dd9546","datavalue":{"value":{"text":"The first chinch bug Blissidae (Hemiptera, Heteroptera) from the Eocene Oise amber","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q63071519$8DB4B502-31DB-4B6F-B38D-787663A03D7E","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q63071519$1B779BA0-A024-41C1-9CD4-ED2DF60ECA95","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"f3a1e6a4c824465327071ac50e44239739e034fd","datavalue":{"value":"85","type":"string"}},"type":"statement","id":"Q63071519$F9992A87-41BA-4046-8D8B-6563C11FB13C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"522a08382daf6f926dfd78957e821993763296c8","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q63071519$A1170A84-10B7-4F4D-B665-D147E2232F8C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b7e594d8e70f3bd121800ab1c7c0f97e9b2dd78a","datavalue":{"value":{"time":"+2019-02-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q63071519$98FA0DBC-56F2-4A7C-B0D8-EC643E69E264","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"fad57954eaf75c7555ec159c7d69a8f593f12992","datavalue":{"value":"ROMAIN GARROUSTE","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$4FCAB55E-9FF8-4A73-A086-BFD231464B21","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62826bf04cafc08f6a196da63935e7700b2ceeeb","datavalue":{"value":"THOMAS SCHUBNEL","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$C42E1B72-57B2-435C-8C85-6B1926623175","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9184eea97946312d14c4ea8279e1b4c99208b6d9","datavalue":{"value":"ANDR\u00c9 NEL","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q63071519$73E37482-3316-46C0-B3EE-467A6A5FA6A7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>26a9enhthh0tusdx8kb1yeopukboaml</sha1>
+    </revision>
+  </page>
+</mediawiki>

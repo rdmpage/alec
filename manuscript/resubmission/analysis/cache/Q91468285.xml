@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q91468285</title>
+    <ns>0</ns>
+    <id>90650327</id>
+    <revision>
+      <id>1163837793</id>
+      <timestamp>2020-04-22T17:54:11Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1587577683179</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3651" xml:space="preserve">{"type":"item","id":"Q91468285","labels":{"en":{"language":"en","value":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$FF40EFDA-122C-4411-9081-CAD4B6CAAE5C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9e8129a2b3d94e8fca61fbf05a88512930fd267c","datavalue":{"value":{"text":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91468285$F7832B44-756D-45B7-89ED-9D27BFCE2DFA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$D946D261-747D-44F2-A308-62C82D19670A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"690910f47f20e2af4b9dd3812bbd7867a0dd5166","datavalue":{"value":{"time":"+1968-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91468285$8F6BB9ED-3A4D-4285-8799-EEF796EC1264","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a5513470d8d4cdfd3ec829684d256229e659facf","datavalue":{"value":"R A Dyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91468285$CFA79AB6-4C62-45A0-8A06-A029C5DF20BF","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"87f28edb428f3e3dc32c6d8b8b67f407b14261c0","datavalue":{"value":"Inez Verdoorn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91468285$4C7EC900-DC6C-419C-A328-85D063E48D90","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc91deaf25f05c44dfc0d0db28228a72c3c235a","datavalue":{"value":{"entity-type":"item","numeric-id":5959937,"id":"Q5959937"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$4F51B5D4-AB3D-4517-9F2F-FEC28E4F88EB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q91468285$C94CFF94-B07D-423A-8FAB-3195DDE89E93","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q91468285$E1FE057C-539A-4935-A6F0-5CD6107037E7","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9c90646613f34d92f5805aad5696ec8395220ef8","datavalue":{"value":"147-158","type":"string"}},"type":"statement","id":"Q91468285$7CFC1EC1-EA0E-49AE-BB64-968D94E09A60","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"b014eca4b17fd56e002c0dc8257aea8153fad30d","datavalue":{"value":"23501059","type":"string"}},"type":"statement","id":"Q91468285$DE4F495A-7B18-4577-8ACC-D72373A21ADB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4yv9llawf6zgxpli9krhycrl2kol7qv</sha1>
+    </revision>
+    <revision>
+      <id>1163854221</id>
+      <parentid>1163837793</parentid>
+      <timestamp>2020-04-22T18:19:49Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3786" xml:space="preserve">{"type":"item","id":"Q91468285","labels":{"en":{"language":"en","value":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES"},"nl":{"language":"nl","value":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$FF40EFDA-122C-4411-9081-CAD4B6CAAE5C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9e8129a2b3d94e8fca61fbf05a88512930fd267c","datavalue":{"value":{"text":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91468285$F7832B44-756D-45B7-89ED-9D27BFCE2DFA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$D946D261-747D-44F2-A308-62C82D19670A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"690910f47f20e2af4b9dd3812bbd7867a0dd5166","datavalue":{"value":{"time":"+1968-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91468285$8F6BB9ED-3A4D-4285-8799-EEF796EC1264","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a5513470d8d4cdfd3ec829684d256229e659facf","datavalue":{"value":"R A Dyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91468285$CFA79AB6-4C62-45A0-8A06-A029C5DF20BF","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"87f28edb428f3e3dc32c6d8b8b67f407b14261c0","datavalue":{"value":"Inez Verdoorn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91468285$4C7EC900-DC6C-419C-A328-85D063E48D90","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc91deaf25f05c44dfc0d0db28228a72c3c235a","datavalue":{"value":{"entity-type":"item","numeric-id":5959937,"id":"Q5959937"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$4F51B5D4-AB3D-4517-9F2F-FEC28E4F88EB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q91468285$C94CFF94-B07D-423A-8FAB-3195DDE89E93","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q91468285$E1FE057C-539A-4935-A6F0-5CD6107037E7","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9c90646613f34d92f5805aad5696ec8395220ef8","datavalue":{"value":"147-158","type":"string"}},"type":"statement","id":"Q91468285$7CFC1EC1-EA0E-49AE-BB64-968D94E09A60","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"b014eca4b17fd56e002c0dc8257aea8153fad30d","datavalue":{"value":"23501059","type":"string"}},"type":"statement","id":"Q91468285$DE4F495A-7B18-4577-8ACC-D72373A21ADB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gxc6iyzauesddwx9y5eda9hiocunk4t</sha1>
+    </revision>
+    <revision>
+      <id>1195496635</id>
+      <parentid>1163854221</parentid>
+      <timestamp>2020-05-31T21:17:48Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1968 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35608|batch #35608]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3881" xml:space="preserve">{"type":"item","id":"Q91468285","labels":{"en":{"language":"en","value":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES"},"nl":{"language":"nl","value":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Jahr 1968 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$FF40EFDA-122C-4411-9081-CAD4B6CAAE5C","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9e8129a2b3d94e8fca61fbf05a88512930fd267c","datavalue":{"value":{"text":"ENCEPHALARTOS MANIKENSIS AND ITS NEAR ALLIES","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91468285$F7832B44-756D-45B7-89ED-9D27BFCE2DFA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$D946D261-747D-44F2-A308-62C82D19670A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"690910f47f20e2af4b9dd3812bbd7867a0dd5166","datavalue":{"value":{"time":"+1968-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91468285$8F6BB9ED-3A4D-4285-8799-EEF796EC1264","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"a5513470d8d4cdfd3ec829684d256229e659facf","datavalue":{"value":"R A Dyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91468285$CFA79AB6-4C62-45A0-8A06-A029C5DF20BF","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"87f28edb428f3e3dc32c6d8b8b67f407b14261c0","datavalue":{"value":"Inez Verdoorn","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91468285$4C7EC900-DC6C-419C-A328-85D063E48D90","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"9bc91deaf25f05c44dfc0d0db28228a72c3c235a","datavalue":{"value":{"entity-type":"item","numeric-id":5959937,"id":"Q5959937"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91468285$4F51B5D4-AB3D-4517-9F2F-FEC28E4F88EB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q91468285$C94CFF94-B07D-423A-8FAB-3195DDE89E93","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q91468285$E1FE057C-539A-4935-A6F0-5CD6107037E7","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9c90646613f34d92f5805aad5696ec8395220ef8","datavalue":{"value":"147-158","type":"string"}},"type":"statement","id":"Q91468285$7CFC1EC1-EA0E-49AE-BB64-968D94E09A60","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"b014eca4b17fd56e002c0dc8257aea8153fad30d","datavalue":{"value":"23501059","type":"string"}},"type":"statement","id":"Q91468285$DE4F495A-7B18-4577-8ACC-D72373A21ADB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2kpupi60d1n6oevourz2uzak1ff9saq</sha1>
+    </revision>
+  </page>
+</mediawiki>

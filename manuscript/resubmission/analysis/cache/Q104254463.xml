@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104254463</title>
+    <ns>0</ns>
+    <id>99701843</id>
+    <revision>
+      <id>1324992468</id>
+      <timestamp>2020-12-18T22:32:18Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1608330012081</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3226" xml:space="preserve">{"type":"item","id":"Q104254463","labels":{"en":{"language":"en","value":"Bees from Morocco"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$7A19C706-C452-4463-BF74-0BFFFE75BA0B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"297ce3bd7d20dcd752d9def8f4a99c1d309de347","datavalue":{"value":{"text":"Bees from Morocco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104254463$ACE08C1D-86BD-4DB3-AAC2-3E3C31D71786","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$CC1157AE-5422-4C20-B5F5-70B852493668","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"81728443be086048e56380181acfeffbb1fae970","datavalue":{"value":{"time":"+1937-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104254463$29AB662F-F1AE-4FAC-B8D3-1EF8DF61C240","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"197b52a8674abb180dd624e53d268695769bdd5c","datavalue":{"value":"Theodore D A Cockerell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104254463$868EBF41-F8D5-4561-B229-D47DC3C59B97","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$8CE90F94-1D21-45EE-9A0E-F09EC5C6F50D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1926d39a16df84676419e4779da2327140657c3c","datavalue":{"value":"960","type":"string"}},"type":"statement","id":"Q104254463$3CC820A4-3A74-4259-BAB7-5C267567D870","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3c65d9a2444f88084226b8b4255656459b880008","datavalue":{"value":"1-9","type":"string"}},"type":"statement","id":"Q104254463$C9961E16-204C-4E00-9B73-3C884B29A7BB","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"c8edba6fab77410aa7f2883cf8618b3f91d411e9","datavalue":{"value":"2246\/2197","type":"string"}},"type":"statement","id":"Q104254463$F96AC251-603F-4F65-B9AD-3512459F3143","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9c9752177f922a599bd5aebf591d5c463aac8b70","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/2197","type":"string"}},"type":"statement","id":"Q104254463$0552695F-AD30-4760-824C-70BD296BF5FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7eszjmlbgz7e5r32j3360ck15m1qpkv</sha1>
+    </revision>
+    <revision>
+      <id>1325022340</id>
+      <parentid>1324992468</parentid>
+      <timestamp>2020-12-18T23:24:56Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3334" xml:space="preserve">{"type":"item","id":"Q104254463","labels":{"en":{"language":"en","value":"Bees from Morocco"},"nl":{"language":"nl","value":"Bees from Morocco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$7A19C706-C452-4463-BF74-0BFFFE75BA0B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"297ce3bd7d20dcd752d9def8f4a99c1d309de347","datavalue":{"value":{"text":"Bees from Morocco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104254463$ACE08C1D-86BD-4DB3-AAC2-3E3C31D71786","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$CC1157AE-5422-4C20-B5F5-70B852493668","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"81728443be086048e56380181acfeffbb1fae970","datavalue":{"value":{"time":"+1937-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104254463$29AB662F-F1AE-4FAC-B8D3-1EF8DF61C240","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"197b52a8674abb180dd624e53d268695769bdd5c","datavalue":{"value":"Theodore D A Cockerell","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104254463$868EBF41-F8D5-4561-B229-D47DC3C59B97","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$8CE90F94-1D21-45EE-9A0E-F09EC5C6F50D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1926d39a16df84676419e4779da2327140657c3c","datavalue":{"value":"960","type":"string"}},"type":"statement","id":"Q104254463$3CC820A4-3A74-4259-BAB7-5C267567D870","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3c65d9a2444f88084226b8b4255656459b880008","datavalue":{"value":"1-9","type":"string"}},"type":"statement","id":"Q104254463$C9961E16-204C-4E00-9B73-3C884B29A7BB","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"c8edba6fab77410aa7f2883cf8618b3f91d411e9","datavalue":{"value":"2246\/2197","type":"string"}},"type":"statement","id":"Q104254463$F96AC251-603F-4F65-B9AD-3512459F3143","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9c9752177f922a599bd5aebf591d5c463aac8b70","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/2197","type":"string"}},"type":"statement","id":"Q104254463$0552695F-AD30-4760-824C-70BD296BF5FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nl2tymtpk3n79srwfm88v5u6qs7txu7</sha1>
+    </revision>
+    <revision>
+      <id>1410498207</id>
+      <parentid>1325022340</parentid>
+      <timestamp>2021-04-28T22:09:21Z</timestamp>
+      <contributor>
+        <username>Ambrosia10</username>
+        <id>1037857</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q2506718]] ([[:toollabs:editgroups/b/AD/ce69d30f|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3547" xml:space="preserve">{"type":"item","id":"Q104254463","labels":{"en":{"language":"en","value":"Bees from Morocco"},"nl":{"language":"nl","value":"Bees from Morocco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$7A19C706-C452-4463-BF74-0BFFFE75BA0B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"297ce3bd7d20dcd752d9def8f4a99c1d309de347","datavalue":{"value":{"text":"Bees from Morocco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104254463$ACE08C1D-86BD-4DB3-AAC2-3E3C31D71786","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$CC1157AE-5422-4C20-B5F5-70B852493668","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"81728443be086048e56380181acfeffbb1fae970","datavalue":{"value":{"time":"+1937-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104254463$29AB662F-F1AE-4FAC-B8D3-1EF8DF61C240","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104254463$8CE90F94-1D21-45EE-9A0E-F09EC5C6F50D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1926d39a16df84676419e4779da2327140657c3c","datavalue":{"value":"960","type":"string"}},"type":"statement","id":"Q104254463$3CC820A4-3A74-4259-BAB7-5C267567D870","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3c65d9a2444f88084226b8b4255656459b880008","datavalue":{"value":"1-9","type":"string"}},"type":"statement","id":"Q104254463$C9961E16-204C-4E00-9B73-3C884B29A7BB","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"c8edba6fab77410aa7f2883cf8618b3f91d411e9","datavalue":{"value":"2246\/2197","type":"string"}},"type":"statement","id":"Q104254463$F96AC251-603F-4F65-B9AD-3512459F3143","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"9c9752177f922a599bd5aebf591d5c463aac8b70","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/2197","type":"string"}},"type":"statement","id":"Q104254463$0552695F-AD30-4760-824C-70BD296BF5FB","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"9e6ae8136aaf4878881c47b55c0ca10de7fbbfa8","datavalue":{"value":{"entity-type":"item","numeric-id":2506718,"id":"Q2506718"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"ca5b8625a6108788341d442d676c3622cf08971b","datavalue":{"value":"Theodore D A Cockerell","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q104254463$BF19A604-5F73-49BD-A35F-ABF83474E75F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1l6l4t8wfm0huqiob9i2mp4sazhwwt1</sha1>
+    </revision>
+  </page>
+</mediawiki>

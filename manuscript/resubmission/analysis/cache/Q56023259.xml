@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56023259</title>
+    <ns>0</ns>
+    <id>55972695</id>
+    <revision>
+      <id>722833555</id>
+      <timestamp>2018-08-08T08:42:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56023259","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6gd6lmz4eli4coukvqovrm1byg4l9wv</sha1>
+    </revision>
+    <revision>
+      <id>722833558</id>
+      <parentid>722833555</parentid>
+      <timestamp>2018-08-08T08:42:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="225" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>c0g9bnsr3abnbd6uy9r1mlds3909qd3</sha1>
+    </revision>
+    <revision>
+      <id>722833561</id>
+      <parentid>722833558</parentid>
+      <timestamp>2018-08-08T08:42:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="349" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0e9b9q8ow2arhqwc4ugey9z7tmwssla</sha1>
+    </revision>
+    <revision>
+      <id>722833562</id>
+      <parentid>722833561</parentid>
+      <timestamp>2018-08-08T08:42:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.80463</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="612" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6j35qtyzlqmgyavaw3rb0na8ryznzyz</sha1>
+    </revision>
+    <revision>
+      <id>722833567</id>
+      <parentid>722833562</parentid>
+      <timestamp>2018-08-08T08:42:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 115692</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="861" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>22t8meksj2cw647blfdu61d8hqq95ag</sha1>
+    </revision>
+    <revision>
+      <id>722833570</id>
+      <parentid>722833567</parentid>
+      <timestamp>2018-08-08T08:42:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1170" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g8qa0uil7llxqmims7s4kej6n5nyyds</sha1>
+    </revision>
+    <revision>
+      <id>722833573</id>
+      <parentid>722833570</parentid>
+      <timestamp>2018-08-08T08:42:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1537" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4kc8nyp015w6thw2ig9ldapg972fm92</sha1>
+    </revision>
+    <revision>
+      <id>722833578</id>
+      <parentid>722833573</parentid>
+      <timestamp>2018-08-08T08:42:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 102</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1781" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5dzxra8eaddqfpj13x0e44nv4zpyy2r</sha1>
+    </revision>
+    <revision>
+      <id>722833582</id>
+      <parentid>722833578</parentid>
+      <timestamp>2018-08-08T08:42:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 175–255</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2034" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>60ig0dt3idrxp7ohmiudt650ihnxd7z</sha1>
+    </revision>
+    <revision>
+      <id>722833585</id>
+      <parentid>722833582</parentid>
+      <timestamp>2018-08-08T08:42:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1995</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2413" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ly29w1ay1i6vjciammegckacgzs4o33</sha1>
+    </revision>
+    <revision>
+      <id>722833903</id>
+      <parentid>722833585</parentid>
+      <timestamp>2018-08-08T08:43:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q15765167]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2726" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9qjudqxiq7ejuan62dqkafkqxngej0q</sha1>
+    </revision>
+    <revision>
+      <id>738506541</id>
+      <parentid>722833903</parentid>
+      <timestamp>2018-09-02T10:26:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 41271916, According to [[Property:P5315]]=115692</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2975" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"fceb280581f0a188b4b5eb94919c9dae780ef580","datavalue":{"value":"41271916","type":"string"}},"type":"statement","id":"Q56023259$72B3FE0E-1C18-49AB-B949-7F372BAA4F36","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2l4d7uh0bx1pwq05ifkiup046cyg1wi</sha1>
+    </revision>
+    <revision>
+      <id>784245732</id>
+      <parentid>738506541</parentid>
+      <timestamp>2018-11-07T20:04:49Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3156" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"nl":{"language":"nl","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"fceb280581f0a188b4b5eb94919c9dae780ef580","datavalue":{"value":"41271916","type":"string"}},"type":"statement","id":"Q56023259$72B3FE0E-1C18-49AB-B949-7F372BAA4F36","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mnyvc6igdsxfgg9ix8oymgbscd74eq9</sha1>
+    </revision>
+    <revision>
+      <id>837896626</id>
+      <parentid>784245732</parentid>
+      <timestamp>2019-01-20T01:12:33Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q22671]], #quickstatements; [[:toollabs:quickstatements/#/batch/7377|batch #7377]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3461" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"nl":{"language":"nl","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"fceb280581f0a188b4b5eb94919c9dae780ef580","datavalue":{"value":"41271916","type":"string"}},"type":"statement","id":"Q56023259$72B3FE0E-1C18-49AB-B949-7F372BAA4F36","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$A1CB88D2-10B4-400B-9310-8A6C6E56E325","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n702qhblzh59m9jgbzl5hqwa7w48bk7</sha1>
+    </revision>
+    <revision>
+      <id>974724004</id>
+      <parentid>837896626</parentid>
+      <timestamp>2019-07-05T23:14:06Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1995, [[:toollabs:quickstatements/#/batch/15404|batch #15404]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3660" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"nl":{"language":"nl","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1995"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"fceb280581f0a188b4b5eb94919c9dae780ef580","datavalue":{"value":"41271916","type":"string"}},"type":"statement","id":"Q56023259$72B3FE0E-1C18-49AB-B949-7F372BAA4F36","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$A1CB88D2-10B4-400B-9310-8A6C6E56E325","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9nly5kzoezj3brc0fleuok77oq70sud</sha1>
+    </revision>
+    <revision>
+      <id>1026931249</id>
+      <parentid>974724004</parentid>
+      <timestamp>2019-10-06T14:17:50Z</timestamp>
+      <contributor>
+        <username>Totodu74</username>
+        <id>4564</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #quickstatements; #temporary_batch_1570371076749</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3963" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"nl":{"language":"nl","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1995"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"fceb280581f0a188b4b5eb94919c9dae780ef580","datavalue":{"value":"41271916","type":"string"}},"type":"statement","id":"Q56023259$72B3FE0E-1C18-49AB-B949-7F372BAA4F36","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$A1CB88D2-10B4-400B-9310-8A6C6E56E325","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$0B16DB0C-48AE-4086-A39D-8BA1D7E4FDD3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tdit6oain9swmfk0tshm4l63e9mso8j</sha1>
+    </revision>
+    <revision>
+      <id>1260098209</id>
+      <parentid>1026931249</parentid>
+      <timestamp>2020-08-19T00:32:01Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1995 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/40103|batch #40103]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4058" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"nl":{"language":"nl","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1995"},"de":{"language":"de","value":"im Jahr 1995 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"fceb280581f0a188b4b5eb94919c9dae780ef580","datavalue":{"value":"41271916","type":"string"}},"type":"statement","id":"Q56023259$72B3FE0E-1C18-49AB-B949-7F372BAA4F36","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$A1CB88D2-10B4-400B-9310-8A6C6E56E325","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$0B16DB0C-48AE-4086-A39D-8BA1D7E4FDD3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8gizlo5ytff5dtdsjf9vcffb6rvhxs8</sha1>
+    </revision>
+    <revision>
+      <id>1542745008</id>
+      <parentid>1260098209</parentid>
+      <timestamp>2021-12-12T18:22:17Z</timestamp>
+      <contributor>
+        <username>DrThneed</username>
+        <id>3083127</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scholarly article published in January 1995, [[:toollabs:quickstatements/#/batch/71626|batch #71626]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4135" xml:space="preserve">{"type":"item","id":"Q56023259","labels":{"de":{"language":"de","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"en":{"language":"en","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"},"nl":{"language":"nl","value":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1995"},"de":{"language":"de","value":"im Jahr 1995 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"en":{"language":"en","value":"scholarly article published in January 1995"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fe226a2711ba84ca7436abfbcb63daa2125e6717","datavalue":{"value":"10.5962\/BHL.PART.80463","type":"string"}},"type":"statement","id":"Q56023259$7F4F6F31-01C0-43C1-BE6E-2C1CBCE86A59","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0e6bfa3b3c09d3ac6b40517a27e5324035dc51fe","datavalue":{"value":"115692","type":"string"}},"type":"statement","id":"Q56023259$1CD3B75C-D695-4540-8183-F0FC9E20DEB4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$9D7BB4FB-E2E0-40B6-AC8B-CC3F22D2B5F2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9aebe379c51924f156ccad685f88ea6dc9d53676","datavalue":{"value":{"text":"Agathidiini from Taiwan collected by Dr. Ales Smetana (Coleoptera, Leiodidae, Agathidiini)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56023259$21294624-EC8B-4A1F-BA81-CD38117098C4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"be4fba43a4f3f25f236716be9b7a08e785799df4","datavalue":{"value":"102","type":"string"}},"type":"statement","id":"Q56023259$8D8080B6-21F6-4575-8421-6E1C3FDD8DD2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bb2d2a398e56fe5b9a450c901f002a3548e5da19","datavalue":{"value":"175\u2013255","type":"string"}},"type":"statement","id":"Q56023259$7AD7DEAA-EC2F-4C9F-B2FC-AE35759DC7CF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"8342d9ebfa73eae8193415946f87d8d4ee544197","datavalue":{"value":{"time":"+1995-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56023259$6B33C9C8-5AAE-47A2-BF3A-0E939356DCA9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a936795a6dc1c14e820fab897f7a835160d4b6f9","datavalue":{"value":{"entity-type":"item","numeric-id":15765167,"id":"Q15765167"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$B89F8270-DE3D-4A97-977B-0965EE47E38F","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"fceb280581f0a188b4b5eb94919c9dae780ef580","datavalue":{"value":"41271916","type":"string"}},"type":"statement","id":"Q56023259$72B3FE0E-1C18-49AB-B949-7F372BAA4F36","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"b1fd39d63cf9c260a14c0c7b72ef40a7fff200cf","datavalue":{"value":{"entity-type":"item","numeric-id":22671,"id":"Q22671"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$A1CB88D2-10B4-400B-9310-8A6C6E56E325","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56023259$0B16DB0C-48AE-4086-A39D-8BA1D7E4FDD3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iubw4xnxbao44cukt67kguhkyk4473b</sha1>
+    </revision>
+  </page>
+</mediawiki>

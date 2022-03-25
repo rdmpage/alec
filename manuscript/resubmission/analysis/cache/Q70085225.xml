@@ -1,0 +1,288 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q70085225</title>
+    <ns>0</ns>
+    <id>69745149</id>
+    <revision>
+      <id>1027978651</id>
+      <timestamp>2019-10-08T12:34:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q70085225","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>krbs4cpsuo8wp2mivhns85rvgbvnr8f</sha1>
+    </revision>
+    <revision>
+      <id>1027978660</id>
+      <parentid>1027978651</parentid>
+      <timestamp>2019-10-08T12:34:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="241" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>m0p3ser46nok1j9hbt6sm9eh53bdsmf</sha1>
+    </revision>
+    <revision>
+      <id>1027978665</id>
+      <parentid>1027978660</parentid>
+      <timestamp>2019-10-08T12:34:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="381" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ssndlww8zj39w4k6hp67fcx0g2teu80</sha1>
+    </revision>
+    <revision>
+      <id>1027978674</id>
+      <parentid>1027978665</parentid>
+      <timestamp>2019-10-08T12:34:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.11646/PHYTOTAXA.391.3.1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="648" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jw63lvjt17ij2qxpq0tn6okx4bftwvm</sha1>
+    </revision>
+    <revision>
+      <id>1027978681</id>
+      <parentid>1027978674</parentid>
+      <timestamp>2019-10-08T12:34:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="957" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>924pg2e80r1pze5k4ya3tidzcjb6x4g</sha1>
+    </revision>
+    <revision>
+      <id>1027978687</id>
+      <parentid>1027978681</parentid>
+      <timestamp>2019-10-08T12:34:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1340" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r90jxkq4wizmk6myvdru9w57f9jexht</sha1>
+    </revision>
+    <revision>
+      <id>1027978696</id>
+      <parentid>1027978687</parentid>
+      <timestamp>2019-10-08T12:34:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 391</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1584" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p1tkasna83l0ozttjg9ly02a6hydfef</sha1>
+    </revision>
+    <revision>
+      <id>1027978707</id>
+      <parentid>1027978696</parentid>
+      <timestamp>2019-10-08T12:34:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 167–184</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1837" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n8otjhg9rey6loyilyhk9nra8j7b4sk</sha1>
+    </revision>
+    <revision>
+      <id>1027978718</id>
+      <parentid>1027978707</parentid>
+      <timestamp>2019-10-08T12:34:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2079" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5oi2ucdvdun3shm9l045jlj17kot0ob</sha1>
+    </revision>
+    <revision>
+      <id>1027978723</id>
+      <parentid>1027978718</parentid>
+      <timestamp>2019-10-08T12:34:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 4 February 2019</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2459" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fl2kgmiht75v71ilqqrgbveezhzdomu</sha1>
+    </revision>
+    <revision>
+      <id>1027978733</id>
+      <parentid>1027978723</parentid>
+      <timestamp>2019-10-08T12:34:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Min-Jung Kong</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2715" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"61442e740afc91429bc0832c3acbfd5badeeb143","datavalue":{"value":"Min-Jung Kong","type":"string"}},"type":"statement","id":"Q70085225$4A0D0828-431D-4B91-9D0A-C205D00FA6AD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qqsd37o9tp7vageysvpzp76p3tf95ic</sha1>
+    </revision>
+    <revision>
+      <id>1027978740</id>
+      <parentid>1027978733</parentid>
+      <timestamp>2019-10-08T12:34:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2901" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"61442e740afc91429bc0832c3acbfd5badeeb143","datavalue":{"value":"Min-Jung Kong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$4A0D0828-431D-4B91-9D0A-C205D00FA6AD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r19uenrw83biz9j0clk5pki6gh5eusz</sha1>
+    </revision>
+    <revision>
+      <id>1027978750</id>
+      <parentid>1027978740</parentid>
+      <timestamp>2019-10-08T12:34:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Suk-Pyo Hong</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3146" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"61442e740afc91429bc0832c3acbfd5badeeb143","datavalue":{"value":"Min-Jung Kong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$4A0D0828-431D-4B91-9D0A-C205D00FA6AD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6e5fe581a509bf05165e1bb074ee62c657a97b5c","datavalue":{"value":"Suk-Pyo Hong","type":"string"}},"type":"statement","id":"Q70085225$06BA8C35-1094-4EDC-81C0-5053DCC763D4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>akerr1j90mmc5enfjey3aumcnc33wfa</sha1>
+    </revision>
+    <revision>
+      <id>1027978760</id>
+      <parentid>1027978750</parentid>
+      <timestamp>2019-10-08T12:34:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3332" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"61442e740afc91429bc0832c3acbfd5badeeb143","datavalue":{"value":"Min-Jung Kong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$4A0D0828-431D-4B91-9D0A-C205D00FA6AD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6e5fe581a509bf05165e1bb074ee62c657a97b5c","datavalue":{"value":"Suk-Pyo Hong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$06BA8C35-1094-4EDC-81C0-5053DCC763D4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t0ussf2fi4hke9oy974lxixaa1popba</sha1>
+    </revision>
+    <revision>
+      <id>1027978768</id>
+      <parentid>1027978760</parentid>
+      <timestamp>2019-10-08T12:34:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4807825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3643" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"61442e740afc91429bc0832c3acbfd5badeeb143","datavalue":{"value":"Min-Jung Kong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$4A0D0828-431D-4B91-9D0A-C205D00FA6AD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6e5fe581a509bf05165e1bb074ee62c657a97b5c","datavalue":{"value":"Suk-Pyo Hong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$06BA8C35-1094-4EDC-81C0-5053DCC763D4","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$A9C26D68-4D32-4A80-8B95-642CCB193B66","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>09j88cbgkyn56ff4m5vvhe8hg8gtr6p</sha1>
+    </revision>
+    <revision>
+      <id>1098559804</id>
+      <parentid>1027978768</parentid>
+      <timestamp>2020-01-15T07:16:08Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3792" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"nl":{"language":"nl","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"61442e740afc91429bc0832c3acbfd5badeeb143","datavalue":{"value":"Min-Jung Kong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$4A0D0828-431D-4B91-9D0A-C205D00FA6AD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6e5fe581a509bf05165e1bb074ee62c657a97b5c","datavalue":{"value":"Suk-Pyo Hong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$06BA8C35-1094-4EDC-81C0-5053DCC763D4","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$A9C26D68-4D32-4A80-8B95-642CCB193B66","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0a6u3hibnqfber7qor3hry2ije3arlj</sha1>
+    </revision>
+    <revision>
+      <id>1134083354</id>
+      <parentid>1098559804</parentid>
+      <timestamp>2020-03-11T19:25:52Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Februar 2019 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/26345|batch #26345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3890" xml:space="preserve">{"type":"item","id":"Q70085225","labels":{"de":{"language":"de","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"en":{"language":"en","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation"},"nl":{"language":"nl","value":"Leaf micromorphology of the Persicaria sect. Cephalophilon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"de":{"language":"de","value":"im Februar 2019 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"889aa9a840778a7b1f354ccd670f44bdedf1d34a","datavalue":{"value":"10.11646\/PHYTOTAXA.391.3.1","type":"string"}},"type":"statement","id":"Q70085225$353C8615-5FEC-4B79-9F84-C0A65EF88D58","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$8EA37770-27B2-42D2-95B8-FE5F8A773FBE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"77e1f818b5f3d3f9f330ac6de6775b08f2fda2c2","datavalue":{"value":{"text":"Leaf micromorphology of the Persicaria sect. Cephalophilon (Polygonaceae) and its systematic re-evaluation","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q70085225$B1D3C5F7-970A-489A-9DB6-DA875E7BD8E8","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"880fbc3bcc7cd232b7956851ea8e8a7a11454a51","datavalue":{"value":"391","type":"string"}},"type":"statement","id":"Q70085225$1EDC285B-E9F0-4314-A073-384EA85BA2D0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"de8bc4d5c50f55e27d87a9f43ec9cc8082ac365f","datavalue":{"value":"167\u2013184","type":"string"}},"type":"statement","id":"Q70085225$20285D0B-7B95-46E0-839F-291A98EEE447","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q70085225$0DD97944-BF37-487C-BE96-C3F5E8B547E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"9eca3554445ac5a647bed248bfccac8572fc8023","datavalue":{"value":{"time":"+2019-02-04T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q70085225$1BF0849A-62B8-4E6D-8663-95BAC2E93789","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"61442e740afc91429bc0832c3acbfd5badeeb143","datavalue":{"value":"Min-Jung Kong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$4A0D0828-431D-4B91-9D0A-C205D00FA6AD","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6e5fe581a509bf05165e1bb074ee62c657a97b5c","datavalue":{"value":"Suk-Pyo Hong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q70085225$06BA8C35-1094-4EDC-81C0-5053DCC763D4","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q70085225$A9C26D68-4D32-4A80-8B95-642CCB193B66","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>siyj2nygkaq2w1ratbf6yrvydfsrtwe</sha1>
+    </revision>
+  </page>
+</mediawiki>

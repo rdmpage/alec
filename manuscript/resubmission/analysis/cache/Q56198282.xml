@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56198282</title>
+    <ns>0</ns>
+    <id>56140783</id>
+    <revision>
+      <id>730319180</id>
+      <timestamp>2018-08-20T17:13:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56198282","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8wfiq89dqkaedv59tyvttro9sf502n1</sha1>
+    </revision>
+    <revision>
+      <id>730319187</id>
+      <parentid>730319180</parentid>
+      <timestamp>2018-08-20T17:13:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="181" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>osglg27gtth0225fe309jnyqmnj5m7z</sha1>
+    </revision>
+    <revision>
+      <id>730319191</id>
+      <parentid>730319187</parentid>
+      <timestamp>2018-08-20T17:13:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="261" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rv4xhj4dgjrvuohou4l5iuog7y1tcnd</sha1>
+    </revision>
+    <revision>
+      <id>730319198</id>
+      <parentid>730319191</parentid>
+      <timestamp>2018-08-20T17:13:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.4039/ENT48151-5</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="520" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8uxnrdgid1fjaq818o5zisjgtd5i4iz</sha1>
+    </revision>
+    <revision>
+      <id>730319203</id>
+      <parentid>730319198</parentid>
+      <timestamp>2018-08-20T17:13:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 58954</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="768" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s4nf8i74x5inrkutkipjo8adr58310e</sha1>
+    </revision>
+    <revision>
+      <id>730319209</id>
+      <parentid>730319203</parentid>
+      <timestamp>2018-08-20T17:13:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1077" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gpv8wmyqzrxxeg2rnfgvv4uumlg4f6q</sha1>
+    </revision>
+    <revision>
+      <id>730319213</id>
+      <parentid>730319209</parentid>
+      <timestamp>2018-08-20T17:13:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1400" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dmgc4swzvv0hyh72ebanv0l4uqhm2zy</sha1>
+    </revision>
+    <revision>
+      <id>730319221</id>
+      <parentid>730319213</parentid>
+      <timestamp>2018-08-20T17:13:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 48</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1643" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mbnow6eil3263hoiyozdaptif3bkmrs</sha1>
+    </revision>
+    <revision>
+      <id>730319226</id>
+      <parentid>730319221</parentid>
+      <timestamp>2018-08-20T17:13:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 151–160</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1896" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hlxaawt29e1s1aceb47hnn758sf0tgs</sha1>
+    </revision>
+    <revision>
+      <id>730319236</id>
+      <parentid>730319226</parentid>
+      <timestamp>2018-08-20T17:13:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 05</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2139" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l47yh7c71x4kjjyuc7m98nt7a1zzlld</sha1>
+    </revision>
+    <revision>
+      <id>730319241</id>
+      <parentid>730319236</parentid>
+      <timestamp>2018-08-20T17:13:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: May 1916</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2519" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rkfrgpobxqwo04pzwmekyqdu8nw2hla</sha1>
+    </revision>
+    <revision>
+      <id>730319248</id>
+      <parentid>730319241</parentid>
+      <timestamp>2018-08-20T17:13:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Charles H. T. Townsend</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2784" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>df7nhtziii2x3yi64b11vzdanlbe90l</sha1>
+    </revision>
+    <revision>
+      <id>730319255</id>
+      <parentid>730319248</parentid>
+      <timestamp>2018-08-20T17:13:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2970" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mi5muvgszm4zdyfjnvqxfqcelj2e6qv</sha1>
+    </revision>
+    <revision>
+      <id>730319260</id>
+      <parentid>730319255</parentid>
+      <timestamp>2018-08-20T17:13:59Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4035802]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3281" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>thkyeiwrbozgdoaks5vqwwieb9if5e3</sha1>
+    </revision>
+    <revision>
+      <id>738106272</id>
+      <parentid>730319260</parentid>
+      <timestamp>2018-09-01T19:33:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 2159874, According to [[Property:P5315]]=58954</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3529" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9d6e4c25b8abe4729484822e7833b85a9602ccbc","datavalue":{"value":"2159874","type":"string"}},"type":"statement","id":"Q56198282$87FCA348-56A5-42E5-8519-D8E547963360","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k4e803m52bd8fvwmz2ikklew0259o7y</sha1>
+    </revision>
+    <revision>
+      <id>779975667</id>
+      <parentid>738106272</parentid>
+      <timestamp>2018-11-02T11:46:40Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3666" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"nl":{"language":"nl","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9d6e4c25b8abe4729484822e7833b85a9602ccbc","datavalue":{"value":"2159874","type":"string"}},"type":"statement","id":"Q56198282$87FCA348-56A5-42E5-8519-D8E547963360","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>td8givqpy2m0b9x2ocpdfnyrx1790x9</sha1>
+    </revision>
+    <revision>
+      <id>965406668</id>
+      <parentid>779975667</parentid>
+      <timestamp>2019-06-20T01:37:27Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в травні 1916, [[:toollabs:quickstatements/#/batch/14313|batch #14313]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3902" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"nl":{"language":"nl","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 1916"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9d6e4c25b8abe4729484822e7833b85a9602ccbc","datavalue":{"value":"2159874","type":"string"}},"type":"statement","id":"Q56198282$87FCA348-56A5-42E5-8519-D8E547963360","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pwwhf5nz72lrbt7uawmqpyhqkd4wzn6</sha1>
+    </revision>
+    <revision>
+      <id>972290528</id>
+      <parentid>965406668</parentid>
+      <timestamp>2019-07-01T07:53:44Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3943" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"nl":{"language":"nl","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 1916"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9d6e4c25b8abe4729484822e7833b85a9602ccbc","datavalue":{"value":"2159874","type":"string"}},"type":"statement","id":"Q56198282$87FCA348-56A5-42E5-8519-D8E547963360","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8tm5djb16pkruvugqye14gqssa8hjyy</sha1>
+    </revision>
+    <revision>
+      <id>1109325547</id>
+      <parentid>972290528</parentid>
+      <timestamp>2020-02-03T22:01:43Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Mai 1916 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25546|batch #25546]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4037" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"nl":{"language":"nl","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 1916"},"en":{"language":"en","value":"article"},"de":{"language":"de","value":"im Mai 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9d6e4c25b8abe4729484822e7833b85a9602ccbc","datavalue":{"value":"2159874","type":"string"}},"type":"statement","id":"Q56198282$87FCA348-56A5-42E5-8519-D8E547963360","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g54ustxzi5fm150fu86l4awxdgarfuu</sha1>
+    </revision>
+    <revision>
+      <id>1116351659</id>
+      <parentid>1109325547</parentid>
+      <timestamp>2020-02-16T07:55:48Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1581833176757</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4101" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"nl":{"language":"nl","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 1916"},"en":{"language":"en","value":"article"},"de":{"language":"de","value":"im Mai 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9d6e4c25b8abe4729484822e7833b85a9602ccbc","datavalue":{"value":"2159874","type":"string"}},"type":"statement","id":"Q56198282$87FCA348-56A5-42E5-8519-D8E547963360","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hiwr7pi0x8k9w76v9imr2thn0x2s7rq</sha1>
+    </revision>
+    <revision>
+      <id>1287558511</id>
+      <parentid>1116351659</parentid>
+      <timestamp>2020-10-06T19:56:18Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: 33f7292f-0471-40a0-9675-64868af1546e, #quickstatements; #temporary_batch_1602011829853</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4380" xml:space="preserve">{"type":"item","id":"Q56198282","labels":{"de":{"language":"de","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"en":{"language":"en","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"},"nl":{"language":"nl","value":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 1916"},"en":{"language":"en","value":"article"},"de":{"language":"de","value":"im Mai 1916 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"fd59558fad67ff29e60948cbc0624451365e35ac","datavalue":{"value":"10.4039\/ENT48151-5","type":"string"}},"type":"statement","id":"Q56198282$F0E78C3E-4D5F-48BE-8EE9-9FDA44228F1A","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"57fb69e0046e237421ed6aece332e7619d02cf3e","datavalue":{"value":"58954","type":"string"}},"type":"statement","id":"Q56198282$FD84AD9A-1D2E-4C42-ACED-3C5042E7572A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$A3B07C36-1D0E-4093-A73D-3EF4FB953860","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"835fe0343a3d45a5fee3e70042106eccca8b31ed","datavalue":{"value":{"text":"NEW GENERA AND SPECIES OF AUSTRALIAN MUSCOIDEA","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56198282$73010573-30C0-410F-9001-4C503793F25A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"cfc6eff10faa6cdf1425aae3ed155dece3867b80","datavalue":{"value":"48","type":"string"}},"type":"statement","id":"Q56198282$44B36A72-7949-474D-A91A-3EF759213DB2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"8572c260023ebbc1442e8c5b4fb9c8424fe2b46e","datavalue":{"value":"151\u2013160","type":"string"}},"type":"statement","id":"Q56198282$214AEDC4-B9DF-4564-83AF-E5DC3C50E3A1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"a624a7f58017e47bcc3cd5182495e9b78507a036","datavalue":{"value":"05","type":"string"}},"type":"statement","id":"Q56198282$1B1A7BFF-1F1E-4686-8E1E-32E56D136CC6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"42282d472aa32a258c0cc077f6074004ad7c3e55","datavalue":{"value":{"time":"+1916-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56198282$72ADC3D5-EEEC-47DD-9381-ECEE171F94F8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"f88d0647f0376621e32a2152857ad32a5d0979b6","datavalue":{"value":"Charles H. T. Townsend","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56198282$639773A4-1862-4442-AE36-2F9C4F3F7587","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"0e8810d2c8782ced9bdf5c476fcf743f362bd5fb","datavalue":{"value":{"entity-type":"item","numeric-id":4035802,"id":"Q4035802"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56198282$CA97F8AA-1AEE-4744-853D-D1DDE82C8AF9","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9d6e4c25b8abe4729484822e7833b85a9602ccbc","datavalue":{"value":"2159874","type":"string"}},"type":"statement","id":"Q56198282$87FCA348-56A5-42E5-8519-D8E547963360","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"4f418eb070e7929541ff4aa743c38a34b861a1b7","datavalue":{"value":"33f7292f-0471-40a0-9675-64868af1546e","type":"string"}},"type":"statement","id":"Q56198282$BE868AC7-20F3-4E01-8A0A-F6956D648FD0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c2x788hyrvsbt08398zh3yrakbdog2v</sha1>
+    </revision>
+  </page>
+</mediawiki>

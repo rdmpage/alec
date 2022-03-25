@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56209398</title>
+    <ns>0</ns>
+    <id>56151875</id>
+    <revision>
+      <id>730661363</id>
+      <timestamp>2018-08-21T02:29:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56209398","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>4pr950d2f3mjjcd2ws6w1571kup2qwi</sha1>
+    </revision>
+    <revision>
+      <id>730661370</id>
+      <parentid>730661363</parentid>
+      <timestamp>2018-08-21T02:29:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Descriptions of new and little-known fossil lizards from North America</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="205" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>9akt43g6o676mytbilfbxb8b2yrb4uo</sha1>
+    </revision>
+    <revision>
+      <id>730661373</id>
+      <parentid>730661370</parentid>
+      <timestamp>2018-08-21T02:29:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Descriptions of new and little-known fossil lizards from North America</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="309" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>q1yirbd7amlfwx4xpfglvggfmni9jxy</sha1>
+    </revision>
+    <revision>
+      <id>730661380</id>
+      <parentid>730661373</parentid>
+      <timestamp>2018-08-21T02:29:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5479/SI.00963801.86-3042.11</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="580" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>teb30suj7ks62jcwl58vrk2ve7i2jep</sha1>
+    </revision>
+    <revision>
+      <id>730661386</id>
+      <parentid>730661380</parentid>
+      <timestamp>2018-08-21T02:29:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 79831</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="828" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3cc1lm740l95oj05z79qmqn4la4lmqt</sha1>
+    </revision>
+    <revision>
+      <id>730661390</id>
+      <parentid>730661386</parentid>
+      <timestamp>2018-08-21T02:29:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1137" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cr0t8wup644fu6knw5meedc65ucimu8</sha1>
+    </revision>
+    <revision>
+      <id>730661396</id>
+      <parentid>730661390</parentid>
+      <timestamp>2018-08-21T02:29:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Descriptions of new and little-known fossil lizards from North America</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1484" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9fnuy6lslloh9r6tgvykeph8q82u58j</sha1>
+    </revision>
+    <revision>
+      <id>730661402</id>
+      <parentid>730661396</parentid>
+      <timestamp>2018-08-21T02:29:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 86</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1727" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7vhd012upkrj72hag26p9kqmk3mei4w</sha1>
+    </revision>
+    <revision>
+      <id>730661407</id>
+      <parentid>730661402</parentid>
+      <timestamp>2018-08-21T02:29:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 11–26</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1978" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7w3xlbywhe0j0ser423thle3rm946j1</sha1>
+    </revision>
+    <revision>
+      <id>730661410</id>
+      <parentid>730661407</parentid>
+      <timestamp>2018-08-21T02:29:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3042</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2223" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2pnwip94hrv5zwsqmtyoae2cpifs7sg</sha1>
+    </revision>
+    <revision>
+      <id>730661414</id>
+      <parentid>730661410</parentid>
+      <timestamp>2018-08-21T02:29:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1938</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2602" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0rhnmicwglydj32t0jwqr961s4vx8em</sha1>
+    </revision>
+    <revision>
+      <id>730661420</id>
+      <parentid>730661414</parentid>
+      <timestamp>2018-08-21T02:29:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Charles W. Gilmore</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2863" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"039135ba65b09ed223015b6495c3a5e2c8568d22","datavalue":{"value":"Charles W. Gilmore","type":"string"}},"type":"statement","id":"Q56209398$FA803AB3-CF8F-488F-B38A-249A542E428A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l4kkmzaz1tmdtpxnhgvdv0iwnr068q6</sha1>
+    </revision>
+    <revision>
+      <id>730661428</id>
+      <parentid>730661420</parentid>
+      <timestamp>2018-08-21T02:29:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3049" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"039135ba65b09ed223015b6495c3a5e2c8568d22","datavalue":{"value":"Charles W. Gilmore","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209398$FA803AB3-CF8F-488F-B38A-249A542E428A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j3xxl0o3kltvhbkw0f798ljy8nlw9d1</sha1>
+    </revision>
+    <revision>
+      <id>730661431</id>
+      <parentid>730661428</parentid>
+      <timestamp>2018-08-21T02:29:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q18515885]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3362" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"039135ba65b09ed223015b6495c3a5e2c8568d22","datavalue":{"value":"Charles W. Gilmore","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209398$FA803AB3-CF8F-488F-B38A-249A542E428A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$06DE86D1-7149-4AE6-9FD4-452AD0675925","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ijcoixrezwb63m3buf7zjklj6205x15</sha1>
+    </revision>
+    <revision>
+      <id>738230079</id>
+      <parentid>730661431</parentid>
+      <timestamp>2018-09-01T23:41:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 7569043, According to [[Property:P5315]]=79831</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3610" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"039135ba65b09ed223015b6495c3a5e2c8568d22","datavalue":{"value":"Charles W. Gilmore","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209398$FA803AB3-CF8F-488F-B38A-249A542E428A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$06DE86D1-7149-4AE6-9FD4-452AD0675925","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56d45f97e4a4778a3d2da71eb97eff4cf3940617","datavalue":{"value":"7569043","type":"string"}},"type":"statement","id":"Q56209398$73656A70-1965-40FD-8048-DA9AA4F01159","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ojskcujjmhw8ntvek63dblsgm49t3dw</sha1>
+    </revision>
+    <revision>
+      <id>779830689</id>
+      <parentid>738230079</parentid>
+      <timestamp>2018-11-02T08:00:36Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3771" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"},"nl":{"language":"nl","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"039135ba65b09ed223015b6495c3a5e2c8568d22","datavalue":{"value":"Charles W. Gilmore","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209398$FA803AB3-CF8F-488F-B38A-249A542E428A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$06DE86D1-7149-4AE6-9FD4-452AD0675925","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56d45f97e4a4778a3d2da71eb97eff4cf3940617","datavalue":{"value":"7569043","type":"string"}},"type":"statement","id":"Q56209398$73656A70-1965-40FD-8048-DA9AA4F01159","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h5xn8oiqeax78f1ti5bmbk4r08smjbd</sha1>
+    </revision>
+    <revision>
+      <id>974315693</id>
+      <parentid>779830689</parentid>
+      <timestamp>2019-07-05T04:24:17Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1938, [[:toollabs:quickstatements/#/batch/15391|batch #15391]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3970" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"},"nl":{"language":"nl","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1938"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"039135ba65b09ed223015b6495c3a5e2c8568d22","datavalue":{"value":"Charles W. Gilmore","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209398$FA803AB3-CF8F-488F-B38A-249A542E428A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$06DE86D1-7149-4AE6-9FD4-452AD0675925","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56d45f97e4a4778a3d2da71eb97eff4cf3940617","datavalue":{"value":"7569043","type":"string"}},"type":"statement","id":"Q56209398$73656A70-1965-40FD-8048-DA9AA4F01159","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h1o6ic43tfzbbfzvw430rs96xs1x2p4</sha1>
+    </revision>
+    <revision>
+      <id>1407092021</id>
+      <parentid>974315693</parentid>
+      <timestamp>2021-04-23T13:55:03Z</timestamp>
+      <contributor>
+        <username>RogerNiceEyes</username>
+        <id>4813288</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q40614]], [[:toollabs:quickstatements/#/batch/53380|batch #53380]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4275" xml:space="preserve">{"type":"item","id":"Q56209398","labels":{"de":{"language":"de","value":"Descriptions of new and little-known fossil lizards from North America"},"en":{"language":"en","value":"Descriptions of new and little-known fossil lizards from North America"},"nl":{"language":"nl","value":"Descriptions of new and little-known fossil lizards from North America"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1938"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"690271462e91e4f86675a593147716c66a0ded04","datavalue":{"value":"10.5479\/SI.00963801.86-3042.11","type":"string"}},"type":"statement","id":"Q56209398$AD6BEA5E-E22A-4DF5-B702-5FD25D41143C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"9c1c90f21272ba2d85afc2c8587d74ebc6e7ff33","datavalue":{"value":"79831","type":"string"}},"type":"statement","id":"Q56209398$0E8D5F93-AF97-48CA-96E5-A76EB01943C5","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$E7FC06BE-CCA3-4DD6-B099-50D6CC126D25","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"197e82eceb49f53674ef4d8315f00f76bad7b119","datavalue":{"value":{"text":"Descriptions of new and little-known fossil lizards from North America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56209398$0ACAECE9-E0B9-481D-858F-832AB94D8E15","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56209398$0ADF17EA-EA10-4E7F-AF18-8905B65848B2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"78faff1dfb95968b4a3b6f84a83fc89d93950ff5","datavalue":{"value":"11\u201326","type":"string"}},"type":"statement","id":"Q56209398$8DDCEF6B-30E8-4275-8C26-5019EFD346DD","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bf48e554951ce015c7db55e4207d427a0fcd94e5","datavalue":{"value":"3042","type":"string"}},"type":"statement","id":"Q56209398$09837059-95A2-4A29-8254-E078684A2445","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"74b9efb4f093d21489197fe70aa06db269bd3787","datavalue":{"value":{"time":"+1938-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56209398$111BBC31-A6E3-4B4F-884B-7115C7FD0A38","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"039135ba65b09ed223015b6495c3a5e2c8568d22","datavalue":{"value":"Charles W. Gilmore","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56209398$FA803AB3-CF8F-488F-B38A-249A542E428A","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3cadf9f56547f2f5c9c10f50d1f808898e94513a","datavalue":{"value":{"entity-type":"item","numeric-id":18515885,"id":"Q18515885"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$06DE86D1-7149-4AE6-9FD4-452AD0675925","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"56d45f97e4a4778a3d2da71eb97eff4cf3940617","datavalue":{"value":"7569043","type":"string"}},"type":"statement","id":"Q56209398$73656A70-1965-40FD-8048-DA9AA4F01159","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"0570197ae57857ee99e9ef502ed203faea8e129e","datavalue":{"value":{"entity-type":"item","numeric-id":40614,"id":"Q40614"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56209398$D8810E35-B9BB-4DDA-9D87-A06CE27D1ADA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a8n0z24d42l485pbghyaq7844el753e</sha1>
+    </revision>
+  </page>
+</mediawiki>

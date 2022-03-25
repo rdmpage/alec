@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56195815</title>
+    <ns>0</ns>
+    <id>56138273</id>
+    <revision>
+      <id>730189240</id>
+      <timestamp>2018-08-20T13:43:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56195815","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>hlvq74c0rz1oc0by6k0swosfjn1w2mh</sha1>
+    </revision>
+    <revision>
+      <id>730189245</id>
+      <parentid>730189240</parentid>
+      <timestamp>2018-08-20T13:43:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="203" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>94w5xhjunaoo1c9704xf83bzlqhgt3c</sha1>
+    </revision>
+    <revision>
+      <id>730189251</id>
+      <parentid>730189245</parentid>
+      <timestamp>2018-08-20T13:43:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="305" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>t9flem7d5mob6ia5sj8a8ymtmi3wx3s</sha1>
+    </revision>
+    <revision>
+      <id>730189257</id>
+      <parentid>730189251</parentid>
+      <timestamp>2018-08-20T13:43:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.3120/0024-9637-59.3.163</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="572" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>brd7kv3am6ioc02dxdwr9nyq9mxfg02</sha1>
+    </revision>
+    <revision>
+      <id>730189261</id>
+      <parentid>730189257</parentid>
+      <timestamp>2018-08-20T13:43:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 161435</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="821" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4q8v51xxhwt35xxz16hy9pr3v5mjf93</sha1>
+    </revision>
+    <revision>
+      <id>730189266</id>
+      <parentid>730189261</parentid>
+      <timestamp>2018-08-20T13:43:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1130" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nqxf4fyl1lry7q728d2rhaucjwkq4un</sha1>
+    </revision>
+    <revision>
+      <id>730189271</id>
+      <parentid>730189266</parentid>
+      <timestamp>2018-08-20T13:43:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1475" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2i6z82mrrjgeh4uw703seilfb88qvjc</sha1>
+    </revision>
+    <revision>
+      <id>730189277</id>
+      <parentid>730189271</parentid>
+      <timestamp>2018-08-20T13:43:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 59</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1718" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hmown2fj9vaqq7atd0me3hzfgo0eg8l</sha1>
+    </revision>
+    <revision>
+      <id>730189286</id>
+      <parentid>730189277</parentid>
+      <timestamp>2018-08-20T13:43:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 163</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1962" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jfm7anxi54xglw2x85gq6s1af99chhe</sha1>
+    </revision>
+    <revision>
+      <id>730189290</id>
+      <parentid>730189286</parentid>
+      <timestamp>2018-08-20T13:43:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2204" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0e8vaescn3geo9qthr3gagpu8mrh4tn</sha1>
+    </revision>
+    <revision>
+      <id>730189296</id>
+      <parentid>730189290</parentid>
+      <timestamp>2018-08-20T13:43:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: July 2012</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2584" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rt48ypkavtvzg0enli7eefh3ilbqiwy</sha1>
+    </revision>
+    <revision>
+      <id>730189302</id>
+      <parentid>730189296</parentid>
+      <timestamp>2018-08-20T13:43:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Joanna L. Schultz</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2844" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dne0vb3yblgl67a13m4jbm5ldzkb34s</sha1>
+    </revision>
+    <revision>
+      <id>730189307</id>
+      <parentid>730189302</parentid>
+      <timestamp>2018-08-20T13:43:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3030" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hm5utmr0e4xn7p82owvefwj63jcfak3</sha1>
+    </revision>
+    <revision>
+      <id>730189313</id>
+      <parentid>730189307</parentid>
+      <timestamp>2018-08-20T13:43:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Robert Patterson</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3279" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5c22d54f70f20d8713da94f6c84cf78257ed0f10","datavalue":{"value":"Robert Patterson","type":"string"}},"type":"statement","id":"Q56195815$A0D95E3D-DDA4-4A9F-ACB5-D6C2389D3938","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jxxjbpbd4xf40xv1kkgqa2gvvo2f2vv</sha1>
+    </revision>
+    <revision>
+      <id>730189317</id>
+      <parentid>730189313</parentid>
+      <timestamp>2018-08-20T13:43:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3465" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5c22d54f70f20d8713da94f6c84cf78257ed0f10","datavalue":{"value":"Robert Patterson","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$A0D95E3D-DDA4-4A9F-ACB5-D6C2389D3938","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ok6z403vu7j25tgqr0agd4oulf5tmvl</sha1>
+    </revision>
+    <revision>
+      <id>730189325</id>
+      <parentid>730189317</parentid>
+      <timestamp>2018-08-20T13:43:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5989477]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3776" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5c22d54f70f20d8713da94f6c84cf78257ed0f10","datavalue":{"value":"Robert Patterson","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$A0D95E3D-DDA4-4A9F-ACB5-D6C2389D3938","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$A977F0D7-DD8E-4D7D-B2C4-8B75E937FF12","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cfb40atrt1f4iezpghurjnmf2zvhv46</sha1>
+    </revision>
+    <revision>
+      <id>738743297</id>
+      <parentid>730189325</parentid>
+      <timestamp>2018-09-02T18:22:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 47952602, According to [[Property:P5315]]=161435</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4025" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5c22d54f70f20d8713da94f6c84cf78257ed0f10","datavalue":{"value":"Robert Patterson","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$A0D95E3D-DDA4-4A9F-ACB5-D6C2389D3938","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$A977F0D7-DD8E-4D7D-B2C4-8B75E937FF12","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"e27c4a0bdd67d272c9426126d440c9ea1ff11c7e","datavalue":{"value":"47952602","type":"string"}},"type":"statement","id":"Q56195815$D508BF28-42EB-4C60-B747-08304D5037FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>051pfrskfnxntpg3yl8npxhjfo380vk</sha1>
+    </revision>
+    <revision>
+      <id>780009362</id>
+      <parentid>738743297</parentid>
+      <timestamp>2018-11-02T12:36:28Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4146" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"nl":{"language":"nl","value":"A New Combination in Linanthus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5c22d54f70f20d8713da94f6c84cf78257ed0f10","datavalue":{"value":"Robert Patterson","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$A0D95E3D-DDA4-4A9F-ACB5-D6C2389D3938","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$A977F0D7-DD8E-4D7D-B2C4-8B75E937FF12","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"e27c4a0bdd67d272c9426126d440c9ea1ff11c7e","datavalue":{"value":"47952602","type":"string"}},"type":"statement","id":"Q56195815$D508BF28-42EB-4C60-B747-08304D5037FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0lcwpakveud6dlzmqmb3u7r9wqs25jj</sha1>
+    </revision>
+    <revision>
+      <id>967513062</id>
+      <parentid>780009362</parentid>
+      <timestamp>2019-06-23T13:33:00Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в липні 2012, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4376" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"nl":{"language":"nl","value":"A New Combination in Linanthus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 2012"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5c22d54f70f20d8713da94f6c84cf78257ed0f10","datavalue":{"value":"Robert Patterson","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$A0D95E3D-DDA4-4A9F-ACB5-D6C2389D3938","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$A977F0D7-DD8E-4D7D-B2C4-8B75E937FF12","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"e27c4a0bdd67d272c9426126d440c9ea1ff11c7e","datavalue":{"value":"47952602","type":"string"}},"type":"statement","id":"Q56195815$D508BF28-42EB-4C60-B747-08304D5037FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5v86jdrtcadcgnk7d02t6ndgcpsdqdv</sha1>
+    </revision>
+    <revision>
+      <id>1193432749</id>
+      <parentid>967513062</parentid>
+      <timestamp>2020-05-29T11:33:29Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Juli 2012 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4471" xml:space="preserve">{"type":"item","id":"Q56195815","labels":{"de":{"language":"de","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"en":{"language":"en","value":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon"},"nl":{"language":"nl","value":"A New Combination in Linanthus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u043f\u043d\u0456 2012"},"de":{"language":"de","value":"im Juli 2012 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"aa78c0cdb35a0e8cc974b6c8bf9eef74c641aca8","datavalue":{"value":"10.3120\/0024-9637-59.3.163","type":"string"}},"type":"statement","id":"Q56195815$76B33D20-3FCA-4B29-8DAE-D28D1EEFCCE9","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"24b8426db546d878eb0939574d71d230a317a1cb","datavalue":{"value":"161435","type":"string"}},"type":"statement","id":"Q56195815$47487986-C266-4102-B859-C7653D58CC0F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$F565F81C-6F9C-4217-9FD3-FB12C0D9690F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fec4d73aed2ed0f96556226846f76697d7f580c8","datavalue":{"value":{"text":"A New Combination in Linanthus (Polemoniaceae) from Idaho and Oregon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56195815$66120F88-0681-4878-843A-91BED08A2B10","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e9c1aad7e23cb6f91a6b14d56f420881cbdd21e8","datavalue":{"value":"59","type":"string"}},"type":"statement","id":"Q56195815$D7E3909C-C95B-4FDD-BBCF-78D86314B8C5","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"19ee2e4c98d9449e66c13bb3320b68cb4aea9fdb","datavalue":{"value":"163","type":"string"}},"type":"statement","id":"Q56195815$2CD79732-B095-44C6-9F4E-936945B16FC3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56195815$0A161D7F-2ECD-489A-9317-0C36826ABC57","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ddbdaa5710a07c091d2266e3461af74c8c251627","datavalue":{"value":{"time":"+2012-07-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56195815$60A4EE8D-8C2B-4446-BBC0-680B1AC36E8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"916778deccc28d3162d9356fa4e0d4c8e8ac4a04","datavalue":{"value":"Joanna L. Schultz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$AB8412CA-74E5-44CA-AF79-47FBAF98DD84","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5c22d54f70f20d8713da94f6c84cf78257ed0f10","datavalue":{"value":"Robert Patterson","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56195815$A0D95E3D-DDA4-4A9F-ACB5-D6C2389D3938","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5965ad18de5f78b52667378317571d4353226b79","datavalue":{"value":{"entity-type":"item","numeric-id":5989477,"id":"Q5989477"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56195815$A977F0D7-DD8E-4D7D-B2C4-8B75E937FF12","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"e27c4a0bdd67d272c9426126d440c9ea1ff11c7e","datavalue":{"value":"47952602","type":"string"}},"type":"statement","id":"Q56195815$D508BF28-42EB-4C60-B747-08304D5037FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>al6tmjwdke1mtrznzue3e9oiao6gw96</sha1>
+    </revision>
+  </page>
+</mediawiki>

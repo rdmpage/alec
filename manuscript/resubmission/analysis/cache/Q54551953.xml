@@ -1,0 +1,134 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q54551953</title>
+    <ns>0</ns>
+    <id>54736180</id>
+    <revision>
+      <id>687788511</id>
+      <timestamp>2018-05-31T06:49:27Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */ #quickstatements; invoked by SourceMD:CreateFromWikispeciesDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2948" xml:space="preserve">{"type":"item","id":"Q54551953","labels":{"en":{"language":"en","value":"Revision of the genus Praxibulus (Orthoptera : Acrididae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"843a4c60cb86cedfb60afeb30c39c3ad83aaa763","datavalue":{"value":"10.1071\/IT9890001","type":"string"}},"type":"statement","id":"Q54551953$FC2348DA-C76C-43ED-A2C1-69653792A293","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$0559A574-CB3A-42EC-B03C-49BE93454E44","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4653de70807aa9e88966ee4dec16a57e6ae09d12","datavalue":{"value":{"text":"Revision of the genus Praxibulus (Orthoptera : Acrididae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54551953$166CBA92-D3E7-4276-9EE7-2A569B2B3736","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$55CCA25A-71D6-4CCF-A477-AF469536A557","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"107e0a04142c7dd493f162226c57d18e5ab57270","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$BF0A032E-3A2F-47E9-926A-2685928B9DFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q54551953$3FADF201-4EC7-4C5C-82D9-69DF6DFEA152","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"698a962f7c382c390636eb547dcad88106f8109f","datavalue":{"value":{"time":"+1989-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54551953$2B714D49-6E95-499F-A513-0562DEFF690F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a1b57545994e2f241b525b9f87fab306c2a8d945","datavalue":{"value":{"entity-type":"item","numeric-id":15298119,"id":"Q15298119"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$EDFB49F1-AA40-41C6-BB36-85359F2CAE74","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f6c48db92e8e19e3cee17cb339f4bc73954038b","datavalue":{"value":"KH L Key","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54551953$737879BD-2D0A-400D-B4EE-0AA854DED863","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9yj2dh61iv4yxpdcp1buo9zgwt0mlo8</sha1>
+    </revision>
+    <revision>
+      <id>706872871</id>
+      <parentid>687788511</parentid>
+      <timestamp>2018-07-06T04:47:05Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3071" xml:space="preserve">{"type":"item","id":"Q54551953","labels":{"en":{"language":"en","value":"Revision of the genus Praxibulus (Orthoptera : Acrididae)"},"nl":{"language":"nl","value":"Revision of the genus Praxibulus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"843a4c60cb86cedfb60afeb30c39c3ad83aaa763","datavalue":{"value":"10.1071\/IT9890001","type":"string"}},"type":"statement","id":"Q54551953$FC2348DA-C76C-43ED-A2C1-69653792A293","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$0559A574-CB3A-42EC-B03C-49BE93454E44","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4653de70807aa9e88966ee4dec16a57e6ae09d12","datavalue":{"value":{"text":"Revision of the genus Praxibulus (Orthoptera : Acrididae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54551953$166CBA92-D3E7-4276-9EE7-2A569B2B3736","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$55CCA25A-71D6-4CCF-A477-AF469536A557","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"107e0a04142c7dd493f162226c57d18e5ab57270","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$BF0A032E-3A2F-47E9-926A-2685928B9DFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q54551953$3FADF201-4EC7-4C5C-82D9-69DF6DFEA152","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"698a962f7c382c390636eb547dcad88106f8109f","datavalue":{"value":{"time":"+1989-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54551953$2B714D49-6E95-499F-A513-0562DEFF690F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a1b57545994e2f241b525b9f87fab306c2a8d945","datavalue":{"value":{"entity-type":"item","numeric-id":15298119,"id":"Q15298119"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$EDFB49F1-AA40-41C6-BB36-85359F2CAE74","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f6c48db92e8e19e3cee17cb339f4bc73954038b","datavalue":{"value":"KH L Key","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54551953$737879BD-2D0A-400D-B4EE-0AA854DED863","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1q1z7xiyh4ebh48g792ifx9xpauiayu</sha1>
+    </revision>
+    <revision>
+      <id>974290880</id>
+      <parentid>706872871</parentid>
+      <timestamp>2019-07-05T02:40:24Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1989, [[:toollabs:quickstatements/#/batch/15391|batch #15391]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3270" xml:space="preserve">{"type":"item","id":"Q54551953","labels":{"en":{"language":"en","value":"Revision of the genus Praxibulus (Orthoptera : Acrididae)"},"nl":{"language":"nl","value":"Revision of the genus Praxibulus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1989"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"843a4c60cb86cedfb60afeb30c39c3ad83aaa763","datavalue":{"value":"10.1071\/IT9890001","type":"string"}},"type":"statement","id":"Q54551953$FC2348DA-C76C-43ED-A2C1-69653792A293","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$0559A574-CB3A-42EC-B03C-49BE93454E44","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4653de70807aa9e88966ee4dec16a57e6ae09d12","datavalue":{"value":{"text":"Revision of the genus Praxibulus (Orthoptera : Acrididae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54551953$166CBA92-D3E7-4276-9EE7-2A569B2B3736","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$55CCA25A-71D6-4CCF-A477-AF469536A557","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"107e0a04142c7dd493f162226c57d18e5ab57270","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$BF0A032E-3A2F-47E9-926A-2685928B9DFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q54551953$3FADF201-4EC7-4C5C-82D9-69DF6DFEA152","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"698a962f7c382c390636eb547dcad88106f8109f","datavalue":{"value":{"time":"+1989-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54551953$2B714D49-6E95-499F-A513-0562DEFF690F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a1b57545994e2f241b525b9f87fab306c2a8d945","datavalue":{"value":{"entity-type":"item","numeric-id":15298119,"id":"Q15298119"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$EDFB49F1-AA40-41C6-BB36-85359F2CAE74","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f6c48db92e8e19e3cee17cb339f4bc73954038b","datavalue":{"value":"KH L Key","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54551953$737879BD-2D0A-400D-B4EE-0AA854DED863","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1knhb0jf68lyl1k89i218skykkhkpt8</sha1>
+    </revision>
+    <revision>
+      <id>1140901593</id>
+      <parentid>974290880</parentid>
+      <timestamp>2020-03-22T21:32:22Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1989 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/27096|batch #27096]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3365" xml:space="preserve">{"type":"item","id":"Q54551953","labels":{"en":{"language":"en","value":"Revision of the genus Praxibulus (Orthoptera : Acrididae)"},"nl":{"language":"nl","value":"Revision of the genus Praxibulus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1989"},"de":{"language":"de","value":"im Jahr 1989 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"843a4c60cb86cedfb60afeb30c39c3ad83aaa763","datavalue":{"value":"10.1071\/IT9890001","type":"string"}},"type":"statement","id":"Q54551953$FC2348DA-C76C-43ED-A2C1-69653792A293","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$0559A574-CB3A-42EC-B03C-49BE93454E44","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4653de70807aa9e88966ee4dec16a57e6ae09d12","datavalue":{"value":{"text":"Revision of the genus Praxibulus (Orthoptera : Acrididae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54551953$166CBA92-D3E7-4276-9EE7-2A569B2B3736","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$55CCA25A-71D6-4CCF-A477-AF469536A557","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"107e0a04142c7dd493f162226c57d18e5ab57270","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$BF0A032E-3A2F-47E9-926A-2685928B9DFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q54551953$3FADF201-4EC7-4C5C-82D9-69DF6DFEA152","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"698a962f7c382c390636eb547dcad88106f8109f","datavalue":{"value":{"time":"+1989-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54551953$2B714D49-6E95-499F-A513-0562DEFF690F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a1b57545994e2f241b525b9f87fab306c2a8d945","datavalue":{"value":{"entity-type":"item","numeric-id":15298119,"id":"Q15298119"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$EDFB49F1-AA40-41C6-BB36-85359F2CAE74","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f6c48db92e8e19e3cee17cb339f4bc73954038b","datavalue":{"value":"KH L Key","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54551953$737879BD-2D0A-400D-B4EE-0AA854DED863","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3ob57tbuwt2cy7m58hjkydfnc8b40hn</sha1>
+    </revision>
+    <revision>
+      <id>1287487904</id>
+      <parentid>1140901593</parentid>
+      <timestamp>2020-10-06T16:50:33Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: e27785b4-04ea-4ef6-98af-55fabeed4d9b, #quickstatements; #temporary_batch_1602002696870</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3644" xml:space="preserve">{"type":"item","id":"Q54551953","labels":{"en":{"language":"en","value":"Revision of the genus Praxibulus (Orthoptera : Acrididae)"},"nl":{"language":"nl","value":"Revision of the genus Praxibulus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1989"},"de":{"language":"de","value":"im Jahr 1989 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"843a4c60cb86cedfb60afeb30c39c3ad83aaa763","datavalue":{"value":"10.1071\/IT9890001","type":"string"}},"type":"statement","id":"Q54551953$FC2348DA-C76C-43ED-A2C1-69653792A293","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$0559A574-CB3A-42EC-B03C-49BE93454E44","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4653de70807aa9e88966ee4dec16a57e6ae09d12","datavalue":{"value":{"text":"Revision of the genus Praxibulus (Orthoptera : Acrididae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54551953$166CBA92-D3E7-4276-9EE7-2A569B2B3736","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$55CCA25A-71D6-4CCF-A477-AF469536A557","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"107e0a04142c7dd493f162226c57d18e5ab57270","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$BF0A032E-3A2F-47E9-926A-2685928B9DFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q54551953$3FADF201-4EC7-4C5C-82D9-69DF6DFEA152","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"698a962f7c382c390636eb547dcad88106f8109f","datavalue":{"value":{"time":"+1989-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54551953$2B714D49-6E95-499F-A513-0562DEFF690F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a1b57545994e2f241b525b9f87fab306c2a8d945","datavalue":{"value":{"entity-type":"item","numeric-id":15298119,"id":"Q15298119"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$EDFB49F1-AA40-41C6-BB36-85359F2CAE74","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f6c48db92e8e19e3cee17cb339f4bc73954038b","datavalue":{"value":"KH L Key","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54551953$737879BD-2D0A-400D-B4EE-0AA854DED863","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"09c4d603d970d1e5062242ef901f417449fe6bc1","datavalue":{"value":"e27785b4-04ea-4ef6-98af-55fabeed4d9b","type":"string"}},"type":"statement","id":"Q54551953$2D061956-4148-451B-B0F2-B575A17FE23C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7fwzrhee2h7ds1ecp34c38kvvose03j</sha1>
+    </revision>
+    <revision>
+      <id>1550074356</id>
+      <parentid>1287487904</parentid>
+      <timestamp>2021-12-25T17:04:23Z</timestamp>
+      <contributor>
+        <username>Thieol</username>
+        <id>37861</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||fr */ setting description to 'article scientifique de 1989' for language [fr]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3706" xml:space="preserve">{"type":"item","id":"Q54551953","labels":{"en":{"language":"en","value":"Revision of the genus Praxibulus (Orthoptera : Acrididae)"},"nl":{"language":"nl","value":"Revision of the genus Praxibulus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1989"},"de":{"language":"de","value":"im Jahr 1989 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"fr":{"language":"fr","value":"article scientifique de 1989"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"843a4c60cb86cedfb60afeb30c39c3ad83aaa763","datavalue":{"value":"10.1071\/IT9890001","type":"string"}},"type":"statement","id":"Q54551953$FC2348DA-C76C-43ED-A2C1-69653792A293","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$0559A574-CB3A-42EC-B03C-49BE93454E44","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4653de70807aa9e88966ee4dec16a57e6ae09d12","datavalue":{"value":{"text":"Revision of the genus Praxibulus (Orthoptera : Acrididae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q54551953$166CBA92-D3E7-4276-9EE7-2A569B2B3736","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$55CCA25A-71D6-4CCF-A477-AF469536A557","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"107e0a04142c7dd493f162226c57d18e5ab57270","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q54551953$BF0A032E-3A2F-47E9-926A-2685928B9DFF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0cb10c03d7ed6b77297421fc9b82339df1350d48","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q54551953$3FADF201-4EC7-4C5C-82D9-69DF6DFEA152","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"698a962f7c382c390636eb547dcad88106f8109f","datavalue":{"value":{"time":"+1989-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q54551953$2B714D49-6E95-499F-A513-0562DEFF690F","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a1b57545994e2f241b525b9f87fab306c2a8d945","datavalue":{"value":{"entity-type":"item","numeric-id":15298119,"id":"Q15298119"},"type":"wikibase-entityid"}},"type":"statement","id":"Q54551953$EDFB49F1-AA40-41C6-BB36-85359F2CAE74","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3f6c48db92e8e19e3cee17cb339f4bc73954038b","datavalue":{"value":"KH L Key","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q54551953$737879BD-2D0A-400D-B4EE-0AA854DED863","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"09c4d603d970d1e5062242ef901f417449fe6bc1","datavalue":{"value":"e27785b4-04ea-4ef6-98af-55fabeed4d9b","type":"string"}},"type":"statement","id":"Q54551953$2D061956-4148-451B-B0F2-B575A17FE23C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0vbbl9dmpzakxtd6mclh5m2u3gmunts</sha1>
+    </revision>
+  </page>
+</mediawiki>

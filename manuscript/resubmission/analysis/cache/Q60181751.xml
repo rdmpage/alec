@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q60181751</title>
+    <ns>0</ns>
+    <id>60059426</id>
+    <revision>
+      <id>821312184</id>
+      <timestamp>2018-12-27T17:06:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q60181751","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>2ubzbipneq8qjs9wrstlxbqmvyp5icv</sha1>
+    </revision>
+    <revision>
+      <id>821312188</id>
+      <parentid>821312184</parentid>
+      <timestamp>2018-12-27T17:06:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="205" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dm26d5k6rm1cdmogwxy32o24fcg73s1</sha1>
+    </revision>
+    <revision>
+      <id>821312192</id>
+      <parentid>821312188</parentid>
+      <timestamp>2018-12-27T17:06:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="309" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>hgnbmot19v79d47hl78f2iw6vz6c7nh</sha1>
+    </revision>
+    <revision>
+      <id>821312198</id>
+      <parentid>821312192</parentid>
+      <timestamp>2018-12-27T17:06:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.11646/PHYTOTAXA.333.1.10</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="577" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c7qxzaub1e3wikw0gr8i8ri91x23tp8</sha1>
+    </revision>
+    <revision>
+      <id>821312204</id>
+      <parentid>821312198</parentid>
+      <timestamp>2018-12-27T17:06:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="886" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sx8wxcg2s8zm8o9o98z21qnqm0rl15e</sha1>
+    </revision>
+    <revision>
+      <id>821312208</id>
+      <parentid>821312204</parentid>
+      <timestamp>2018-12-27T17:06:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1233" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lbtume9mfxalkop7u68ng99jikycsfs</sha1>
+    </revision>
+    <revision>
+      <id>821312213</id>
+      <parentid>821312208</parentid>
+      <timestamp>2018-12-27T17:06:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 333</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1477" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j8oru9ishmhf5hrydnoupb5h01t1yju</sha1>
+    </revision>
+    <revision>
+      <id>821312221</id>
+      <parentid>821312213</parentid>
+      <timestamp>2018-12-27T17:06:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 124–130</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1730" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6riloqeqnwoieebf8cnmjzn7fgz9gkd</sha1>
+    </revision>
+    <revision>
+      <id>821312225</id>
+      <parentid>821312221</parentid>
+      <timestamp>2018-12-27T17:06:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1972" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a8n582zh15xtjohmkvju5kdee0toabh</sha1>
+    </revision>
+    <revision>
+      <id>821312233</id>
+      <parentid>821312225</parentid>
+      <timestamp>2018-12-27T17:06:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 5 January 2018</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2352" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jbgp010fiukt9iu7prtnr0oc19yggjw</sha1>
+    </revision>
+    <revision>
+      <id>821312240</id>
+      <parentid>821312233</parentid>
+      <timestamp>2018-12-27T17:06:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Metin Armağan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2613" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1ql5v36dasrzs75k5xhtr1mwm02ix1j</sha1>
+    </revision>
+    <revision>
+      <id>821312249</id>
+      <parentid>821312240</parentid>
+      <timestamp>2018-12-27T17:06:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2799" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kdnanznd4ywfy8tazeg1bnkyl4dtvcu</sha1>
+    </revision>
+    <revision>
+      <id>821312256</id>
+      <parentid>821312249</parentid>
+      <timestamp>2018-12-27T17:06:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4807825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3110" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$4AE02E07-6FED-4163-8D31-CBF34873A4B8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9n941nn71rf0ghec0jvp2iwveia491c</sha1>
+    </revision>
+    <revision>
+      <id>906189996</id>
+      <parentid>821312256</parentid>
+      <timestamp>2019-04-07T15:13:55Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3271" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"nl":{"language":"nl","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$4AE02E07-6FED-4163-8D31-CBF34873A4B8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9rou7tib011yy08xtyq084xn4d54v65</sha1>
+    </revision>
+    <revision>
+      <id>959710083</id>
+      <parentid>906189996</parentid>
+      <timestamp>2019-06-11T00:59:10Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в січні 2018, [[:toollabs:quickstatements/#/batch/13825|batch #13825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3501" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"nl":{"language":"nl","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 2018"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$4AE02E07-6FED-4163-8D31-CBF34873A4B8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3t1hf4pmfo4nprmay41yi966jldqmtb</sha1>
+    </revision>
+    <revision>
+      <id>1134099114</id>
+      <parentid>959710083</parentid>
+      <timestamp>2020-03-11T20:03:29Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 2018 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/26345|batch #26345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3598" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"nl":{"language":"nl","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 2018"},"de":{"language":"de","value":"im Januar 2018 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$4AE02E07-6FED-4163-8D31-CBF34873A4B8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>03upwq7tbb4yqqvbnwt5jall2o1fmx0</sha1>
+    </revision>
+    <revision>
+      <id>1185661247</id>
+      <parentid>1134099114</parentid>
+      <timestamp>2020-05-20T14:05:53Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], [[:toollabs:quickstatements/#/batch/34345|batch #34345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3909" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"nl":{"language":"nl","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 2018"},"de":{"language":"de","value":"im Januar 2018 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$4AE02E07-6FED-4163-8D31-CBF34873A4B8","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$AAE055B9-20A2-4D03-95EC-CA2A12ED2BC5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>liil318rxdm2otglucl06igwpxse6ec</sha1>
+    </revision>
+    <revision>
+      <id>1490501476</id>
+      <parentid>1185661247</parentid>
+      <timestamp>2021-08-31T15:13:37Z</timestamp>
+      <contributor>
+        <username>YoaR</username>
+        <id>2858362</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ast */ artículu científicu, [[:toollabs:quickstatements/#/batch/63030|batch #63030]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3974" xml:space="preserve">{"type":"item","id":"Q60181751","labels":{"de":{"language":"de","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"en":{"language":"en","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"},"nl":{"language":"nl","value":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0456\u0447\u043d\u0456 2018"},"de":{"language":"de","value":"im Januar 2018 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"46a4d3ac389934fa2d86b46ccb108f51df073e62","datavalue":{"value":"10.11646\/PHYTOTAXA.333.1.10","type":"string"}},"type":"statement","id":"Q60181751$85454757-F801-4B93-B03D-F970B2A0951F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$64E843EE-6453-4CC3-A82C-867447B4519F","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7ced7e4cb8db75a67db2745227ed3ae8d5a4308b","datavalue":{"value":{"text":"Pedicularis munzurdaghensis (Orobanchaceae), a new species from Turkey","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181751$B0E5DF29-397C-4860-A7FB-D10828702209","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"03989a36f4925f39495e7f8c2344b2ea62fe3e76","datavalue":{"value":"333","type":"string"}},"type":"statement","id":"Q60181751$B83E512D-DAC1-4CA7-B346-45AE76C350B0","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9ed61d5c3fbcfdb83595ce44b60c59aa2975d302","datavalue":{"value":"124\u2013130","type":"string"}},"type":"statement","id":"Q60181751$F4DFE671-C24D-493D-8158-AEF37410889D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181751$51754F38-E3F0-4B72-A174-B41265B7D2A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f11ad12af52987a0772d2d282d8e4a72798876b","datavalue":{"value":{"time":"+2018-01-05T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181751$18DEFD1B-0B21-4864-A229-FF11FE712703","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"64e08c99a57084ac092b383f12d34522b758c7b7","datavalue":{"value":"Metin Arma\u011fan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181751$E0CAFCA7-CFB6-4BA1-ACA1-C1708C646383","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$4AE02E07-6FED-4163-8D31-CBF34873A4B8","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181751$AAE055B9-20A2-4D03-95EC-CA2A12ED2BC5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3wvyhsp60bpxk43n8vbgot1se02we1z</sha1>
+    </revision>
+  </page>
+</mediawiki>

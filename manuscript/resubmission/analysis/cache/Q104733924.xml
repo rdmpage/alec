@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104733924</title>
+    <ns>0</ns>
+    <id>100157983</id>
+    <revision>
+      <id>1337303834</id>
+      <timestamp>2021-01-08T19:11:09Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1610132965586</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4089" xml:space="preserve">{"type":"item","id":"Q104733924","labels":{"en":{"language":"en","value":"Two New Species of the Genus Mansoniella Poppius (Hemiptera: Miridae)"},"zh":{"language":"zh","value":"\u66fc\u76f2\u877d\u5c6c\u4e4b\u5169\u65b0\u7a2e (\u534a\u7fc5\u76ee\uff1a\u76f2\u877d\u79d1)"}},"descriptions":[],"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2162105ae229eed84756e9942e442787d5d0e09e","datavalue":{"value":{"text":"Two New Species of the Genus Mansoniella Poppius (Hemiptera: Miridae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104733924$495BC3B9-596E-42C1-AD67-04C112269516","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fc8d5d18c6f00cba9eeba188f642e0925f33d386","datavalue":{"value":{"text":"\u66fc\u76f2\u877d\u5c6c\u4e4b\u5169\u65b0\u7a2e (\u534a\u7fc5\u76ee\uff1a\u76f2\u877d\u79d1)","language":"zh"},"type":"monolingualtext"}},"type":"statement","id":"Q104733924$A361A23F-58B7-4C90-B346-ACE738226372","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733924$35DA6323-265A-4389-A79C-F9682EE4C5AB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6e4c72503964f214691496be01a2a67e98a75530","datavalue":{"value":{"time":"+2002-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104733924$493225A6-42C1-4D1D-A2F8-1581742B54A1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7533ae525b6637edc559bf980dd3c64aa71d1c54","datavalue":{"value":"\u6797\u653f\u884c(Cheng-Shing Lin)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104733924$20C0EF61-5ECD-4171-913B-40967FD79536","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4ee6b9b863b3d63528eed153b886402d785efc53","datavalue":{"value":{"entity-type":"item","numeric-id":21385653,"id":"Q21385653"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733924$D87D5714-6EA9-4AA0-AA84-2C71A5C499AB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1a9c40226f0157528f8dbdbb6f340524726ee219","datavalue":{"value":"22","type":"string"}},"type":"statement","id":"Q104733924$B03C10A0-6E36-4DE6-8D80-032772EF45C3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q104733924$E41EE320-2479-4DE3-8C69-D9950A9139FE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ae8a287d16f563a75fb43adda2c3801e43300b1a","datavalue":{"value":"371-380","type":"string"}},"type":"statement","id":"Q104733924$7212FAC5-13CA-440E-8CF0-33277322D5D7","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ada47c351b921aa0fcf5acee9e1bc3eb0af15f5f","datavalue":{"value":"10.6661\/TESFE.2002030","type":"string"}},"type":"statement","id":"Q104733924$ED571908-CCD9-48FF-91F9-DE1C3052CF9F","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"5d115b7e1ad0d74ef0711848f7f0c054b4ea3b68","datavalue":{"value":"http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol22\/No4\/TESFE.2002030.PDF","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q104733924$FED0DDE5-5B2C-4910-8CAB-866911064882","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rj649zx8zo3glqfjfy3x9ax751lqxol</sha1>
+    </revision>
+    <revision>
+      <id>1337471906</id>
+      <parentid>1337303834</parentid>
+      <timestamp>2021-01-09T01:46:52Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1065]]: https://web.archive.org/web/20180423141739/http://entsocjournal.yabee.com.tw/AlldataPos/JournalPos/Vol22/No4/TESFE.2002030.PDF, #quickstatements; #temporary_batch_1610156554850</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4376" xml:space="preserve">{"type":"item","id":"Q104733924","labels":{"en":{"language":"en","value":"Two New Species of the Genus Mansoniella Poppius (Hemiptera: Miridae)"},"zh":{"language":"zh","value":"\u66fc\u76f2\u877d\u5c6c\u4e4b\u5169\u65b0\u7a2e (\u534a\u7fc5\u76ee\uff1a\u76f2\u877d\u79d1)"}},"descriptions":[],"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2162105ae229eed84756e9942e442787d5d0e09e","datavalue":{"value":{"text":"Two New Species of the Genus Mansoniella Poppius (Hemiptera: Miridae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104733924$495BC3B9-596E-42C1-AD67-04C112269516","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fc8d5d18c6f00cba9eeba188f642e0925f33d386","datavalue":{"value":{"text":"\u66fc\u76f2\u877d\u5c6c\u4e4b\u5169\u65b0\u7a2e (\u534a\u7fc5\u76ee\uff1a\u76f2\u877d\u79d1)","language":"zh"},"type":"monolingualtext"}},"type":"statement","id":"Q104733924$A361A23F-58B7-4C90-B346-ACE738226372","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733924$35DA6323-265A-4389-A79C-F9682EE4C5AB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6e4c72503964f214691496be01a2a67e98a75530","datavalue":{"value":{"time":"+2002-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104733924$493225A6-42C1-4D1D-A2F8-1581742B54A1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7533ae525b6637edc559bf980dd3c64aa71d1c54","datavalue":{"value":"\u6797\u653f\u884c(Cheng-Shing Lin)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104733924$20C0EF61-5ECD-4171-913B-40967FD79536","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4ee6b9b863b3d63528eed153b886402d785efc53","datavalue":{"value":{"entity-type":"item","numeric-id":21385653,"id":"Q21385653"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733924$D87D5714-6EA9-4AA0-AA84-2C71A5C499AB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1a9c40226f0157528f8dbdbb6f340524726ee219","datavalue":{"value":"22","type":"string"}},"type":"statement","id":"Q104733924$B03C10A0-6E36-4DE6-8D80-032772EF45C3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q104733924$E41EE320-2479-4DE3-8C69-D9950A9139FE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ae8a287d16f563a75fb43adda2c3801e43300b1a","datavalue":{"value":"371-380","type":"string"}},"type":"statement","id":"Q104733924$7212FAC5-13CA-440E-8CF0-33277322D5D7","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ada47c351b921aa0fcf5acee9e1bc3eb0af15f5f","datavalue":{"value":"10.6661\/TESFE.2002030","type":"string"}},"type":"statement","id":"Q104733924$ED571908-CCD9-48FF-91F9-DE1C3052CF9F","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"5d115b7e1ad0d74ef0711848f7f0c054b4ea3b68","datavalue":{"value":"http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol22\/No4\/TESFE.2002030.PDF","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"614b3ccb5303554e0b0e40344611579a92befb14","datavalue":{"value":"https:\/\/web.archive.org\/web\/20180423141739\/http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol22\/No4\/TESFE.2002030.PDF","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q104733924$FED0DDE5-5B2C-4910-8CAB-866911064882","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>e6uflu8ybv8pjvbc5qt3mwj5szwtyv3</sha1>
+    </revision>
+    <revision>
+      <id>1435875524</id>
+      <parentid>1337471906</parentid>
+      <timestamp>2021-06-05T23:50:03Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4536" xml:space="preserve">{"type":"item","id":"Q104733924","labels":{"en":{"language":"en","value":"Two New Species of the Genus Mansoniella Poppius (Hemiptera: Miridae)"},"zh":{"language":"zh","value":"\u66fc\u76f2\u877d\u5c6c\u4e4b\u5169\u65b0\u7a2e (\u534a\u7fc5\u76ee\uff1a\u76f2\u877d\u79d1)"},"nl":{"language":"nl","value":"Two New Species of the Genus Mansoniella Poppius (Hemiptera: Miridae)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"2162105ae229eed84756e9942e442787d5d0e09e","datavalue":{"value":{"text":"Two New Species of the Genus Mansoniella Poppius (Hemiptera: Miridae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104733924$495BC3B9-596E-42C1-AD67-04C112269516","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P1476","hash":"fc8d5d18c6f00cba9eeba188f642e0925f33d386","datavalue":{"value":{"text":"\u66fc\u76f2\u877d\u5c6c\u4e4b\u5169\u65b0\u7a2e (\u534a\u7fc5\u76ee\uff1a\u76f2\u877d\u79d1)","language":"zh"},"type":"monolingualtext"}},"type":"statement","id":"Q104733924$A361A23F-58B7-4C90-B346-ACE738226372","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733924$35DA6323-265A-4389-A79C-F9682EE4C5AB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"6e4c72503964f214691496be01a2a67e98a75530","datavalue":{"value":{"time":"+2002-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104733924$493225A6-42C1-4D1D-A2F8-1581742B54A1","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7533ae525b6637edc559bf980dd3c64aa71d1c54","datavalue":{"value":"\u6797\u653f\u884c(Cheng-Shing Lin)","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104733924$20C0EF61-5ECD-4171-913B-40967FD79536","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"4ee6b9b863b3d63528eed153b886402d785efc53","datavalue":{"value":{"entity-type":"item","numeric-id":21385653,"id":"Q21385653"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104733924$D87D5714-6EA9-4AA0-AA84-2C71A5C499AB","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1a9c40226f0157528f8dbdbb6f340524726ee219","datavalue":{"value":"22","type":"string"}},"type":"statement","id":"Q104733924$B03C10A0-6E36-4DE6-8D80-032772EF45C3","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q104733924$E41EE320-2479-4DE3-8C69-D9950A9139FE","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ae8a287d16f563a75fb43adda2c3801e43300b1a","datavalue":{"value":"371-380","type":"string"}},"type":"statement","id":"Q104733924$7212FAC5-13CA-440E-8CF0-33277322D5D7","rank":"normal"}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ada47c351b921aa0fcf5acee9e1bc3eb0af15f5f","datavalue":{"value":"10.6661\/TESFE.2002030","type":"string"}},"type":"statement","id":"Q104733924$ED571908-CCD9-48FF-91F9-DE1C3052CF9F","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"5d115b7e1ad0d74ef0711848f7f0c054b4ea3b68","datavalue":{"value":"http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol22\/No4\/TESFE.2002030.PDF","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"614b3ccb5303554e0b0e40344611579a92befb14","datavalue":{"value":"https:\/\/web.archive.org\/web\/20180423141739\/http:\/\/entsocjournal.yabee.com.tw\/AlldataPos\/JournalPos\/Vol22\/No4\/TESFE.2002030.PDF","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q104733924$FED0DDE5-5B2C-4910-8CAB-866911064882","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tb6iaiiyckzhctrn5zxlxmgcpeczugu</sha1>
+    </revision>
+  </page>
+</mediawiki>

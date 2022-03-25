@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56009759</title>
+    <ns>0</ns>
+    <id>55959514</id>
+    <revision>
+      <id>722461305</id>
+      <timestamp>2018-08-07T14:21:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56009759","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>cv0t5ly3m0fvt5q12wfl0idcs8j77gd</sha1>
+    </revision>
+    <revision>
+      <id>722461307</id>
+      <parentid>722461305</parentid>
+      <timestamp>2018-08-07T14:21:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Descriptions of new Saturniidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="166" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>omx8gk7cnqbpl62fznbrfxp4f697x6i</sha1>
+    </revision>
+    <revision>
+      <id>722461310</id>
+      <parentid>722461307</parentid>
+      <timestamp>2018-08-07T14:21:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Descriptions of new Saturniidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="231" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>bcmoduvxitkmshi20ad2i7quxuaxi7v</sha1>
+    </revision>
+    <revision>
+      <id>722461313</id>
+      <parentid>722461310</parentid>
+      <timestamp>2018-08-07T14:21:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.1691</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="493" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lda2psuw4yl9evddmszugshzf5nx2k4</sha1>
+    </revision>
+    <revision>
+      <id>722461316</id>
+      <parentid>722461313</parentid>
+      <timestamp>2018-08-07T14:21:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 95514</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="741" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oo0hmbi1x6pt3f8ud85znrrrz016znf</sha1>
+    </revision>
+    <revision>
+      <id>722461318</id>
+      <parentid>722461316</parentid>
+      <timestamp>2018-08-07T14:21:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1050" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>as1h1eetv1gpraowmv09qnwrefimhbb</sha1>
+    </revision>
+    <revision>
+      <id>722461322</id>
+      <parentid>722461318</parentid>
+      <timestamp>2018-08-07T14:21:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Descriptions of new Saturniidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1358" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>66zm4wqt0zya80yb9s11ue0pkklukxq</sha1>
+    </revision>
+    <revision>
+      <id>722461325</id>
+      <parentid>722461322</parentid>
+      <timestamp>2018-08-07T14:21:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 18</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1601" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h0jg3diwz7pregnq9p6mytvpz2ypcqa</sha1>
+    </revision>
+    <revision>
+      <id>722461328</id>
+      <parentid>722461325</parentid>
+      <timestamp>2018-08-07T14:21:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 129–134</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1854" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0mgry4vs1q4ltif7yasrbugatcsz38j</sha1>
+    </revision>
+    <revision>
+      <id>722461335</id>
+      <parentid>722461328</parentid>
+      <timestamp>2018-08-07T14:21:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2233" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hukoez2mz69y6p9k0hf4f2przsehmtm</sha1>
+    </revision>
+    <revision>
+      <id>722461342</id>
+      <parentid>722461335</parentid>
+      <timestamp>2018-08-07T14:21:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q7064924]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2544" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ntqfnvu38nwxcpn37jtalek6nvygjk5</sha1>
+    </revision>
+    <revision>
+      <id>738396584</id>
+      <parentid>722461342</parentid>
+      <timestamp>2018-09-02T06:09:59Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 3109665, According to [[Property:P5315]]=95514</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2792" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a5696303e6ff670e921760691355fc313ba30433","datavalue":{"value":"3109665","type":"string"}},"type":"statement","id":"Q56009759$259AC5F5-A6FE-4EA3-BD08-83DC7DEF3D24","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p6fkma8s4f0soobwm9oa9qmey08e73a</sha1>
+    </revision>
+    <revision>
+      <id>784385814</id>
+      <parentid>738396584</parentid>
+      <timestamp>2018-11-08T00:21:53Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2914" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"},"nl":{"language":"nl","value":"Descriptions of new Saturniidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a5696303e6ff670e921760691355fc313ba30433","datavalue":{"value":"3109665","type":"string"}},"type":"statement","id":"Q56009759$259AC5F5-A6FE-4EA3-BD08-83DC7DEF3D24","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>274wtpo5x9vh50ofts6gohqyv2f60i0</sha1>
+    </revision>
+    <revision>
+      <id>952850621</id>
+      <parentid>784385814</parentid>
+      <timestamp>2019-05-31T12:34:09Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559270164286; Based on 1911 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3221" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"},"nl":{"language":"nl","value":"Descriptions of new Saturniidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a5696303e6ff670e921760691355fc313ba30433","datavalue":{"value":"3109665","type":"string"}},"type":"statement","id":"Q56009759$259AC5F5-A6FE-4EA3-BD08-83DC7DEF3D24","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$6AE67420-4012-451B-AB63-6AE346B2AC81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s7aop6e6uj3brrrrcly1rn3mec9qmcq</sha1>
+    </revision>
+    <revision>
+      <id>952850651</id>
+      <parentid>952850621</parentid>
+      <timestamp>2019-05-31T12:34:14Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559270164286</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3464" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"},"nl":{"language":"nl","value":"Descriptions of new Saturniidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a5696303e6ff670e921760691355fc313ba30433","datavalue":{"value":"3109665","type":"string"}},"type":"statement","id":"Q56009759$259AC5F5-A6FE-4EA3-BD08-83DC7DEF3D24","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56009759$6AE67420-4012-451B-AB63-6AE346B2AC81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h2wtj9btywntqopdbqzpjcbkft033nn</sha1>
+    </revision>
+    <revision>
+      <id>952850667</id>
+      <parentid>952850651</parentid>
+      <timestamp>2019-05-31T12:34:16Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559270164286</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3680" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"},"nl":{"language":"nl","value":"Descriptions of new Saturniidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a5696303e6ff670e921760691355fc313ba30433","datavalue":{"value":"3109665","type":"string"}},"type":"statement","id":"Q56009759$259AC5F5-A6FE-4EA3-BD08-83DC7DEF3D24","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56009759$6AE67420-4012-451B-AB63-6AE346B2AC81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>piddtxcl4krlyqsc2w7zgghvwr5yixe</sha1>
+    </revision>
+    <revision>
+      <id>974105531</id>
+      <parentid>952850667</parentid>
+      <timestamp>2019-07-04T15:49:58Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1911, [[:toollabs:quickstatements/#/batch/15343|batch #15343]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3879" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"},"nl":{"language":"nl","value":"Descriptions of new Saturniidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1911"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a5696303e6ff670e921760691355fc313ba30433","datavalue":{"value":"3109665","type":"string"}},"type":"statement","id":"Q56009759$259AC5F5-A6FE-4EA3-BD08-83DC7DEF3D24","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56009759$6AE67420-4012-451B-AB63-6AE346B2AC81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hulxcaoojffn8z5ucwxabfuwsd7amwa</sha1>
+    </revision>
+    <revision>
+      <id>1105845448</id>
+      <parentid>974105531</parentid>
+      <timestamp>2020-01-28T20:51:33Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1911 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25456|batch #25456]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3976" xml:space="preserve">{"type":"item","id":"Q56009759","labels":{"de":{"language":"de","value":"Descriptions of new Saturniidae"},"en":{"language":"en","value":"Descriptions of new Saturniidae"},"nl":{"language":"nl","value":"Descriptions of new Saturniidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1911"},"de":{"language":"de","value":"im Januar 1911 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f7437ed80f14a37dfdd88dcfbe0f856d5d0bd541","datavalue":{"value":"10.5962\/BHL.PART.1691","type":"string"}},"type":"statement","id":"Q56009759$01248AA6-420A-43E1-AB9F-CB5BBA727DC3","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"c9f95974637a8b5609d8580ef308d8eb79790476","datavalue":{"value":"95514","type":"string"}},"type":"statement","id":"Q56009759$2E8599A9-3B8A-4A52-910D-536ED61FD260","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$47D1AE8E-1964-4253-9ADA-2389D0D69967","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9672523c66144d200828d71dd1e179f92860a0b5","datavalue":{"value":{"text":"Descriptions of new Saturniidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56009759$7AB6DDEE-3FE8-433E-A837-90F4314CEE4A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"eca62e4011791f24b6e749579ba2875b454e235f","datavalue":{"value":"18","type":"string"}},"type":"statement","id":"Q56009759$09AA3D68-8E3D-41E5-A866-95517912E59C","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b8b8e38cc8074f4a17793ea0b5a3901b7495908a","datavalue":{"value":"129\u2013134","type":"string"}},"type":"statement","id":"Q56009759$775369B1-B52B-4C49-8EE0-9BF7D5A0E468","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"da178a80b7c7bea56da6ee6e56135d9c9c9bad84","datavalue":{"value":{"time":"+1911-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56009759$7B1175C2-36C1-4EA6-A3E1-1ECA1F26E056","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56009759$18225F94-B3D4-4586-8282-AE7D81AD4F3D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"a5696303e6ff670e921760691355fc313ba30433","datavalue":{"value":"3109665","type":"string"}},"type":"statement","id":"Q56009759$259AC5F5-A6FE-4EA3-BD08-83DC7DEF3D24","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56009759$6AE67420-4012-451B-AB63-6AE346B2AC81","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>to6sf4swvu3s8ypdx34reeelqswo527</sha1>
+    </revision>
+  </page>
+</mediawiki>

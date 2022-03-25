@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56090409</title>
+    <ns>0</ns>
+    <id>56036554</id>
+    <revision>
+      <id>726059732</id>
+      <timestamp>2018-08-15T00:51:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56090409","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ng04vjmlnksrri83qktzp81ubois0nl</sha1>
+    </revision>
+    <revision>
+      <id>726059745</id>
+      <parentid>726059732</parentid>
+      <timestamp>2018-08-15T00:51:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Zur Bienenfauna von Neu-Guinea und Oceanien</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="178" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8jj31qafjb53z1qozzto9nswptgq34z</sha1>
+    </revision>
+    <revision>
+      <id>726059752</id>
+      <parentid>726059745</parentid>
+      <timestamp>2018-08-15T00:51:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Zur Bienenfauna von Neu-Guinea und Oceanien</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="255" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>hank1rdgzft5jlgv3t6sg7l5dvfaf8h</sha1>
+    </revision>
+    <revision>
+      <id>726059757</id>
+      <parentid>726059752</parentid>
+      <timestamp>2018-08-15T00:51:05Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1002/MMNZ.19120060102</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="520" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>654b012n4p64vd7kjtlb49s5r0ii5f5</sha1>
+    </revision>
+    <revision>
+      <id>726059763</id>
+      <parentid>726059757</parentid>
+      <timestamp>2018-08-15T00:51:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 145371</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="769" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pjabarmp3mu5zi9u783a3wzqfe3y2xm</sha1>
+    </revision>
+    <revision>
+      <id>726059767</id>
+      <parentid>726059763</parentid>
+      <timestamp>2018-08-15T00:51:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1078" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ll9xiwrdiggtdrvgsdzebtt9ikz44sw</sha1>
+    </revision>
+    <revision>
+      <id>726059775</id>
+      <parentid>726059767</parentid>
+      <timestamp>2018-08-15T00:51:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Zur Bienenfauna von Neu-Guinea und Oceanien</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1398" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ev0h7cdk8r34b0l64hmx4hlaov5gkw4</sha1>
+    </revision>
+    <revision>
+      <id>726059780</id>
+      <parentid>726059775</parentid>
+      <timestamp>2018-08-15T00:51:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 6</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1640" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ecy56sqgyoiipd3vec4vl4zgzgs8nrd</sha1>
+    </revision>
+    <revision>
+      <id>726059786</id>
+      <parentid>726059780</parentid>
+      <timestamp>2018-08-15T00:51:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 91–95</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1891" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6yhpk7u6vup059cucksrz2yz3crl5y0</sha1>
+    </revision>
+    <revision>
+      <id>726059795</id>
+      <parentid>726059786</parentid>
+      <timestamp>2018-08-15T00:51:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2133" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dljo8wq6dogw5ht4l47lt8wyqoa2e9l</sha1>
+    </revision>
+    <revision>
+      <id>726059799</id>
+      <parentid>726059795</parentid>
+      <timestamp>2018-08-15T00:51:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 19 April 2008</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2513" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3sa68qxjzmgp3jw048fc9ty6esttfng</sha1>
+    </revision>
+    <revision>
+      <id>726059809</id>
+      <parentid>726059799</parentid>
+      <timestamp>2018-08-15T00:51:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: H. Friese</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2765" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1o77b9y5hvdwbd9p5zwbm2edtmv0op4</sha1>
+    </revision>
+    <revision>
+      <id>726059814</id>
+      <parentid>726059809</parentid>
+      <timestamp>2018-08-15T00:51:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2951" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ahbot4isoketsf2ujrtik22sjf5q1xr</sha1>
+    </revision>
+    <revision>
+      <id>726059818</id>
+      <parentid>726059814</parentid>
+      <timestamp>2018-08-15T00:51:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q28469658]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3264" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"31ea3ecbbe0f860316118e46ad066040154bc2f6","datavalue":{"value":{"entity-type":"item","numeric-id":28469658,"id":"Q28469658"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$ED9AD36B-106F-4DAB-878E-F959BF9638EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7vnb766w1sjh2i1c85nlmyy6k2gk5dj</sha1>
+    </revision>
+    <revision>
+      <id>738667201</id>
+      <parentid>726059818</parentid>
+      <timestamp>2018-09-02T16:06:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 29519943, According to [[Property:P5315]]=145371</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3513" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"31ea3ecbbe0f860316118e46ad066040154bc2f6","datavalue":{"value":{"entity-type":"item","numeric-id":28469658,"id":"Q28469658"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$ED9AD36B-106F-4DAB-878E-F959BF9638EA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3fa511971e66b743558552ca51c3aa5e60feeab0","datavalue":{"value":"29519943","type":"string"}},"type":"statement","id":"Q56090409$DD3ACA03-B848-4B0B-A1AA-0E5101F5A4E4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8kkh8weevl5dhqkj4kvnmaqmgpjpi6t</sha1>
+    </revision>
+    <revision>
+      <id>781465557</id>
+      <parentid>738667201</parentid>
+      <timestamp>2018-11-04T04:14:12Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3647" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"nl":{"language":"nl","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"31ea3ecbbe0f860316118e46ad066040154bc2f6","datavalue":{"value":{"entity-type":"item","numeric-id":28469658,"id":"Q28469658"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$ED9AD36B-106F-4DAB-878E-F959BF9638EA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3fa511971e66b743558552ca51c3aa5e60feeab0","datavalue":{"value":"29519943","type":"string"}},"type":"statement","id":"Q56090409$DD3ACA03-B848-4B0B-A1AA-0E5101F5A4E4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rosio25dzn2wlen52qs9pfsbarf5xlc</sha1>
+    </revision>
+    <revision>
+      <id>963132787</id>
+      <parentid>781465557</parentid>
+      <timestamp>2019-06-16T02:03:21Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у квітні 2008, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3883" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"nl":{"language":"nl","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2008"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"31ea3ecbbe0f860316118e46ad066040154bc2f6","datavalue":{"value":{"entity-type":"item","numeric-id":28469658,"id":"Q28469658"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$ED9AD36B-106F-4DAB-878E-F959BF9638EA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3fa511971e66b743558552ca51c3aa5e60feeab0","datavalue":{"value":"29519943","type":"string"}},"type":"statement","id":"Q56090409$DD3ACA03-B848-4B0B-A1AA-0E5101F5A4E4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r3muw71ctgdjpuyq59obxmoeth2vwme</sha1>
+    </revision>
+    <revision>
+      <id>1287524824</id>
+      <parentid>963132787</parentid>
+      <timestamp>2020-10-06T18:24:53Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6982]]: 2c0295a9-397c-4e01-b236-9d0b5762d935, #quickstatements; #temporary_batch_1602002696870</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4162" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"nl":{"language":"nl","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2008"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"31ea3ecbbe0f860316118e46ad066040154bc2f6","datavalue":{"value":{"entity-type":"item","numeric-id":28469658,"id":"Q28469658"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$ED9AD36B-106F-4DAB-878E-F959BF9638EA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3fa511971e66b743558552ca51c3aa5e60feeab0","datavalue":{"value":"29519943","type":"string"}},"type":"statement","id":"Q56090409$DD3ACA03-B848-4B0B-A1AA-0E5101F5A4E4","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"2690b83a4856aea4da404c3dfd86464a7c72ab24","datavalue":{"value":"2c0295a9-397c-4e01-b236-9d0b5762d935","type":"string"}},"type":"statement","id":"Q56090409$A92D9E4F-0F31-475E-AF7C-DA3BF96EB0DC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3gsc44pb57ddre97d7bmov7q3e04xrg</sha1>
+    </revision>
+    <revision>
+      <id>1288873215</id>
+      <parentid>1287524824</parentid>
+      <timestamp>2020-10-09T21:56:00Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im April 2008 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/43662|batch #43662]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4258" xml:space="preserve">{"type":"item","id":"Q56090409","labels":{"de":{"language":"de","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"en":{"language":"en","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"},"nl":{"language":"nl","value":"Zur Bienenfauna von Neu-Guinea und Oceanien"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u043a\u0432\u0456\u0442\u043d\u0456 2008"},"de":{"language":"de","value":"im April 2008 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0c13034220155d3ccf565de62c0a11ff8ad11c85","datavalue":{"value":"10.1002\/MMNZ.19120060102","type":"string"}},"type":"statement","id":"Q56090409$0C48AA72-CA15-40CD-994E-8D943FDA8308","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7424fc705030824249217adc3f8a71d1491f94a2","datavalue":{"value":"145371","type":"string"}},"type":"statement","id":"Q56090409$FE420CFD-F037-4B3C-BD24-8BAABE9B29FB","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$25EFD05F-8988-45C4-AC2E-95AEA6274303","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"185cb0be6d34519ef3d49b1ba3dbf6491d6adc67","datavalue":{"value":{"text":"Zur Bienenfauna von Neu-Guinea und Oceanien","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56090409$CBFFC9B9-97C4-4BBF-B238-1643C4C2006D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56090409$D33206C0-8697-4937-8F37-D713814CED56","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"127ada96520229a0c1f8bcf2c05527c65a9df06d","datavalue":{"value":"91\u201395","type":"string"}},"type":"statement","id":"Q56090409$511B0A0D-1892-43FD-AFB8-1F3BAE98DCD1","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56090409$801FBAC7-C5F6-47AE-972A-AD905F46127F","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"78925760667acf4ffe2400e68c0ff06fc0ec87c7","datavalue":{"value":{"time":"+2008-04-19T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56090409$19C1D22F-54A9-4877-9789-5566E80EBD8A","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bb6ef7e6f8303d314b859338a4f5a6afc751f094","datavalue":{"value":"H. Friese","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56090409$C0027B9D-66C1-418C-8014-C1F9ABA44179","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"31ea3ecbbe0f860316118e46ad066040154bc2f6","datavalue":{"value":{"entity-type":"item","numeric-id":28469658,"id":"Q28469658"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56090409$ED9AD36B-106F-4DAB-878E-F959BF9638EA","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"3fa511971e66b743558552ca51c3aa5e60feeab0","datavalue":{"value":"29519943","type":"string"}},"type":"statement","id":"Q56090409$DD3ACA03-B848-4B0B-A1AA-0E5101F5A4E4","rank":"normal"}],"P6982":[{"mainsnak":{"snaktype":"value","property":"P6982","hash":"2690b83a4856aea4da404c3dfd86464a7c72ab24","datavalue":{"value":"2c0295a9-397c-4e01-b236-9d0b5762d935","type":"string"}},"type":"statement","id":"Q56090409$A92D9E4F-0F31-475E-AF7C-DA3BF96EB0DC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l868tovpy3y4kke0rl8s9420nztxk63</sha1>
+    </revision>
+  </page>
+</mediawiki>

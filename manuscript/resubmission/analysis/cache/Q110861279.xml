@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q110861279</title>
+    <ns>0</ns>
+    <id>105884433</id>
+    <revision>
+      <id>1574836476</id>
+      <timestamp>2022-02-08T22:17:47Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1644358515662</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5241" xml:space="preserve">{"type":"item","id":"Q110861279","labels":{"en":{"language":"en","value":"Lactarius in Northern Thailand: 2. Lactarius subgenus Plinthogali"}},"descriptions":{"en":{"language":"en","value":"Scholarly article published in 2007"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cbda9b7211d890095bf7c69097a27deeb463bd95","datavalue":{"value":{"text":"Lactarius in Northern Thailand: 2. Lactarius subgenus Plinthogali","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q110861279$6AA426A1-4B4A-4C98-A9DE-38B4D7E1F92B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861279$9A2B907B-1C71-4862-A893-E2C7609C645C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"400504b0e17ad49401376433a851eef01a605df8","datavalue":{"value":{"time":"+2007-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q110861279$8FF637E0-6736-4071-B902-4649EBF601B8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c5eb6a31164ddf4c5271bb5f606b7ab1fb672917","datavalue":{"value":"H T Le","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$8646B7A0-7A1C-41FC-AC7E-6534BC4EB516","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c33a9d2bd80bf731b1dbd43010d339603cc9cc26","datavalue":{"value":"D Stubbe","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$8F599B4E-C4E4-4793-BEED-65CAB47729DC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"26cf652504da89bdbe7319a778e71bad23ccf57b","datavalue":{"value":"A Verbeken","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$BACC7F07-FEA9-4C2C-8C63-4C62D77CEFB0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"87ca321ff54ea3b3e06c36824c2f120577959148","datavalue":{"value":"J Nuytinck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"cbff8d4b3b7b35f905ef3147a7a6cb88845a774f","datavalue":{"value":"4","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$4D3C69F8-EE8A-4B88-A8FC-2C1C440A6C18","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"40e017d92fc78d134e30f439bac4a9e01ca179e5","datavalue":{"value":"S Lumyong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"ea4583c18f699186700d21642b477a2dc1d345c8","datavalue":{"value":"5","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$9CFA8C0C-7832-4CD0-BAB4-05DF71B18574","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"94117489ba692c37f64f2fefbdd2f7323b0781e0","datavalue":{"value":"D E Desjardin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"32387bd293902a2430b5bb680033d36ecea00dd0","datavalue":{"value":"6","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$B6839669-F055-41BD-9D28-62C437A1C524","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6b47201c6704b8bef7950de455ada01d0348ae09","datavalue":{"value":{"entity-type":"item","numeric-id":15765496,"id":"Q15765496"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861279$B188A47E-65F4-4A48-8274-36AA4AA6FAF0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1b80ace397ac0025ddf55e5c943f03e0e3ed1644","datavalue":{"value":"27","type":"string"}},"type":"statement","id":"Q110861279$22200095-E9A4-450A-A5CF-16E67EB51807","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"6223497cfdb0a1a40d43c2cea86c640118de7195","datavalue":{"value":"https:\/\/www.fungaldiversity.org\/fdp\/sfdp\/27_5.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"6c30f96194184e524edbd1e6b15484d720a54376","datavalue":{"value":"https:\/\/web.archive.org\/web\/20160406234739\/http:\/\/www.fungaldiversity.org\/fdp\/sfdp\/27_5.pdf","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q110861279$44CA7C21-58D8-46D8-A193-B7A65A6E9F2E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dap1ud5eov8h37gl9vpk25zumh6mgb6</sha1>
+    </revision>
+    <revision>
+      <id>1574992930</id>
+      <parentid>1574836476</parentid>
+      <timestamp>2022-02-09T11:59:30Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 61-94, #quickstatements; #temporary_batch_1644407824260</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5488" xml:space="preserve">{"type":"item","id":"Q110861279","labels":{"en":{"language":"en","value":"Lactarius in Northern Thailand: 2. Lactarius subgenus Plinthogali"}},"descriptions":{"en":{"language":"en","value":"Scholarly article published in 2007"}},"aliases":[],"claims":{"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"cbda9b7211d890095bf7c69097a27deeb463bd95","datavalue":{"value":{"text":"Lactarius in Northern Thailand: 2. Lactarius subgenus Plinthogali","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q110861279$6AA426A1-4B4A-4C98-A9DE-38B4D7E1F92B","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861279$9A2B907B-1C71-4862-A893-E2C7609C645C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"400504b0e17ad49401376433a851eef01a605df8","datavalue":{"value":{"time":"+2007-10-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q110861279$8FF637E0-6736-4071-B902-4649EBF601B8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c5eb6a31164ddf4c5271bb5f606b7ab1fb672917","datavalue":{"value":"H T Le","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$8646B7A0-7A1C-41FC-AC7E-6534BC4EB516","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c33a9d2bd80bf731b1dbd43010d339603cc9cc26","datavalue":{"value":"D Stubbe","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$8F599B4E-C4E4-4793-BEED-65CAB47729DC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"26cf652504da89bdbe7319a778e71bad23ccf57b","datavalue":{"value":"A Verbeken","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$BACC7F07-FEA9-4C2C-8C63-4C62D77CEFB0","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"87ca321ff54ea3b3e06c36824c2f120577959148","datavalue":{"value":"J Nuytinck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"cbff8d4b3b7b35f905ef3147a7a6cb88845a774f","datavalue":{"value":"4","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$4D3C69F8-EE8A-4B88-A8FC-2C1C440A6C18","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"40e017d92fc78d134e30f439bac4a9e01ca179e5","datavalue":{"value":"S Lumyong","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"ea4583c18f699186700d21642b477a2dc1d345c8","datavalue":{"value":"5","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$9CFA8C0C-7832-4CD0-BAB4-05DF71B18574","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"94117489ba692c37f64f2fefbdd2f7323b0781e0","datavalue":{"value":"D E Desjardin","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"32387bd293902a2430b5bb680033d36ecea00dd0","datavalue":{"value":"6","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110861279$B6839669-F055-41BD-9D28-62C437A1C524","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6b47201c6704b8bef7950de455ada01d0348ae09","datavalue":{"value":{"entity-type":"item","numeric-id":15765496,"id":"Q15765496"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110861279$B188A47E-65F4-4A48-8274-36AA4AA6FAF0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"1b80ace397ac0025ddf55e5c943f03e0e3ed1644","datavalue":{"value":"27","type":"string"}},"type":"statement","id":"Q110861279$22200095-E9A4-450A-A5CF-16E67EB51807","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"6223497cfdb0a1a40d43c2cea86c640118de7195","datavalue":{"value":"https:\/\/www.fungaldiversity.org\/fdp\/sfdp\/27_5.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}],"P1065":[{"snaktype":"value","property":"P1065","hash":"6c30f96194184e524edbd1e6b15484d720a54376","datavalue":{"value":"https:\/\/web.archive.org\/web\/20160406234739\/http:\/\/www.fungaldiversity.org\/fdp\/sfdp\/27_5.pdf","type":"string"}}]},"qualifiers-order":["P2701","P1065"],"id":"Q110861279$44CA7C21-58D8-46D8-A193-B7A65A6E9F2E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"df508570c8b5227824b89d897039d12c61560460","datavalue":{"value":"61-94","type":"string"}},"type":"statement","id":"Q110861279$A643FC80-6986-48CC-B645-2127DB9C6EEC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kg7rtzeytsum1ee9xbxapis48d6nzz2</sha1>
+    </revision>
+  </page>
+</mediawiki>

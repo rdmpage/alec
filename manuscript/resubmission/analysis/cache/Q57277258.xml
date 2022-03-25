@@ -1,0 +1,148 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q57277258</title>
+    <ns>0</ns>
+    <id>57193801</id>
+    <revision>
+      <id>763201753</id>
+      <timestamp>2018-10-13T03:41:17Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1539397689409; invoked by SourceMD:CreateFromWikipediaDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2311" xml:space="preserve">{"type":"item","id":"Q57277258","labels":{"en":{"language":"en","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8c67662a70eaf50cd0e5bdcfa7b910d396e695d7","datavalue":{"value":"10.4202\/APP.2012.0007","type":"string"}},"type":"statement","id":"Q57277258$B5F0D741-5B7A-4EE1-B7D2-8B2B0702493F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$23A2DE19-5644-48D2-A8A9-38F8946DAAD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e2327e644ace9b9e6ec43eec9a80650a41a263b0","datavalue":{"value":{"text":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57277258$EE48768C-2A84-4179-A480-DF7F9B6C5340","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57277258$88C0BA09-863E-432A-BFCD-D45A1F2828C2","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$67ECFC77-DB2B-44B5-BDB8-AC3C96E6CF24","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"24d829dfa26015c5517c898ead9fc8361df13e10","datavalue":{"value":"Olivier Maridet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57277258$3E795AE7-57F0-4BA9-A516-1219CCBE252C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1xk4s00mf1rve7iw8btev9lbs3vl7h1</sha1>
+    </revision>
+    <revision>
+      <id>795430144</id>
+      <parentid>763201753</parentid>
+      <timestamp>2018-11-21T15:14:43Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2500" xml:space="preserve">{"type":"item","id":"Q57277258","labels":{"en":{"language":"en","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"},"nl":{"language":"nl","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8c67662a70eaf50cd0e5bdcfa7b910d396e695d7","datavalue":{"value":"10.4202\/APP.2012.0007","type":"string"}},"type":"statement","id":"Q57277258$B5F0D741-5B7A-4EE1-B7D2-8B2B0702493F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$23A2DE19-5644-48D2-A8A9-38F8946DAAD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e2327e644ace9b9e6ec43eec9a80650a41a263b0","datavalue":{"value":{"text":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57277258$EE48768C-2A84-4179-A480-DF7F9B6C5340","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57277258$88C0BA09-863E-432A-BFCD-D45A1F2828C2","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$67ECFC77-DB2B-44B5-BDB8-AC3C96E6CF24","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"24d829dfa26015c5517c898ead9fc8361df13e10","datavalue":{"value":"Olivier Maridet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57277258$3E795AE7-57F0-4BA9-A516-1219CCBE252C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eglh9aiobbmnntpp58isj1g0julj9og</sha1>
+    </revision>
+    <revision>
+      <id>972316871</id>
+      <parentid>795430144</parentid>
+      <timestamp>2019-07-01T08:57:28Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2541" xml:space="preserve">{"type":"item","id":"Q57277258","labels":{"en":{"language":"en","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"},"nl":{"language":"nl","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8c67662a70eaf50cd0e5bdcfa7b910d396e695d7","datavalue":{"value":"10.4202\/APP.2012.0007","type":"string"}},"type":"statement","id":"Q57277258$B5F0D741-5B7A-4EE1-B7D2-8B2B0702493F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$23A2DE19-5644-48D2-A8A9-38F8946DAAD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e2327e644ace9b9e6ec43eec9a80650a41a263b0","datavalue":{"value":{"text":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57277258$EE48768C-2A84-4179-A480-DF7F9B6C5340","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57277258$88C0BA09-863E-432A-BFCD-D45A1F2828C2","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$67ECFC77-DB2B-44B5-BDB8-AC3C96E6CF24","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"24d829dfa26015c5517c898ead9fc8361df13e10","datavalue":{"value":"Olivier Maridet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57277258$3E795AE7-57F0-4BA9-A516-1219CCBE252C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nsaiobd5uqpy1fsyv5jrymxwiapdv7k</sha1>
+    </revision>
+    <revision>
+      <id>975253183</id>
+      <parentid>972316871</parentid>
+      <timestamp>2019-07-07T01:05:20Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у 2012, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2740" xml:space="preserve">{"type":"item","id":"Q57277258","labels":{"en":{"language":"en","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"},"nl":{"language":"nl","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"en":{"language":"en","value":"article"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 2012"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8c67662a70eaf50cd0e5bdcfa7b910d396e695d7","datavalue":{"value":"10.4202\/APP.2012.0007","type":"string"}},"type":"statement","id":"Q57277258$B5F0D741-5B7A-4EE1-B7D2-8B2B0702493F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$23A2DE19-5644-48D2-A8A9-38F8946DAAD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e2327e644ace9b9e6ec43eec9a80650a41a263b0","datavalue":{"value":{"text":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57277258$EE48768C-2A84-4179-A480-DF7F9B6C5340","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57277258$88C0BA09-863E-432A-BFCD-D45A1F2828C2","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$67ECFC77-DB2B-44B5-BDB8-AC3C96E6CF24","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"24d829dfa26015c5517c898ead9fc8361df13e10","datavalue":{"value":"Olivier Maridet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57277258$3E795AE7-57F0-4BA9-A516-1219CCBE252C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>f7e9h39m0pokog2qlvourmt1q5oe3ag</sha1>
+    </revision>
+    <revision>
+      <id>1077778944</id>
+      <parentid>975253183</parentid>
+      <timestamp>2019-12-16T21:28:12Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 2012 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24016|batch #24016]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2837" xml:space="preserve">{"type":"item","id":"Q57277258","labels":{"en":{"language":"en","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"},"nl":{"language":"nl","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"en":{"language":"en","value":"article"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 2012"},"de":{"language":"de","value":"im Januar 2012 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8c67662a70eaf50cd0e5bdcfa7b910d396e695d7","datavalue":{"value":"10.4202\/APP.2012.0007","type":"string"}},"type":"statement","id":"Q57277258$B5F0D741-5B7A-4EE1-B7D2-8B2B0702493F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$23A2DE19-5644-48D2-A8A9-38F8946DAAD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e2327e644ace9b9e6ec43eec9a80650a41a263b0","datavalue":{"value":{"text":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57277258$EE48768C-2A84-4179-A480-DF7F9B6C5340","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57277258$88C0BA09-863E-432A-BFCD-D45A1F2828C2","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$67ECFC77-DB2B-44B5-BDB8-AC3C96E6CF24","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"24d829dfa26015c5517c898ead9fc8361df13e10","datavalue":{"value":"Olivier Maridet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57277258$3E795AE7-57F0-4BA9-A516-1219CCBE252C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rx1mrmhgcagb8c8bg8lu9ts8jl0qwuc</sha1>
+    </revision>
+    <revision>
+      <id>1433035030</id>
+      <parentid>1077778944</parentid>
+      <timestamp>2021-06-01T13:57:56Z</timestamp>
+      <contributor>
+        <username>Allknowingroger</username>
+        <id>3344014</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q10850]], [[:toollabs:quickstatements/#/batch/55934|batch #55934]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3142" xml:space="preserve">{"type":"item","id":"Q57277258","labels":{"en":{"language":"en","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"},"nl":{"language":"nl","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"en":{"language":"en","value":"article"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 2012"},"de":{"language":"de","value":"im Januar 2012 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8c67662a70eaf50cd0e5bdcfa7b910d396e695d7","datavalue":{"value":"10.4202\/APP.2012.0007","type":"string"}},"type":"statement","id":"Q57277258$B5F0D741-5B7A-4EE1-B7D2-8B2B0702493F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$23A2DE19-5644-48D2-A8A9-38F8946DAAD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e2327e644ace9b9e6ec43eec9a80650a41a263b0","datavalue":{"value":{"text":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57277258$EE48768C-2A84-4179-A480-DF7F9B6C5340","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57277258$88C0BA09-863E-432A-BFCD-D45A1F2828C2","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$67ECFC77-DB2B-44B5-BDB8-AC3C96E6CF24","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"24d829dfa26015c5517c898ead9fc8361df13e10","datavalue":{"value":"Olivier Maridet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57277258$3E795AE7-57F0-4BA9-A516-1219CCBE252C","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"c779306c8480eb25a2fcbb33a20f726b11000882","datavalue":{"value":{"entity-type":"item","numeric-id":10850,"id":"Q10850"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$0F021AFC-2E28-4808-92A9-C1E6D4051DB2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kpbl2781mp4az09qomj7pxjl0embewm</sha1>
+    </revision>
+    <revision>
+      <id>1433035036</id>
+      <parentid>1433035030</parentid>
+      <timestamp>2021-06-01T13:57:56Z</timestamp>
+      <contributor>
+        <username>Allknowingroger</username>
+        <id>3344014</id>
+      </contributor>
+      <comment>/* wbsetreference-add:2| */ [[Property:P921]]: [[Q10850]], [[:toollabs:quickstatements/#/batch/55934|batch #55934]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3451" xml:space="preserve">{"type":"item","id":"Q57277258","labels":{"en":{"language":"en","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"},"nl":{"language":"nl","value":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"en":{"language":"en","value":"article"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 2012"},"de":{"language":"de","value":"im Januar 2012 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8c67662a70eaf50cd0e5bdcfa7b910d396e695d7","datavalue":{"value":"10.4202\/APP.2012.0007","type":"string"}},"type":"statement","id":"Q57277258$B5F0D741-5B7A-4EE1-B7D2-8B2B0702493F","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$23A2DE19-5644-48D2-A8A9-38F8946DAAD5","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"e2327e644ace9b9e6ec43eec9a80650a41a263b0","datavalue":{"value":{"text":"An Early Miocene microtoid cricetid (Rodentia, Mammalia) from the Junggar Basin of Xinjiang, China","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q57277258$EE48768C-2A84-4179-A480-DF7F9B6C5340","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"e65372cf39f868dd8f2040ca874cd9632f1e02aa","datavalue":{"value":{"time":"+2012-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q57277258$88C0BA09-863E-432A-BFCD-D45A1F2828C2","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"dac3050578241d74c977d9dbcf70a5c5ca816a20","datavalue":{"value":{"entity-type":"item","numeric-id":210185,"id":"Q210185"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$67ECFC77-DB2B-44B5-BDB8-AC3C96E6CF24","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"24d829dfa26015c5517c898ead9fc8361df13e10","datavalue":{"value":"Olivier Maridet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q57277258$3E795AE7-57F0-4BA9-A516-1219CCBE252C","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"c779306c8480eb25a2fcbb33a20f726b11000882","datavalue":{"value":{"entity-type":"item","numeric-id":10850,"id":"Q10850"},"type":"wikibase-entityid"}},"type":"statement","id":"Q57277258$0F021AFC-2E28-4808-92A9-C1E6D4051DB2","rank":"normal","references":[{"hash":"0723282bb80042897ca697416c050b4bf7fb5428","snaks":{"P887":[{"snaktype":"value","property":"P887","hash":"2009eafb2646ea71bee7372b061e8521ee613fc2","datavalue":{"value":{"entity-type":"item","numeric-id":69652283,"id":"Q69652283"},"type":"wikibase-entityid"}}]},"snaks-order":["P887"]}]}]},"sitelinks":[]}</text>
+      <sha1>4z4u0c9x8m8q6181iliv8gcmw7s0bmk</sha1>
+    </revision>
+  </page>
+</mediawiki>

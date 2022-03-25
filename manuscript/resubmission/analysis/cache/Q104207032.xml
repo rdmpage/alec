@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104207032</title>
+    <ns>0</ns>
+    <id>99671231</id>
+    <revision>
+      <id>1323763965</id>
+      <timestamp>2020-12-16T09:18:43Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1608110170681</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2991" xml:space="preserve">{"type":"item","id":"Q104207032","labels":[],"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1c9221255a485ebaaaa6d44f6a933ecac8fa7895","datavalue":{"value":"10.1023\/A:1013103100981","type":"string"}},"type":"statement","id":"Q104207032$E22A4593-AF02-433E-8647-E5CF6AD4DF4A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104207032$978EFD01-6CB9-46B6-9314-F4D8D6646CE2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"01888dc765ee6e6ad377ed0bd4c355f94be8af10","datavalue":{"value":"1\/3","type":"string"}},"type":"statement","id":"Q104207032$30713F02-85B5-495D-9051-DB04BFA70784","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c6ac21b86fa2ee60cd0cc95743f0eb561921fc94","datavalue":{"value":"1-11","type":"string"}},"type":"statement","id":"Q104207032$C7EDA5EB-7BED-4E3D-ACD6-652E09E9E6B1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"36d2be701335c7c12f164cb37a16d93090d88de4","datavalue":{"value":"463","type":"string"}},"type":"statement","id":"Q104207032$6F7F6A6B-0900-44F3-939E-10E564B3A7B0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"79b14efd2a447f0485518bd1812b0840495615c7","datavalue":{"value":{"time":"+2001-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104207032$F381E756-90E6-4C6E-9A4A-628E877DDB2D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"88ed1204635512a3b0cec08f5ca19bcde36fbc5b","datavalue":{"value":{"entity-type":"item","numeric-id":5954646,"id":"Q5954646"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104207032$26566F8D-D7F9-417A-B43E-2E9B126A39B8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be60780a643d5b0f9e946fd87ae889d752f50540","datavalue":{"value":"Rut Collado","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104207032$FC074BF7-AF08-4DBD-A775-B6F647D4EA49","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56a7739865c3ad38a753c6efaef93050018781a4","datavalue":{"value":"R\u00fcdiger M. Schmelz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104207032$254C9F34-8EFC-455B-90BE-14EBDD320599","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>114jxwt7g8cowjup5sn455yrifjg7me</sha1>
+    </revision>
+    <revision>
+      <id>1323812992</id>
+      <parentid>1323763965</parentid>
+      <timestamp>2020-12-16T11:07:29Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3048" xml:space="preserve">{"type":"item","id":"Q104207032","labels":[],"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1c9221255a485ebaaaa6d44f6a933ecac8fa7895","datavalue":{"value":"10.1023\/A:1013103100981","type":"string"}},"type":"statement","id":"Q104207032$E22A4593-AF02-433E-8647-E5CF6AD4DF4A","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104207032$978EFD01-6CB9-46B6-9314-F4D8D6646CE2","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"01888dc765ee6e6ad377ed0bd4c355f94be8af10","datavalue":{"value":"1\/3","type":"string"}},"type":"statement","id":"Q104207032$30713F02-85B5-495D-9051-DB04BFA70784","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c6ac21b86fa2ee60cd0cc95743f0eb561921fc94","datavalue":{"value":"1-11","type":"string"}},"type":"statement","id":"Q104207032$C7EDA5EB-7BED-4E3D-ACD6-652E09E9E6B1","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"36d2be701335c7c12f164cb37a16d93090d88de4","datavalue":{"value":"463","type":"string"}},"type":"statement","id":"Q104207032$6F7F6A6B-0900-44F3-939E-10E564B3A7B0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"79b14efd2a447f0485518bd1812b0840495615c7","datavalue":{"value":{"time":"+2001-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104207032$F381E756-90E6-4C6E-9A4A-628E877DDB2D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"88ed1204635512a3b0cec08f5ca19bcde36fbc5b","datavalue":{"value":{"entity-type":"item","numeric-id":5954646,"id":"Q5954646"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104207032$26566F8D-D7F9-417A-B43E-2E9B126A39B8","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"be60780a643d5b0f9e946fd87ae889d752f50540","datavalue":{"value":"Rut Collado","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104207032$FC074BF7-AF08-4DBD-A775-B6F647D4EA49","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"56a7739865c3ad38a753c6efaef93050018781a4","datavalue":{"value":"R\u00fcdiger M. Schmelz","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104207032$254C9F34-8EFC-455B-90BE-14EBDD320599","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>orf0g0lub2almdwbflwuh8gbhtcydyj</sha1>
+    </revision>
+  </page>
+</mediawiki>

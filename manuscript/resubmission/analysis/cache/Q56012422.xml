@@ -1,0 +1,260 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56012422</title>
+    <ns>0</ns>
+    <id>55962281</id>
+    <revision>
+      <id>722583742</id>
+      <timestamp>2018-08-07T20:08:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56012422","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>sv7tuwepj6beet1qhsfby9h5ochxgc5</sha1>
+    </revision>
+    <revision>
+      <id>722583746</id>
+      <parentid>722583742</parentid>
+      <timestamp>2018-08-07T20:08:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Restriction of the family Poraniidae, sensu Spencer &amp; Wright</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="195" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3veqvjv8ib1z601ktdgifuyu4rjz8ro</sha1>
+    </revision>
+    <revision>
+      <id>722583750</id>
+      <parentid>722583746</parentid>
+      <timestamp>2018-08-07T20:08:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Restriction of the family Poraniidae, sensu Spencer &amp; Wright</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="289" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>iaz92jkgf9jhj81g7xskmq11qo7xyk4</sha1>
+    </revision>
+    <revision>
+      <id>722583754</id>
+      <parentid>722583750</parentid>
+      <timestamp>2018-08-07T20:08:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.2385</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="551" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j2mmxeotppk4fk6pz6nvlksgw93rvcj</sha1>
+    </revision>
+    <revision>
+      <id>722583761</id>
+      <parentid>722583754</parentid>
+      <timestamp>2018-08-07T20:08:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 98381</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="799" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b3ifc564r4luv4msooed8u4uu6443bx</sha1>
+    </revision>
+    <revision>
+      <id>722583763</id>
+      <parentid>722583761</parentid>
+      <timestamp>2018-08-07T20:08:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1108" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pqwg9wzb8m0etit6ppl0kq4dzwtzze4</sha1>
+    </revision>
+    <revision>
+      <id>722583766</id>
+      <parentid>722583763</parentid>
+      <timestamp>2018-08-07T20:08:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Restriction of the family Poraniidae, sensu Spencer &amp; Wright</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1445" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6gu3bk9gk58qdakuycu84qsrpcaelz0</sha1>
+    </revision>
+    <revision>
+      <id>722583772</id>
+      <parentid>722583766</parentid>
+      <timestamp>2018-08-07T20:08:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 30</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1688" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dhshisp0qmx6hwnq2m535m5nb72mhjr</sha1>
+    </revision>
+    <revision>
+      <id>722583774</id>
+      <parentid>722583772</parentid>
+      <timestamp>2018-08-07T20:08:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 263–268</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1941" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"49c7b12dd4a37815d700cf31b6afdfe4d77e4c9b","datavalue":{"value":"263\u2013268","type":"string"}},"type":"statement","id":"Q56012422$0E8FD942-3D50-4B3E-8109-77938FEB8CEF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3sz5onvcajdtp1t4j3naglpm1c82lsd</sha1>
+    </revision>
+    <revision>
+      <id>722583778</id>
+      <parentid>722583774</parentid>
+      <timestamp>2018-08-07T20:08:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1976</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2320" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"49c7b12dd4a37815d700cf31b6afdfe4d77e4c9b","datavalue":{"value":"263\u2013268","type":"string"}},"type":"statement","id":"Q56012422$0E8FD942-3D50-4B3E-8109-77938FEB8CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7fd00ad1ac61a0fc4f8c43bed1395e9e33858f46","datavalue":{"value":{"time":"+1976-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012422$5A956550-66EA-422D-BA38-F290E2C25863","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j78m7og97pdcxpop414u5ui07cvte4g</sha1>
+    </revision>
+    <revision>
+      <id>722583782</id>
+      <parentid>722583778</parentid>
+      <timestamp>2018-08-07T20:08:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385105]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2633" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"49c7b12dd4a37815d700cf31b6afdfe4d77e4c9b","datavalue":{"value":"263\u2013268","type":"string"}},"type":"statement","id":"Q56012422$0E8FD942-3D50-4B3E-8109-77938FEB8CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7fd00ad1ac61a0fc4f8c43bed1395e9e33858f46","datavalue":{"value":{"time":"+1976-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012422$5A956550-66EA-422D-BA38-F290E2C25863","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"91c5f5c7e59e7e11ce79d1b542c8429c22e3db3a","datavalue":{"value":{"entity-type":"item","numeric-id":21385105,"id":"Q21385105"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$B63E1D59-E187-498F-9F0B-C51B02901686","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hnopjrp7mkh4k74f5ah6ehdb82qa894</sha1>
+    </revision>
+    <revision>
+      <id>738418298</id>
+      <parentid>722583782</parentid>
+      <timestamp>2018-09-02T07:01:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 2296599, According to [[Property:P5315]]=98381</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2881" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"49c7b12dd4a37815d700cf31b6afdfe4d77e4c9b","datavalue":{"value":"263\u2013268","type":"string"}},"type":"statement","id":"Q56012422$0E8FD942-3D50-4B3E-8109-77938FEB8CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7fd00ad1ac61a0fc4f8c43bed1395e9e33858f46","datavalue":{"value":{"time":"+1976-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012422$5A956550-66EA-422D-BA38-F290E2C25863","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"91c5f5c7e59e7e11ce79d1b542c8429c22e3db3a","datavalue":{"value":{"entity-type":"item","numeric-id":21385105,"id":"Q21385105"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$B63E1D59-E187-498F-9F0B-C51B02901686","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c56e8c6e10e4cbee4133e6f1bda102d35408f8da","datavalue":{"value":"2296599","type":"string"}},"type":"statement","id":"Q56012422$7286124B-72C0-4DAD-89B5-E568223F4CFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>030xe0np6qmu2ri8b0hrmirehztkrgz</sha1>
+    </revision>
+    <revision>
+      <id>784359289</id>
+      <parentid>738418298</parentid>
+      <timestamp>2018-11-07T23:30:23Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3032" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"nl":{"language":"nl","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"49c7b12dd4a37815d700cf31b6afdfe4d77e4c9b","datavalue":{"value":"263\u2013268","type":"string"}},"type":"statement","id":"Q56012422$0E8FD942-3D50-4B3E-8109-77938FEB8CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7fd00ad1ac61a0fc4f8c43bed1395e9e33858f46","datavalue":{"value":{"time":"+1976-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012422$5A956550-66EA-422D-BA38-F290E2C25863","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"91c5f5c7e59e7e11ce79d1b542c8429c22e3db3a","datavalue":{"value":{"entity-type":"item","numeric-id":21385105,"id":"Q21385105"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$B63E1D59-E187-498F-9F0B-C51B02901686","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c56e8c6e10e4cbee4133e6f1bda102d35408f8da","datavalue":{"value":"2296599","type":"string"}},"type":"statement","id":"Q56012422$7286124B-72C0-4DAD-89B5-E568223F4CFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b46cl2gjbm15jv89sfh2jsboo9qm9wg</sha1>
+    </revision>
+    <revision>
+      <id>973822131</id>
+      <parentid>784359289</parentid>
+      <timestamp>2019-07-03T23:03:30Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1976, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3231" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"nl":{"language":"nl","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1976"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"49c7b12dd4a37815d700cf31b6afdfe4d77e4c9b","datavalue":{"value":"263\u2013268","type":"string"}},"type":"statement","id":"Q56012422$0E8FD942-3D50-4B3E-8109-77938FEB8CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7fd00ad1ac61a0fc4f8c43bed1395e9e33858f46","datavalue":{"value":{"time":"+1976-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012422$5A956550-66EA-422D-BA38-F290E2C25863","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"91c5f5c7e59e7e11ce79d1b542c8429c22e3db3a","datavalue":{"value":{"entity-type":"item","numeric-id":21385105,"id":"Q21385105"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$B63E1D59-E187-498F-9F0B-C51B02901686","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c56e8c6e10e4cbee4133e6f1bda102d35408f8da","datavalue":{"value":"2296599","type":"string"}},"type":"statement","id":"Q56012422$7286124B-72C0-4DAD-89B5-E568223F4CFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tagmtcm5jd4jm2pvlhamrab265gdixc</sha1>
+    </revision>
+    <revision>
+      <id>1272479953</id>
+      <parentid>973822131</parentid>
+      <timestamp>2020-09-06T18:46:09Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1976 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3326" xml:space="preserve">{"type":"item","id":"Q56012422","labels":{"de":{"language":"de","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"en":{"language":"en","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"},"nl":{"language":"nl","value":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1976"},"de":{"language":"de","value":"im Jahr 1976 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ede359f0c18e85d37ef3c67619c8017d9546776a","datavalue":{"value":"10.5962\/BHL.PART.2385","type":"string"}},"type":"statement","id":"Q56012422$49CC8E67-53F6-4184-ABAF-AED0E6328475","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3d9173ca5bbc23409d70f6cd5f12e3dce6097904","datavalue":{"value":"98381","type":"string"}},"type":"statement","id":"Q56012422$BBFDC781-77E4-497C-8313-8826503305AA","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$999F0221-A7BF-44E7-A2F3-A1DAF2C2BEE9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"9b713a31bad9b36ec97e186b05fe617766b74651","datavalue":{"value":{"text":"Restriction of the family Poraniidae, sensu Spencer &amp; Wright","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56012422$978645A9-247F-4A86-AC5B-4DF98EB22CCC","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"393868363150757431a4cc11f7e77134a58a956d","datavalue":{"value":"30","type":"string"}},"type":"statement","id":"Q56012422$086EE747-66F0-449A-8255-71CC1EC99A92","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"49c7b12dd4a37815d700cf31b6afdfe4d77e4c9b","datavalue":{"value":"263\u2013268","type":"string"}},"type":"statement","id":"Q56012422$0E8FD942-3D50-4B3E-8109-77938FEB8CEF","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7fd00ad1ac61a0fc4f8c43bed1395e9e33858f46","datavalue":{"value":{"time":"+1976-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56012422$5A956550-66EA-422D-BA38-F290E2C25863","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"91c5f5c7e59e7e11ce79d1b542c8429c22e3db3a","datavalue":{"value":{"entity-type":"item","numeric-id":21385105,"id":"Q21385105"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56012422$B63E1D59-E187-498F-9F0B-C51B02901686","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c56e8c6e10e4cbee4133e6f1bda102d35408f8da","datavalue":{"value":"2296599","type":"string"}},"type":"statement","id":"Q56012422$7286124B-72C0-4DAD-89B5-E568223F4CFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>twh6svdth0y8ct7lntf7pi3r0j5s78w</sha1>
+    </revision>
+  </page>
+</mediawiki>

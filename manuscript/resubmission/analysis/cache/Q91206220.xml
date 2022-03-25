@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q91206220</title>
+    <ns>0</ns>
+    <id>90396464</id>
+    <revision>
+      <id>1161628796</id>
+      <timestamp>2020-04-20T11:04:17Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1587378014688</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3792" xml:space="preserve">{"type":"item","id":"Q91206220","labels":{"en":{"language":"en","value":"A NEW WHITE-FLOWERED FORM AND CULTIVAR OF ILLICIUM FLORIDANUM (ILLICIACEAE) IN THE SOUTHEASTERN UNITED STATES"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206220$E5A6F6BE-675B-4FDA-B398-6B063BC75869","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"65a98805af0d5d6aa8bfba1a199ed048d57f4f81","datavalue":{"value":{"text":"A NEW WHITE-FLOWERED FORM AND CULTIVAR OF ILLICIUM FLORIDANUM (ILLICIACEAE) IN THE SOUTHEASTERN UNITED STATES","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91206220$A98874F9-0C5D-43DD-A041-C19412076B3D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206220$AC18DDDA-3AA6-45EA-93A1-8DF814B225E9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b821d87b77041b39968c47fe3231b6d0c95ec613","datavalue":{"value":{"time":"+1992-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91206220$FFE92C3D-2D62-4DAE-A9CA-FA6B8BBE9837","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3dff6e2c0562bfacd201720b57a0c84aa4a1bdf5","datavalue":{"value":"Frederick G Meyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206220$EADA8984-6728-436E-9A3D-013C06EC3C8C","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b470ff377ff9bb746b62b1058521203ce3c63cf2","datavalue":{"value":"Peter M Mazzeo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206220$359939FE-EA24-47C9-8327-3B2854429CB6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206220$274CB311-7C60-436E-A9B3-6E2E15E52777","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q91206220$E308016A-4428-4778-BA13-A7D0FC254762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q91206220$A772E8A8-4AD5-4FCE-AAEB-9041D940EAC1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"cce75e051adc73384674e8f112a6dcdf1c2cae46","datavalue":{"value":"285-287","type":"string"}},"type":"statement","id":"Q91206220$E5718238-714E-4BD5-8924-64FF3FCA2C7E","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"a940bf51b2310ac693b0c6869449cc0289e516d3","datavalue":{"value":"41967004","type":"string"}},"type":"statement","id":"Q91206220$31D988BC-F7E4-4E49-B4B3-3F468EA03B6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5e85tlrolkrj7fyjw19pn7qp3ue9wb1</sha1>
+    </revision>
+    <revision>
+      <id>1161728473</id>
+      <parentid>1161628796</parentid>
+      <timestamp>2020-04-20T13:14:01Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3944" xml:space="preserve">{"type":"item","id":"Q91206220","labels":{"en":{"language":"en","value":"A NEW WHITE-FLOWERED FORM AND CULTIVAR OF ILLICIUM FLORIDANUM (ILLICIACEAE) IN THE SOUTHEASTERN UNITED STATES"},"nl":{"language":"nl","value":"A NEW WHITE-FLOWERED FORM AND CULTIVAR OF ILLICIUM FLORIDANUM"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206220$E5A6F6BE-675B-4FDA-B398-6B063BC75869","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"65a98805af0d5d6aa8bfba1a199ed048d57f4f81","datavalue":{"value":{"text":"A NEW WHITE-FLOWERED FORM AND CULTIVAR OF ILLICIUM FLORIDANUM (ILLICIACEAE) IN THE SOUTHEASTERN UNITED STATES","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91206220$A98874F9-0C5D-43DD-A041-C19412076B3D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206220$AC18DDDA-3AA6-45EA-93A1-8DF814B225E9","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b821d87b77041b39968c47fe3231b6d0c95ec613","datavalue":{"value":{"time":"+1992-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91206220$FFE92C3D-2D62-4DAE-A9CA-FA6B8BBE9837","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3dff6e2c0562bfacd201720b57a0c84aa4a1bdf5","datavalue":{"value":"Frederick G Meyer","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206220$EADA8984-6728-436E-9A3D-013C06EC3C8C","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b470ff377ff9bb746b62b1058521203ce3c63cf2","datavalue":{"value":"Peter M Mazzeo","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91206220$359939FE-EA24-47C9-8327-3B2854429CB6","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91206220$274CB311-7C60-436E-A9B3-6E2E15E52777","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q91206220$E308016A-4428-4778-BA13-A7D0FC254762","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q91206220$A772E8A8-4AD5-4FCE-AAEB-9041D940EAC1","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"cce75e051adc73384674e8f112a6dcdf1c2cae46","datavalue":{"value":"285-287","type":"string"}},"type":"statement","id":"Q91206220$E5718238-714E-4BD5-8924-64FF3FCA2C7E","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"a940bf51b2310ac693b0c6869449cc0289e516d3","datavalue":{"value":"41967004","type":"string"}},"type":"statement","id":"Q91206220$31D988BC-F7E4-4E49-B4B3-3F468EA03B6B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fca6ar0y1cu98dw5lfjnt0g5apiektk</sha1>
+    </revision>
+  </page>
+</mediawiki>

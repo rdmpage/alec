@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104455409</title>
+    <ns>0</ns>
+    <id>99865081</id>
+    <revision>
+      <id>1328030843</id>
+      <timestamp>2020-12-24T11:25:40Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1608808796196</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="5842" xml:space="preserve">{"type":"item","id":"Q104455409","labels":{"en":{"language":"en","value":"New records of Albuneidae (Decapoda, Anomura) from Japan, with description of a new species of Paralbunea"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"4d4018cc1e0858fdbbc237bbe9134a757a099dd4","datavalue":{"value":"10.1163\/9789004202894_021","type":"string"}},"type":"statement","id":"Q104455409$213478C9-1D6F-43F2-BE6D-0282AB373358","rank":"normal","references":[{"hash":"647ba0feb65ef42dc5651984add1c0226879602f","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"69d65095f184da5ea853ab93b316ec45c8352eff","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/9789004202894_021","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"e4725a00a8fa14f4f3d493cff608200fb0f7cf74","datavalue":{"value":{"entity-type":"item","numeric-id":1980247,"id":"Q1980247"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104455409$7E7DAD7A-8CCD-4F78-90A9-92E20341902A","rank":"normal","references":[{"hash":"647ba0feb65ef42dc5651984add1c0226879602f","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"69d65095f184da5ea853ab93b316ec45c8352eff","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/9789004202894_021","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"48c9acd0256d9d1980791c795bc1cdc7ae1cee2c","datavalue":{"value":"245-262","type":"string"}},"type":"statement","id":"Q104455409$12BD0E04-AEAF-47D8-9059-572E567ED047","rank":"normal","references":[{"hash":"647ba0feb65ef42dc5651984add1c0226879602f","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"69d65095f184da5ea853ab93b316ec45c8352eff","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/9789004202894_021","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104455409$A53124C8-2AF0-4ABA-8F07-58043C00525B","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"70bf26aa5fc6a951c5d011fca5d48ce3365759dc","datavalue":{"value":{"text":"New records of Albuneidae (Decapoda, Anomura) from Japan, with description of a new species of Paralbunea","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104455409$8B4017C9-7ABE-4BBB-8AB1-4181851B8556","rank":"normal","references":[{"hash":"647ba0feb65ef42dc5651984add1c0226879602f","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"69d65095f184da5ea853ab93b316ec45c8352eff","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/9789004202894_021","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b218092b273e4482d90f1cbe96e46c251b0f68b9","datavalue":{"value":{"time":"+2012-01-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104455409$03C3D07B-CD55-490C-B3E2-0E460DCA4058","rank":"normal","references":[{"hash":"647ba0feb65ef42dc5651984add1c0226879602f","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"69d65095f184da5ea853ab93b316ec45c8352eff","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/9789004202894_021","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P361":[{"mainsnak":{"snaktype":"value","property":"P361","hash":"9a6ab533276becdf7757274dad5ad99f1b511333","datavalue":{"value":{"entity-type":"item","numeric-id":54037701,"id":"Q54037701"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104455409$0D371984-EBA2-4BF2-B343-64A33CD98671","rank":"normal","references":[{"hash":"647ba0feb65ef42dc5651984add1c0226879602f","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"69d65095f184da5ea853ab93b316ec45c8352eff","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1163\/9789004202894_021","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"d86f719753f94aa71f6f1570757f8fde8ac6b359","datavalue":{"value":"http:\/\/dx.doi.org\/10.1163\/9789004202894_021","type":"string"}},"type":"statement","id":"Q104455409$15E91F01-33C4-4964-B382-E26769FBCC9C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>04llol0x424vtcpzq5oizxskt8q25r3</sha1>
+    </revision>
+  </page>
+</mediawiki>

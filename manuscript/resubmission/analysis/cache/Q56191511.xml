@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56191511</title>
+    <ns>0</ns>
+    <id>56134052</id>
+    <revision>
+      <id>729653946</id>
+      <timestamp>2018-08-19T21:41:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56191511","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>lpc330fejx9hodc7r4i6aqslglv51ac</sha1>
+    </revision>
+    <revision>
+      <id>729653950</id>
+      <parentid>729653946</parentid>
+      <timestamp>2018-08-19T21:41:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Protomerulius Farlowii Burt, N. Sp</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="169" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>31in8asokyt7d0xsxevx0fuyce3utm7</sha1>
+    </revision>
+    <revision>
+      <id>729653959</id>
+      <parentid>729653950</parentid>
+      <timestamp>2018-08-19T21:41:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Protomerulius Farlowii Burt, N. Sp</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="237" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>dlbbry928oa6aivkmtcffirl5htyt1r</sha1>
+    </revision>
+    <revision>
+      <id>729653963</id>
+      <parentid>729653959</parentid>
+      <timestamp>2018-08-19T21:41:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/2990012</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="493" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q0ogwfoxkww76417mbi2067nczj2wg5</sha1>
+    </revision>
+    <revision>
+      <id>729653971</id>
+      <parentid>729653963</parentid>
+      <timestamp>2018-08-19T21:41:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 11399</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="741" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4we0wqq06g3zcssepq24pls8t5z3afo</sha1>
+    </revision>
+    <revision>
+      <id>729653978</id>
+      <parentid>729653971</parentid>
+      <timestamp>2018-08-19T21:41:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1050" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fytpi0qrq4f7x4pd54c4bydsm14csd5</sha1>
+    </revision>
+    <revision>
+      <id>729653982</id>
+      <parentid>729653978</parentid>
+      <timestamp>2018-08-19T21:41:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Protomerulius Farlowii Burt, N. Sp</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1361" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qvod3lhgy25rjclhmabksz6wuo7x406</sha1>
+    </revision>
+    <revision>
+      <id>729653988</id>
+      <parentid>729653982</parentid>
+      <timestamp>2018-08-19T21:41:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 6</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1603" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>etahbdfy4k40twh7yq1lrbykkd3pzg9</sha1>
+    </revision>
+    <revision>
+      <id>729653994</id>
+      <parentid>729653988</parentid>
+      <timestamp>2018-08-19T21:41:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 175</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1847" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fb62szzp8xrvc25sb2efcnh2k41ctvz</sha1>
+    </revision>
+    <revision>
+      <id>729654001</id>
+      <parentid>729653994</parentid>
+      <timestamp>2018-08-19T21:41:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2089" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1n3ps3106jotx5y96skxj6khd2kbhwx</sha1>
+    </revision>
+    <revision>
+      <id>729654005</id>
+      <parentid>729654001</parentid>
+      <timestamp>2018-08-19T21:41:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: September 1919</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2469" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>95kxhsuje10z8v7a4w8yufzjshoptnw</sha1>
+    </revision>
+    <revision>
+      <id>729654017</id>
+      <parentid>729654005</parentid>
+      <timestamp>2018-08-19T21:41:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Edward A. Burt</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2726" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cr5b0uwf6jtcdysqpox16aizivbbq4a</sha1>
+    </revision>
+    <revision>
+      <id>729654019</id>
+      <parentid>729654017</parentid>
+      <timestamp>2018-08-19T21:41:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2912" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2a05u9idrdy840ytffg2mx1yv0h0t2y</sha1>
+    </revision>
+    <revision>
+      <id>729654027</id>
+      <parentid>729654019</parentid>
+      <timestamp>2018-08-19T21:41:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2530335]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3223" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$33E72532-7B99-424D-B913-03273141533D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7wew1rwiljho0irto9lhplt2r7qqwm8</sha1>
+    </revision>
+    <revision>
+      <id>737988449</id>
+      <parentid>729654027</parentid>
+      <timestamp>2018-09-01T15:29:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 15991840, According to [[Property:P5315]]=11399</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3472" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$33E72532-7B99-424D-B913-03273141533D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1d98d8bdf757d3287f79f6bbab31544fec95c917","datavalue":{"value":"15991840","type":"string"}},"type":"statement","id":"Q56191511$5210C8FD-C84E-4BED-89F0-660F0B076B0F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4t77cwaocsddsi4fj6baax0eu56h13k</sha1>
+    </revision>
+    <revision>
+      <id>780076737</id>
+      <parentid>737988449</parentid>
+      <timestamp>2018-11-02T14:16:39Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3597" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"},"nl":{"language":"nl","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$33E72532-7B99-424D-B913-03273141533D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1d98d8bdf757d3287f79f6bbab31544fec95c917","datavalue":{"value":"15991840","type":"string"}},"type":"statement","id":"Q56191511$5210C8FD-C84E-4BED-89F0-660F0B076B0F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rgagyfl86kj1zvlp0aho5b2v91mumu0</sha1>
+    </revision>
+    <revision>
+      <id>847308933</id>
+      <parentid>780076737</parentid>
+      <timestamp>2019-01-31T10:45:33Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 2990012, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3845" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"},"nl":{"language":"nl","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$33E72532-7B99-424D-B913-03273141533D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1d98d8bdf757d3287f79f6bbab31544fec95c917","datavalue":{"value":"15991840","type":"string"}},"type":"statement","id":"Q56191511$5210C8FD-C84E-4BED-89F0-660F0B076B0F","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"c3b3b6b15ffa7b784d77781983c2b1ec62e7e4c4","datavalue":{"value":"2990012","type":"string"}},"type":"statement","id":"Q56191511$A8A23B6C-796F-41FC-B2A1-E4DA9FDF07E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3w8jy3lj42x5sw3lsf2j9o43ztpl25r</sha1>
+    </revision>
+    <revision>
+      <id>969763721</id>
+      <parentid>847308933</parentid>
+      <timestamp>2019-06-27T12:21:40Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у вересні 1919, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4087" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"},"nl":{"language":"nl","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1919"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$33E72532-7B99-424D-B913-03273141533D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1d98d8bdf757d3287f79f6bbab31544fec95c917","datavalue":{"value":"15991840","type":"string"}},"type":"statement","id":"Q56191511$5210C8FD-C84E-4BED-89F0-660F0B076B0F","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"c3b3b6b15ffa7b784d77781983c2b1ec62e7e4c4","datavalue":{"value":"2990012","type":"string"}},"type":"statement","id":"Q56191511$A8A23B6C-796F-41FC-B2A1-E4DA9FDF07E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7nbxs6y1bnqjh5xf3tjlhcrk0dw6v75</sha1>
+    </revision>
+    <revision>
+      <id>1089361262</id>
+      <parentid>969763721</parentid>
+      <timestamp>2020-01-02T15:26:33Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im September 1919 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24735|batch #24735]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4187" xml:space="preserve">{"type":"item","id":"Q56191511","labels":{"de":{"language":"de","value":"Protomerulius Farlowii Burt, N. Sp"},"en":{"language":"en","value":"Protomerulius Farlowii Burt, N. Sp"},"nl":{"language":"nl","value":"Protomerulius Farlowii Burt, N. Sp"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1919"},"de":{"language":"de","value":"im September 1919 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ba64ebb95e6fd2e84f9368cbf61b0a5e1543e59","datavalue":{"value":"10.2307\/2990012","type":"string"}},"type":"statement","id":"Q56191511$4DA9E85D-2801-48D4-9B47-F4D97FA47251","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"7c2976c405d3f8929e2ac5414a28287e2c215611","datavalue":{"value":"11399","type":"string"}},"type":"statement","id":"Q56191511$5302CC5D-B504-476D-93F3-DF2ECC41BD2E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$EB67030B-EDE9-47BE-BBBC-7BDE1151EBBD","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"56b77cc703f2af8353e6e6596d2ac02d090d5471","datavalue":{"value":{"text":"Protomerulius Farlowii Burt, N. Sp","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56191511$6EEDF72D-B2E4-41B1-AF01-AC3807185F30","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"7ec55205f2db1067ff9cc258d63c9c187f3bc517","datavalue":{"value":"6","type":"string"}},"type":"statement","id":"Q56191511$F6EBC5F7-4E7D-4A19-8E71-692FF7C54C3E","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"9f6c34c8d52606fc7afa2873a328e98d767e98b9","datavalue":{"value":"175","type":"string"}},"type":"statement","id":"Q56191511$362F12FA-6C6E-46D8-BBD5-EC563FE438F5","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56191511$C5A0A7B5-B97E-460F-BC58-571C9F20A12C","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"1fd014a41f3939a9a45471ed2f687751a5ee1392","datavalue":{"value":{"time":"+1919-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56191511$74F08DC2-568D-4439-AD2E-0BD351A8A12B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"3405dd6ce4558d14957d695d845f983d8f38ed62","datavalue":{"value":"Edward A. Burt","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56191511$E62BCCC4-C02F-4BBB-BF23-360D0E5E7FC0","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"3369af18d18ef29fbc51f73b92901111d2a7aa48","datavalue":{"value":{"entity-type":"item","numeric-id":2530335,"id":"Q2530335"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56191511$33E72532-7B99-424D-B913-03273141533D","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1d98d8bdf757d3287f79f6bbab31544fec95c917","datavalue":{"value":"15991840","type":"string"}},"type":"statement","id":"Q56191511$5210C8FD-C84E-4BED-89F0-660F0B076B0F","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"c3b3b6b15ffa7b784d77781983c2b1ec62e7e4c4","datavalue":{"value":"2990012","type":"string"}},"type":"statement","id":"Q56191511$A8A23B6C-796F-41FC-B2A1-E4DA9FDF07E0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0kgl1r3imopqaqafrnvvx45wim02u4a</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56088272</title>
+    <ns>0</ns>
+    <id>56034607</id>
+    <revision>
+      <id>725956954</id>
+      <timestamp>2018-08-14T21:26:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56088272","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>d774c3c3q2gqci5vb6t3wd97ig9y0me</sha1>
+    </revision>
+    <revision>
+      <id>725956956</id>
+      <parentid>725956954</parentid>
+      <timestamp>2018-08-14T21:26:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Beitrag zur Kenntnis der Dynastiden. (Col.)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="178" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>fh0fdd48kjq8zk30ho899finhes1wiu</sha1>
+    </revision>
+    <revision>
+      <id>725956958</id>
+      <parentid>725956956</parentid>
+      <timestamp>2018-08-14T21:26:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Beitrag zur Kenntnis der Dynastiden. (Col.)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="255" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>s8lei2dalj9v90sb3j71iqvokz168ng</sha1>
+    </revision>
+    <revision>
+      <id>725956963</id>
+      <parentid>725956958</parentid>
+      <timestamp>2018-08-14T21:26:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1002/MMND.191419140303</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="521" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7t61hft7060dvje5lp5r997n5skjl6e</sha1>
+    </revision>
+    <revision>
+      <id>725956968</id>
+      <parentid>725956963</parentid>
+      <timestamp>2018-08-14T21:26:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 101419</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="770" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k0qc10c34mm6rni3zb8df9ui12slo4t</sha1>
+    </revision>
+    <revision>
+      <id>725956972</id>
+      <parentid>725956968</parentid>
+      <timestamp>2018-08-14T21:26:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1079" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>icdeeqfputnbjt19ryn1644ftopspon</sha1>
+    </revision>
+    <revision>
+      <id>725956975</id>
+      <parentid>725956972</parentid>
+      <timestamp>2018-08-14T21:26:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Beitrag zur Kenntnis der Dynastiden. (Col.)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1399" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s20eksix11y0fw18prrewvxih132f4r</sha1>
+    </revision>
+    <revision>
+      <id>725956980</id>
+      <parentid>725956975</parentid>
+      <timestamp>2018-08-14T21:26:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 1914</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1644" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cq8jmlehc909qgkwyaq8zs0qzj2c2mf</sha1>
+    </revision>
+    <revision>
+      <id>725956981</id>
+      <parentid>725956980</parentid>
+      <timestamp>2018-08-14T21:26:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 278–280</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1897" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aupvvqvwfm0aj6xqall6yfpsfdk8isy</sha1>
+    </revision>
+    <revision>
+      <id>725956988</id>
+      <parentid>725956981</parentid>
+      <timestamp>2018-08-14T21:26:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2139" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s7e046kdjvsqa3zhu57lwix5lq1sbc4</sha1>
+    </revision>
+    <revision>
+      <id>725956993</id>
+      <parentid>725956988</parentid>
+      <timestamp>2018-08-14T21:26:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1914</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2518" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qyf2zvrdurxkehlijjrvpiivmmzyydc</sha1>
+    </revision>
+    <revision>
+      <id>725956994</id>
+      <parentid>725956993</parentid>
+      <timestamp>2018-08-14T21:26:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Paul Minck</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2771" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cygb18dc4yl9nx5m7nz5a18zhhw3zwp</sha1>
+    </revision>
+    <revision>
+      <id>725956998</id>
+      <parentid>725956994</parentid>
+      <timestamp>2018-08-14T21:26:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2957" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6h8uptpg2slbey8vel46knwyrfug26x</sha1>
+    </revision>
+    <revision>
+      <id>725957004</id>
+      <parentid>725956998</parentid>
+      <timestamp>2018-08-14T21:26:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385045]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3270" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b9100ddcca18ee476d7c5a1c0666a2d8c81ccb21","datavalue":{"value":{"entity-type":"item","numeric-id":21385045,"id":"Q21385045"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$3932782D-A4D1-41DC-8975-82AAB5308A26","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dv18owqlinyp6jcp6s1gzdjrt3se80r</sha1>
+    </revision>
+    <revision>
+      <id>738425652</id>
+      <parentid>725957004</parentid>
+      <timestamp>2018-09-02T07:21:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 33062003, According to [[Property:P5315]]=101419</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3519" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b9100ddcca18ee476d7c5a1c0666a2d8c81ccb21","datavalue":{"value":{"entity-type":"item","numeric-id":21385045,"id":"Q21385045"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$3932782D-A4D1-41DC-8975-82AAB5308A26","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c9f9a9330eabe7881ece76837a2854214a71152c","datavalue":{"value":"33062003","type":"string"}},"type":"statement","id":"Q56088272$12A8212F-5C26-431C-A8C7-73C3E9FE2AB0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t41tp9956te8p5g5rpcf3n6vq3t4tul</sha1>
+    </revision>
+    <revision>
+      <id>956220471</id>
+      <parentid>738425652</parentid>
+      <timestamp>2019-06-05T16:12:10Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559621434911; Based on 1914 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3826" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b9100ddcca18ee476d7c5a1c0666a2d8c81ccb21","datavalue":{"value":{"entity-type":"item","numeric-id":21385045,"id":"Q21385045"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$3932782D-A4D1-41DC-8975-82AAB5308A26","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c9f9a9330eabe7881ece76837a2854214a71152c","datavalue":{"value":"33062003","type":"string"}},"type":"statement","id":"Q56088272$12A8212F-5C26-431C-A8C7-73C3E9FE2AB0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$B643D0B9-640D-438B-B8D5-1B322BDE3463","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c0iy7mhir8dob3eyy2yzx3y2gwr06zo</sha1>
+    </revision>
+    <revision>
+      <id>956220548</id>
+      <parentid>956220471</parentid>
+      <timestamp>2019-06-05T16:12:17Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559621434911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4069" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b9100ddcca18ee476d7c5a1c0666a2d8c81ccb21","datavalue":{"value":{"entity-type":"item","numeric-id":21385045,"id":"Q21385045"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$3932782D-A4D1-41DC-8975-82AAB5308A26","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c9f9a9330eabe7881ece76837a2854214a71152c","datavalue":{"value":"33062003","type":"string"}},"type":"statement","id":"Q56088272$12A8212F-5C26-431C-A8C7-73C3E9FE2AB0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56088272$B643D0B9-640D-438B-B8D5-1B322BDE3463","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mp5a18gru8cm0rcojma1odwj0agwcag</sha1>
+    </revision>
+    <revision>
+      <id>956220610</id>
+      <parentid>956220548</parentid>
+      <timestamp>2019-06-05T16:12:23Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559621434911</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4285" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b9100ddcca18ee476d7c5a1c0666a2d8c81ccb21","datavalue":{"value":{"entity-type":"item","numeric-id":21385045,"id":"Q21385045"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$3932782D-A4D1-41DC-8975-82AAB5308A26","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c9f9a9330eabe7881ece76837a2854214a71152c","datavalue":{"value":"33062003","type":"string"}},"type":"statement","id":"Q56088272$12A8212F-5C26-431C-A8C7-73C3E9FE2AB0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56088272$B643D0B9-640D-438B-B8D5-1B322BDE3463","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0sh74059mxu4k679dzgqp7kvcaakab3</sha1>
+    </revision>
+    <revision>
+      <id>974549354</id>
+      <parentid>956220610</parentid>
+      <timestamp>2019-07-05T16:00:10Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1914, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4483" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b9100ddcca18ee476d7c5a1c0666a2d8c81ccb21","datavalue":{"value":{"entity-type":"item","numeric-id":21385045,"id":"Q21385045"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$3932782D-A4D1-41DC-8975-82AAB5308A26","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c9f9a9330eabe7881ece76837a2854214a71152c","datavalue":{"value":"33062003","type":"string"}},"type":"statement","id":"Q56088272$12A8212F-5C26-431C-A8C7-73C3E9FE2AB0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56088272$B643D0B9-640D-438B-B8D5-1B322BDE3463","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rlt3xscsr4221ezbjqv085w69tzu3ys</sha1>
+    </revision>
+    <revision>
+      <id>1272510520</id>
+      <parentid>974549354</parentid>
+      <timestamp>2020-09-06T19:31:05Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1914 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4578" xml:space="preserve">{"type":"item","id":"Q56088272","labels":{"de":{"language":"de","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"},"en":{"language":"en","value":"Beitrag zur Kenntnis der Dynastiden. (Col.)"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1914"},"de":{"language":"de","value":"im Jahr 1914 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"1b9e7a8f1b51b27208db7728efcbb905ae20ec2c","datavalue":{"value":"10.1002\/MMND.191419140303","type":"string"}},"type":"statement","id":"Q56088272$08DAE4A9-B5E7-4D76-A3CB-56DEBE3FA613","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"a541209d1e9d903103d85096e3559dacc0ca5053","datavalue":{"value":"101419","type":"string"}},"type":"statement","id":"Q56088272$E0B16200-DB88-4467-8361-EFF67780ED63","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$65647ED9-3A26-4C6E-B9F4-8A91540B04FE","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"7c926302f6e1044c1a7e435181a1a091a69e520b","datavalue":{"value":{"text":"Beitrag zur Kenntnis der Dynastiden. (Col.)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56088272$4D876640-9FF2-4498-A526-2CF1B535A05E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"0477cd95670e6da5602169691526a2b4586df5e7","datavalue":{"value":"1914","type":"string"}},"type":"statement","id":"Q56088272$38876E90-D919-4F5B-9444-F3D46DB883AF","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b04276407b0672bb2820a4e7f2438e641f26a3ee","datavalue":{"value":"278\u2013280","type":"string"}},"type":"statement","id":"Q56088272$EB734AD2-54C6-4E48-9B0F-88C646565DC8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q56088272$19BB94BB-8B44-4D38-8767-9541536AE9FA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"94f7b8edd6e522a4716b61bac0bb162f689653ec","datavalue":{"value":{"time":"+1914-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56088272$602209F5-82C0-4599-B93C-3A4B9B42B254","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9996fb026c3c36cf99e0cd4544222ac8229ce643","datavalue":{"value":"Paul Minck","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56088272$2323C5CD-4B20-4C94-BD3F-2896FCD0A177","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"b9100ddcca18ee476d7c5a1c0666a2d8c81ccb21","datavalue":{"value":{"entity-type":"item","numeric-id":21385045,"id":"Q21385045"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56088272$3932782D-A4D1-41DC-8975-82AAB5308A26","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c9f9a9330eabe7881ece76837a2854214a71152c","datavalue":{"value":"33062003","type":"string"}},"type":"statement","id":"Q56088272$12A8212F-5C26-431C-A8C7-73C3E9FE2AB0","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56088272$B643D0B9-640D-438B-B8D5-1B322BDE3463","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mmowxbijrrbj6zdm226bsci2frw1q9i</sha1>
+    </revision>
+  </page>
+</mediawiki>

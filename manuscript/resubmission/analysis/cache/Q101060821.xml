@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q101060821</title>
+    <ns>0</ns>
+    <id>98531387</id>
+    <revision>
+      <id>1300265396</id>
+      <timestamp>2020-10-31T17:23:53Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ [[:toollabs:quickstatements/#/batch/44777|batch #44777]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="8679" xml:space="preserve">{"type":"item","id":"Q101060821","labels":{"de":{"language":"de","value":"Floristische Notizen"},"en":{"language":"en","value":"Floristische Notizen"}},"descriptions":[],"aliases":[],"claims":{"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"891a9846f6fe48b3ebd351c899e6103fdadd550a","datavalue":{"value":"9","type":"string"}},"type":"statement","id":"Q101060821$CAFACA99-F2EC-4C0D-B3EC-1D0E2A5B2597","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"60950b2593293fb704a90a7e72d44d515323b7fa","datavalue":{"value":"10.1007\/BF01631490","type":"string"}},"type":"statement","id":"Q101060821$E0E7813B-7700-41EE-B5C2-FFEE0194C6CB","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q101060821$DEDA9A4A-C798-440F-8B17-F63E2E0E1AEF","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ceed83b276bc6a44ce371ad0685d8ea5e12ff772","datavalue":{"value":"241-243","type":"string"}},"type":"statement","id":"Q101060821$B097E0C9-0E67-43D9-B7DB-869C505005FB","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a58b309d6de0912494761d88cddd9b84cae0a2d3","datavalue":{"value":{"text":"Floristische Notizen","language":"de"},"type":"monolingualtext"}},"type":"statement","id":"Q101060821$4ABFE4DA-9DB4-4B1C-BFA7-344776BE32C5","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"46bfd327b830f66f7061ea92d1be430c135fa91f","datavalue":{"value":{"entity-type":"item","numeric-id":188,"id":"Q188"},"type":"wikibase-entityid"}},"type":"statement","id":"Q101060821$C94D2F10-C862-4E07-9F52-B63F7F5EBE22","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"60318de78f78cfe8adb67322a8ed1208c82b9593","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q101060821$DBAEB2FD-87AE-4E62-B127-C2943DB1BCA3","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"73b2514654946447ed91859439b813797afa3132","datavalue":{"value":"K. Fritsch","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q101060821$5D01A95A-6493-42F0-A6AF-74DFD2858AD1","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e64904a613bd3b197ce0ff441811ce404fc71e49","datavalue":{"value":{"entity-type":"item","numeric-id":22046832,"id":"Q22046832"},"type":"wikibase-entityid"}},"type":"statement","id":"Q101060821$64913566-2431-42CD-BB9C-F9693805D9BB","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"839edc9e0ecd52c42acbf0e988bd10985958c941","datavalue":{"value":"http:\/\/link.springer.com\/content\/pdf\/10.1007\/BF01631490.pdf","type":"string"}},"type":"statement","qualifiers":{"P2701":[{"snaktype":"value","property":"P2701","hash":"af6610346b1aac0a1b026309e0c489b8b9bd5a88","datavalue":{"value":{"entity-type":"item","numeric-id":42332,"id":"Q42332"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2701"],"id":"Q101060821$9EC700FB-2A1E-4A6C-B3B9-F76F9C3354DC","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P953","hash":"852878523d704d9c8932fd5f0c9feb87295c2b82","datavalue":{"value":"http:\/\/dx.doi.org\/10.1007\/bf01631490","type":"string"}},"type":"statement","id":"Q101060821$562CE75F-27C1-4AF5-9481-88C060DE7CFA","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"70b5a3d1310db759ba375fe0477814e51bba6dae","datavalue":{"value":{"time":"+1915-09-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q101060821$AC62648C-9E65-42B4-B716-9B7BC91EC7D1","rank":"normal","references":[{"hash":"fc25f6e58530337338dde7d95bf88a6f22b14360","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"a185ae64d472c92d128e6bcb1de168a4b46a2019","datavalue":{"value":{"entity-type":"item","numeric-id":5188229,"id":"Q5188229"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"e69739fa0d841d1d0681ca2d1fca7c59a37b3041","datavalue":{"value":"https:\/\/api.crossref.org\/v1\/works\/10.1007\/bf01631490","type":"string"}}]},"snaks-order":["P248","P854"]}]}]},"sitelinks":[]}</text>
+      <sha1>dwxdmtq29siga74hhzl3oulm91oo5lk</sha1>
+    </revision>
+  </page>
+</mediawiki>

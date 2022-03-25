@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55993938</title>
+    <ns>0</ns>
+    <id>55944175</id>
+    <revision>
+      <id>722127585</id>
+      <timestamp>2018-08-06T18:07:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55993938","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1lkqkzwanxpqa6euhv4d84agej3o7nd</sha1>
+    </revision>
+    <revision>
+      <id>722127587</id>
+      <parentid>722127585</parentid>
+      <timestamp>2018-08-06T18:07:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="247" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>02c7yb1ih7g7pdq8uln9y9b3wyl3iou</sha1>
+    </revision>
+    <revision>
+      <id>722127589</id>
+      <parentid>722127587</parentid>
+      <timestamp>2018-08-06T18:07:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="393" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0tkgt4oxcvthyoj9bz3iyzfvtw0funy</sha1>
+    </revision>
+    <revision>
+      <id>722127594</id>
+      <parentid>722127589</parentid>
+      <timestamp>2018-08-06T18:07:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.21829/ABM65.2003.962</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="657" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dnn101fa3typ72kje2uh5a4hwzxy1go</sha1>
+    </revision>
+    <revision>
+      <id>722127597</id>
+      <parentid>722127594</parentid>
+      <timestamp>2018-08-06T18:07:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="966" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tjk544sxrzpfjq92scxr9r5qfs9lvm9</sha1>
+    </revision>
+    <revision>
+      <id>722127599</id>
+      <parentid>722127597</parentid>
+      <timestamp>2018-08-06T18:07:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1355" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1icgwx8940mo6df8hybz8zwmd97tbzo</sha1>
+    </revision>
+    <revision>
+      <id>722127603</id>
+      <parentid>722127599</parentid>
+      <timestamp>2018-08-06T18:07:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 51</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1598" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l9hot75kppejdod49pwgfutwogdn1zi</sha1>
+    </revision>
+    <revision>
+      <id>722127607</id>
+      <parentid>722127603</parentid>
+      <timestamp>2018-08-06T18:07:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 65</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1841" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0di62tioblclxebcxhox7zbmtp8jkgl</sha1>
+    </revision>
+    <revision>
+      <id>722127609</id>
+      <parentid>722127607</parentid>
+      <timestamp>2018-08-06T18:07:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1 October 2003</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2221" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5vyo1qldr32rrzedyyvo1yxtw27fy93</sha1>
+    </revision>
+    <revision>
+      <id>722127614</id>
+      <parentid>722127609</parentid>
+      <timestamp>2018-08-06T18:07:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Aarón Rodríguez</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2489" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8hne5nustv6ob21tcra8tke2oy9lzvd</sha1>
+    </revision>
+    <revision>
+      <id>722127616</id>
+      <parentid>722127614</parentid>
+      <timestamp>2018-08-06T18:07:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2675" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8gbvv31g23cqpp3b23ffh5gb5r6wnkm</sha1>
+    </revision>
+    <revision>
+      <id>722127618</id>
+      <parentid>722127616</parentid>
+      <timestamp>2018-08-06T18:07:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Luis Ortiz-Catedral</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2927" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7v1wxn3sp3wx1gwfnx9i3cb8zls852d</sha1>
+    </revision>
+    <revision>
+      <id>722127622</id>
+      <parentid>722127618</parentid>
+      <timestamp>2018-08-06T18:07:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3113" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hzwh6fz57dcg95426be2s823q7go41j</sha1>
+    </revision>
+    <revision>
+      <id>722127625</id>
+      <parentid>722127622</parentid>
+      <timestamp>2018-08-06T18:07:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5656877]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3424" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fa48e5fca13b103ba9b2bc01d35ba3754022cbf8","datavalue":{"value":{"entity-type":"item","numeric-id":5656877,"id":"Q5656877"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$048D55B5-F950-4958-86BC-DEB046CBE82F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3xmpka6yo6toqy44hpnfyqqg9kkhp76</sha1>
+    </revision>
+    <revision>
+      <id>724931884</id>
+      <parentid>722127625</parentid>
+      <timestamp>2018-08-12T19:43:55Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3627" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"nl":{"language":"nl","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fa48e5fca13b103ba9b2bc01d35ba3754022cbf8","datavalue":{"value":{"entity-type":"item","numeric-id":5656877,"id":"Q5656877"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$048D55B5-F950-4958-86BC-DEB046CBE82F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i4g2izihwumh0obimms3aldroym281b</sha1>
+    </revision>
+    <revision>
+      <id>736055433</id>
+      <parentid>724931884</parentid>
+      <timestamp>2018-08-29T03:14:05Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], #quickstatements; [[:toollabs:quickstatements/#/batch/4097|batch #4097]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3938" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"nl":{"language":"nl","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fa48e5fca13b103ba9b2bc01d35ba3754022cbf8","datavalue":{"value":{"entity-type":"item","numeric-id":5656877,"id":"Q5656877"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$048D55B5-F950-4958-86BC-DEB046CBE82F","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$AACADB25-94C3-4A67-B40B-6DB5D235A3BA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qbyfb1b8iqxxpvrbkc8fgy1rgif87uw</sha1>
+    </revision>
+    <revision>
+      <id>971537158</id>
+      <parentid>736055433</parentid>
+      <timestamp>2019-06-30T03:27:14Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в жовтні 2003, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4174" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"nl":{"language":"nl","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2003"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fa48e5fca13b103ba9b2bc01d35ba3754022cbf8","datavalue":{"value":{"entity-type":"item","numeric-id":5656877,"id":"Q5656877"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$048D55B5-F950-4958-86BC-DEB046CBE82F","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$AACADB25-94C3-4A67-B40B-6DB5D235A3BA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q4jporgfhxnytekgri7v877jvjjkd54</sha1>
+    </revision>
+    <revision>
+      <id>1186506042</id>
+      <parentid>971537158</parentid>
+      <timestamp>2020-05-21T16:22:30Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q52800401]], [[:toollabs:quickstatements/#/batch/34464|batch #34464]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4476" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"nl":{"language":"nl","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2003"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fa48e5fca13b103ba9b2bc01d35ba3754022cbf8","datavalue":{"value":{"entity-type":"item","numeric-id":5656877,"id":"Q5656877"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$048D55B5-F950-4958-86BC-DEB046CBE82F","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$AACADB25-94C3-4A67-B40B-6DB5D235A3BA","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"e8d32d67acfe69d410d599664e912fefcbe6c28c","datavalue":{"value":{"entity-type":"item","numeric-id":52800401,"id":"Q52800401"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$70EF61C0-3C2D-47B6-B1EE-7589EE0C90BA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0djmn1hn61s3qriphopgqkwtxasjt87</sha1>
+    </revision>
+    <revision>
+      <id>1193295357</id>
+      <parentid>1186506042</parentid>
+      <timestamp>2020-05-29T08:29:02Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Oktober 2003 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4574" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"nl":{"language":"nl","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2003"},"de":{"language":"de","value":"im Oktober 2003 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"dd58a6571c73211e89962fa7f43c852922d67568","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$8C616C11-1C88-4D44-A9DC-B8F03FBE5C01","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fa48e5fca13b103ba9b2bc01d35ba3754022cbf8","datavalue":{"value":{"entity-type":"item","numeric-id":5656877,"id":"Q5656877"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$048D55B5-F950-4958-86BC-DEB046CBE82F","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$AACADB25-94C3-4A67-B40B-6DB5D235A3BA","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"e8d32d67acfe69d410d599664e912fefcbe6c28c","datavalue":{"value":{"entity-type":"item","numeric-id":52800401,"id":"Q52800401"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$70EF61C0-3C2D-47B6-B1EE-7589EE0C90BA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>05niq36l9t3hpqehpttps612nbrmv3r</sha1>
+    </revision>
+    <revision>
+      <id>1588022984</id>
+      <parentid>1193295357</parentid>
+      <timestamp>2022-03-05T21:17:39Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q21522436]] ([[:toollabs:editgroups/b/AD/36cb6df6|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4799" xml:space="preserve">{"type":"item","id":"Q55993938","labels":{"de":{"language":"de","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"en":{"language":"en","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"},"nl":{"language":"nl","value":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2003"},"de":{"language":"de","value":"im Oktober 2003 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9e94ed005bd904fe71c5be8048f82b04fd80dbf0","datavalue":{"value":"10.21829\/ABM65.2003.962","type":"string"}},"type":"statement","id":"Q55993938$179C21F8-2157-4E98-9B96-28437A191DF1","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$8CC532C6-39AB-44FC-B0EB-E82A7FAA1EF1","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3d1d7d2bc614bf38c14808cb508deaed1a119f2e","datavalue":{"value":{"text":"Colima (Tigridieae: Iridaceae), a new genus from western Mexico and a new species: Colima tuitensis from Jalisco","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55993938$33BD8F1A-FA77-4FC0-8909-8D3F729D62C2","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a545507636fe06f79d3ac1505efdb0547b923ea2","datavalue":{"value":"51","type":"string"}},"type":"statement","id":"Q55993938$6156BE47-AE0C-4E8E-9109-1737F95BCBB6","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"f5257fd23c7680318b88dc9befaf07a0c5a1d673","datavalue":{"value":"65","type":"string"}},"type":"statement","id":"Q55993938$A7EEB842-094F-4DFE-A150-18A84741EC14","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5a9d7f11e2bce2dd6d643ef3ab0300f33a86d644","datavalue":{"value":{"time":"+2003-10-01T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55993938$1137380A-2978-42EA-BF5C-E204DA00C0E2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"662665c95dd6701263e420d46da2e8a1308cb054","datavalue":{"value":"Aar\u00f3n Rodr\u00edguez","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55993938$E61DC13B-CBC2-41DB-B566-EA2FABB7B725","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fa48e5fca13b103ba9b2bc01d35ba3754022cbf8","datavalue":{"value":{"entity-type":"item","numeric-id":5656877,"id":"Q5656877"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$048D55B5-F950-4958-86BC-DEB046CBE82F","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$AACADB25-94C3-4A67-B40B-6DB5D235A3BA","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P921","hash":"e8d32d67acfe69d410d599664e912fefcbe6c28c","datavalue":{"value":{"entity-type":"item","numeric-id":52800401,"id":"Q52800401"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55993938$70EF61C0-3C2D-47B6-B1EE-7589EE0C90BA","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"9a3ab5958b1e3b5e10bc4357b3392b4e4b729ca1","datavalue":{"value":{"entity-type":"item","numeric-id":21522436,"id":"Q21522436"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"58da0b8cc2e8b74742a4939d7c868796b6cf7778","datavalue":{"value":"Luis Ortiz-Catedral","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q55993938$0DAA0492-CDB5-4539-93B8-4C9B14039A30","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t2ccuzhcsjmw6m0gz0z8vrqrvgk4dxc</sha1>
+    </revision>
+  </page>
+</mediawiki>

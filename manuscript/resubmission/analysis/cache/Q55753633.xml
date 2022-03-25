@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55753633</title>
+    <ns>0</ns>
+    <id>55728993</id>
+    <revision>
+      <id>715511578</id>
+      <timestamp>2018-07-25T13:27:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55753633","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>s6in3t7b3s2lg3rkudda3ooogs7va52</sha1>
+    </revision>
+    <revision>
+      <id>715511582</id>
+      <parentid>715511578</parentid>
+      <timestamp>2018-07-25T13:27:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Piperaceae hispaniolenses</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="160" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>tjnm2icyiod2ytq4hsr19e68hf00rc3</sha1>
+    </revision>
+    <revision>
+      <id>715511588</id>
+      <parentid>715511582</parentid>
+      <timestamp>2018-07-25T13:27:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Piperaceae hispaniolenses</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="219" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>jr2i975usgc5p09leftqw66fg7aq3pu</sha1>
+    </revision>
+    <revision>
+      <id>715512012</id>
+      <parentid>715511588</parentid>
+      <timestamp>2018-07-25T13:28:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ wissenschaftlicher Artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="278" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>bfh0rncq4x5sksvwlhehqcu9sl7yjhz</sha1>
+    </revision>
+    <revision>
+      <id>715512017</id>
+      <parentid>715512012</parentid>
+      <timestamp>2018-07-25T13:28:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scientific article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="330" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>9rrzesgbeyr8skbh5pxsyx46ahxbabd</sha1>
+    </revision>
+    <revision>
+      <id>715512022</id>
+      <parentid>715512017</parentid>
+      <timestamp>2018-07-25T13:28:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1002/FEDR.19270231807</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="595" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kq31vv87wvb3cdgmp3oox96li8syvh9</sha1>
+    </revision>
+    <revision>
+      <id>715512027</id>
+      <parentid>715512022</parentid>
+      <timestamp>2018-07-25T13:28:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="904" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r7fvop2iv1z1copdr4e4ln2q7v0dmsz</sha1>
+    </revision>
+    <revision>
+      <id>715512030</id>
+      <parentid>715512027</parentid>
+      <timestamp>2018-07-25T13:28:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Piperaceae hispaniolenses</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1206" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6z2wm350ho4vvrbz1yv8z7l9v39x6zz</sha1>
+    </revision>
+    <revision>
+      <id>715512036</id>
+      <parentid>715512030</parentid>
+      <timestamp>2018-07-25T13:28:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 23</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1449" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0eqtk2soxedtm33i1ggoj968dva843e</sha1>
+    </revision>
+    <revision>
+      <id>715512039</id>
+      <parentid>715512036</parentid>
+      <timestamp>2018-07-25T13:28:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 303–333</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1702" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2ov1t55irlhcn2ah3dyecmc9pd8415v</sha1>
+    </revision>
+    <revision>
+      <id>715512044</id>
+      <parentid>715512039</parentid>
+      <timestamp>2018-07-25T13:28:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 18-25</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1948" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7v22ohr2qtox4x0x4rl7epuamsdqh13</sha1>
+    </revision>
+    <revision>
+      <id>715512049</id>
+      <parentid>715512044</parentid>
+      <timestamp>2018-07-25T13:28:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1927</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2327" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>peceua1zxoa58ofrvlgypvg41gkshkn</sha1>
+    </revision>
+    <revision>
+      <id>715512053</id>
+      <parentid>715512049</parentid>
+      <timestamp>2018-07-25T13:28:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Auctore W. Trelease</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2589" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b705aed05c39e2c4e24bf9ebe4b80768e7f2380b","datavalue":{"value":"Auctore W. Trelease","type":"string"}},"type":"statement","id":"Q55753633$8504E8E1-3217-46A3-830D-0234E866AB54","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p2pffsuh7mpxti2lzk9wzvie37cx5oo</sha1>
+    </revision>
+    <revision>
+      <id>715512057</id>
+      <parentid>715512053</parentid>
+      <timestamp>2018-07-25T13:28:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2775" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b705aed05c39e2c4e24bf9ebe4b80768e7f2380b","datavalue":{"value":"Auctore W. Trelease","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753633$8504E8E1-3217-46A3-830D-0234E866AB54","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7xpqmfc28m2nggw81pzg4j97t5axvfh</sha1>
+    </revision>
+    <revision>
+      <id>715512062</id>
+      <parentid>715512057</parentid>
+      <timestamp>2018-07-25T13:28:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5550932]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3086" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b705aed05c39e2c4e24bf9ebe4b80768e7f2380b","datavalue":{"value":"Auctore W. Trelease","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753633$8504E8E1-3217-46A3-830D-0234E866AB54","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$25778C97-E280-4A64-AEF6-2FABFBC92C35","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>81wb7yi9wy9fli5e69mmbskuwliw04e</sha1>
+    </revision>
+    <revision>
+      <id>726600076</id>
+      <parentid>715512062</parentid>
+      <timestamp>2018-08-15T19:14:09Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3203" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"},"nl":{"language":"nl","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b705aed05c39e2c4e24bf9ebe4b80768e7f2380b","datavalue":{"value":"Auctore W. Trelease","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753633$8504E8E1-3217-46A3-830D-0234E866AB54","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$25778C97-E280-4A64-AEF6-2FABFBC92C35","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rvyq6gl24nafd904va2nre53l7idflc</sha1>
+    </revision>
+    <revision>
+      <id>764296749</id>
+      <parentid>726600076</parentid>
+      <timestamp>2018-10-14T20:29:50Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3316" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"},"nl":{"language":"nl","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b705aed05c39e2c4e24bf9ebe4b80768e7f2380b","datavalue":{"value":"Auctore W. Trelease","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753633$8504E8E1-3217-46A3-830D-0234E866AB54","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$25778C97-E280-4A64-AEF6-2FABFBC92C35","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>axczb7laounrylf073pjl4wdpadgdzr</sha1>
+    </revision>
+    <revision>
+      <id>879132418</id>
+      <parentid>764296749</parentid>
+      <timestamp>2019-03-10T11:20:49Z</timestamp>
+      <contributor>
+        <username>Emijrpbot</username>
+        <id>6811</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ BOT - Adding descriptions (56 languages): ar, ast, bg, bn, ca, cs, da, el, eo, es, et, fa, fi, fr, gl, he, hu, hy, it, ja, ka, ko, lt, nan, nb, nn, oc, pl, pt, pt-br, ro, ru, sk, sq, sr, sr-ec, sr-el, sv, tg, tg-cyrl, th, tl, tr, ur, vi, wuu, yue, zh, zh-cn, zh-hans, zh-hant, zh-hk, zh-mo, zh-my, zh-sg, zh-tw</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7701" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"},"nl":{"language":"nl","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"},"zh-hans":{"language":"zh-hans","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"zh-my":{"language":"zh-my","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"wuu":{"language":"wuu","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1927)"},"sq":{"language":"sq","value":"artikull shkencor"},"zh-tw":{"language":"zh-tw","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"nan":{"language":"nan","value":"1927 n\u00ee l\u016bn-b\u00fbn"},"zh-cn":{"language":"zh-cn","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1927)"},"it":{"language":"it","value":"articolo scientifico"},"zh":{"language":"zh","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"ja":{"language":"ja","value":"1927\u5e74\u306e\u8ad6\u6587"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"zh-hk":{"language":"zh-hk","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"yue":{"language":"yue","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"zh-mo":{"language":"zh-mo","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1927"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"ca":{"language":"ca","value":"article cient\u00edfic"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e8\u09ed-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"ur":{"language":"ur","value":"\u0633\u0627\u0626\u0646\u0633\u06cc \u0645\u0636\u0645\u0648\u0646"},"ko":{"language":"ko","value":"1927\ub144 \ub17c\ubb38"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1927)"},"eo":{"language":"eo","value":"scienca artikolo"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1927)"},"et":{"language":"et","value":"teaduslik artikkel"},"tr":{"language":"tr","value":"bilimsel makale"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"zh-sg":{"language":"zh-sg","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"oc":{"language":"oc","value":"article scientific"},"tl":{"language":"tl","value":"artikulong pang-agham"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b705aed05c39e2c4e24bf9ebe4b80768e7f2380b","datavalue":{"value":"Auctore W. Trelease","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753633$8504E8E1-3217-46A3-830D-0234E866AB54","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$25778C97-E280-4A64-AEF6-2FABFBC92C35","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pmnqru05oagtzrbv09tzdk50d65up4l</sha1>
+    </revision>
+    <revision>
+      <id>988114564</id>
+      <parentid>879132418</parentid>
+      <timestamp>2019-07-28T20:59:21Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-set:1|uk */ наукова стаття, опублікована в 1927, [[:toollabs:quickstatements/#/batch/16435|batch #16435]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7787" xml:space="preserve">{"type":"item","id":"Q55753633","labels":{"de":{"language":"de","value":"Piperaceae hispaniolenses"},"en":{"language":"en","value":"Piperaceae hispaniolenses"},"nl":{"language":"nl","value":"Piperaceae hispaniolenses"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1927"},"zh-hans":{"language":"zh-hans","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"zh-my":{"language":"zh-my","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"wuu":{"language":"wuu","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1927)"},"sq":{"language":"sq","value":"artikull shkencor"},"zh-tw":{"language":"zh-tw","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"nan":{"language":"nan","value":"1927 n\u00ee l\u016bn-b\u00fbn"},"zh-cn":{"language":"zh-cn","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1927)"},"it":{"language":"it","value":"articolo scientifico"},"zh":{"language":"zh","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"ja":{"language":"ja","value":"1927\u5e74\u306e\u8ad6\u6587"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"zh-hk":{"language":"zh-hk","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-hant":{"language":"zh-hant","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"yue":{"language":"yue","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"zh-mo":{"language":"zh-mo","value":"1927\u5e74\u5b78\u8853\u6587\u7ae0"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1927"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"ca":{"language":"ca","value":"article cient\u00edfic"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e8\u09ed-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"ur":{"language":"ur","value":"\u0633\u0627\u0626\u0646\u0633\u06cc \u0645\u0636\u0645\u0648\u0646"},"ko":{"language":"ko","value":"1927\ub144 \ub17c\ubb38"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1927)"},"eo":{"language":"eo","value":"scienca artikolo"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1927)"},"et":{"language":"et","value":"teaduslik artikkel"},"tr":{"language":"tr","value":"bilimsel makale"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"zh-sg":{"language":"zh-sg","value":"1927\u5e74\u5b66\u672f\u6587\u7ae0"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"oc":{"language":"oc","value":"article scientific"},"tl":{"language":"tl","value":"artikulong pang-agham"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"af63e46ec9f9be7465a8dff3291e951ad18cd3d1","datavalue":{"value":"10.1002\/FEDR.19270231807","type":"string"}},"type":"statement","id":"Q55753633$899787D7-8FE4-41F1-B126-E068FBCAB4C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$B243807D-C752-4BFB-8742-C067B655F529","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5632dd6ffef8bfc1cb65c9955c8d7b4eb8e16477","datavalue":{"value":{"text":"Piperaceae hispaniolenses","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55753633$8D2FF98F-0EA6-46F7-90D1-AAFCE90EC17D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"11c194f9ddef62373f1f4bc06d33dd7e0f6608d2","datavalue":{"value":"23","type":"string"}},"type":"statement","id":"Q55753633$D5A33DA1-D2AB-4412-8925-9FDB74E24FC4","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"6ab294731395ca05e73a8ad55c190cb1ba005383","datavalue":{"value":"303\u2013333","type":"string"}},"type":"statement","id":"Q55753633$D0F82754-932E-4640-86CF-B745777B5B13","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"bfcf86b46bed64613909dc0797f6bcb29c550594","datavalue":{"value":"18-25","type":"string"}},"type":"statement","id":"Q55753633$C6D523E8-B368-484C-9FA3-EED108856F91","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5d2c8999778688fc3254b326bcbf2ddebd52286d","datavalue":{"value":{"time":"+1927-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55753633$450AEC58-9BDB-475B-B54F-03B3F2FA7AA4","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b705aed05c39e2c4e24bf9ebe4b80768e7f2380b","datavalue":{"value":"Auctore W. Trelease","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55753633$8504E8E1-3217-46A3-830D-0234E866AB54","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55753633$25778C97-E280-4A64-AEF6-2FABFBC92C35","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8qjweuwysl8v2vesw5o4bpc6f0io1f0</sha1>
+    </revision>
+  </page>
+</mediawiki>

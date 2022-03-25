@@ -1,0 +1,344 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56155891</title>
+    <ns>0</ns>
+    <id>56099099</id>
+    <revision>
+      <id>728271771</id>
+      <timestamp>2018-08-18T01:53:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56155891","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>oiqsh34okdyvtyeo9ivp9h71qj3uxaf</sha1>
+    </revision>
+    <revision>
+      <id>728271776</id>
+      <parentid>728271771</parentid>
+      <timestamp>2018-08-18T01:53:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ On Some Fresh-Water Entomostraca From Ceylon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="179" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3lhx0cnj3w7inr3o2pr6bhuroycngvz</sha1>
+    </revision>
+    <revision>
+      <id>728271779</id>
+      <parentid>728271776</parentid>
+      <timestamp>2018-08-18T01:53:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ On Some Fresh-Water Entomostraca From Ceylon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="257" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>f44m1bavdhezub462qxy14ftguduoeh</sha1>
+    </revision>
+    <revision>
+      <id>728271785</id>
+      <parentid>728271779</parentid>
+      <timestamp>2018-08-18T01:53:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1111/J.1096-3642.1916.TB02016.X</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="532" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>la0xsv4il64q4kbs5dtpax3z0teu5ts</sha1>
+    </revision>
+    <revision>
+      <id>728271791</id>
+      <parentid>728271785</parentid>
+      <timestamp>2018-08-18T01:53:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 99670</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="780" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>42qrr2d3ssqxk3lncqizl2bizg0y0s3</sha1>
+    </revision>
+    <revision>
+      <id>728271793</id>
+      <parentid>728271791</parentid>
+      <timestamp>2018-08-18T01:53:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1089" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>80v4it1yzymmff6agi5tmyzrz7u6lns</sha1>
+    </revision>
+    <revision>
+      <id>728271800</id>
+      <parentid>728271793</parentid>
+      <timestamp>2018-08-18T01:53:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: On Some Fresh-Water Entomostraca From Ceylon</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1410" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0khqkjx1nou70krna2jxatc7dgpf8dx</sha1>
+    </revision>
+    <revision>
+      <id>728271802</id>
+      <parentid>728271800</parentid>
+      <timestamp>2018-08-18T01:53:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 86</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1653" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j22nmblecwuz758u2ebxb2mg3tipsig</sha1>
+    </revision>
+    <revision>
+      <id>728271808</id>
+      <parentid>728271802</parentid>
+      <timestamp>2018-08-18T01:53:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 333–343</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1906" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jm2mp0gjkdc0u8clcwci3g7gjqn4tw0</sha1>
+    </revision>
+    <revision>
+      <id>728271810</id>
+      <parentid>728271808</parentid>
+      <timestamp>2018-08-18T01:53:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2148" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bedwq395lg779j3z9kq6p9mncfh5ew8</sha1>
+    </revision>
+    <revision>
+      <id>728271813</id>
+      <parentid>728271810</parentid>
+      <timestamp>2018-08-18T01:53:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 21 August 2009</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2528" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2djnyzq1ubozvvs7j21vhbhyviphegt</sha1>
+    </revision>
+    <revision>
+      <id>728271820</id>
+      <parentid>728271813</parentid>
+      <timestamp>2018-08-18T01:53:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Robert Gurnet</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2784" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2zxlbmsar0kf2n5i0e1mk6z9r8ojfd7</sha1>
+    </revision>
+    <revision>
+      <id>728271823</id>
+      <parentid>728271820</parentid>
+      <timestamp>2018-08-18T01:53:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2970" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i45oy4may524orhcgzgqkpsh3uk0fja</sha1>
+    </revision>
+    <revision>
+      <id>728271828</id>
+      <parentid>728271823</parentid>
+      <timestamp>2018-08-18T01:53:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q19622568]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3283" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mle47qo2wa5tbc6771h9miz466f052q</sha1>
+    </revision>
+    <revision>
+      <id>738421724</id>
+      <parentid>728271828</parentid>
+      <timestamp>2018-09-02T07:10:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 31597101, According to [[Property:P5315]]=99670</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3532" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ef5d616b830a3c6286adaff8d7d3df2044cd6755","datavalue":{"value":"31597101","type":"string"}},"type":"statement","id":"Q56155891$8DDFE072-44D0-4320-B233-2BD8C2CCACBB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jygysj8a04i1zgu41prrhbreyvjuerc</sha1>
+    </revision>
+    <revision>
+      <id>753105502</id>
+      <parentid>738421724</parentid>
+      <timestamp>2018-09-26T14:06:38Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q102192]], #quickstatements; [[:toollabs:quickstatements/#/batch/4448|batch #4448]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3839" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ef5d616b830a3c6286adaff8d7d3df2044cd6755","datavalue":{"value":"31597101","type":"string"}},"type":"statement","id":"Q56155891$8DDFE072-44D0-4320-B233-2BD8C2CCACBB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"987cea5ad4b392ef1ba053a96ccc83eb49c5e265","datavalue":{"value":{"entity-type":"item","numeric-id":102192,"id":"Q102192"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$2C6DDC44-34F0-4D26-96F6-FE77963A954C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9o4d8f6ri08nxhdzyicy7pw2avx2hwt</sha1>
+    </revision>
+    <revision>
+      <id>780497803</id>
+      <parentid>753105502</parentid>
+      <timestamp>2018-11-03T00:29:42Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3974" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"},"nl":{"language":"nl","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ef5d616b830a3c6286adaff8d7d3df2044cd6755","datavalue":{"value":"31597101","type":"string"}},"type":"statement","id":"Q56155891$8DDFE072-44D0-4320-B233-2BD8C2CCACBB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"987cea5ad4b392ef1ba053a96ccc83eb49c5e265","datavalue":{"value":{"entity-type":"item","numeric-id":102192,"id":"Q102192"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$2C6DDC44-34F0-4D26-96F6-FE77963A954C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tw10e1fzf542uoi4kzmb9yzjb2byxp0</sha1>
+    </revision>
+    <revision>
+      <id>968567666</id>
+      <parentid>780497803</parentid>
+      <timestamp>2019-06-25T03:48:30Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в серпні 2009, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4210" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"},"nl":{"language":"nl","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ef5d616b830a3c6286adaff8d7d3df2044cd6755","datavalue":{"value":"31597101","type":"string"}},"type":"statement","id":"Q56155891$8DDFE072-44D0-4320-B233-2BD8C2CCACBB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"987cea5ad4b392ef1ba053a96ccc83eb49c5e265","datavalue":{"value":{"entity-type":"item","numeric-id":102192,"id":"Q102192"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$2C6DDC44-34F0-4D26-96F6-FE77963A954C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m6ta3vz0rbrjwr1p3624cfimzi72bct</sha1>
+    </revision>
+    <revision>
+      <id>973548839</id>
+      <parentid>968567666</parentid>
+      <timestamp>2019-07-03T13:07:12Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4251" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"},"nl":{"language":"nl","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ef5d616b830a3c6286adaff8d7d3df2044cd6755","datavalue":{"value":"31597101","type":"string"}},"type":"statement","id":"Q56155891$8DDFE072-44D0-4320-B233-2BD8C2CCACBB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"987cea5ad4b392ef1ba053a96ccc83eb49c5e265","datavalue":{"value":{"entity-type":"item","numeric-id":102192,"id":"Q102192"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$2C6DDC44-34F0-4D26-96F6-FE77963A954C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9mtbz0n7go0xew7pfrpjd9bpqnh2vuy</sha1>
+    </revision>
+    <revision>
+      <id>1115536626</id>
+      <parentid>973548839</parentid>
+      <timestamp>2020-02-15T02:25:05Z</timestamp>
+      <contributor>
+        <username>Akbarali</username>
+        <id>2139413</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|ml */ ലേഖനം, #quickstatements; #temporary_batch_1581521683909</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4315" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"},"nl":{"language":"nl","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ef5d616b830a3c6286adaff8d7d3df2044cd6755","datavalue":{"value":"31597101","type":"string"}},"type":"statement","id":"Q56155891$8DDFE072-44D0-4320-B233-2BD8C2CCACBB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"987cea5ad4b392ef1ba053a96ccc83eb49c5e265","datavalue":{"value":{"entity-type":"item","numeric-id":102192,"id":"Q102192"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$2C6DDC44-34F0-4D26-96F6-FE77963A954C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1u1dl7zprk5q2y7nwk0fz14kf2r3nnt</sha1>
+    </revision>
+    <revision>
+      <id>1271498417</id>
+      <parentid>1115536626</parentid>
+      <timestamp>2020-09-05T02:17:08Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im August 2009 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42316|batch #42316]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4412" xml:space="preserve">{"type":"item","id":"Q56155891","labels":{"de":{"language":"de","value":"On Some Fresh-Water Entomostraca From Ceylon"},"en":{"language":"en","value":"On Some Fresh-Water Entomostraca From Ceylon"},"nl":{"language":"nl","value":"On Some Fresh-Water Entomostraca From Ceylon"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0441\u0435\u0440\u043f\u043d\u0456 2009"},"en":{"language":"en","value":"article"},"ml":{"language":"ml","value":"\u0d32\u0d47\u0d16\u0d28\u0d02"},"de":{"language":"de","value":"im August 2009 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"0adc7e06ebe639890255eb74e8b2a431aa1158e4","datavalue":{"value":"10.1111\/J.1096-3642.1916.TB02016.X","type":"string"}},"type":"statement","id":"Q56155891$7482D252-AEFF-404A-9C43-3E59E15EAD22","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"0ab05ef44ab7b2cd58a4e67278c53f6cb30c0639","datavalue":{"value":"99670","type":"string"}},"type":"statement","id":"Q56155891$FF405D6D-A0FD-4610-9F33-1658D1DBCAEC","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$66A590EA-C25F-4062-AB57-9B710C0E7314","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"181b07e02fd8a8885f4f28607ecb41a7364d815f","datavalue":{"value":{"text":"On Some Fresh-Water Entomostraca From Ceylon","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56155891$E9D74089-A1DE-43BC-A472-E22F1DF7E3CD","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b5a06dd25da991143c13082734eea39527d211ed","datavalue":{"value":"86","type":"string"}},"type":"statement","id":"Q56155891$C855FF75-D09B-4519-BE48-DEDE113D3C26","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"678e050ffddaab4fb7273e8784768044efe579e2","datavalue":{"value":"333\u2013343","type":"string"}},"type":"statement","id":"Q56155891$DA13B890-FA55-4AA3-892C-60A9C51D5E9F","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"69d52212d282a400dfd773d3aea95b8e4f7c9e2f","datavalue":{"value":"2","type":"string"}},"type":"statement","id":"Q56155891$AFD2BAD0-32F5-400F-92DF-5628EEB4CD3E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"d8f2a2d5f58f544c682e3c757905d67916aeaa96","datavalue":{"value":{"time":"+2009-08-21T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56155891$AB17BF51-7AEF-4AEF-A4C2-C8E4A2D51C20","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"62e476d4378897a1db43cbbb5430bd23644eb746","datavalue":{"value":"Robert Gurnet","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56155891$0CDB8BCC-8A46-4656-A246-41F96F6B44DC","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"998836030f65c55d626871b6d5986e453f8b11ec","datavalue":{"value":{"entity-type":"item","numeric-id":19622568,"id":"Q19622568"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$A36236A3-E18A-41BF-8D3F-CC12AAFCFA47","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"ef5d616b830a3c6286adaff8d7d3df2044cd6755","datavalue":{"value":"31597101","type":"string"}},"type":"statement","id":"Q56155891$8DDFE072-44D0-4320-B233-2BD8C2CCACBB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"987cea5ad4b392ef1ba053a96ccc83eb49c5e265","datavalue":{"value":{"entity-type":"item","numeric-id":102192,"id":"Q102192"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56155891$2C6DDC44-34F0-4D26-96F6-FE77963A954C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5x2wbknjjvilq3eg8o8bdbd3xf8gscf</sha1>
+    </revision>
+  </page>
+</mediawiki>

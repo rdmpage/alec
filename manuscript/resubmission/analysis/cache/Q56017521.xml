@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56017521</title>
+    <ns>0</ns>
+    <id>55967409</id>
+    <revision>
+      <id>722729061</id>
+      <timestamp>2018-08-08T03:03:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56017521","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>mcbbax58e6l2k1ef7klsmwcexpwkoar</sha1>
+    </revision>
+    <revision>
+      <id>722729065</id>
+      <parentid>722729061</parentid>
+      <timestamp>2018-08-08T03:03:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ The genus Cestrum in Guatemala</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="165" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>01pkgf8fns9cy7icqr423o5lew8v9y6</sha1>
+    </revision>
+    <revision>
+      <id>722729069</id>
+      <parentid>722729065</parentid>
+      <timestamp>2018-08-08T03:03:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ The genus Cestrum in Guatemala</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="229" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>lcg78goaqm5p2ai1zug6owaz87kqpp1</sha1>
+    </revision>
+    <revision>
+      <id>722729072</id>
+      <parentid>722729069</parentid>
+      <timestamp>2018-08-08T03:03:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.7056</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="491" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5sy1671x0y7fo3rksjisf7e36rs2kav</sha1>
+    </revision>
+    <revision>
+      <id>722729075</id>
+      <parentid>722729072</parentid>
+      <timestamp>2018-08-08T03:03:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 61743</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="739" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r8ooeqbya3tbj1h8svq5p6gxfboovuc</sha1>
+    </revision>
+    <revision>
+      <id>722729079</id>
+      <parentid>722729075</parentid>
+      <timestamp>2018-08-08T03:03:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1048" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l7g5a1svjn69jpjxraxlcd19z14lzlw</sha1>
+    </revision>
+    <revision>
+      <id>722729082</id>
+      <parentid>722729079</parentid>
+      <timestamp>2018-08-08T03:03:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: The genus Cestrum in Guatemala</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1355" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ojcceszt5azii00oikoqx1g3noyy2wn</sha1>
+    </revision>
+    <revision>
+      <id>722729085</id>
+      <parentid>722729082</parentid>
+      <timestamp>2018-08-08T03:03:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 17</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1598" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pu7270vlu63oupfqsbfe18enf8l5fw4</sha1>
+    </revision>
+    <revision>
+      <id>722729088</id>
+      <parentid>722729085</parentid>
+      <timestamp>2018-08-08T03:03:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 341–349</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1851" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aiv7fh679l9emfp6hfveeep0x6pcm4n</sha1>
+    </revision>
+    <revision>
+      <id>722729092</id>
+      <parentid>722729088</parentid>
+      <timestamp>2018-08-08T03:03:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1936</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2230" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>9wup62izawwhr0z1b1vcl1go6j92fj2</sha1>
+    </revision>
+    <revision>
+      <id>722729097</id>
+      <parentid>722729092</parentid>
+      <timestamp>2018-08-08T03:03:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: C. V. Morton</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2485" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qdf67vd9rjpip6pefih2jbor6lyx1rk</sha1>
+    </revision>
+    <revision>
+      <id>722729103</id>
+      <parentid>722729097</parentid>
+      <timestamp>2018-08-08T03:03:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2671" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m7fpnh6kdv2y7mpg9c44d45n57fck87</sha1>
+    </revision>
+    <revision>
+      <id>722729106</id>
+      <parentid>722729103</parentid>
+      <timestamp>2018-08-08T03:03:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q1709876]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2982" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$7CEBFF15-ABCF-444B-8D4B-0EEC2677E1E2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iyf2kngy0dthjpgpk9hwohd4j0iaj2b</sha1>
+    </revision>
+    <revision>
+      <id>738127960</id>
+      <parentid>722729106</parentid>
+      <timestamp>2018-09-01T20:12:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 8102630, According to [[Property:P5315]]=61743</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3230" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$7CEBFF15-ABCF-444B-8D4B-0EEC2677E1E2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9424a1b0530591e87ed33fcfe89c1d257852410d","datavalue":{"value":"8102630","type":"string"}},"type":"statement","id":"Q56017521$94E0590D-1251-4E49-B840-610AC8307E98","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gzcllrefhvmwv3jayeprfamhn0cu96v</sha1>
+    </revision>
+    <revision>
+      <id>784312930</id>
+      <parentid>738127960</parentid>
+      <timestamp>2018-11-07T21:53:47Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3351" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"},"nl":{"language":"nl","value":"The genus Cestrum in Guatemala"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$7CEBFF15-ABCF-444B-8D4B-0EEC2677E1E2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9424a1b0530591e87ed33fcfe89c1d257852410d","datavalue":{"value":"8102630","type":"string"}},"type":"statement","id":"Q56017521$94E0590D-1251-4E49-B840-610AC8307E98","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lw1z8bz6pp2ql3quowgyu94aymzyr1m</sha1>
+    </revision>
+    <revision>
+      <id>974818139</id>
+      <parentid>784312930</parentid>
+      <timestamp>2019-07-06T04:46:45Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1936, [[:toollabs:quickstatements/#/batch/15424|batch #15424]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3550" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"},"nl":{"language":"nl","value":"The genus Cestrum in Guatemala"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1936"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$7CEBFF15-ABCF-444B-8D4B-0EEC2677E1E2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9424a1b0530591e87ed33fcfe89c1d257852410d","datavalue":{"value":"8102630","type":"string"}},"type":"statement","id":"Q56017521$94E0590D-1251-4E49-B840-610AC8307E98","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s1ny8lww9m7cdeqne7zi2u8gfqot8ga</sha1>
+    </revision>
+    <revision>
+      <id>1083195599</id>
+      <parentid>974818139</parentid>
+      <timestamp>2019-12-25T14:59:59Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1936 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24566|batch #24566]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3647" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"},"nl":{"language":"nl","value":"The genus Cestrum in Guatemala"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1936"},"de":{"language":"de","value":"im Januar 1936 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$7CEBFF15-ABCF-444B-8D4B-0EEC2677E1E2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9424a1b0530591e87ed33fcfe89c1d257852410d","datavalue":{"value":"8102630","type":"string"}},"type":"statement","id":"Q56017521$94E0590D-1251-4E49-B840-610AC8307E98","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jec8palpjge9bw9b5gaehx0owyr0lvt</sha1>
+    </revision>
+    <revision>
+      <id>1293942452</id>
+      <parentid>1083195599</parentid>
+      <timestamp>2020-10-18T13:12:32Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 43780804, #quickstatements; #temporary_batch_1603026677524</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3896" xml:space="preserve">{"type":"item","id":"Q56017521","labels":{"de":{"language":"de","value":"The genus Cestrum in Guatemala"},"en":{"language":"en","value":"The genus Cestrum in Guatemala"},"nl":{"language":"nl","value":"The genus Cestrum in Guatemala"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1936"},"de":{"language":"de","value":"im Januar 1936 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"2ef3c874cde5949f62b87ec051bbc13b299669c6","datavalue":{"value":"10.5962\/BHL.PART.7056","type":"string"}},"type":"statement","id":"Q56017521$42387D33-8C00-4B5C-9836-16D821D83A5E","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"3b817ea5e5967c389559401aa0f858885b300d39","datavalue":{"value":"61743","type":"string"}},"type":"statement","id":"Q56017521$186CAF1E-6698-4051-99FD-E9EC1555734C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$031BA4DD-49B6-4DAB-B153-F74BB1DDAC55","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a5a4dccc9afe74f552d8739faeec29b7ed5038a1","datavalue":{"value":{"text":"The genus Cestrum in Guatemala","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56017521$D0DDD2C8-5EC0-47BC-AD03-A07B0BB41B69","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"627e374d2ecd6415d30f0b9279c8580818477fa2","datavalue":{"value":"17","type":"string"}},"type":"statement","id":"Q56017521$EB22E9AC-F556-4B96-A9A1-E283B02C64A3","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"60988f27f89efc452a60ef7c21f934e98b64cd53","datavalue":{"value":"341\u2013349","type":"string"}},"type":"statement","id":"Q56017521$0A9768B3-E589-41D2-8A2F-1D7D47DE151A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4cdf5c3f9274c652a3fc4f67f8fa4f218e507ba6","datavalue":{"value":{"time":"+1936-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56017521$F40C8F62-B986-41DA-922B-A95ECA951F91","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7353aaeb04a4c1a41b1f2dd7f8270df591f19983","datavalue":{"value":"C. V. Morton","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56017521$9A1406C0-5534-4C6C-A521-696CBB209089","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2b0b984554cecfbfcf8bf12f748dcf38128a5f01","datavalue":{"value":{"entity-type":"item","numeric-id":1709876,"id":"Q1709876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56017521$7CEBFF15-ABCF-444B-8D4B-0EEC2677E1E2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"9424a1b0530591e87ed33fcfe89c1d257852410d","datavalue":{"value":"8102630","type":"string"}},"type":"statement","id":"Q56017521$94E0590D-1251-4E49-B840-610AC8307E98","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"f41852648f7ad67badd2cbc866fba06988ffb43b","datavalue":{"value":"43780804","type":"string"}},"type":"statement","id":"Q56017521$5A2488E6-5ABC-4009-B524-FCE4FFA4A726","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>257s4x4hpvx2tkqzucdklrcy3djtaqn</sha1>
+    </revision>
+  </page>
+</mediawiki>

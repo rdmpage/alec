@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q94108497</title>
+    <ns>0</ns>
+    <id>93141587</id>
+    <revision>
+      <id>1179743946</id>
+      <timestamp>2020-05-12T13:36:36Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1589290151176</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4170" xml:space="preserve">{"type":"item","id":"Q94108497","labels":{"en":{"language":"en","value":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$B8BE67E1-EEF0-4840-BE45-C957D759A163","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86f1401b3272556224b7f7b8edac681565dc3c80","datavalue":{"value":{"text":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q94108497$38B19150-6427-473F-83B4-D153889C4F69","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$EBCED914-2571-4ADA-825D-DBF8891483AE","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"738753de44ca6abe8d7878baad7b511ef42d013d","datavalue":{"value":{"time":"+1993-07-12T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q94108497$8FDBE8F4-895E-4F53-8D74-968851233671","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ddab78827b0c997bc1a3be25124fc700732f4fbd","datavalue":{"value":"C G S Tan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94108497$76F8CD63-9FBC-4739-BFA1-E931A4D2F456","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5943ad9f122fdfcfa2ccd972a0dffc6fb37f62b0","datavalue":{"value":"B Richer De Forges","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94108497$0BDA7CC8-177E-42D6-B351-3306648E0125","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"da47e994386c44f009d266e885686212cd343722","datavalue":{"value":{"entity-type":"item","numeric-id":7759249,"id":"Q7759249"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$149E5FE0-74A9-463B-AFD4-5D74EAA66C5E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q94108497$4F14973F-98A3-4E03-9285-E06E1B1E28E8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q94108497$570FF978-CF3F-4AE7-ADBE-760AE1942788","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7f0fa8ac43cc7a6d6c00da9fea581f8121fd538d","datavalue":{"value":"119-132","type":"string"}},"type":"statement","id":"Q94108497$BF988D29-F5EC-4B97-AFEC-CDE21FC44AED","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"22484d0b04705fb2d93a372ee53efbdbfa97358a","datavalue":{"value":"raffles-bulletin-zoology-41-119-132","type":"string"}},"type":"statement","id":"Q94108497$FDB9C103-E561-4A9D-BCE3-E66845A1F61E","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"0b94a673ae054551bbbfee4c95cc67e9e603f063","datavalue":{"value":"https:\/\/lkcnhm.nus.edu.sg\/app\/uploads\/2017\/06\/41rbz119-132.pdf","type":"string"}},"type":"statement","id":"Q94108497$4DEBFF95-1432-4825-BE3B-F298EAFD83CD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>10s0t4yqe9bea9gdjsae03igwdsc5bn</sha1>
+    </revision>
+    <revision>
+      <id>1179837077</id>
+      <parentid>1179743946</parentid>
+      <timestamp>2020-05-12T16:13:15Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4392" xml:space="preserve">{"type":"item","id":"Q94108497","labels":{"en":{"language":"en","value":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)"},"nl":{"language":"nl","value":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$B8BE67E1-EEF0-4840-BE45-C957D759A163","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86f1401b3272556224b7f7b8edac681565dc3c80","datavalue":{"value":{"text":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q94108497$38B19150-6427-473F-83B4-D153889C4F69","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$EBCED914-2571-4ADA-825D-DBF8891483AE","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"738753de44ca6abe8d7878baad7b511ef42d013d","datavalue":{"value":{"time":"+1993-07-12T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q94108497$8FDBE8F4-895E-4F53-8D74-968851233671","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ddab78827b0c997bc1a3be25124fc700732f4fbd","datavalue":{"value":"C G S Tan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94108497$76F8CD63-9FBC-4739-BFA1-E931A4D2F456","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5943ad9f122fdfcfa2ccd972a0dffc6fb37f62b0","datavalue":{"value":"B Richer De Forges","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94108497$0BDA7CC8-177E-42D6-B351-3306648E0125","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"da47e994386c44f009d266e885686212cd343722","datavalue":{"value":{"entity-type":"item","numeric-id":7759249,"id":"Q7759249"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$149E5FE0-74A9-463B-AFD4-5D74EAA66C5E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q94108497$4F14973F-98A3-4E03-9285-E06E1B1E28E8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q94108497$570FF978-CF3F-4AE7-ADBE-760AE1942788","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7f0fa8ac43cc7a6d6c00da9fea581f8121fd538d","datavalue":{"value":"119-132","type":"string"}},"type":"statement","id":"Q94108497$BF988D29-F5EC-4B97-AFEC-CDE21FC44AED","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"22484d0b04705fb2d93a372ee53efbdbfa97358a","datavalue":{"value":"raffles-bulletin-zoology-41-119-132","type":"string"}},"type":"statement","id":"Q94108497$FDB9C103-E561-4A9D-BCE3-E66845A1F61E","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"0b94a673ae054551bbbfee4c95cc67e9e603f063","datavalue":{"value":"https:\/\/lkcnhm.nus.edu.sg\/app\/uploads\/2017\/06\/41rbz119-132.pdf","type":"string"}},"type":"statement","id":"Q94108497$4DEBFF95-1432-4825-BE3B-F298EAFD83CD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8u7rlukivugi9yo61g4o6ituotis1h7</sha1>
+    </revision>
+    <revision>
+      <id>1464353034</id>
+      <parentid>1179837077</parentid>
+      <timestamp>2021-07-22T17:41:54Z</timestamp>
+      <contributor>
+        <username>Reinheitsgebot</username>
+        <id>940976</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q1186875]], #quickstatements; invoked by topicmatcher_paper2taxon2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4701" xml:space="preserve">{"type":"item","id":"Q94108497","labels":{"en":{"language":"en","value":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)"},"nl":{"language":"nl","value":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$B8BE67E1-EEF0-4840-BE45-C957D759A163","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86f1401b3272556224b7f7b8edac681565dc3c80","datavalue":{"value":{"text":"On the systematics and ecology of two species of mimetic crabs belonging to the family Leucosiidae (Crustacea: Decapoda: Brachyura)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q94108497$38B19150-6427-473F-83B4-D153889C4F69","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$EBCED914-2571-4ADA-825D-DBF8891483AE","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"738753de44ca6abe8d7878baad7b511ef42d013d","datavalue":{"value":{"time":"+1993-07-12T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q94108497$8FDBE8F4-895E-4F53-8D74-968851233671","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ddab78827b0c997bc1a3be25124fc700732f4fbd","datavalue":{"value":"C G S Tan","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94108497$76F8CD63-9FBC-4739-BFA1-E931A4D2F456","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"5943ad9f122fdfcfa2ccd972a0dffc6fb37f62b0","datavalue":{"value":"B Richer De Forges","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q94108497$0BDA7CC8-177E-42D6-B351-3306648E0125","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"da47e994386c44f009d266e885686212cd343722","datavalue":{"value":{"entity-type":"item","numeric-id":7759249,"id":"Q7759249"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$149E5FE0-74A9-463B-AFD4-5D74EAA66C5E","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"43ab760db001ee7ed06b27b40c976ebf3d9d89b6","datavalue":{"value":"41","type":"string"}},"type":"statement","id":"Q94108497$4F14973F-98A3-4E03-9285-E06E1B1E28E8","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q94108497$570FF978-CF3F-4AE7-ADBE-760AE1942788","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"7f0fa8ac43cc7a6d6c00da9fea581f8121fd538d","datavalue":{"value":"119-132","type":"string"}},"type":"statement","id":"Q94108497$BF988D29-F5EC-4B97-AFEC-CDE21FC44AED","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"22484d0b04705fb2d93a372ee53efbdbfa97358a","datavalue":{"value":"raffles-bulletin-zoology-41-119-132","type":"string"}},"type":"statement","id":"Q94108497$FDB9C103-E561-4A9D-BCE3-E66845A1F61E","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"0b94a673ae054551bbbfee4c95cc67e9e603f063","datavalue":{"value":"https:\/\/lkcnhm.nus.edu.sg\/app\/uploads\/2017\/06\/41rbz119-132.pdf","type":"string"}},"type":"statement","id":"Q94108497$4DEBFF95-1432-4825-BE3B-F298EAFD83CD","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"a51df59e612e7c1fb3f0791a5e705181abf456f8","datavalue":{"value":{"entity-type":"item","numeric-id":1186875,"id":"Q1186875"},"type":"wikibase-entityid"}},"type":"statement","id":"Q94108497$FCA32A8A-BC8F-4D65-9393-142BDB1AB6C7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iij6nly92z2h591yo19le7mqwbgp8ai</sha1>
+    </revision>
+  </page>
+</mediawiki>

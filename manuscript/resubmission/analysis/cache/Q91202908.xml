@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q91202908</title>
+    <ns>0</ns>
+    <id>90393159</id>
+    <revision>
+      <id>1161613579</id>
+      <timestamp>2020-04-20T10:44:59Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1587378014688</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3273" xml:space="preserve">{"type":"item","id":"Q91202908","labels":{"en":{"language":"en","value":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM (ASTERACEAE: ASTEREAE)"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$CBC37778-AB83-4C95-8483-A4951C340035","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"32fd8333f1a831ecba4c287cd1f85ebbe8f0b0cc","datavalue":{"value":{"text":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM (ASTERACEAE: ASTEREAE)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91202908$19D9E0C6-AF87-45CB-9A7B-A373390E2A7C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$00088357-5EDF-469F-A428-A22AC33C78E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"014f8663c934a328019c9e31595c1a84b27a7c05","datavalue":{"value":{"time":"+2005-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91202908$86F94A8B-C667-4BCB-BB80-F6B566DEB5DD","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"72a02f6fb7e87ccd909c44398dd7b1d415c463e2","datavalue":{"value":"Guy L Nesom","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91202908$CE42AC30-A539-41D7-A0D1-DB9FF13418A4","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$34738D54-1D19-40C2-B44E-BC1608D8629A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q91202908$1679E25E-444B-4D12-B62C-57D653CE3450","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91202908$C1E09AA8-0CD3-47E8-9968-BD4B7D34C3CA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"644e988f0b41502cbcafd8d8caa0d587ef420295","datavalue":{"value":"2015-2021","type":"string"}},"type":"statement","id":"Q91202908$69895E00-DFE7-4334-8FE2-D836B1914C37","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"11e820b4f5bbf2977845f6b15378c5f40a1d0b15","datavalue":{"value":"41968489","type":"string"}},"type":"statement","id":"Q91202908$21D6C4D3-B00D-449E-AD95-F2FD48B7B705","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3r921jiubmjrtsxrj3715d0defr85bk</sha1>
+    </revision>
+    <revision>
+      <id>1161654003</id>
+      <parentid>1161613579</parentid>
+      <timestamp>2020-04-20T11:37:13Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3409" xml:space="preserve">{"type":"item","id":"Q91202908","labels":{"en":{"language":"en","value":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM (ASTERACEAE: ASTEREAE)"},"nl":{"language":"nl","value":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$CBC37778-AB83-4C95-8483-A4951C340035","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"32fd8333f1a831ecba4c287cd1f85ebbe8f0b0cc","datavalue":{"value":{"text":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM (ASTERACEAE: ASTEREAE)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91202908$19D9E0C6-AF87-45CB-9A7B-A373390E2A7C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$00088357-5EDF-469F-A428-A22AC33C78E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"014f8663c934a328019c9e31595c1a84b27a7c05","datavalue":{"value":{"time":"+2005-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91202908$86F94A8B-C667-4BCB-BB80-F6B566DEB5DD","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"72a02f6fb7e87ccd909c44398dd7b1d415c463e2","datavalue":{"value":"Guy L Nesom","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q91202908$CE42AC30-A539-41D7-A0D1-DB9FF13418A4","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$34738D54-1D19-40C2-B44E-BC1608D8629A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q91202908$1679E25E-444B-4D12-B62C-57D653CE3450","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91202908$C1E09AA8-0CD3-47E8-9968-BD4B7D34C3CA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"644e988f0b41502cbcafd8d8caa0d587ef420295","datavalue":{"value":"2015-2021","type":"string"}},"type":"statement","id":"Q91202908$69895E00-DFE7-4334-8FE2-D836B1914C37","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"11e820b4f5bbf2977845f6b15378c5f40a1d0b15","datavalue":{"value":"41968489","type":"string"}},"type":"statement","id":"Q91202908$21D6C4D3-B00D-449E-AD95-F2FD48B7B705","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>slbnd8onr06f46rcu6e63j3eedfhpnf</sha1>
+    </revision>
+    <revision>
+      <id>1311404318</id>
+      <parentid>1161654003</parentid>
+      <timestamp>2020-11-23T00:37:28Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q5622397]] ([[:toollabs:editgroups/b/AD/877225fd|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3622" xml:space="preserve">{"type":"item","id":"Q91202908","labels":{"en":{"language":"en","value":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM (ASTERACEAE: ASTEREAE)"},"nl":{"language":"nl","value":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$CBC37778-AB83-4C95-8483-A4951C340035","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"32fd8333f1a831ecba4c287cd1f85ebbe8f0b0cc","datavalue":{"value":{"text":"TAXONOMIC REVIEW OF ASTRANTHIUM INTEGRIFOLIUM (ASTERACEAE: ASTEREAE)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q91202908$19D9E0C6-AF87-45CB-9A7B-A373390E2A7C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$00088357-5EDF-469F-A428-A22AC33C78E0","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"014f8663c934a328019c9e31595c1a84b27a7c05","datavalue":{"value":{"time":"+2005-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q91202908$86F94A8B-C667-4BCB-BB80-F6B566DEB5DD","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"2f3683e61bf97f1288f8b65a532c0f3af0bc7927","datavalue":{"value":{"entity-type":"item","numeric-id":6127425,"id":"Q6127425"},"type":"wikibase-entityid"}},"type":"statement","id":"Q91202908$34738D54-1D19-40C2-B44E-BC1608D8629A","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"18b86f4618876f976f79e362b41c521131066dd3","datavalue":{"value":"21","type":"string"}},"type":"statement","id":"Q91202908$1679E25E-444B-4D12-B62C-57D653CE3450","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"185b1ffb37513a089fc3a779d6838b5e7f5330c6","datavalue":{"value":"4","type":"string"}},"type":"statement","id":"Q91202908$C1E09AA8-0CD3-47E8-9968-BD4B7D34C3CA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"644e988f0b41502cbcafd8d8caa0d587ef420295","datavalue":{"value":"2015-2021","type":"string"}},"type":"statement","id":"Q91202908$69895E00-DFE7-4334-8FE2-D836B1914C37","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"11e820b4f5bbf2977845f6b15378c5f40a1d0b15","datavalue":{"value":"41968489","type":"string"}},"type":"statement","id":"Q91202908$21D6C4D3-B00D-449E-AD95-F2FD48B7B705","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"a7f286872fec483c051b5944422a3da5e1a84a82","datavalue":{"value":{"entity-type":"item","numeric-id":5622397,"id":"Q5622397"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"6f83ce247c6aa22de1c3152ee89afc05317014e1","datavalue":{"value":"Guy L Nesom","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q91202908$936E1B8D-4DC7-4C89-BC4E-4EFB0CB1104B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ruhp5qroqck01ghcfsg5ujkit9d6hkw</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104255360</title>
+    <ns>0</ns>
+    <id>99702731</id>
+    <revision>
+      <id>1325007307</id>
+      <timestamp>2020-12-18T22:59:37Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1608332151848</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3760" xml:space="preserve">{"type":"item","id":"Q104255360","labels":{"en":{"language":"en","value":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$30FF8DC4-9BFE-46FF-BE34-CFC88FDC203A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"07a00409328f14c91f921d5cd16d67672f51149c","datavalue":{"value":{"text":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104255360$B8E13704-6CF3-4FC6-92B4-A26B6562F68C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$922E4333-A076-4F1D-995A-DBCE4FADF5D4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b821d87b77041b39968c47fe3231b6d0c95ec613","datavalue":{"value":{"time":"+1992-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104255360$8A0B8E5F-46F4-477D-879A-79DDB563FE21","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b9cbe1524e5a85a5e61e64230e37e59db4739d88","datavalue":{"value":"Pablo A Goloboff","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104255360$01401DA3-0C0B-47EA-8BFD-2D3A960B6443","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6a9c5937893634361ab1a8c38272c054af22b452","datavalue":{"value":"Norman I Platnick","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104255360$024A3230-AFDB-49BE-B159-1516EDA43BF9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$3AD8367E-3818-4A2F-87DC-BCF4178F01C0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d8e15e694b60f50dfd55a8b14f5e5bbbe718052c","datavalue":{"value":"3054","type":"string"}},"type":"statement","id":"Q104255360$6F83C413-4FC0-4029-9E5E-E358A89C7A12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3c65d9a2444f88084226b8b4255656459b880008","datavalue":{"value":"1-9","type":"string"}},"type":"statement","id":"Q104255360$4766E1FB-5636-4961-AA1D-E092CC74C2EF","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"538c6f98dd382e85235ec938f0c89e6424859a19","datavalue":{"value":"2246\/3562","type":"string"}},"type":"statement","id":"Q104255360$46E7443A-42E7-4C53-A7C7-2712E87A8796","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"aad8b2c53c7bdbf0e86c391a09cefddcbd9c8da9","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/3562","type":"string"}},"type":"statement","id":"Q104255360$2763835E-B6C9-4068-AB2A-A5979AFFE0EC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>01fxpt8pldf24u2ltdy21lg0ldqkkqh</sha1>
+    </revision>
+    <revision>
+      <id>1325007749</id>
+      <parentid>1325007307</parentid>
+      <timestamp>2020-12-18T23:00:29Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3919" xml:space="preserve">{"type":"item","id":"Q104255360","labels":{"en":{"language":"en","value":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)"},"nl":{"language":"nl","value":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$30FF8DC4-9BFE-46FF-BE34-CFC88FDC203A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"07a00409328f14c91f921d5cd16d67672f51149c","datavalue":{"value":{"text":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104255360$B8E13704-6CF3-4FC6-92B4-A26B6562F68C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$922E4333-A076-4F1D-995A-DBCE4FADF5D4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b821d87b77041b39968c47fe3231b6d0c95ec613","datavalue":{"value":{"time":"+1992-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104255360$8A0B8E5F-46F4-477D-879A-79DDB563FE21","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b9cbe1524e5a85a5e61e64230e37e59db4739d88","datavalue":{"value":"Pablo A Goloboff","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104255360$01401DA3-0C0B-47EA-8BFD-2D3A960B6443","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"6a9c5937893634361ab1a8c38272c054af22b452","datavalue":{"value":"Norman I Platnick","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104255360$024A3230-AFDB-49BE-B159-1516EDA43BF9","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$3AD8367E-3818-4A2F-87DC-BCF4178F01C0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d8e15e694b60f50dfd55a8b14f5e5bbbe718052c","datavalue":{"value":"3054","type":"string"}},"type":"statement","id":"Q104255360$6F83C413-4FC0-4029-9E5E-E358A89C7A12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3c65d9a2444f88084226b8b4255656459b880008","datavalue":{"value":"1-9","type":"string"}},"type":"statement","id":"Q104255360$4766E1FB-5636-4961-AA1D-E092CC74C2EF","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"538c6f98dd382e85235ec938f0c89e6424859a19","datavalue":{"value":"2246\/3562","type":"string"}},"type":"statement","id":"Q104255360$46E7443A-42E7-4C53-A7C7-2712E87A8796","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"aad8b2c53c7bdbf0e86c391a09cefddcbd9c8da9","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/3562","type":"string"}},"type":"statement","id":"Q104255360$2763835E-B6C9-4068-AB2A-A5979AFFE0EC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1s9ai2vrfl14gqby1qqxfqayywk107x</sha1>
+    </revision>
+    <revision>
+      <id>1472804609</id>
+      <parentid>1325007749</parentid>
+      <timestamp>2021-08-04T01:12:24Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q1333409]] ([[:toollabs:editgroups/b/AD/8c5d5cb7|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4142" xml:space="preserve">{"type":"item","id":"Q104255360","labels":{"en":{"language":"en","value":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)"},"nl":{"language":"nl","value":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$30FF8DC4-9BFE-46FF-BE34-CFC88FDC203A","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"07a00409328f14c91f921d5cd16d67672f51149c","datavalue":{"value":{"text":"New spiders of the mygalomorph genus Neocteniza (Araneae, Idiopidae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104255360$B8E13704-6CF3-4FC6-92B4-A26B6562F68C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$922E4333-A076-4F1D-995A-DBCE4FADF5D4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"b821d87b77041b39968c47fe3231b6d0c95ec613","datavalue":{"value":{"time":"+1992-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104255360$8A0B8E5F-46F4-477D-879A-79DDB563FE21","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"b9cbe1524e5a85a5e61e64230e37e59db4739d88","datavalue":{"value":"Pablo A Goloboff","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104255360$01401DA3-0C0B-47EA-8BFD-2D3A960B6443","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104255360$3AD8367E-3818-4A2F-87DC-BCF4178F01C0","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"d8e15e694b60f50dfd55a8b14f5e5bbbe718052c","datavalue":{"value":"3054","type":"string"}},"type":"statement","id":"Q104255360$6F83C413-4FC0-4029-9E5E-E358A89C7A12","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"3c65d9a2444f88084226b8b4255656459b880008","datavalue":{"value":"1-9","type":"string"}},"type":"statement","id":"Q104255360$4766E1FB-5636-4961-AA1D-E092CC74C2EF","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"538c6f98dd382e85235ec938f0c89e6424859a19","datavalue":{"value":"2246\/3562","type":"string"}},"type":"statement","id":"Q104255360$46E7443A-42E7-4C53-A7C7-2712E87A8796","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"aad8b2c53c7bdbf0e86c391a09cefddcbd9c8da9","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/3562","type":"string"}},"type":"statement","id":"Q104255360$2763835E-B6C9-4068-AB2A-A5979AFFE0EC","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"d26d950eb31796a688efabd3a62f3c91fbbca0eb","datavalue":{"value":{"entity-type":"item","numeric-id":1333409,"id":"Q1333409"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"1dd7aa00c86e0f25e119acabb12b60d2c282e14b","datavalue":{"value":"Norman I Platnick","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q104255360$14DAAAB9-E077-4F69-8840-5A3DBC11CD0F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dm47ahzhy5yvcmip9wz5pwjcixznyuz</sha1>
+    </revision>
+  </page>
+</mediawiki>

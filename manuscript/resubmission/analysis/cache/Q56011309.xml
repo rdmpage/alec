@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56011309</title>
+    <ns>0</ns>
+    <id>55961143</id>
+    <revision>
+      <id>722527526</id>
+      <timestamp>2018-08-07T17:49:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56011309","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>gih5ff0d3o2qf6no5ajyql7regj6o2w</sha1>
+    </revision>
+    <revision>
+      <id>722527531</id>
+      <parentid>722527526</parentid>
+      <timestamp>2018-08-07T17:49:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Diptera from Nepal. Asilidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="163" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>fsig5tpywjfhu6cjygyogmyjyl0tkds</sha1>
+    </revision>
+    <revision>
+      <id>722527536</id>
+      <parentid>722527531</parentid>
+      <timestamp>2018-08-07T17:49:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Diptera from Nepal. Asilidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="225" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>o8mjc702hg6l628i4w2bwgbsmq26qte</sha1>
+    </revision>
+    <revision>
+      <id>722527541</id>
+      <parentid>722527536</parentid>
+      <timestamp>2018-08-07T17:49:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.20540</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="488" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d9a8358p6ndyw3rigay671hxvghax15</sha1>
+    </revision>
+    <revision>
+      <id>722527545</id>
+      <parentid>722527541</parentid>
+      <timestamp>2018-08-07T17:49:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 86011</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="736" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nkdow4w18g81l3q9r05tq7vqsnjat7l</sha1>
+    </revision>
+    <revision>
+      <id>722527549</id>
+      <parentid>722527545</parentid>
+      <timestamp>2018-08-07T17:49:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1045" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6x55cqa5stqpfu6r85ucjgohpmfv54j</sha1>
+    </revision>
+    <revision>
+      <id>722527554</id>
+      <parentid>722527549</parentid>
+      <timestamp>2018-08-07T17:49:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Diptera from Nepal. Asilidae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1350" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>02kdnyvtell1o4h3pfm2a8rsyr7etxc</sha1>
+    </revision>
+    <revision>
+      <id>722527559</id>
+      <parentid>722527554</parentid>
+      <timestamp>2018-08-07T17:49:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 15</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1593" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>895oatm8tznowijosvj99yrk4pd6emw</sha1>
+    </revision>
+    <revision>
+      <id>722527564</id>
+      <parentid>722527559</parentid>
+      <timestamp>2018-08-07T17:49:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 239–254</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1846" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gi7tny2rmf8bhadgpgoluj7vnfqehd2</sha1>
+    </revision>
+    <revision>
+      <id>722527572</id>
+      <parentid>722527564</parentid>
+      <timestamp>2018-08-07T17:49:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1964</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2225" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sv662ol2vxctdybl53e1yetgnwdaomr</sha1>
+    </revision>
+    <revision>
+      <id>722527578</id>
+      <parentid>722527572</parentid>
+      <timestamp>2018-08-07T17:49:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: H. Oldroyd</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2478" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8e6x1kfkkpoat1a85h0cywgg0f95cgd</sha1>
+    </revision>
+    <revision>
+      <id>722527583</id>
+      <parentid>722527578</parentid>
+      <timestamp>2018-08-07T17:49:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2664" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>51io6ubrhpylopktf0q02jg6o389lu9</sha1>
+    </revision>
+    <revision>
+      <id>722527588</id>
+      <parentid>722527583</parentid>
+      <timestamp>2018-08-07T17:49:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21386145]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2977" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ed6c36ea30b2eab3725effa48c66d82df7a6477f","datavalue":{"value":{"entity-type":"item","numeric-id":21386145,"id":"Q21386145"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$92533658-4777-41EF-8EEC-23AD7210A7EB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>3pkz4kmqyarts3j5zpt3y0rudkjm9o0</sha1>
+    </revision>
+    <revision>
+      <id>733205698</id>
+      <parentid>722527588</parentid>
+      <timestamp>2018-08-25T00:06:34Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q837]], #quickstatements; [[:toollabs:quickstatements/#/batch/4009|batch #4009]] by [[User:Daniel Mietchen|]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3278" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ed6c36ea30b2eab3725effa48c66d82df7a6477f","datavalue":{"value":{"entity-type":"item","numeric-id":21386145,"id":"Q21386145"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$92533658-4777-41EF-8EEC-23AD7210A7EB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"883f82096a1f91d07b65209376c32d154d226482","datavalue":{"value":{"entity-type":"item","numeric-id":837,"id":"Q837"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$40C5E311-E020-439B-8F83-503CB08045C2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q4u102lqu8q2y4vcf5pxh2zg03nppwh</sha1>
+    </revision>
+    <revision>
+      <id>738240949</id>
+      <parentid>733205698</parentid>
+      <timestamp>2018-09-02T00:03:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 2238387, According to [[Property:P5315]]=86011</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3526" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ed6c36ea30b2eab3725effa48c66d82df7a6477f","datavalue":{"value":{"entity-type":"item","numeric-id":21386145,"id":"Q21386145"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$92533658-4777-41EF-8EEC-23AD7210A7EB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"883f82096a1f91d07b65209376c32d154d226482","datavalue":{"value":{"entity-type":"item","numeric-id":837,"id":"Q837"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$40C5E311-E020-439B-8F83-503CB08045C2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"05710f0646db43d81ab52b94872c6454e28d1bbd","datavalue":{"value":"2238387","type":"string"}},"type":"statement","id":"Q56011309$E8A802CD-1EC2-4047-A6FA-27F8390E6C19","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n0efwimdy3zlw6ruq48jct1dn6skf5n</sha1>
+    </revision>
+    <revision>
+      <id>784369362</id>
+      <parentid>738240949</parentid>
+      <timestamp>2018-11-07T23:49:59Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3645" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"},"nl":{"language":"nl","value":"Diptera from Nepal. Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ed6c36ea30b2eab3725effa48c66d82df7a6477f","datavalue":{"value":{"entity-type":"item","numeric-id":21386145,"id":"Q21386145"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$92533658-4777-41EF-8EEC-23AD7210A7EB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"883f82096a1f91d07b65209376c32d154d226482","datavalue":{"value":{"entity-type":"item","numeric-id":837,"id":"Q837"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$40C5E311-E020-439B-8F83-503CB08045C2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"05710f0646db43d81ab52b94872c6454e28d1bbd","datavalue":{"value":"2238387","type":"string"}},"type":"statement","id":"Q56011309$E8A802CD-1EC2-4047-A6FA-27F8390E6C19","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>acbzomrtuorfvocbanoj5tiicocx8e9</sha1>
+    </revision>
+    <revision>
+      <id>973947508</id>
+      <parentid>784369362</parentid>
+      <timestamp>2019-07-04T07:13:01Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1964, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3844" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"},"nl":{"language":"nl","value":"Diptera from Nepal. Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1964"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ed6c36ea30b2eab3725effa48c66d82df7a6477f","datavalue":{"value":{"entity-type":"item","numeric-id":21386145,"id":"Q21386145"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$92533658-4777-41EF-8EEC-23AD7210A7EB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"883f82096a1f91d07b65209376c32d154d226482","datavalue":{"value":{"entity-type":"item","numeric-id":837,"id":"Q837"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$40C5E311-E020-439B-8F83-503CB08045C2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"05710f0646db43d81ab52b94872c6454e28d1bbd","datavalue":{"value":"2238387","type":"string"}},"type":"statement","id":"Q56011309$E8A802CD-1EC2-4047-A6FA-27F8390E6C19","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>95950bgk5mgavsb8c03snq9321hhpbh</sha1>
+    </revision>
+    <revision>
+      <id>1272671709</id>
+      <parentid>973947508</parentid>
+      <timestamp>2020-09-07T00:13:52Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1964 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3939" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"},"nl":{"language":"nl","value":"Diptera from Nepal. Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1964"},"de":{"language":"de","value":"im Jahr 1964 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ed6c36ea30b2eab3725effa48c66d82df7a6477f","datavalue":{"value":{"entity-type":"item","numeric-id":21386145,"id":"Q21386145"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$92533658-4777-41EF-8EEC-23AD7210A7EB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"883f82096a1f91d07b65209376c32d154d226482","datavalue":{"value":{"entity-type":"item","numeric-id":837,"id":"Q837"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$40C5E311-E020-439B-8F83-503CB08045C2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"05710f0646db43d81ab52b94872c6454e28d1bbd","datavalue":{"value":"2238387","type":"string"}},"type":"statement","id":"Q56011309$E8A802CD-1EC2-4047-A6FA-27F8390E6C19","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sq5o5a0rulhikjsaqoaxyvz0xqbnssd</sha1>
+    </revision>
+    <revision>
+      <id>1544533072</id>
+      <parentid>1272671709</parentid>
+      <timestamp>2021-12-15T21:31:45Z</timestamp>
+      <contributor>
+        <username>DrThneed</username>
+        <id>3083127</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scholarly article by H. Oldroyd published 1964 in Bulletin of the British Museum (Natural History). Entomology, [[:toollabs:quickstatements/#/batch/71893|batch #71893]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4083" xml:space="preserve">{"type":"item","id":"Q56011309","labels":{"de":{"language":"de","value":"Diptera from Nepal. Asilidae"},"en":{"language":"en","value":"Diptera from Nepal. Asilidae"},"nl":{"language":"nl","value":"Diptera from Nepal. Asilidae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1964"},"de":{"language":"de","value":"im Jahr 1964 ver\u00f6ffentlichter wissenschaftlicher Artikel"},"en":{"language":"en","value":"scholarly article by H. Oldroyd published 1964 in Bulletin of the British Museum (Natural History). Entomology"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a5d92c6fb7bdad0069622b29fca479f631c56467","datavalue":{"value":"10.5962\/BHL.PART.20540","type":"string"}},"type":"statement","id":"Q56011309$8D076769-E907-4F81-AD9C-7442B7AB0611","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"083d893b9ed751c56732bc4dd17c59ea668d9ec6","datavalue":{"value":"86011","type":"string"}},"type":"statement","id":"Q56011309$31F7E762-C718-4E07-8FC5-D0E0A7401656","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$104EDBAF-6BE0-4AFF-8B3C-3D0117D2EACB","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86aad35af9eec0717a610a1943956913211681c6","datavalue":{"value":{"text":"Diptera from Nepal. Asilidae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011309$FDE0C1E6-FB21-4F07-A9E5-B98CAFE8A69C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"b92606fb1eb41560ba19b905f930275a5bd75e30","datavalue":{"value":"15","type":"string"}},"type":"statement","id":"Q56011309$18271A75-DC5F-4BD6-B50C-1D0FA90AC521","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"5171a3193af798b8204fb61731df547b2048f15d","datavalue":{"value":"239\u2013254","type":"string"}},"type":"statement","id":"Q56011309$05EC1B4C-8FCC-4D59-A7F0-D357EF9FDC7A","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"5ddeb639ec887d755e83b5e64b21adc5599de44d","datavalue":{"value":{"time":"+1964-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011309$9E5200E6-41EF-45E2-BADD-DD61ACB240CF","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ac6520f08a6ae2f95c7451bcd43709e4fbf9d581","datavalue":{"value":"H. Oldroyd","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011309$21764E59-B84A-4213-84DF-F965084967AE","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ed6c36ea30b2eab3725effa48c66d82df7a6477f","datavalue":{"value":{"entity-type":"item","numeric-id":21386145,"id":"Q21386145"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$92533658-4777-41EF-8EEC-23AD7210A7EB","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"883f82096a1f91d07b65209376c32d154d226482","datavalue":{"value":{"entity-type":"item","numeric-id":837,"id":"Q837"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011309$40C5E311-E020-439B-8F83-503CB08045C2","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"05710f0646db43d81ab52b94872c6454e28d1bbd","datavalue":{"value":"2238387","type":"string"}},"type":"statement","id":"Q56011309$E8A802CD-1EC2-4047-A6FA-27F8390E6C19","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>idnvhswvv5iehyr3h8pwdrrq89htrp8</sha1>
+    </revision>
+  </page>
+</mediawiki>

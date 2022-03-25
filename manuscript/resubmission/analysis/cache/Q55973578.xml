@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55973578</title>
+    <ns>0</ns>
+    <id>55923573</id>
+    <revision>
+      <id>721513958</id>
+      <timestamp>2018-08-05T11:48:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55973578","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>1h6kykpumkqaxj2e5qc1sg59qwsk44g</sha1>
+    </revision>
+    <revision>
+      <id>721513962</id>
+      <parentid>721513958</parentid>
+      <timestamp>2018-08-05T11:48:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Uma nova espécie do gênero Cynometra L. (Caesalpiniaceae) para o Estado do Pará, Brasil</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="237" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>703f3uj6lh4v1yg5c51ze4pgrxghr8d</sha1>
+    </revision>
+    <revision>
+      <id>721513964</id>
+      <parentid>721513962</parentid>
+      <timestamp>2018-08-05T11:48:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Uma nova espécie do gênero Cynometra L. (Caesalpiniaceae) para o Estado do Pará, Brasil</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="373" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>gboljks7cjfl48l319sz4pta8wju740</sha1>
+    </revision>
+    <revision>
+      <id>721513967</id>
+      <parentid>721513964</parentid>
+      <timestamp>2018-08-05T11:48:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1590/1809-43921990201407</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="641" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>acvqxh4y3vauzx6i6sx57k5g8ugqmb1</sha1>
+    </revision>
+    <revision>
+      <id>721513973</id>
+      <parentid>721513967</parentid>
+      <timestamp>2018-08-05T11:48:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="950" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qrf7wq6qjdyolxayi3fdogmlghv0nwo</sha1>
+    </revision>
+    <revision>
+      <id>721513977</id>
+      <parentid>721513973</parentid>
+      <timestamp>2018-08-05T11:48:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Uma nova espécie do gênero Cynometra L. (Caesalpiniaceae) para o Estado do Pará, Brasil</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1329" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ev01j2ebv7qkwd5v5x447sd7tybyy73</sha1>
+    </revision>
+    <revision>
+      <id>721513980</id>
+      <parentid>721513977</parentid>
+      <timestamp>2018-08-05T11:48:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 20</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1572" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iltupe3i1cov9r0156g1fh65ml8owxc</sha1>
+    </revision>
+    <revision>
+      <id>721513986</id>
+      <parentid>721513980</parentid>
+      <timestamp>2018-08-05T11:48:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 405–407</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1825" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5lud6rctht5js67ryx5ga6gtzivqlhg</sha1>
+    </revision>
+    <revision>
+      <id>721514337</id>
+      <parentid>721513986</parentid>
+      <timestamp>2018-08-05T11:49:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 0</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2067" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>16c7t8i76ynpsgtpdrousx2ujrfe2i9</sha1>
+    </revision>
+    <revision>
+      <id>721514342</id>
+      <parentid>721514337</parentid>
+      <timestamp>2018-08-05T11:49:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1990</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2446" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>btuiawnk0jpkqgjazkzshvf3vbs2l98</sha1>
+    </revision>
+    <revision>
+      <id>721514347</id>
+      <parentid>721514342</parentid>
+      <timestamp>2018-08-05T11:49:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Aldaléa Sprada Tavares</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2716" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p17umkns4zapbbbn5ye3mgxoguhvjvt</sha1>
+    </revision>
+    <revision>
+      <id>721514351</id>
+      <parentid>721514347</parentid>
+      <timestamp>2018-08-05T11:49:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2902" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5wo5oas70m8ylu0y2godew7kd279usv</sha1>
+    </revision>
+    <revision>
+      <id>721514357</id>
+      <parentid>721514351</parentid>
+      <timestamp>2018-08-05T11:49:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5656861]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3213" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0856d8bf9d1cb44c27910354e1fed720b97d7f89","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f48a65f557846d8207cf0f97aa8bcd060316c6fe","datavalue":{"value":{"entity-type":"item","numeric-id":5656861,"id":"Q5656861"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$889A55ED-6C71-4A4A-8E45-018B17C08658","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n51gz9acskef2pdxdiuvmy799ifza8d</sha1>
+    </revision>
+    <revision>
+      <id>721609788</id>
+      <parentid>721514357</parentid>
+      <timestamp>2018-08-05T15:11:17Z</timestamp>
+      <contributor>
+        <username>Succu</username>
+        <id>109099</id>
+      </contributor>
+      <comment>/* wbsetclaim-update:2||1 */ [[Property:P1476]]: Uma nova espécie do gênero Cynometra L. (Caesalpiniaceae) para o Estado do Pará, Brasil</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3213" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0df7a137f00805398404d3295f7a499a823e9e18","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"pt"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f48a65f557846d8207cf0f97aa8bcd060316c6fe","datavalue":{"value":{"entity-type":"item","numeric-id":5656861,"id":"Q5656861"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$889A55ED-6C71-4A4A-8E45-018B17C08658","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tw5fvdmqoi33m1dn45d3qjybeeiyve1</sha1>
+    </revision>
+    <revision>
+      <id>725038546</id>
+      <parentid>721609788</parentid>
+      <timestamp>2018-08-13T02:19:29Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3406" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"nl":{"language":"nl","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0df7a137f00805398404d3295f7a499a823e9e18","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"pt"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f48a65f557846d8207cf0f97aa8bcd060316c6fe","datavalue":{"value":{"entity-type":"item","numeric-id":5656861,"id":"Q5656861"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$889A55ED-6C71-4A4A-8E45-018B17C08658","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4vbf84cwdzga3eqdoe8h0pon14rraf8</sha1>
+    </revision>
+    <revision>
+      <id>832398708</id>
+      <parentid>725038546</parentid>
+      <timestamp>2019-01-11T17:42:48Z</timestamp>
+      <contributor>
+        <username>PintochBot</username>
+        <id>2907109</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P5875]]: 290243425, add [[Property:P5875|ResearchGate publication ID]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3658" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"nl":{"language":"nl","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0df7a137f00805398404d3295f7a499a823e9e18","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"pt"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f48a65f557846d8207cf0f97aa8bcd060316c6fe","datavalue":{"value":{"entity-type":"item","numeric-id":5656861,"id":"Q5656861"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$889A55ED-6C71-4A4A-8E45-018B17C08658","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"d8a7fcac39a0a389a9751d70895f910563c90afe","datavalue":{"value":"290243425","type":"string"}},"type":"statement","id":"Q55973578$3B612126-9767-4DDB-8390-F6FFA40DC17D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sxgvpixz99ikzvg5scrva7se5nxxhkv</sha1>
+    </revision>
+    <revision>
+      <id>974293696</id>
+      <parentid>832398708</parentid>
+      <timestamp>2019-07-05T02:52:32Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1990, [[:toollabs:quickstatements/#/batch/15391|batch #15391]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3857" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"nl":{"language":"nl","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1990"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0df7a137f00805398404d3295f7a499a823e9e18","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"pt"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f48a65f557846d8207cf0f97aa8bcd060316c6fe","datavalue":{"value":{"entity-type":"item","numeric-id":5656861,"id":"Q5656861"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$889A55ED-6C71-4A4A-8E45-018B17C08658","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"d8a7fcac39a0a389a9751d70895f910563c90afe","datavalue":{"value":"290243425","type":"string"}},"type":"statement","id":"Q55973578$3B612126-9767-4DDB-8390-F6FFA40DC17D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ivs3edvedvsicgzuxb2pbza89v5mydh</sha1>
+    </revision>
+    <revision>
+      <id>1193238855</id>
+      <parentid>974293696</parentid>
+      <timestamp>2020-05-29T07:37:13Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1990 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3952" xml:space="preserve">{"type":"item","id":"Q55973578","labels":{"de":{"language":"de","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"en":{"language":"en","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"},"nl":{"language":"nl","value":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1990"},"de":{"language":"de","value":"im Jahr 1990 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"218e605ab4c38a434b209611c826982086d720f4","datavalue":{"value":"10.1590\/1809-43921990201407","type":"string"}},"type":"statement","id":"Q55973578$7926FD55-990E-45CD-87D2-29975DA9BED9","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$C119672C-26B2-4013-88E1-62B7D88B4768","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0df7a137f00805398404d3295f7a499a823e9e18","datavalue":{"value":{"text":"Uma nova esp\u00e9cie do g\u00eanero Cynometra L. (Caesalpiniaceae) para o Estado do Par\u00e1, Brasil","language":"pt"},"type":"monolingualtext"}},"type":"statement","id":"Q55973578$87496AF2-03CA-4107-8B61-88617D45E4C7","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ab0fbdd1e1b2e608c2ebe88b52e00815a492da04","datavalue":{"value":"20","type":"string"}},"type":"statement","id":"Q55973578$EE31676A-3CCD-4B30-89E9-B7A91B40BDAB","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"b19d54c8da19d9230db7cc298a2307af741344b0","datavalue":{"value":"405\u2013407","type":"string"}},"type":"statement","id":"Q55973578$A2084541-8DAE-40F2-B36B-E96D2FBE0841","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"799d53ae0131c63a681b429274d058eea2d4c00a","datavalue":{"value":"0","type":"string"}},"type":"statement","id":"Q55973578$979B7A62-C7DF-40EB-BFB5-B6E7FEBD7AA2","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"be4c3006d5860d1f9d372542d3f7fd3a32d4c138","datavalue":{"value":{"time":"+1990-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55973578$613AC636-F71E-4823-89B0-ECB7BE1B950F","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c93814afb8895036bf1065a7f1c9ca84085e70f4","datavalue":{"value":"Aldal\u00e9a Sprada Tavares","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55973578$6E789162-25D0-44D8-BC22-26E85F6DDAE3","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f48a65f557846d8207cf0f97aa8bcd060316c6fe","datavalue":{"value":{"entity-type":"item","numeric-id":5656861,"id":"Q5656861"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55973578$889A55ED-6C71-4A4A-8E45-018B17C08658","rank":"normal"}],"P5875":[{"mainsnak":{"snaktype":"value","property":"P5875","hash":"d8a7fcac39a0a389a9751d70895f910563c90afe","datavalue":{"value":"290243425","type":"string"}},"type":"statement","id":"Q55973578$3B612126-9767-4DDB-8390-F6FFA40DC17D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>epteo79a01knukvvqv2s51pc20i0ykb</sha1>
+    </revision>
+  </page>
+</mediawiki>

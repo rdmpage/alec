@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55776817</title>
+    <ns>0</ns>
+    <id>55750427</id>
+    <revision>
+      <id>716752694</id>
+      <timestamp>2018-07-27T21:18:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55776817","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>mhuwr9cdsaburvfc3td4x8l70ttdytd</sha1>
+    </revision>
+    <revision>
+      <id>716752702</id>
+      <parentid>716752694</parentid>
+      <timestamp>2018-07-27T21:18:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Oxalidaceae americanae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="163" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>e51d4xfiei8q1gal0cw9jf101xjerow</sha1>
+    </revision>
+    <revision>
+      <id>716752706</id>
+      <parentid>716752702</parentid>
+      <timestamp>2018-07-27T21:18:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Oxalidaceae americanae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="225" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>fyq67179wfus7bm810p8xporvjamb7y</sha1>
+    </revision>
+    <revision>
+      <id>716752713</id>
+      <parentid>716752706</parentid>
+      <timestamp>2018-07-27T21:18:46Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ wissenschaftlicher Artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="284" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>2q5efylyqfh9bh21pou1jedccpnv0bm</sha1>
+    </revision>
+    <revision>
+      <id>716752721</id>
+      <parentid>716752713</parentid>
+      <timestamp>2018-07-27T21:18:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ scientific article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="336" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>rtkfey82he1qsq6ziml2mgff3j6hidu</sha1>
+    </revision>
+    <revision>
+      <id>716752725</id>
+      <parentid>716752721</parentid>
+      <timestamp>2018-07-27T21:18:47Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/3994362</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="592" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ix8f143dhntcum2cf1wtknygtr8wfg1</sha1>
+    </revision>
+    <revision>
+      <id>716752731</id>
+      <parentid>716752725</parentid>
+      <timestamp>2018-07-27T21:18:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="901" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>07l8e88uc1t8zetgeu5xhqie4d0llfo</sha1>
+    </revision>
+    <revision>
+      <id>716752732</id>
+      <parentid>716752731</parentid>
+      <timestamp>2018-07-27T21:18:48Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Oxalidaceae americanae novae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1206" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iighp70v96kwc1g98so3ja6r40yvguu</sha1>
+    </revision>
+    <revision>
+      <id>716752743</id>
+      <parentid>716752732</parentid>
+      <timestamp>2018-07-27T21:18:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 7</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1448" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>slztlzr6fe3jljo17ggpik91g3q21n3</sha1>
+    </revision>
+    <revision>
+      <id>716752748</id>
+      <parentid>716752743</parentid>
+      <timestamp>2018-07-27T21:18:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 289</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1692" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>33r1nk26xefqa96ao3yfwvyy3xk8oxx</sha1>
+    </revision>
+    <revision>
+      <id>716752754</id>
+      <parentid>716752748</parentid>
+      <timestamp>2018-07-27T21:18:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 67</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1935" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2bitp9eznvsw4r5yyt36hngau9v4qr1</sha1>
+    </revision>
+    <revision>
+      <id>716752759</id>
+      <parentid>716752754</parentid>
+      <timestamp>2018-07-27T21:18:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 15 May 1919</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2315" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1sqjonsha91tlefvwmxpwbjai2kpyrp</sha1>
+    </revision>
+    <revision>
+      <id>716752765</id>
+      <parentid>716752759</parentid>
+      <timestamp>2018-07-27T21:18:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: R. Knuth</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2566" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hlcfhty6d0b4ybu7xpcjg8wmt8fgnbc</sha1>
+    </revision>
+    <revision>
+      <id>716752772</id>
+      <parentid>716752765</parentid>
+      <timestamp>2018-07-27T21:18:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2752" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pzsilr7cjqux4ihalfjx13ykzsbnr22</sha1>
+    </revision>
+    <revision>
+      <id>716752782</id>
+      <parentid>716752772</parentid>
+      <timestamp>2018-07-27T21:18:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q6045723]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3063" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$4FA21127-4B7F-4B28-9E82-F9D959E8902A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>o8zek8cr0z3p65ngj4gk8xlp2vuhod3</sha1>
+    </revision>
+    <revision>
+      <id>726372882</id>
+      <parentid>716752782</parentid>
+      <timestamp>2018-08-15T11:59:08Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3183" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"},"nl":{"language":"nl","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$4FA21127-4B7F-4B28-9E82-F9D959E8902A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cgkym5v2dwr2cwr12ijd0bf5zk6ph52</sha1>
+    </revision>
+    <revision>
+      <id>764161285</id>
+      <parentid>726372882</parentid>
+      <timestamp>2018-10-14T15:27:46Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3296" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"},"nl":{"language":"nl","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$4FA21127-4B7F-4B28-9E82-F9D959E8902A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6tuhy3o6hfv9ez9si1g27rgu9gxbvyt</sha1>
+    </revision>
+    <revision>
+      <id>841273600</id>
+      <parentid>764161285</parentid>
+      <timestamp>2019-01-24T02:50:47Z</timestamp>
+      <contributor>
+        <username>Emijrpbot</username>
+        <id>6811</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ BOT - Adding descriptions (55 languages): ar, ast, bg, bn, ca, cs, da, el, eo, es, et, fa, fi, fr, gl, he, hu, hy, it, ja, ka, ko, lt, nan, nb, nn, oc, pl, pt, pt-br, ro, ru, sk, sq, sr, sr-ec, sr-el, sv, tg, tg-cyrl, th, tl, tr, vi, wuu, yue, zh, zh-cn, zh-hans, zh-hant, zh-hk, zh-mo, zh-my, zh-sg, zh-tw</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7580" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"},"nl":{"language":"nl","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"zh-hans":{"language":"zh-hans","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"zh":{"language":"zh","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"ca":{"language":"ca","value":"article cient\u00edfic"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"ja":{"language":"ja","value":"1919\u5e74\u306e\u8ad6\u6587"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"oc":{"language":"oc","value":"article scientific"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"zh-hk":{"language":"zh-hk","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1919)"},"sq":{"language":"sq","value":"artikull shkencor"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1919)"},"tr":{"language":"tr","value":"bilimsel makale"},"nan":{"language":"nan","value":"1919 n\u00ee l\u016bn-b\u00fbn"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1919)"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"zh-my":{"language":"zh-my","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"it":{"language":"it","value":"articolo scientifico"},"ko":{"language":"ko","value":"1919\ub144 \ub17c\ubb38"},"zh-mo":{"language":"zh-mo","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1919"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"eo":{"language":"eo","value":"scienca artikolo"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"et":{"language":"et","value":"teaduslik artikkel"},"tl":{"language":"tl","value":"artikulong pang-agham"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"yue":{"language":"yue","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e7\u09ef-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1919)"},"zh-hant":{"language":"zh-hant","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"wuu":{"language":"wuu","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"zh-cn":{"language":"zh-cn","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$4FA21127-4B7F-4B28-9E82-F9D959E8902A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bdf6ygg62klq2dj7qepwckz6bcxlkyw</sha1>
+    </revision>
+    <revision>
+      <id>848493241</id>
+      <parentid>841273600</parentid>
+      <timestamp>2019-02-01T15:18:21Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 3994362, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7828" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"},"nl":{"language":"nl","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"zh-hans":{"language":"zh-hans","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"zh":{"language":"zh","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"ca":{"language":"ca","value":"article cient\u00edfic"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"ja":{"language":"ja","value":"1919\u5e74\u306e\u8ad6\u6587"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"oc":{"language":"oc","value":"article scientific"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"zh-hk":{"language":"zh-hk","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1919)"},"sq":{"language":"sq","value":"artikull shkencor"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1919)"},"tr":{"language":"tr","value":"bilimsel makale"},"nan":{"language":"nan","value":"1919 n\u00ee l\u016bn-b\u00fbn"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1919)"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"zh-my":{"language":"zh-my","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"it":{"language":"it","value":"articolo scientifico"},"ko":{"language":"ko","value":"1919\ub144 \ub17c\ubb38"},"zh-mo":{"language":"zh-mo","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1919"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"eo":{"language":"eo","value":"scienca artikolo"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"et":{"language":"et","value":"teaduslik artikkel"},"tl":{"language":"tl","value":"artikulong pang-agham"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"yue":{"language":"yue","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e7\u09ef-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1919)"},"zh-hant":{"language":"zh-hant","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"wuu":{"language":"wuu","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"zh-cn":{"language":"zh-cn","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$4FA21127-4B7F-4B28-9E82-F9D959E8902A","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"89be4aec78e82a0c73bd1d2c06a43bd51cadf9f5","datavalue":{"value":"3994362","type":"string"}},"type":"statement","id":"Q55776817$E194E28A-C437-4DB2-BF23-8BCB6680C313","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7kuj5yod9erzzkszo48cgj51rh72ds0</sha1>
+    </revision>
+    <revision>
+      <id>871461711</id>
+      <parentid>848493241</parentid>
+      <timestamp>2019-03-01T19:45:26Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-set:1|uk */ наукова стаття, опублікована в травні 1919, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7951" xml:space="preserve">{"type":"item","id":"Q55776817","labels":{"de":{"language":"de","value":"Oxalidaceae americanae novae"},"en":{"language":"en","value":"Oxalidaceae americanae novae"},"nl":{"language":"nl","value":"Oxalidaceae americanae novae"}},"descriptions":{"de":{"language":"de","value":"wissenschaftlicher Artikel"},"en":{"language":"en","value":"scientific article"},"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0442\u0440\u0430\u0432\u043d\u0456 1919"},"bg":{"language":"bg","value":"\u043d\u0430\u0443\u0447\u043d\u0430 \u0441\u0442\u0430\u0442\u0438\u044f"},"zh-hans":{"language":"zh-hans","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"sv":{"language":"sv","value":"vetenskaplig artikel"},"sr-el":{"language":"sr-el","value":"nau\u010dni \u010dlanak"},"zh":{"language":"zh","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"pl":{"language":"pl","value":"artyku\u0142 naukowy"},"cs":{"language":"cs","value":"v\u011bdeck\u00fd \u010dl\u00e1nek"},"ca":{"language":"ca","value":"article cient\u00edfic"},"ast":{"language":"ast","value":"art\u00edculu cient\u00edficu"},"fa":{"language":"fa","value":"\u0645\u0642\u0627\u0644\u0647\u0654 \u0639\u0644\u0645\u06cc"},"ja":{"language":"ja","value":"1919\u5e74\u306e\u8ad6\u6587"},"fi":{"language":"fi","value":"tieteellinen artikkeli"},"oc":{"language":"oc","value":"article scientific"},"nn":{"language":"nn","value":"vitskapeleg artikkel"},"zh-hk":{"language":"zh-hk","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"ro":{"language":"ro","value":"articol \u0219tiin\u021bific"},"pt":{"language":"pt","value":"artigo cient\u00edfico (publicado na 1919)"},"sq":{"language":"sq","value":"artikull shkencor"},"tg":{"language":"tg","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"fr":{"language":"fr","value":"article scientifique (publi\u00e9 1919)"},"tr":{"language":"tr","value":"bilimsel makale"},"nan":{"language":"nan","value":"1919 n\u00ee l\u016bn-b\u00fbn"},"pt-br":{"language":"pt-br","value":"artigo cient\u00edfico (publicado na 1919)"},"th":{"language":"th","value":"\u0e1a\u0e17\u0e04\u0e27\u0e32\u0e21\u0e17\u0e32\u0e07\u0e27\u0e34\u0e17\u0e22\u0e32\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c"},"zh-my":{"language":"zh-my","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"zh-tw":{"language":"zh-tw","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"it":{"language":"it","value":"articolo scientifico"},"ko":{"language":"ko","value":"1919\ub144 \ub17c\ubb38"},"zh-mo":{"language":"zh-mo","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"gl":{"language":"gl","value":"artigo cient\u00edfico"},"sr":{"language":"sr","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"es":{"language":"es","value":"art\u00edculo cient\u00edfico publicado en 1919"},"hu":{"language":"hu","value":"tudom\u00e1nyos cikk"},"vi":{"language":"vi","value":"b\u00e0i b\u00e1o khoa h\u1ecdc"},"eo":{"language":"eo","value":"scienca artikolo"},"ar":{"language":"ar","value":"\u0645\u0642\u0627\u0644\u0629 \u0639\u0644\u0645\u064a\u0629"},"et":{"language":"et","value":"teaduslik artikkel"},"tl":{"language":"tl","value":"artikulong pang-agham"},"el":{"language":"el","value":"\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03bf\u03bd\u03b9\u03ba\u03cc \u03ac\u03c1\u03b8\u03c1\u03bf"},"yue":{"language":"yue","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"zh-sg":{"language":"zh-sg","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"bn":{"language":"bn","value":"\u09e7\u09ef\u09e7\u09ef-\u098f \u09aa\u09cd\u09b0\u0995\u09be\u09b6\u09bf\u09a4 \u09ac\u09c8\u099c\u09cd\u099e\u09be\u09a8\u09bf\u0995 \u09a8\u09bf\u09ac\u09a8\u09cd\u09a7"},"tg-cyrl":{"language":"tg-cyrl","value":"\u043c\u0430\u049b\u043e\u043b\u0430\u0438 \u0438\u043b\u043c\u04e3"},"da":{"language":"da","value":"videnskabelig artikel (udgivet 1919)"},"zh-hant":{"language":"zh-hant","value":"1919\u5e74\u5b78\u8853\u6587\u7ae0"},"lt":{"language":"lt","value":"mokslinis straipsnis"},"sr-ec":{"language":"sr-ec","value":"\u043d\u0430\u0443\u0447\u043d\u0438 \u0447\u043b\u0430\u043d\u0430\u043a"},"wuu":{"language":"wuu","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"ru":{"language":"ru","value":"\u043d\u0430\u0443\u0447\u043d\u0430\u044f \u0441\u0442\u0430\u0442\u044c\u044f"},"he":{"language":"he","value":"\u05de\u05d0\u05de\u05e8 \u05de\u05d3\u05e2\u05d9"},"hy":{"language":"hy","value":"\u0563\u056b\u057f\u0561\u056f\u0561\u0576 \u0570\u0578\u0564\u057e\u0561\u056e"},"sk":{"language":"sk","value":"vedeck\u00fd \u010dl\u00e1nok"},"ka":{"language":"ka","value":"\u10e1\u10d0\u10db\u10d4\u10ea\u10dc\u10d8\u10d4\u10e0\u10dd \u10e1\u10e2\u10d0\u10e2\u10d8\u10d0"},"zh-cn":{"language":"zh-cn","value":"1919\u5e74\u5b66\u672f\u6587\u7ae0"},"nb":{"language":"nb","value":"vitenskapelig artikkel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"827b3ac9825b43bdc663ec0664d599bd392772c6","datavalue":{"value":"10.2307\/3994362","type":"string"}},"type":"statement","id":"Q55776817$1219360A-A582-42F2-B810-43A9C48424C4","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$A1067D7A-2591-46D6-8390-ED96DE385BCC","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"47db4389cd5ec0e567f6c6fc204900f093b5f6eb","datavalue":{"value":{"text":"Oxalidaceae americanae novae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776817$D3CAB220-A4A0-4E07-AF9E-04D3A3187152","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"ebae015dda839a12e8926ee3601e5a040bc3775d","datavalue":{"value":"7","type":"string"}},"type":"statement","id":"Q55776817$EA17B358-12B4-4E07-AC30-C1557543EA65","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"08c5686bb3e5147f12242af016a6b70c473d309f","datavalue":{"value":"289","type":"string"}},"type":"statement","id":"Q55776817$96FE3F2B-C5B7-4F83-8B97-B8710398A24A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q55776817$7348FFCC-E59A-492A-9F8C-1C30E607AFE1","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"7854b51227d841e67678b2de5ad56dd1476f48e4","datavalue":{"value":{"time":"+1919-05-15T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776817$5FDB8EE5-0699-4B0D-98A6-E874429C9AC2","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c7e85b56d30b1130d9104ccc687e3e9bcf5a1ccf","datavalue":{"value":"R. Knuth","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776817$B8120BF9-0E9C-49F1-A7DC-54A351FB4F8C","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"e8062d7990933e150d95355453cf500a9ce0a348","datavalue":{"value":{"entity-type":"item","numeric-id":6045723,"id":"Q6045723"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776817$4FA21127-4B7F-4B28-9E82-F9D959E8902A","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"89be4aec78e82a0c73bd1d2c06a43bd51cadf9f5","datavalue":{"value":"3994362","type":"string"}},"type":"statement","id":"Q55776817$E194E28A-C437-4DB2-BF23-8BCB6680C313","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jgumblrzdtrzq6x1am51bvxxvzhix74</sha1>
+    </revision>
+  </page>
+</mediawiki>

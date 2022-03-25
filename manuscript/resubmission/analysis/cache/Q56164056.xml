@@ -1,0 +1,358 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56164056</title>
+    <ns>0</ns>
+    <id>56106650</id>
+    <revision>
+      <id>728660397</id>
+      <timestamp>2018-08-18T15:50:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56164056","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>8h9d66s3v2e388jzwo2x3ld9egcpua8</sha1>
+    </revision>
+    <revision>
+      <id>728660401</id>
+      <parentid>728660397</parentid>
+      <timestamp>2018-08-18T15:50:06Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ A Few New North American Neuroptera</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="170" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7kgj50r8exc8khwv0ogcspwcajulso0</sha1>
+    </revision>
+    <revision>
+      <id>728660406</id>
+      <parentid>728660401</parentid>
+      <timestamp>2018-08-18T15:50:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ A Few New North American Neuroptera</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="239" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>6ee3c4rtyvdtj7yvif2msc38v3vpfug</sha1>
+    </revision>
+    <revision>
+      <id>728660409</id>
+      <parentid>728660406</parentid>
+      <timestamp>2018-08-18T15:50:07Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1155/1935/98410</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="499" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hk0e5n6bcjfcj9pqlssw8w1937dve84</sha1>
+    </revision>
+    <revision>
+      <id>728660415</id>
+      <parentid>728660409</parentid>
+      <timestamp>2018-08-18T15:50:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 222996</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="748" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ek0ur6hl4g94lza3mqhwqdh8rg1nadv</sha1>
+    </revision>
+    <revision>
+      <id>728660419</id>
+      <parentid>728660415</parentid>
+      <timestamp>2018-08-18T15:50:08Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1057" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kh1a0gf1mnzphdnbmt6ec3ibmdeotjh</sha1>
+    </revision>
+    <revision>
+      <id>728660424</id>
+      <parentid>728660419</parentid>
+      <timestamp>2018-08-18T15:50:09Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: A Few New North American Neuroptera</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1369" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ld254pzzjsq6lz21rxj1e6xs90bxst5</sha1>
+    </revision>
+    <revision>
+      <id>728660430</id>
+      <parentid>728660424</parentid>
+      <timestamp>2018-08-18T15:50:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 42</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1612" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d2z3dlcupj8gb1prx0uicitht0dlj4t</sha1>
+    </revision>
+    <revision>
+      <id>728660435</id>
+      <parentid>728660430</parentid>
+      <timestamp>2018-08-18T15:50:10Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 53–57</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1863" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kadbz77urcwgc55brpb3tnm4nak2d0v</sha1>
+    </revision>
+    <revision>
+      <id>728660439</id>
+      <parentid>728660435</parentid>
+      <timestamp>2018-08-18T15:50:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2105" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>41jlhqzvp9rriu6l8ndoto6cwrqquye</sha1>
+    </revision>
+    <revision>
+      <id>728660446</id>
+      <parentid>728660439</parentid>
+      <timestamp>2018-08-18T15:50:11Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1935</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2484" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fs5tdidvathes5jf38w8t3vgrowtlmj</sha1>
+    </revision>
+    <revision>
+      <id>728660450</id>
+      <parentid>728660446</parentid>
+      <timestamp>2018-08-18T15:50:12Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Nathan Banks</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2739" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rkanv7lly26zfex6wv73d0a7ph4myx4</sha1>
+    </revision>
+    <revision>
+      <id>728660456</id>
+      <parentid>728660450</parentid>
+      <timestamp>2018-08-18T15:50:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2925" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>22zyknqedt12rjh420mwyxpfilafq0a</sha1>
+    </revision>
+    <revision>
+      <id>728660461</id>
+      <parentid>728660456</parentid>
+      <timestamp>2018-08-18T15:50:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2071295]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3236" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ef1jq9l6mmhk36lcigyoxg1j6ghv34h</sha1>
+    </revision>
+    <revision>
+      <id>738918433</id>
+      <parentid>728660461</parentid>
+      <timestamp>2018-09-03T00:40:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 50902411, According to [[Property:P5315]]=222996</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3485" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>66qm0y4yjerqlsnyfyh8gdu6fhtjxjl</sha1>
+    </revision>
+    <revision>
+      <id>780383824</id>
+      <parentid>738918433</parentid>
+      <timestamp>2018-11-02T21:46:49Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3611" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"},"nl":{"language":"nl","value":"A Few New North American Neuroptera"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jeczb4bsmyb4zcro2jesylaw4vxl81c</sha1>
+    </revision>
+    <revision>
+      <id>974550449</id>
+      <parentid>780383824</parentid>
+      <timestamp>2019-07-05T16:02:52Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1935, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3810" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"},"nl":{"language":"nl","value":"A Few New North American Neuroptera"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6m0wfei05xj466xefu11f69aobw08p2</sha1>
+    </revision>
+    <revision>
+      <id>1052489221</id>
+      <parentid>974550449</parentid>
+      <timestamp>2019-11-14T02:20:55Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P50]]: [[Q952825]], [[:toollabs:quickstatements/#/batch/21400|batch #21400]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4115" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"},"nl":{"language":"nl","value":"A Few New North American Neuroptera"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"ce94bcce8de57bc3c33521752b02c4b079238ace","datavalue":{"value":{"entity-type":"item","numeric-id":952825,"id":"Q952825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$692C761B-C142-4C97-A1F1-05311F501384","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>am4q24naxqdgy61chc35g2g5phmz447</sha1>
+    </revision>
+    <revision>
+      <id>1052489226</id>
+      <parentid>1052489221</parentid>
+      <timestamp>2019-11-14T02:20:55Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1, [[:toollabs:quickstatements/#/batch/21400|batch #21400]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4301" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"},"nl":{"language":"nl","value":"A Few New North American Neuroptera"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"ce94bcce8de57bc3c33521752b02c4b079238ace","datavalue":{"value":{"entity-type":"item","numeric-id":952825,"id":"Q952825"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$692C761B-C142-4C97-A1F1-05311F501384","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qa7jslcijov5exv3eys5d5sg14xscm2</sha1>
+    </revision>
+    <revision>
+      <id>1052489232</id>
+      <parentid>1052489226</parentid>
+      <timestamp>2019-11-14T02:20:57Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1932]]: Nathan Banks, [[:toollabs:quickstatements/#/batch/21400|batch #21400]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4462" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"},"nl":{"language":"nl","value":"A Few New North American Neuroptera"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"737e2b0c45d26bef9d7722ea75fb0d6076dff16b","datavalue":{"value":"Nathan Banks","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56164056$9E4C2C56-ECCB-4BF3-A175-EE12F9D833AF","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"ce94bcce8de57bc3c33521752b02c4b079238ace","datavalue":{"value":{"entity-type":"item","numeric-id":952825,"id":"Q952825"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"103eceea41b2f8376ea6d91b2a663990c4e36214","datavalue":{"value":"Nathan Banks","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q56164056$692C761B-C142-4C97-A1F1-05311F501384","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pbb9r0h9ib56m757wsibbg9w6qqmved</sha1>
+    </revision>
+    <revision>
+      <id>1052489238</id>
+      <parentid>1052489232</parentid>
+      <timestamp>2019-11-14T02:20:58Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbremoveclaims-remove:1| */ [[Property:P2093]]: Nathan Banks, [[:toollabs:quickstatements/#/batch/21400|batch #21400]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4021" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"},"nl":{"language":"nl","value":"A Few New North American Neuroptera"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"ce94bcce8de57bc3c33521752b02c4b079238ace","datavalue":{"value":{"entity-type":"item","numeric-id":952825,"id":"Q952825"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"103eceea41b2f8376ea6d91b2a663990c4e36214","datavalue":{"value":"Nathan Banks","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q56164056$692C761B-C142-4C97-A1F1-05311F501384","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7lxl1rsvf8ye5887nbhjnuyi1sqh81j</sha1>
+    </revision>
+    <revision>
+      <id>1085710991</id>
+      <parentid>1052489238</parentid>
+      <timestamp>2019-12-29T00:52:33Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1935 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24671|batch #24671]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4118" xml:space="preserve">{"type":"item","id":"Q56164056","labels":{"de":{"language":"de","value":"A Few New North American Neuroptera"},"en":{"language":"en","value":"A Few New North American Neuroptera"},"nl":{"language":"nl","value":"A Few New North American Neuroptera"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"},"de":{"language":"de","value":"im Januar 1935 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"f46b74d4a9f199e23a4cfad09d51dec4ea778df6","datavalue":{"value":"10.1155\/1935\/98410","type":"string"}},"type":"statement","id":"Q56164056$6281110C-B576-4CD1-B14E-5B0539A0318B","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"218aae3e1985783b2abefadb7fb7815bf71bf6d2","datavalue":{"value":"222996","type":"string"}},"type":"statement","id":"Q56164056$AF40EDE7-C3AD-4E43-BF3A-6426E11497A3","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$0E05FD46-BE31-498B-8E6F-96E4EE41BEA2","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4e6d084d83250c57846e5da9eb35921610d04496","datavalue":{"value":{"text":"A Few New North American Neuroptera","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56164056$D90DBE4C-B68E-40F4-A26F-74D36204B65D","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q56164056$E96BB39E-739B-4FA5-A26D-C7E250C44C3F","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b503d009b6ffb74122328e0452c70d5629f9cc8","datavalue":{"value":"53\u201357","type":"string"}},"type":"statement","id":"Q56164056$9A01C7CE-91B0-4AC4-A207-95C6CFA5362D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q56164056$5692314D-6E0E-4678-8BC8-E7CF035E9195","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56164056$95E2E35A-D608-4A1F-B391-D884BE35F931","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"261868d24749aaf43f541ce49b896d159d187049","datavalue":{"value":{"entity-type":"item","numeric-id":2071295,"id":"Q2071295"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56164056$B34CC584-6FDA-484E-B050-BAEFAF41E85C","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"c5e8133ed518f01bace222a89ffd7a04093b0a88","datavalue":{"value":"50902411","type":"string"}},"type":"statement","id":"Q56164056$6C7E3F33-9DDB-4C4C-9BD2-A60C05FF5865","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"ce94bcce8de57bc3c33521752b02c4b079238ace","datavalue":{"value":{"entity-type":"item","numeric-id":952825,"id":"Q952825"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"103eceea41b2f8376ea6d91b2a663990c4e36214","datavalue":{"value":"Nathan Banks","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q56164056$692C761B-C142-4C97-A1F1-05311F501384","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>02k06ihzl0mvshohqidcvj0oiu3racz</sha1>
+    </revision>
+  </page>
+</mediawiki>

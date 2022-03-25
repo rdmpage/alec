@@ -1,0 +1,274 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55776200</title>
+    <ns>0</ns>
+    <id>55749938</id>
+    <revision>
+      <id>716715178</id>
+      <timestamp>2018-07-27T20:03:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55776200","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3q3hrdi6pr0ohg0ykjrnzzo1zclvhh7</sha1>
+    </revision>
+    <revision>
+      <id>716715183</id>
+      <parentid>716715178</parentid>
+      <timestamp>2018-07-27T20:03:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="204" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>5n0oz4327mffhr7cdnag1zty9wocg3u</sha1>
+    </revision>
+    <revision>
+      <id>716715195</id>
+      <parentid>716715183</parentid>
+      <timestamp>2018-07-27T20:03:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="307" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>lgjg4zu8tv0tuvtpatwmec7aw8oo1jr</sha1>
+    </revision>
+    <revision>
+      <id>716716074</id>
+      <parentid>716715195</parentid>
+      <timestamp>2018-07-27T20:05:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/3667464</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="563" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8sb5tgroo1sogecrb960hk7bjsgqwl4</sha1>
+    </revision>
+    <revision>
+      <id>716716082</id>
+      <parentid>716716074</parentid>
+      <timestamp>2018-07-27T20:05:37Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="872" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nlqz4vnnguepeu75uorvojupz13avbm</sha1>
+    </revision>
+    <revision>
+      <id>716716088</id>
+      <parentid>716716082</parentid>
+      <timestamp>2018-07-27T20:05:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1218" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t9i7ftwsw85uodt9dfbjf6djt0csm77</sha1>
+    </revision>
+    <revision>
+      <id>716716090</id>
+      <parentid>716716088</parentid>
+      <timestamp>2018-07-27T20:05:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 42</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1461" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s4yfifvbe3jzjgtyuji7kzpcc156tfe</sha1>
+    </revision>
+    <revision>
+      <id>716716097</id>
+      <parentid>716716090</parentid>
+      <timestamp>2018-07-27T20:05:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 1579</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1706" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>m6taoyxh7ajmu2qxq5nq8d78m3xmzlr</sha1>
+    </revision>
+    <revision>
+      <id>716716101</id>
+      <parentid>716716097</parentid>
+      <timestamp>2018-07-27T20:05:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1948" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7816uegtibab71dewxmkv3vfjqvq2se</sha1>
+    </revision>
+    <revision>
+      <id>716716104</id>
+      <parentid>716716101</parentid>
+      <timestamp>2018-07-27T20:05:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 30 September 1972</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2328" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"29285abec056ade5afa3fc5a98af9aa589ca722b","datavalue":{"value":{"time":"+1972-09-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776200$E431F955-EF62-4BD5-AB2C-85C8DF42C3D3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qss1w7xr993i2tx6vhnsf0vccygql8j</sha1>
+    </revision>
+    <revision>
+      <id>716716109</id>
+      <parentid>716716104</parentid>
+      <timestamp>2018-07-27T20:05:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Georg Cufodontis</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2587" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"29285abec056ade5afa3fc5a98af9aa589ca722b","datavalue":{"value":{"time":"+1972-09-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776200$E431F955-EF62-4BD5-AB2C-85C8DF42C3D3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d5d0bbef21d0b779f8e97bd38e5b42523d560dea","datavalue":{"value":"Georg Cufodontis","type":"string"}},"type":"statement","id":"Q55776200$E6FAD19E-5E41-4FFE-AB42-DF5BC5CD9D49","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n42pb2tafliu5fyyqdw21a4rbfy0zfk</sha1>
+    </revision>
+    <revision>
+      <id>716716116</id>
+      <parentid>716716109</parentid>
+      <timestamp>2018-07-27T20:05:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2773" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"29285abec056ade5afa3fc5a98af9aa589ca722b","datavalue":{"value":{"time":"+1972-09-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776200$E431F955-EF62-4BD5-AB2C-85C8DF42C3D3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d5d0bbef21d0b779f8e97bd38e5b42523d560dea","datavalue":{"value":"Georg Cufodontis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776200$E6FAD19E-5E41-4FFE-AB42-DF5BC5CD9D49","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7vdpih4w9y5g41uoxs6wqucfekirlbu</sha1>
+    </revision>
+    <revision>
+      <id>716716122</id>
+      <parentid>716716116</parentid>
+      <timestamp>2018-07-27T20:05:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5735512]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3084" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"29285abec056ade5afa3fc5a98af9aa589ca722b","datavalue":{"value":{"time":"+1972-09-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776200$E431F955-EF62-4BD5-AB2C-85C8DF42C3D3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d5d0bbef21d0b779f8e97bd38e5b42523d560dea","datavalue":{"value":"Georg Cufodontis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776200$E6FAD19E-5E41-4FFE-AB42-DF5BC5CD9D49","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$18785D27-8985-447B-B75B-3C3EBC3A7068","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>16p6ik6ad3gi803ma0n46n5vy2vubgb</sha1>
+    </revision>
+    <revision>
+      <id>842477174</id>
+      <parentid>716716122</parentid>
+      <timestamp>2019-01-25T11:17:09Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 3667464, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3332" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"29285abec056ade5afa3fc5a98af9aa589ca722b","datavalue":{"value":{"time":"+1972-09-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776200$E431F955-EF62-4BD5-AB2C-85C8DF42C3D3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d5d0bbef21d0b779f8e97bd38e5b42523d560dea","datavalue":{"value":"Georg Cufodontis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776200$E6FAD19E-5E41-4FFE-AB42-DF5BC5CD9D49","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$18785D27-8985-447B-B75B-3C3EBC3A7068","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"4e7aeeee469df3d856c4e16a7a2d72bab79cc4c1","datavalue":{"value":"3667464","type":"string"}},"type":"statement","id":"Q55776200$7444F6C4-6EF2-4324-9EEE-DB7D9E13DF86","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jgacddqfp77eb7yjdhw5anr72tvd0wt</sha1>
+    </revision>
+    <revision>
+      <id>969831109</id>
+      <parentid>842477174</parentid>
+      <timestamp>2019-06-27T15:03:23Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована у вересні 1972, [[:toollabs:quickstatements/#/batch/14788|batch #14788]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3573" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1972"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"29285abec056ade5afa3fc5a98af9aa589ca722b","datavalue":{"value":{"time":"+1972-09-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776200$E431F955-EF62-4BD5-AB2C-85C8DF42C3D3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d5d0bbef21d0b779f8e97bd38e5b42523d560dea","datavalue":{"value":"Georg Cufodontis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776200$E6FAD19E-5E41-4FFE-AB42-DF5BC5CD9D49","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$18785D27-8985-447B-B75B-3C3EBC3A7068","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"4e7aeeee469df3d856c4e16a7a2d72bab79cc4c1","datavalue":{"value":"3667464","type":"string"}},"type":"statement","id":"Q55776200$7444F6C4-6EF2-4324-9EEE-DB7D9E13DF86","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5gsplabaxlqb153dytxj6mc5nzcs1ki</sha1>
+    </revision>
+    <revision>
+      <id>1193227289</id>
+      <parentid>969831109</parentid>
+      <timestamp>2020-05-29T07:20:48Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im September 1972 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35385|batch #35385]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3673" xml:space="preserve">{"type":"item","id":"Q55776200","labels":{"de":{"language":"de","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"},"en":{"language":"en","value":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)"}},"descriptions":{"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0443 \u0432\u0435\u0440\u0435\u0441\u043d\u0456 1972"},"de":{"language":"de","value":"im September 1972 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"a26a8c6ae17827f30f3681be35b2d21d4cdd11a0","datavalue":{"value":"10.2307\/3667464","type":"string"}},"type":"statement","id":"Q55776200$AA173902-00C1-4A13-B6B9-547E4DF48547","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$74A2ECB3-A370-4062-ABD7-0FF2B72940E6","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"5696af092624f0652747abb80cd762a2160b045b","datavalue":{"value":{"text":"Supplement: Enumeratio Plantarum Aethiopiae Spermatophyta (Sequentia)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55776200$55B47439-1B55-476F-82D7-58A37DD33F75","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"6adf654bc28d5ff19c4eb39dabe6944fa25fe78c","datavalue":{"value":"42","type":"string"}},"type":"statement","id":"Q55776200$7473DA80-BECC-425A-B4E7-5707E8C5326D","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"83b463d48297cc000a745d2e198365f462832a1e","datavalue":{"value":"1579","type":"string"}},"type":"statement","id":"Q55776200$6B97487C-8277-45F4-8584-6B943CB4C410","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q55776200$166E7AAF-8B9B-48CD-B275-7A36F24817BB","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"29285abec056ade5afa3fc5a98af9aa589ca722b","datavalue":{"value":{"time":"+1972-09-30T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55776200$E431F955-EF62-4BD5-AB2C-85C8DF42C3D3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d5d0bbef21d0b779f8e97bd38e5b42523d560dea","datavalue":{"value":"Georg Cufodontis","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55776200$E6FAD19E-5E41-4FFE-AB42-DF5BC5CD9D49","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f31f8d2d55a00c7ee661f480b644b9f2d8f77c84","datavalue":{"value":{"entity-type":"item","numeric-id":5735512,"id":"Q5735512"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55776200$18785D27-8985-447B-B75B-3C3EBC3A7068","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"4e7aeeee469df3d856c4e16a7a2d72bab79cc4c1","datavalue":{"value":"3667464","type":"string"}},"type":"statement","id":"Q55776200$7444F6C4-6EF2-4324-9EEE-DB7D9E13DF86","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sowzmsj768op7fxjjncl4mo25bnaukt</sha1>
+    </revision>
+  </page>
+</mediawiki>

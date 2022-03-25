@@ -1,0 +1,316 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55809036</title>
+    <ns>0</ns>
+    <id>55766800</id>
+    <revision>
+      <id>717587946</id>
+      <timestamp>2018-07-29T09:19:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55809036","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>d1jrsdfey72lzthozwvrkne8mcf7d4x</sha1>
+    </revision>
+    <revision>
+      <id>717587951</id>
+      <parentid>717587946</parentid>
+      <timestamp>2018-07-29T09:19:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ The Species of Ziziphus Indigenous to United States and Mexico</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="197" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>306ss2seclrqk61p0smb306ojseiqeg</sha1>
+    </revision>
+    <revision>
+      <id>717587954</id>
+      <parentid>717587951</parentid>
+      <timestamp>2018-07-29T09:19:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ The Species of Ziziphus Indigenous to United States and Mexico</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="293" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>sdy9xa93cjb98c82a42oetgku4gr7ea</sha1>
+    </revision>
+    <revision>
+      <id>717587958</id>
+      <parentid>717587954</parentid>
+      <timestamp>2018-07-29T09:19:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.2307/2439910</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="549" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qkvszsoobqozjaupi91dqepwyp778pz</sha1>
+    </revision>
+    <revision>
+      <id>717587962</id>
+      <parentid>717587958</parentid>
+      <timestamp>2018-07-29T09:19:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="858" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eqm5xexvi6l68ozu1p0z4mk4kv2vyto</sha1>
+    </revision>
+    <revision>
+      <id>717587971</id>
+      <parentid>717587962</parentid>
+      <timestamp>2018-07-29T09:20:00Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: The Species of Ziziphus Indigenous to United States and Mexico</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1197" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p9a7gld4nd8ybvb718galcmzmsopfr3</sha1>
+    </revision>
+    <revision>
+      <id>717587973</id>
+      <parentid>717587971</parentid>
+      <timestamp>2018-07-29T09:20:00Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 50</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1440" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>psoycw2lzfhrhtlw78nzgiclunhph66</sha1>
+    </revision>
+    <revision>
+      <id>717587977</id>
+      <parentid>717587973</parentid>
+      <timestamp>2018-07-29T09:20:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 1020</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1685" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2kbhjwnariwwyfw92bm2xhw4i23zzn5</sha1>
+    </revision>
+    <revision>
+      <id>717587981</id>
+      <parentid>717587977</parentid>
+      <timestamp>2018-07-29T09:20:01Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 10</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1928" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mc350fnfuyijmn0obh7egqh08bhsnfb</sha1>
+    </revision>
+    <revision>
+      <id>717587986</id>
+      <parentid>717587981</parentid>
+      <timestamp>2018-07-29T09:20:02Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: November 1963</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2308" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>05jisvcky7pav5dv0688nopj07ri85u</sha1>
+    </revision>
+    <revision>
+      <id>717587988</id>
+      <parentid>717587986</parentid>
+      <timestamp>2018-07-29T09:20:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Marshall C. Johnston</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2571" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>n12ycemza0zkprpwj2z94cpb1rzzkn3</sha1>
+    </revision>
+    <revision>
+      <id>717587991</id>
+      <parentid>717587988</parentid>
+      <timestamp>2018-07-29T09:20:03Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2757" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>or484cyre8pebn2xlebeonqj0abpgyw</sha1>
+    </revision>
+    <revision>
+      <id>717587996</id>
+      <parentid>717587991</parentid>
+      <timestamp>2018-07-29T09:20:04Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2664693]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3068" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f6bfcc2d0721236d69edd5bb1b7aab4d34760c2e","datavalue":{"value":{"entity-type":"item","numeric-id":2664693,"id":"Q2664693"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$9B52A7D6-DF39-4398-B2F3-85FB5C2EF1A1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bhgt9b9uj7g5149brubl3tkp6yfi6ac</sha1>
+    </revision>
+    <revision>
+      <id>726182855</id>
+      <parentid>717587996</parentid>
+      <timestamp>2018-08-15T05:11:50Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3221" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"nl":{"language":"nl","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f6bfcc2d0721236d69edd5bb1b7aab4d34760c2e","datavalue":{"value":{"entity-type":"item","numeric-id":2664693,"id":"Q2664693"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$9B52A7D6-DF39-4398-B2F3-85FB5C2EF1A1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ly0g87bsnc1fjzuh13e396gqb2tl85q</sha1>
+    </revision>
+    <revision>
+      <id>847713275</id>
+      <parentid>726182855</parentid>
+      <timestamp>2019-01-31T21:52:41Z</timestamp>
+      <contributor>
+        <username>GZWDer (flood)</username>
+        <id>690508</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P888]]: 2439910, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3469" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"nl":{"language":"nl","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f6bfcc2d0721236d69edd5bb1b7aab4d34760c2e","datavalue":{"value":{"entity-type":"item","numeric-id":2664693,"id":"Q2664693"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$9B52A7D6-DF39-4398-B2F3-85FB5C2EF1A1","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e6b6b3e16fd3d3009677348587f2731b89e6eb57","datavalue":{"value":"2439910","type":"string"}},"type":"statement","id":"Q55809036$645A9072-F26C-4BCC-8CDD-A04BCD79EAA8","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lsy82mkgh6odciy2mwrlkmxba4odc88</sha1>
+    </revision>
+    <revision>
+      <id>923615779</id>
+      <parentid>847713275</parentid>
+      <timestamp>2019-04-24T12:04:24Z</timestamp>
+      <contributor>
+        <username>Simon Villeneuve</username>
+        <id>1062</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P407]]: [[Q1860]], #petscan</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3772" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"nl":{"language":"nl","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f6bfcc2d0721236d69edd5bb1b7aab4d34760c2e","datavalue":{"value":{"entity-type":"item","numeric-id":2664693,"id":"Q2664693"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$9B52A7D6-DF39-4398-B2F3-85FB5C2EF1A1","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e6b6b3e16fd3d3009677348587f2731b89e6eb57","datavalue":{"value":"2439910","type":"string"}},"type":"statement","id":"Q55809036$645A9072-F26C-4BCC-8CDD-A04BCD79EAA8","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$61A799B2-64B1-4B41-AF8F-71299E497660","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g4ej9gg9b24qv9jhkspcwnq1wwxgrsl</sha1>
+    </revision>
+    <revision>
+      <id>972080546</id>
+      <parentid>923615779</parentid>
+      <timestamp>2019-06-30T23:15:36Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в листопаді 1963, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4026" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"nl":{"language":"nl","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1963"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f6bfcc2d0721236d69edd5bb1b7aab4d34760c2e","datavalue":{"value":{"entity-type":"item","numeric-id":2664693,"id":"Q2664693"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$9B52A7D6-DF39-4398-B2F3-85FB5C2EF1A1","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e6b6b3e16fd3d3009677348587f2731b89e6eb57","datavalue":{"value":"2439910","type":"string"}},"type":"statement","id":"Q55809036$645A9072-F26C-4BCC-8CDD-A04BCD79EAA8","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$61A799B2-64B1-4B41-AF8F-71299E497660","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mywqickqkoql2npp87j4qxpaah5ipkm</sha1>
+    </revision>
+    <revision>
+      <id>1058244759</id>
+      <parentid>972080546</parentid>
+      <timestamp>2019-11-21T19:47:33Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im November 1963 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/22094|batch #22094]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4125" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"nl":{"language":"nl","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1963"},"de":{"language":"de","value":"im November 1963 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"c32d6294257c5eb8897f2848e3ea1431d7a5dcd5","datavalue":{"value":"Marshall C. Johnston","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55809036$080E01EE-B9BB-4A70-99A6-8CEBE6867B57","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f6bfcc2d0721236d69edd5bb1b7aab4d34760c2e","datavalue":{"value":{"entity-type":"item","numeric-id":2664693,"id":"Q2664693"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$9B52A7D6-DF39-4398-B2F3-85FB5C2EF1A1","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e6b6b3e16fd3d3009677348587f2731b89e6eb57","datavalue":{"value":"2439910","type":"string"}},"type":"statement","id":"Q55809036$645A9072-F26C-4BCC-8CDD-A04BCD79EAA8","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$61A799B2-64B1-4B41-AF8F-71299E497660","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5mpdyks77w5b1z6o164a8bmsqj49c9y</sha1>
+    </revision>
+    <revision>
+      <id>1472733737</id>
+      <parentid>1058244759</parentid>
+      <timestamp>2021-08-03T23:04:08Z</timestamp>
+      <contributor>
+        <username>Daniel Mietchen</username>
+        <id>24057</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q107855668]] ([[:toollabs:editgroups/b/AD/a9a22c57|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4342" xml:space="preserve">{"type":"item","id":"Q55809036","labels":{"de":{"language":"de","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"en":{"language":"en","value":"The Species of Ziziphus Indigenous to United States and Mexico"},"nl":{"language":"nl","value":"The Species of Ziziphus Indigenous to United States and Mexico"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0456 1963"},"de":{"language":"de","value":"im November 1963 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"41139f257063966746d40decf0ce71e0ec305a5b","datavalue":{"value":"10.2307\/2439910","type":"string"}},"type":"statement","id":"Q55809036$918FD30C-CE02-4368-A569-15C16E01C962","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$73B677C0-435E-4536-B404-F2FAB7965855","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"1809ddacd1d7064d467f1288b175151e3286a4dd","datavalue":{"value":{"text":"The Species of Ziziphus Indigenous to United States and Mexico","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55809036$8767F836-A243-4440-A1D8-09CC60731A47","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3123d702976a1aa36f231254e93e88c4bd419b3e","datavalue":{"value":"50","type":"string"}},"type":"statement","id":"Q55809036$FFE5939A-3BA6-4BC2-871B-4C092260641A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"2b7ba9d6c5ba523115ddb43fee271979a9622eb1","datavalue":{"value":"1020","type":"string"}},"type":"statement","id":"Q55809036$32D3A1A6-B5B3-408E-A7CF-A5C476F0512D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"ac29333209df64c92c865ece0eab526c66d277fa","datavalue":{"value":"10","type":"string"}},"type":"statement","id":"Q55809036$FD8FB852-5704-4F3C-A51F-425033414830","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"146573c65235be67dbf609a93cfc415b349ac84e","datavalue":{"value":{"time":"+1963-11-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55809036$74C06C39-4838-45AE-A5E3-974E64A73EA5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"f6bfcc2d0721236d69edd5bb1b7aab4d34760c2e","datavalue":{"value":{"entity-type":"item","numeric-id":2664693,"id":"Q2664693"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$9B52A7D6-DF39-4398-B2F3-85FB5C2EF1A1","rank":"normal"}],"P888":[{"mainsnak":{"snaktype":"value","property":"P888","hash":"e6b6b3e16fd3d3009677348587f2731b89e6eb57","datavalue":{"value":"2439910","type":"string"}},"type":"statement","id":"Q55809036$645A9072-F26C-4BCC-8CDD-A04BCD79EAA8","rank":"normal"}],"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55809036$61A799B2-64B1-4B41-AF8F-71299E497660","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"be30ff3ea3da0637ab0f0561938f0a0750c4a6ef","datavalue":{"value":{"entity-type":"item","numeric-id":107855668,"id":"Q107855668"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"452dfd78f935bbc4cfd7fea51fbfd5594cd4fa73","datavalue":{"value":"Marshall C. Johnston","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q55809036$49D291C1-4525-4035-88BF-7042DFFA8B6F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7ky70ica8cdzfw9wgrec3q436ro3gbi</sha1>
+    </revision>
+  </page>
+</mediawiki>

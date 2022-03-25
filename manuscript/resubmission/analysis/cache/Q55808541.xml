@@ -1,0 +1,274 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55808541</title>
+    <ns>0</ns>
+    <id>55766299</id>
+    <revision>
+      <id>717565949</id>
+      <timestamp>2018-07-29T08:24:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55808541","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>7vndq5e8rohmvll8kk5kz7t8eefayl4</sha1>
+    </revision>
+    <revision>
+      <id>717565955</id>
+      <parentid>717565949</parentid>
+      <timestamp>2018-07-29T08:24:38Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Die Flora des Namalandes. VIII</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="165" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>bc704gzckc4sdr402c3el5hsh1hk5um</sha1>
+    </revision>
+    <revision>
+      <id>717565958</id>
+      <parentid>717565955</parentid>
+      <timestamp>2018-07-29T08:24:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Die Flora des Namalandes. VIII</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="229" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>e5e5n9ff9nnhityfl72nxm43ectcx04</sha1>
+    </revision>
+    <revision>
+      <id>717565962</id>
+      <parentid>717565958</parentid>
+      <timestamp>2018-07-29T08:24:39Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1002/FEDR.19350381310</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="494" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g90zw5107a7k8tmhkau15ruwxs2ybbc</sha1>
+    </revision>
+    <revision>
+      <id>717565965</id>
+      <parentid>717565962</parentid>
+      <timestamp>2018-07-29T08:24:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="803" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hiy6uy0pbmsh2mi5lfyrmskl77r0leo</sha1>
+    </revision>
+    <revision>
+      <id>717565970</id>
+      <parentid>717565965</parentid>
+      <timestamp>2018-07-29T08:24:40Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Die Flora des Namalandes. VIII</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1110" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sjkfpkqarwvqiptxfbza0s77b8pdtkc</sha1>
+    </revision>
+    <revision>
+      <id>717565976</id>
+      <parentid>717565970</parentid>
+      <timestamp>2018-07-29T08:24:41Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 38</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1353" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pbli058m8v09e7jy41v4qyfm6b9z5gb</sha1>
+    </revision>
+    <revision>
+      <id>717565979</id>
+      <parentid>717565976</parentid>
+      <timestamp>2018-07-29T08:24:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 256–280</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1606" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nakvutgpcaxolcbrmxlussq9byvvdug</sha1>
+    </revision>
+    <revision>
+      <id>717565982</id>
+      <parentid>717565979</parentid>
+      <timestamp>2018-07-29T08:24:42Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 13-25</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1852" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>id7xqp5b52gr0s7evv5tvyikrc7qx1q</sha1>
+    </revision>
+    <revision>
+      <id>717565985</id>
+      <parentid>717565982</parentid>
+      <timestamp>2018-07-29T08:24:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1935</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2231" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808541$99A5C756-E382-4EBB-B0E3-31E57C1C7500","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kpuug5mb95qyngul8su9kx87jiru2b9</sha1>
+    </revision>
+    <revision>
+      <id>717565989</id>
+      <parentid>717565985</parentid>
+      <timestamp>2018-07-29T08:24:43Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Paul Range</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2484" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808541$99A5C756-E382-4EBB-B0E3-31E57C1C7500","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"e5cea15a7224f7cd2a8025b655f5d36eaf667c8d","datavalue":{"value":"Paul Range","type":"string"}},"type":"statement","id":"Q55808541$A7438E2B-262D-4F9B-AD38-0831C85E7AF5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lsosqltd487nv3ieji9q5l3r0xk59r3</sha1>
+    </revision>
+    <revision>
+      <id>717565993</id>
+      <parentid>717565989</parentid>
+      <timestamp>2018-07-29T08:24:44Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2670" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808541$99A5C756-E382-4EBB-B0E3-31E57C1C7500","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"e5cea15a7224f7cd2a8025b655f5d36eaf667c8d","datavalue":{"value":"Paul Range","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808541$A7438E2B-262D-4F9B-AD38-0831C85E7AF5","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6n01szt1pzjrui3r8dm7igqfouvj6jd</sha1>
+    </revision>
+    <revision>
+      <id>717566001</id>
+      <parentid>717565993</parentid>
+      <timestamp>2018-07-29T08:24:45Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q5550932]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2981" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808541$99A5C756-E382-4EBB-B0E3-31E57C1C7500","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"e5cea15a7224f7cd2a8025b655f5d36eaf667c8d","datavalue":{"value":"Paul Range","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808541$A7438E2B-262D-4F9B-AD38-0831C85E7AF5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$B700A046-093E-4E5D-8252-8147F5C188E7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>io6m5q8c6hx69ye8nhocely92rv65wy</sha1>
+    </revision>
+    <revision>
+      <id>726186748</id>
+      <parentid>717566001</parentid>
+      <timestamp>2018-08-15T05:21:00Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3102" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"},"nl":{"language":"nl","value":"Die Flora des Namalandes. VIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808541$99A5C756-E382-4EBB-B0E3-31E57C1C7500","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"e5cea15a7224f7cd2a8025b655f5d36eaf667c8d","datavalue":{"value":"Paul Range","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808541$A7438E2B-262D-4F9B-AD38-0831C85E7AF5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$B700A046-093E-4E5D-8252-8147F5C188E7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>q4ko8ksfqslneeinvx2f96i7o2ouzlq</sha1>
+    </revision>
+    <revision>
+      <id>973905568</id>
+      <parentid>726186748</parentid>
+      <timestamp>2019-07-04T04:12:01Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1935, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3301" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"},"nl":{"language":"nl","value":"Die Flora des Namalandes. VIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808541$99A5C756-E382-4EBB-B0E3-31E57C1C7500","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"e5cea15a7224f7cd2a8025b655f5d36eaf667c8d","datavalue":{"value":"Paul Range","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808541$A7438E2B-262D-4F9B-AD38-0831C85E7AF5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$B700A046-093E-4E5D-8252-8147F5C188E7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s4nk4ax0ghgs1btqv8095giawnkpvw9</sha1>
+    </revision>
+    <revision>
+      <id>1190896444</id>
+      <parentid>973905568</parentid>
+      <timestamp>2020-05-26T20:24:54Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1935 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/35248|batch #35248]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3396" xml:space="preserve">{"type":"item","id":"Q55808541","labels":{"de":{"language":"de","value":"Die Flora des Namalandes. VIII"},"en":{"language":"en","value":"Die Flora des Namalandes. VIII"},"nl":{"language":"nl","value":"Die Flora des Namalandes. VIII"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1935"},"de":{"language":"de","value":"im Jahr 1935 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"367ec71ba5a294a02c88129638768d9042b34e31","datavalue":{"value":"10.1002\/FEDR.19350381310","type":"string"}},"type":"statement","id":"Q55808541$9FA8C8FE-881B-45AD-9898-A7BB32E41DBF","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$70D464A8-6587-4953-BCF7-6A5E79D7A444","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"4a706a5847cd2a73d0d0d0d085440efdd6c9cbb2","datavalue":{"value":{"text":"Die Flora des Namalandes. VIII","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808541$6DC6911A-E57B-46F9-A998-331A953F570C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"8aa84e71254c00339cf27b451991815bedbbf039","datavalue":{"value":"38","type":"string"}},"type":"statement","id":"Q55808541$20B6B86A-EE3B-408B-99A9-AE2B9F135B83","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"0577194b5c84bde31b3ad8aff3961f2cb1f36d6f","datavalue":{"value":"256\u2013280","type":"string"}},"type":"statement","id":"Q55808541$012AC4D5-1DEF-464B-A6EF-E753D4DEDA9A","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"fd3e718420c076497f03e7ccc377a8585b1f8b3d","datavalue":{"value":"13-25","type":"string"}},"type":"statement","id":"Q55808541$5DD3F4BB-CD18-428E-8E5B-91533353764E","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"09256c4befe620cd6ab535161cb7b88a0cea78d8","datavalue":{"value":{"time":"+1935-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808541$99A5C756-E382-4EBB-B0E3-31E57C1C7500","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"e5cea15a7224f7cd2a8025b655f5d36eaf667c8d","datavalue":{"value":"Paul Range","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808541$A7438E2B-262D-4F9B-AD38-0831C85E7AF5","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"c36c79baaa27a1c72315e3f03e6ddba79f7659d8","datavalue":{"value":{"entity-type":"item","numeric-id":5550932,"id":"Q5550932"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808541$B700A046-093E-4E5D-8252-8147F5C188E7","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bl4zjbkvtcti8znddjb50pvrn6e90vw</sha1>
+    </revision>
+  </page>
+</mediawiki>

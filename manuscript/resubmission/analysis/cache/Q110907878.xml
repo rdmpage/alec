@@ -1,0 +1,64 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q110907878</title>
+    <ns>0</ns>
+    <id>105925583</id>
+    <revision>
+      <id>1576846865</id>
+      <timestamp>2022-02-13T15:24:07Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1644765734964</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="7535" xml:space="preserve">{"type":"item","id":"Q110907878","labels":{"en":{"language":"en","value":"Boletus lakhanpalii, a new species in Boletaceae from Sikkim (India) with uncertain phylogenetic Placement"}},"descriptions":{"en":{"language":"en","value":"Scholarly article published in 2015"}},"aliases":[],"claims":{"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110907878$B9ABA4B1-A51B-42D8-956D-8D5373E378B9","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"66a976b5ec68753748ad222c4c8174b187d42ce2","datavalue":{"value":"Kanad Das","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q110907878$D8CD5C69-D00F-4A6F-AE2C-F4EF63E861C0","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"ef9b9a6daac4a31e2cdcce4da9254ff869aab999","datavalue":{"value":{"time":"+2015-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q110907878$EC921EA9-6CF4-44A7-96D7-658BCA9171D7","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ac286aae30458cb935ba45715b50b56bbef8272c","datavalue":{"value":{"entity-type":"item","numeric-id":15816855,"id":"Q15816855"},"type":"wikibase-entityid"}},"type":"statement","id":"Q110907878$3E20F253-D9CB-43D5-A0A7-96F9FACAF229","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"635b226753d0128343faf57357a776d2522bb12f","datavalue":{"value":"10.12905\/0380.SYDOWIA67-2015-0011","type":"string"}},"type":"statement","qualifiers":{"P2378":[{"snaktype":"value","property":"P2378","hash":"7ba3466bc9627b4998e2141289deaeb6888fc7f9","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P2378"],"id":"Q110907878$66CA0599-281D-482E-AEFE-5E706E7DF4BF","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"cc781d1c8b4b47916263301f05cd073d70cc1318","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q110907878$6A3A61D0-9281-4523-A6CF-EB322F92538C","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"1cf721be957e03ecfbc189e6d41846590fec469f","datavalue":{"value":"11-19","type":"string"}},"type":"statement","id":"Q110907878$2F178DE3-FDA9-43CD-B6BD-0975E8900A13","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b5e57522620fa5c74c4e5e82fc86f5c0606d1aaf","datavalue":{"value":{"text":"Boletus lakhanpalii, a new species in Boletaceae from Sikkim (India) with uncertain phylogenetic Placement","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q110907878$6778621C-0468-45E4-AAE5-3AF147BD6F5E","rank":"normal","references":[{"hash":"1881892f8cae5953431c55cf90b80ee3245715e3","snaks":{"P248":[{"snaktype":"value","property":"P248","hash":"444adf20c42cfcee3ad1083f2155e9ef8c537e36","datavalue":{"value":{"entity-type":"item","numeric-id":100312513,"id":"Q100312513"},"type":"wikibase-entityid"}}],"P854":[{"snaktype":"value","property":"P854","hash":"39170abcfe16fc50815cf8e5caa2a5f9132a0675","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}}]},"snaks-order":["P248","P854"]}]}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"a8ace9c8eddb2a9eb89fbb495bd61241a9dc215a","datavalue":{"value":"https:\/\/doi.org\/10.12905\/0380.sydowia67-2015-0011","type":"string"}},"type":"statement","id":"Q110907878$D10921B5-5971-4988-BBEB-B6A64E6C2F69","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mhzar991urb7nkuwfwp8osvdtf9fx50</sha1>
+    </revision>
+  </page>
+</mediawiki>

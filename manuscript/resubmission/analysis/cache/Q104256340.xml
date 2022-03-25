@@ -1,0 +1,92 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q104256340</title>
+    <ns>0</ns>
+    <id>99703708</id>
+    <revision>
+      <id>1325013251</id>
+      <timestamp>2020-12-18T23:09:50Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1608332956163</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3276" xml:space="preserve">{"type":"item","id":"Q104256340","labels":{"en":{"language":"en","value":"New Diptera from North and Central America"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$9A9F274F-3C84-4DFB-AF63-6EE9E29D8A69","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b34f08ebd2b1e6f7c177e26678f37e32f5369869","datavalue":{"value":{"text":"New Diptera from North and Central America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104256340$EE7EAF29-E3AD-472F-BD8A-3EE3A47EAC8D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$0036CDC5-9BEC-4D4F-A1B0-FA545668D7A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104256340$BEA2A043-49EF-43F4-8D0F-93C64F02C19D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ea8853c98da1499ae3fae1586ab1411365b23245","datavalue":{"value":"Charles Howard Curran","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104256340$087EBB86-B637-4B1F-832E-E7E9C87754A7","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$167BEAA8-1126-43E9-9FC5-1B8D96C5A41B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"129d732039aff8ecb67782949af68d631da02c20","datavalue":{"value":"415","type":"string"}},"type":"statement","id":"Q104256340$06BA74F1-F943-4F81-94F8-FDE28F4BF18B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a365427162daa565d68fb75b48bedce1d2dd8fb2","datavalue":{"value":"1-16","type":"string"}},"type":"statement","id":"Q104256340$489646D2-4736-471F-A840-C779EA922AC7","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"0cee3730c8552081a39f235702a05f3c4641c250","datavalue":{"value":"2246\/3053","type":"string"}},"type":"statement","id":"Q104256340$3D74DB17-B159-4ACA-BD2E-C9B64F04FD39","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"111acc96fce863a3c87c26478447b3fdc89ce13b","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/3053","type":"string"}},"type":"statement","id":"Q104256340$95696541-D7CA-452A-8B39-35FC1C4CD3C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>k30nakor0d1li2kxyo8cj8dga2j4lql</sha1>
+    </revision>
+    <revision>
+      <id>1325096388</id>
+      <parentid>1325013251</parentid>
+      <timestamp>2020-12-19T01:46:57Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3409" xml:space="preserve">{"type":"item","id":"Q104256340","labels":{"en":{"language":"en","value":"New Diptera from North and Central America"},"nl":{"language":"nl","value":"New Diptera from North and Central America"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$9A9F274F-3C84-4DFB-AF63-6EE9E29D8A69","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b34f08ebd2b1e6f7c177e26678f37e32f5369869","datavalue":{"value":{"text":"New Diptera from North and Central America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104256340$EE7EAF29-E3AD-472F-BD8A-3EE3A47EAC8D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$0036CDC5-9BEC-4D4F-A1B0-FA545668D7A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104256340$BEA2A043-49EF-43F4-8D0F-93C64F02C19D","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"ea8853c98da1499ae3fae1586ab1411365b23245","datavalue":{"value":"Charles Howard Curran","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q104256340$087EBB86-B637-4B1F-832E-E7E9C87754A7","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$167BEAA8-1126-43E9-9FC5-1B8D96C5A41B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"129d732039aff8ecb67782949af68d631da02c20","datavalue":{"value":"415","type":"string"}},"type":"statement","id":"Q104256340$06BA74F1-F943-4F81-94F8-FDE28F4BF18B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a365427162daa565d68fb75b48bedce1d2dd8fb2","datavalue":{"value":"1-16","type":"string"}},"type":"statement","id":"Q104256340$489646D2-4736-471F-A840-C779EA922AC7","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"0cee3730c8552081a39f235702a05f3c4641c250","datavalue":{"value":"2246\/3053","type":"string"}},"type":"statement","id":"Q104256340$3D74DB17-B159-4ACA-BD2E-C9B64F04FD39","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"111acc96fce863a3c87c26478447b3fdc89ce13b","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/3053","type":"string"}},"type":"statement","id":"Q104256340$95696541-D7CA-452A-8B39-35FC1C4CD3C3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>t10kcmjvm9yv2bwup1hlfqb3khroi97</sha1>
+    </revision>
+    <revision>
+      <id>1430445160</id>
+      <parentid>1325096388</parentid>
+      <timestamp>2021-05-28T19:41:27Z</timestamp>
+      <contributor>
+        <username>Friesen5000</username>
+        <id>4272229</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q3141540]] ([[:toollabs:editgroups/b/AD/70a10a3b|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3622" xml:space="preserve">{"type":"item","id":"Q104256340","labels":{"en":{"language":"en","value":"New Diptera from North and Central America"},"nl":{"language":"nl","value":"New Diptera from North and Central America"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$9A9F274F-3C84-4DFB-AF63-6EE9E29D8A69","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"b34f08ebd2b1e6f7c177e26678f37e32f5369869","datavalue":{"value":{"text":"New Diptera from North and Central America","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q104256340$EE7EAF29-E3AD-472F-BD8A-3EE3A47EAC8D","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$0036CDC5-9BEC-4D4F-A1B0-FA545668D7A4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"13076626c860d3ee88a92550342f35bc579a45e6","datavalue":{"value":{"time":"+1930-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q104256340$BEA2A043-49EF-43F4-8D0F-93C64F02C19D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"5026ec16cd26d0c8907cf325c7aa82b601da1a19","datavalue":{"value":{"entity-type":"item","numeric-id":4744472,"id":"Q4744472"},"type":"wikibase-entityid"}},"type":"statement","id":"Q104256340$167BEAA8-1126-43E9-9FC5-1B8D96C5A41B","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"129d732039aff8ecb67782949af68d631da02c20","datavalue":{"value":"415","type":"string"}},"type":"statement","id":"Q104256340$06BA74F1-F943-4F81-94F8-FDE28F4BF18B","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"a365427162daa565d68fb75b48bedce1d2dd8fb2","datavalue":{"value":"1-16","type":"string"}},"type":"statement","id":"Q104256340$489646D2-4736-471F-A840-C779EA922AC7","rank":"normal"}],"P1184":[{"mainsnak":{"snaktype":"value","property":"P1184","hash":"0cee3730c8552081a39f235702a05f3c4641c250","datavalue":{"value":"2246\/3053","type":"string"}},"type":"statement","id":"Q104256340$3D74DB17-B159-4ACA-BD2E-C9B64F04FD39","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"111acc96fce863a3c87c26478447b3fdc89ce13b","datavalue":{"value":"http:\/\/hdl.handle.net\/2246\/3053","type":"string"}},"type":"statement","id":"Q104256340$95696541-D7CA-452A-8B39-35FC1C4CD3C3","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"087dfc23353f25f766f5b25dfb0372aabfd05a75","datavalue":{"value":{"entity-type":"item","numeric-id":3141540,"id":"Q3141540"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"7bc4257c49446e446d3ac38f15cad71efddf0b5e","datavalue":{"value":"Charles Howard Curran","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q104256340$D4EB26F7-E5E1-46A1-8805-2301D13C160F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eove7x0niuczb2u9b9xvjn75ew4tr6z</sha1>
+    </revision>
+  </page>
+</mediawiki>

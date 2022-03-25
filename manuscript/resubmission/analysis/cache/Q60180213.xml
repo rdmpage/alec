@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q60180213</title>
+    <ns>0</ns>
+    <id>60057873</id>
+    <revision>
+      <id>821245501</id>
+      <timestamp>2018-12-27T14:59:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q60180213","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>k6ao010gs7nq7p0aws8od77iouk8z3f</sha1>
+    </revision>
+    <revision>
+      <id>821245506</id>
+      <parentid>821245501</parentid>
+      <timestamp>2018-12-27T14:59:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="221" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>0n25k6fkn50l6th18sniomfc2tr9qhj</sha1>
+    </revision>
+    <revision>
+      <id>821245515</id>
+      <parentid>821245506</parentid>
+      <timestamp>2018-12-27T14:59:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="341" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>req3gopaywuymf42hqovezhji0wbpsb</sha1>
+    </revision>
+    <revision>
+      <id>821245519</id>
+      <parentid>821245515</parentid>
+      <timestamp>2018-12-27T14:59:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.11646/PHYTOTAXA.373.3.4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="608" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b4atlfifcsif0vu50mq0qchj5g8pucq</sha1>
+    </revision>
+    <revision>
+      <id>821245523</id>
+      <parentid>821245519</parentid>
+      <timestamp>2018-12-27T14:59:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="917" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>cfvemakludj1vzge5krsaiesva9nfpw</sha1>
+    </revision>
+    <revision>
+      <id>821245528</id>
+      <parentid>821245523</parentid>
+      <timestamp>2018-12-27T14:59:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1280" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>epa5vllywrhxbx4izeaccj3ofxa6eid</sha1>
+    </revision>
+    <revision>
+      <id>821245530</id>
+      <parentid>821245528</parentid>
+      <timestamp>2018-12-27T14:59:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 373</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1524" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fmdwkq6549v6klepbg0j4elnwhfzgql</sha1>
+    </revision>
+    <revision>
+      <id>821245539</id>
+      <parentid>821245530</parentid>
+      <timestamp>2018-12-27T14:59:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 211–220</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1777" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0n70htefiada0t70ubft7j4yowhqgj3</sha1>
+    </revision>
+    <revision>
+      <id>821245544</id>
+      <parentid>821245539</parentid>
+      <timestamp>2018-12-27T14:59:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2019" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>864wrlsu8xue24p06hf9dtkn18msjob</sha1>
+    </revision>
+    <revision>
+      <id>821245548</id>
+      <parentid>821245544</parentid>
+      <timestamp>2018-12-27T14:59:25Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 29 October 2018</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2399" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>c6ktzwhyy7ret4ltozhxchuqlcej6da</sha1>
+    </revision>
+    <revision>
+      <id>821245554</id>
+      <parentid>821245548</parentid>
+      <timestamp>2018-12-27T14:59:26Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: James Lucas Da Costa-Lima</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2667" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>33ksc7vakht53unisefbfrgj0oxaz4b</sha1>
+    </revision>
+    <revision>
+      <id>821245556</id>
+      <parentid>821245554</parentid>
+      <timestamp>2018-12-27T14:59:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2853" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>me1r2yzfbyjh9hi89c24i3lz6t6ir4k</sha1>
+    </revision>
+    <revision>
+      <id>821245562</id>
+      <parentid>821245556</parentid>
+      <timestamp>2018-12-27T14:59:27Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Earl Celestino De Oliveira Chagas</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3119" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7g82j28j7ccrbk0kobe0o6q3aikwe53</sha1>
+    </revision>
+    <revision>
+      <id>821245568</id>
+      <parentid>821245562</parentid>
+      <timestamp>2018-12-27T14:59:28Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3305" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>eu0hjp16r06io2surrn2yqfowwp9xn9</sha1>
+    </revision>
+    <revision>
+      <id>821245576</id>
+      <parentid>821245568</parentid>
+      <timestamp>2018-12-27T14:59:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4807825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3616" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$D6A91234-29ED-4195-BCE7-63D7FBED2594","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bcv8lbuiddpfl1z83dnr25o2ctdw5dg</sha1>
+    </revision>
+    <revision>
+      <id>906170072</id>
+      <parentid>821245576</parentid>
+      <timestamp>2019-04-07T14:45:50Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3733" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"nl":{"language":"nl","value":"Six new species of Eugenia"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$D6A91234-29ED-4195-BCE7-63D7FBED2594","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ptrygwsf1weq5nlkrx6w5i8pumus17x</sha1>
+    </revision>
+    <revision>
+      <id>970739091</id>
+      <parentid>906170072</parentid>
+      <timestamp>2019-06-28T23:03:42Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в жовтні 2018, [[:toollabs:quickstatements/#/batch/14868|batch #14868]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3969" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"nl":{"language":"nl","value":"Six new species of Eugenia"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2018"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$D6A91234-29ED-4195-BCE7-63D7FBED2594","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>71eued1090152mvhdpui01axh7p30es</sha1>
+    </revision>
+    <revision>
+      <id>971172337</id>
+      <parentid>970739091</parentid>
+      <timestamp>2019-06-29T15:38:03Z</timestamp>
+      <contributor>
+        <username>Jura1</username>
+        <id>609373</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|en */ article</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4010" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"nl":{"language":"nl","value":"Six new species of Eugenia"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2018"},"en":{"language":"en","value":"article"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$D6A91234-29ED-4195-BCE7-63D7FBED2594","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>qoxhr1u8czk7ue8debsupu4s1hyo5t8</sha1>
+    </revision>
+    <revision>
+      <id>1134044829</id>
+      <parentid>971172337</parentid>
+      <timestamp>2020-03-11T18:06:57Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Oktober 2018 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/26345|batch #26345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4108" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"nl":{"language":"nl","value":"Six new species of Eugenia"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2018"},"en":{"language":"en","value":"article"},"de":{"language":"de","value":"im Oktober 2018 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$D6A91234-29ED-4195-BCE7-63D7FBED2594","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nil9rdqk5f9asgwzcw0fq8v0vz95r3s</sha1>
+    </revision>
+    <revision>
+      <id>1185652526</id>
+      <parentid>1134044829</parentid>
+      <timestamp>2020-05-20T13:55:44Z</timestamp>
+      <contributor>
+        <username>Trilotat</username>
+        <id>2799574</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P921]]: [[Q27652812]], [[:toollabs:quickstatements/#/batch/34345|batch #34345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4419" xml:space="preserve">{"type":"item","id":"Q60180213","labels":{"de":{"language":"de","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"en":{"language":"en","value":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil"},"nl":{"language":"nl","value":"Six new species of Eugenia"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0436\u043e\u0432\u0442\u043d\u0456 2018"},"en":{"language":"en","value":"article"},"de":{"language":"de","value":"im Oktober 2018 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"8d7ebbb23e392ad8e7a63c1e0e0a5bedbc8c5f8e","datavalue":{"value":"10.11646\/PHYTOTAXA.373.3.4","type":"string"}},"type":"statement","id":"Q60180213$BD5585D1-8D6D-487F-A253-79092CD2A672","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$769E742C-D011-416E-A479-95DD129C8968","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c7801de0b89e5e55dbaf43148fde090c135f4f04","datavalue":{"value":{"text":"Six new species of Eugenia (Myrtaceae) from the Atlantic Forest of northeastern Brazil","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60180213$D0A8DA47-50A7-47FD-B716-B527F5F0092C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"91a5588ce960a3a1241f580f19e5e2ce1be83cbc","datavalue":{"value":"373","type":"string"}},"type":"statement","id":"Q60180213$5A6F2C67-6EAC-4774-8AAE-73447B714B1A","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"bda1c8181a1f9ecefec46e567051358495fd9f02","datavalue":{"value":"211\u2013220","type":"string"}},"type":"statement","id":"Q60180213$9156C004-6C80-41B8-BB1D-161367944203","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"8c15ee77a4f513ba375ac9564cbfafec51be2f12","datavalue":{"value":"3","type":"string"}},"type":"statement","id":"Q60180213$A954C205-792F-40F7-9295-82B505032B27","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"15e5b4ae83925b303a50f2f7e09d14127e9d0775","datavalue":{"value":{"time":"+2018-10-29T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60180213$8FF1CB2B-46BE-489B-9893-18F5419DF000","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8294b293d76f3c8ebc11140533253d748318c9de","datavalue":{"value":"James Lucas Da Costa-Lima","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$2FE9905D-606E-47C8-A0C1-BD7AD44DC83B","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"956dd59ccb47d8108cdbf774f11b2f9263a5e5f3","datavalue":{"value":"Earl Celestino De Oliveira Chagas","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60180213$786E9AA0-2237-4FC5-98BE-C68914E6799D","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$D6A91234-29ED-4195-BCE7-63D7FBED2594","rank":"normal"}],"P921":[{"mainsnak":{"snaktype":"value","property":"P921","hash":"f46f6c8521f565660ef0d22fc606f322ecb8070f","datavalue":{"value":{"entity-type":"item","numeric-id":27652812,"id":"Q27652812"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60180213$E280720A-09DD-4AB0-A7B4-DF6F36A99730","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>01l20jmt7b5h8r2o84rxqfo4fxx2uk4</sha1>
+    </revision>
+  </page>
+</mediawiki>

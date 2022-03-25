@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q60181262</title>
+    <ns>0</ns>
+    <id>60058917</id>
+    <revision>
+      <id>821291965</id>
+      <timestamp>2018-12-27T16:28:49Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q60181262","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>b4ngztomg6569nvjp24wsn8wmg2px2b</sha1>
+    </revision>
+    <revision>
+      <id>821291968</id>
+      <parentid>821291965</parentid>
+      <timestamp>2018-12-27T16:28:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="254" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>oylh1a5013ygzsq1b1ekq42pgz96y0n</sha1>
+    </revision>
+    <revision>
+      <id>821291974</id>
+      <parentid>821291968</parentid>
+      <timestamp>2018-12-27T16:28:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="407" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>3ko4accay3ft3czza2p6j35e9kg2gt3</sha1>
+    </revision>
+    <revision>
+      <id>821291978</id>
+      <parentid>821291974</parentid>
+      <timestamp>2018-12-27T16:28:51Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.11646/PHYTOTAXA.344.1.2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="674" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>bc7pjx1lz7w2o16mn1vmqj0dvgsmt7d</sha1>
+    </revision>
+    <revision>
+      <id>821291981</id>
+      <parentid>821291978</parentid>
+      <timestamp>2018-12-27T16:28:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="983" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>mextnq6vrttyoeiyy8aimli0r7lu0r7</sha1>
+    </revision>
+    <revision>
+      <id>821291992</id>
+      <parentid>821291981</parentid>
+      <timestamp>2018-12-27T16:28:52Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1379" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6co7hpasecgzfsufgb5ckdxqnvow9v7</sha1>
+    </revision>
+    <revision>
+      <id>821291997</id>
+      <parentid>821291992</parentid>
+      <timestamp>2018-12-27T16:28:53Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 344</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1623" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>804o7fl04jse29imuutnuqa5xhyj3n3</sha1>
+    </revision>
+    <revision>
+      <id>821292005</id>
+      <parentid>821291997</parentid>
+      <timestamp>2018-12-27T16:28:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 13–23</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1874" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6nar2tm1gywmhz7knxoqhrv1tmbdyej</sha1>
+    </revision>
+    <revision>
+      <id>821292008</id>
+      <parentid>821292005</parentid>
+      <timestamp>2018-12-27T16:28:54Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2116" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jmw542lot4h7ld0vrrklfcyues1k6wz</sha1>
+    </revision>
+    <revision>
+      <id>821292014</id>
+      <parentid>821292008</parentid>
+      <timestamp>2018-12-27T16:28:55Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 13 March 2018</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2496" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>r7w0632prn2wt4ea3g9g60p5g6yrw0x</sha1>
+    </revision>
+    <revision>
+      <id>821292017</id>
+      <parentid>821292014</parentid>
+      <timestamp>2018-12-27T16:28:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: María Alejandra Buitrago A.</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2771" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gi33r0xpx28kj7nzu50s3a9dvg1f6q2</sha1>
+    </revision>
+    <revision>
+      <id>821292025</id>
+      <parentid>821292017</parentid>
+      <timestamp>2018-12-27T16:28:56Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2957" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s36tycvj5bca0b252fslcsqackbmfpq</sha1>
+    </revision>
+    <revision>
+      <id>821292034</id>
+      <parentid>821292025</parentid>
+      <timestamp>2018-12-27T16:28:57Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: John M. Macdougal</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3207" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hyc7bp9syvpfb8ixuy6d1yfsgx2q5ju</sha1>
+    </revision>
+    <revision>
+      <id>821292040</id>
+      <parentid>821292034</parentid>
+      <timestamp>2018-12-27T16:28:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 2</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3393" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fxrrx0l8ako6mzq0ffq1380yvnou1lk</sha1>
+    </revision>
+    <revision>
+      <id>821292044</id>
+      <parentid>821292040</parentid>
+      <timestamp>2018-12-27T16:28:58Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: Luis Fernando Coca</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3644" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c02d36e116397742c8545b41189d4fbc67a5cf6","datavalue":{"value":"Luis Fernando Coca","type":"string"}},"type":"statement","id":"Q60181262$F2788B3E-7E99-4A40-934A-A8A5DE1251FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h9ni0ztgb2130bnn6x7k5v2fvyqfzzy</sha1>
+    </revision>
+    <revision>
+      <id>821292050</id>
+      <parentid>821292044</parentid>
+      <timestamp>2018-12-27T16:28:59Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 3</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3830" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c02d36e116397742c8545b41189d4fbc67a5cf6","datavalue":{"value":"Luis Fernando Coca","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$F2788B3E-7E99-4A40-934A-A8A5DE1251FD","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2poubucitqxbnwnlqcl21tz06m31vjd</sha1>
+    </revision>
+    <revision>
+      <id>821292054</id>
+      <parentid>821292050</parentid>
+      <timestamp>2018-12-27T16:29:00Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q4807825]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4141" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c02d36e116397742c8545b41189d4fbc67a5cf6","datavalue":{"value":"Luis Fernando Coca","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$F2788B3E-7E99-4A40-934A-A8A5DE1251FD","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$567F5EE7-C45A-43FB-803E-D0E936A8C705","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jjjf2yxbelz06gw4xbgerpuzwx8trlb</sha1>
+    </revision>
+    <revision>
+      <id>906183797</id>
+      <parentid>821292054</parentid>
+      <timestamp>2019-04-07T15:04:53Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4351" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"nl":{"language":"nl","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c02d36e116397742c8545b41189d4fbc67a5cf6","datavalue":{"value":"Luis Fernando Coca","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$F2788B3E-7E99-4A40-934A-A8A5DE1251FD","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$567F5EE7-C45A-43FB-803E-D0E936A8C705","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dxkd5q74pm7inrno2ctrfq0t5101kvb</sha1>
+    </revision>
+    <revision>
+      <id>961774802</id>
+      <parentid>906183797</parentid>
+      <timestamp>2019-06-13T22:38:48Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в березні 2018, [[:toollabs:quickstatements/#/batch/13977|batch #13977]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4593" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"nl":{"language":"nl","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0431\u0435\u0440\u0435\u0437\u043d\u0456 2018"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c02d36e116397742c8545b41189d4fbc67a5cf6","datavalue":{"value":"Luis Fernando Coca","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$F2788B3E-7E99-4A40-934A-A8A5DE1251FD","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$567F5EE7-C45A-43FB-803E-D0E936A8C705","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8sikjy0z0d8pdnvu0pm0i22hvn91x7h</sha1>
+    </revision>
+    <revision>
+      <id>1134099614</id>
+      <parentid>961774802</parentid>
+      <timestamp>2020-03-11T20:04:03Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im März 2018 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/26345|batch #26345]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4693" xml:space="preserve">{"type":"item","id":"Q60181262","labels":{"de":{"language":"de","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"en":{"language":"en","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"},"nl":{"language":"nl","value":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u0431\u0435\u0440\u0435\u0437\u043d\u0456 2018"},"de":{"language":"de","value":"im M\u00e4rz 2018 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"15e64a90b3cd18ff68021933ef0ca3e70f41fad6","datavalue":{"value":"10.11646\/PHYTOTAXA.344.1.2","type":"string"}},"type":"statement","id":"Q60181262$B351CFA1-0E6C-4FF1-B9B3-0B5F21045171","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$8E1BFE09-9B42-4CF1-9DB6-D4281B0AF3EA","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"0362bfd16a3553ea33a62d776a9b018d6a393eb6","datavalue":{"value":{"text":"Passiflora kumandayi (Passifloraceae), a new species from the Colombian Andes in a new section within subgenus Decaloba","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q60181262$86417FD5-4E41-4E00-BFE8-71A69B91443F","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"182ef02d5f9756ddea33c83f759fa085f3f45512","datavalue":{"value":"344","type":"string"}},"type":"statement","id":"Q60181262$0E4A6707-CA23-4F0A-AE21-F85567278471","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"25db8fa3bad019e86cb128b77473bb2b53d892c8","datavalue":{"value":"13\u201323","type":"string"}},"type":"statement","id":"Q60181262$60D66D03-2113-4867-B3E0-609FA5628A45","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q60181262$4207BBAA-188C-48A4-B3BD-B5DA4F85CBE6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"2bfc4f9927e3c0bb97520fde63d1c9fbf45dad5b","datavalue":{"value":{"time":"+2018-03-13T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q60181262$B6DC310A-FEAC-4618-9EBF-0ECF217934F3","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"766e9312f7821fbae05d0a8133e6291eeb967b8b","datavalue":{"value":"Mar\u00eda Alejandra Buitrago A.","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$4CCFE19F-10EB-4EAC-9253-6CA7BF5D8CB9","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"8a5b4202ea4b08f93cb4985eeda8b2490abe8999","datavalue":{"value":"John M. Macdougal","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"7241753c62a310cf84895620ea82250dcea65835","datavalue":{"value":"2","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$E96DD45D-49AE-480C-A4FC-BD130136FD90","rank":"normal"},{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9c02d36e116397742c8545b41189d4fbc67a5cf6","datavalue":{"value":"Luis Fernando Coca","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"0e979f28bf306fefdcd352b4eb8dee5da2153a6d","datavalue":{"value":"3","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q60181262$F2788B3E-7E99-4A40-934A-A8A5DE1251FD","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"6513c72f7e03aa08eecaedf66e9e1bc83d54227d","datavalue":{"value":{"entity-type":"item","numeric-id":4807825,"id":"Q4807825"},"type":"wikibase-entityid"}},"type":"statement","id":"Q60181262$567F5EE7-C45A-43FB-803E-D0E936A8C705","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>luyor7el3keitwdaw090i4d123xipbd</sha1>
+    </revision>
+  </page>
+</mediawiki>

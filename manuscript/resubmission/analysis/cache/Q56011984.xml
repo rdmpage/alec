@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56011984</title>
+    <ns>0</ns>
+    <id>55961804</id>
+    <revision>
+      <id>722563125</id>
+      <timestamp>2018-08-07T19:16:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56011984","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>d3siyqw9tsd9oi5cg9wgxs1toil9wy6</sha1>
+    </revision>
+    <revision>
+      <id>722563127</id>
+      <parentid>722563125</parentid>
+      <timestamp>2018-08-07T19:16:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Coprophaga Africana. Genre nouveau et especes nouvelles</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="190" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>p8s60ttc9ra1ec1lgkzxp3a71ex13vb</sha1>
+    </revision>
+    <revision>
+      <id>722563132</id>
+      <parentid>722563127</parentid>
+      <timestamp>2018-08-07T19:16:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Coprophaga Africana. Genre nouveau et especes nouvelles</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="279" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>ohx29jb0azlk1cx2st8p4kby3ylkb3n</sha1>
+    </revision>
+    <revision>
+      <id>722563136</id>
+      <parentid>722563132</parentid>
+      <timestamp>2018-08-07T19:16:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.22399</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="542" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>knsaqqjat9rjxf6j8622zv06x06b2xh</sha1>
+    </revision>
+    <revision>
+      <id>722563139</id>
+      <parentid>722563136</parentid>
+      <timestamp>2018-08-07T19:16:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 70917</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="790" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i6sdh3767q43t15dkn57txc2eph5ah6</sha1>
+    </revision>
+    <revision>
+      <id>722563146</id>
+      <parentid>722563139</parentid>
+      <timestamp>2018-08-07T19:16:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1099" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ht6la33qqa8oy7s381cm9oiqz0n6khi</sha1>
+    </revision>
+    <revision>
+      <id>722563148</id>
+      <parentid>722563146</parentid>
+      <timestamp>2018-08-07T19:16:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Coprophaga Africana. Genre nouveau et especes nouvelles</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1431" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>oa4illpnwmv9upib51umdyjgnbv8mt1</sha1>
+    </revision>
+    <revision>
+      <id>722563150</id>
+      <parentid>722563148</parentid>
+      <timestamp>2018-08-07T19:16:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 8</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1673" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>7yqy88ge6wj0pv2m8nmlpxaxwcp9nvz</sha1>
+    </revision>
+    <revision>
+      <id>722563156</id>
+      <parentid>722563150</parentid>
+      <timestamp>2018-08-07T19:16:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 261–269</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1926" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>l4f8mmj6b44pvzyri150r0pfphshfld</sha1>
+    </revision>
+    <revision>
+      <id>722563159</id>
+      <parentid>722563156</parentid>
+      <timestamp>2018-08-07T19:16:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1920</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2305" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ps9pbi3d6kdxc12lx1accb409ed6jgr</sha1>
+    </revision>
+    <revision>
+      <id>722563161</id>
+      <parentid>722563159</parentid>
+      <timestamp>2018-08-07T19:16:22Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: A. Boucomont</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2560" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b80cyytc51stdtmtvrpu47tcaiq2hi4</sha1>
+    </revision>
+    <revision>
+      <id>722563167</id>
+      <parentid>722563161</parentid>
+      <timestamp>2018-08-07T19:16:23Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2746" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gstcytrq3wddqz22zxttpo2ja3ez9zh</sha1>
+    </revision>
+    <revision>
+      <id>722563170</id>
+      <parentid>722563167</parentid>
+      <timestamp>2018-08-07T19:16:24Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q21385002]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3059" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>osiwqd7l55skp02e5j7i3nbu5u3d502</sha1>
+    </revision>
+    <revision>
+      <id>738183175</id>
+      <parentid>722563170</parentid>
+      <timestamp>2018-09-01T22:05:50Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 11472921, According to [[Property:P5315]]=70917</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3308" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1caa833d416c68b214d148322584664275511320","datavalue":{"value":"11472921","type":"string"}},"type":"statement","id":"Q56011984$AA8067A1-1668-4B67-8E04-D3C337E09F91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>rsnefnyg05veoak4babq2egqqdyk42y</sha1>
+    </revision>
+    <revision>
+      <id>784363353</id>
+      <parentid>738183175</parentid>
+      <timestamp>2018-11-07T23:38:16Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3454" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"nl":{"language":"nl","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1caa833d416c68b214d148322584664275511320","datavalue":{"value":"11472921","type":"string"}},"type":"statement","id":"Q56011984$AA8067A1-1668-4B67-8E04-D3C337E09F91","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>44bck97p9r0kr7dtg3utfxiw6h8q2w4</sha1>
+    </revision>
+    <revision>
+      <id>953866944</id>
+      <parentid>784363353</parentid>
+      <timestamp>2019-06-01T20:38:44Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1920 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3761" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"nl":{"language":"nl","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1caa833d416c68b214d148322584664275511320","datavalue":{"value":"11472921","type":"string"}},"type":"statement","id":"Q56011984$AA8067A1-1668-4B67-8E04-D3C337E09F91","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$6C45511F-4FA2-499E-9B31-9328E47C2916","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>exuf0xsc3n9p9gsnpjno4yj9s78agyq</sha1>
+    </revision>
+    <revision>
+      <id>953866970</id>
+      <parentid>953866944</parentid>
+      <timestamp>2019-06-01T20:38:47Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4004" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"nl":{"language":"nl","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1caa833d416c68b214d148322584664275511320","datavalue":{"value":"11472921","type":"string"}},"type":"statement","id":"Q56011984$AA8067A1-1668-4B67-8E04-D3C337E09F91","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56011984$6C45511F-4FA2-499E-9B31-9328E47C2916","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>p6jei2mge4lx5gv3x1c4vkn8zfvw6q9</sha1>
+    </revision>
+    <revision>
+      <id>953866995</id>
+      <parentid>953866970</parentid>
+      <timestamp>2019-06-01T20:38:50Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4220" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"nl":{"language":"nl","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1caa833d416c68b214d148322584664275511320","datavalue":{"value":"11472921","type":"string"}},"type":"statement","id":"Q56011984$AA8067A1-1668-4B67-8E04-D3C337E09F91","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011984$6C45511F-4FA2-499E-9B31-9328E47C2916","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>i7yk9ingn0zt6c8ikz5tlvyzqblf6qm</sha1>
+    </revision>
+    <revision>
+      <id>974298817</id>
+      <parentid>953866995</parentid>
+      <timestamp>2019-07-05T03:13:11Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1920, [[:toollabs:quickstatements/#/batch/15391|batch #15391]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4419" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"nl":{"language":"nl","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1920"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1caa833d416c68b214d148322584664275511320","datavalue":{"value":"11472921","type":"string"}},"type":"statement","id":"Q56011984$AA8067A1-1668-4B67-8E04-D3C337E09F91","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011984$6C45511F-4FA2-499E-9B31-9328E47C2916","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>1r7ce5vft36unqfhkcyappjjdedscvp</sha1>
+    </revision>
+    <revision>
+      <id>1272479615</id>
+      <parentid>974298817</parentid>
+      <timestamp>2020-09-06T18:45:43Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Jahr 1920 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/42379|batch #42379]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4514" xml:space="preserve">{"type":"item","id":"Q56011984","labels":{"de":{"language":"de","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"en":{"language":"en","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"},"nl":{"language":"nl","value":"Coprophaga Africana. Genre nouveau et especes nouvelles"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1920"},"de":{"language":"de","value":"im Jahr 1920 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"93e9c3469bbdfd96ee37ef066c08b125e9987e90","datavalue":{"value":"10.5962\/BHL.PART.22399","type":"string"}},"type":"statement","id":"Q56011984$96C2EBE3-1D4B-40E2-A903-655E24605F32","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"f0f89639bcd9c6b872445778e290d4846fcbc0d0","datavalue":{"value":"70917","type":"string"}},"type":"statement","id":"Q56011984$B76096F2-006F-47BD-A131-AACF7CCDC04E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$CEB848D2-37B9-4D06-8AAB-6E25F658BD52","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"c033aa246b12db64661466aa85d4f8a88bc05b37","datavalue":{"value":{"text":"Coprophaga Africana. Genre nouveau et especes nouvelles","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56011984$9953DEB7-9297-4FBB-87DA-3DD75FCAF03C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"3995ada284c48529aaa20491f81ca76d716beba0","datavalue":{"value":"8","type":"string"}},"type":"statement","id":"Q56011984$D0A9EFFB-A099-43BD-A0C0-7EC8222156DA","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"727f5304da1e89c0fbbd649eae0562144295b305","datavalue":{"value":"261\u2013269","type":"string"}},"type":"statement","id":"Q56011984$B9B1BC26-957E-4CB6-98DD-F9EDF2ECB455","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"c8eab0f32623db5370619274c4d31a4c2eb78d6b","datavalue":{"value":{"time":"+1920-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56011984$A7B650CE-75DE-4D63-8E3F-2BA1E096EA1B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"bc6a0eddc2b4895657c0547d1ac151fe5dca1b18","datavalue":{"value":"A. Boucomont","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56011984$FA7C136F-1F04-451F-A3BE-C3715F1E1280","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"fc800c7a554bb5df72a02c6be7febd9f79c6aa90","datavalue":{"value":{"entity-type":"item","numeric-id":21385002,"id":"Q21385002"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56011984$DF37A157-CC1B-4C12-93B4-BA76C00AA6B1","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"1caa833d416c68b214d148322584664275511320","datavalue":{"value":"11472921","type":"string"}},"type":"statement","id":"Q56011984$AA8067A1-1668-4B67-8E04-D3C337E09F91","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56011984$6C45511F-4FA2-499E-9B31-9328E47C2916","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>gw5ulsaj6h4enkj1n4z6pc4ke16ldmh</sha1>
+    </revision>
+  </page>
+</mediawiki>

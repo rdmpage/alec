@@ -1,0 +1,330 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q56016505</title>
+    <ns>0</ns>
+    <id>55966394</id>
+    <revision>
+      <id>722716560</id>
+      <timestamp>2018-08-08T02:27:13Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q56016505","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>hafxfujpmoq9lmnakbqm0eug01lbrfv</sha1>
+    </revision>
+    <revision>
+      <id>722716563</id>
+      <parentid>722716560</parentid>
+      <timestamp>2018-08-08T02:27:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Three new genera of Tineina resembling Aegeriadae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="184" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>np69fb64mdijezpp38fw548s1orzwuw</sha1>
+    </revision>
+    <revision>
+      <id>722716565</id>
+      <parentid>722716563</parentid>
+      <timestamp>2018-08-08T02:27:14Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Three new genera of Tineina resembling Aegeriadae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="267" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>30tkqzwxaiqim5jkgwpqcrhrv1yu6ob</sha1>
+    </revision>
+    <revision>
+      <id>722716568</id>
+      <parentid>722716565</parentid>
+      <timestamp>2018-08-08T02:27:15Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.5962/BHL.PART.5634</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="529" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>aif6bn3i74am3aprnyrqbb0fst15748</sha1>
+    </revision>
+    <revision>
+      <id>722716571</id>
+      <parentid>722716568</parentid>
+      <timestamp>2018-08-08T02:27:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P5315]]: 59084</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="777" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6pryb0rxcuvfz1g2rljkew6golbrl1t</sha1>
+    </revision>
+    <revision>
+      <id>722716576</id>
+      <parentid>722716571</parentid>
+      <timestamp>2018-08-08T02:27:16Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1086" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jmi6h030ynkar1y9q6q52cmwup60cld</sha1>
+    </revision>
+    <revision>
+      <id>722716580</id>
+      <parentid>722716576</parentid>
+      <timestamp>2018-08-08T02:27:17Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Three new genera of Tineina resembling Aegeriadae</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1412" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ag28oqp7fngpssec17f8iptms3nde4r</sha1>
+    </revision>
+    <revision>
+      <id>722716584</id>
+      <parentid>722716580</parentid>
+      <timestamp>2018-08-08T02:27:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 26</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1655" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dakggqtcunj84avnu844p4yaumq1am5</sha1>
+    </revision>
+    <revision>
+      <id>722716587</id>
+      <parentid>722716584</parentid>
+      <timestamp>2018-08-08T02:27:18Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 120–122</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1908" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>st7xx2d3sayzetr4qvzfhjnkepy6wzm</sha1>
+    </revision>
+    <revision>
+      <id>722716591</id>
+      <parentid>722716587</parentid>
+      <timestamp>2018-08-08T02:27:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1919</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2287" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>iex7sbp6c8npwq01aze4i3mafosdz2s</sha1>
+    </revision>
+    <revision>
+      <id>722716594</id>
+      <parentid>722716591</parentid>
+      <timestamp>2018-08-08T02:27:19Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: J. H. Durrant</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2543" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>h5sj3ibvxrxpffoq8pjy9yk1p43c907</sha1>
+    </revision>
+    <revision>
+      <id>722716598</id>
+      <parentid>722716594</parentid>
+      <timestamp>2018-08-08T02:27:20Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2729" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0eat3afl73r0ugwzf8oxdl8kpkhljx8</sha1>
+    </revision>
+    <revision>
+      <id>722716602</id>
+      <parentid>722716598</parentid>
+      <timestamp>2018-08-08T02:27:21Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q7064924]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3040" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s9c0cdw4vjefwljfujzbhp59v9oofab</sha1>
+    </revision>
+    <revision>
+      <id>738107429</id>
+      <parentid>722716602</parentid>
+      <timestamp>2018-09-01T19:35:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P687]]: 3858187, According to [[Property:P5315]]=59084</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3288" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f3eb1eefd2d93e3952b037527e129c169bf93ec7","datavalue":{"value":"3858187","type":"string"}},"type":"statement","id":"Q56016505$BB89EF75-E6F2-4BD2-B654-43640DB71951","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6vl520yiq1qx8tjvk7m3oyzcecoy99m</sha1>
+    </revision>
+    <revision>
+      <id>784323912</id>
+      <parentid>738107429</parentid>
+      <timestamp>2018-11-07T22:16:24Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3428" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"},"nl":{"language":"nl","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f3eb1eefd2d93e3952b037527e129c169bf93ec7","datavalue":{"value":"3858187","type":"string"}},"type":"statement","id":"Q56016505$BB89EF75-E6F2-4BD2-B654-43640DB71951","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>kygywexgmmrach6vdgc4em49ii0n5ip</sha1>
+    </revision>
+    <revision>
+      <id>953810842</id>
+      <parentid>784323912</parentid>
+      <timestamp>2019-06-01T18:46:06Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6216]]: [[Q19652]], #quickstatements; #temporary_batch_1559332665576; Based on 1919 publication date</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3735" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"},"nl":{"language":"nl","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f3eb1eefd2d93e3952b037527e129c169bf93ec7","datavalue":{"value":"3858187","type":"string"}},"type":"statement","id":"Q56016505$BB89EF75-E6F2-4BD2-B654-43640DB71951","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$12411DBC-95AC-4185-848D-4CEF6F9BB25A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>hzo1yfkpsd9qaoo0qguvo3k5sckpw27</sha1>
+    </revision>
+    <revision>
+      <id>953810879</id>
+      <parentid>953810842</parentid>
+      <timestamp>2019-06-01T18:46:10Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1001]]: [[Q30]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3978" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"},"nl":{"language":"nl","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f3eb1eefd2d93e3952b037527e129c169bf93ec7","datavalue":{"value":"3858187","type":"string"}},"type":"statement","id":"Q56016505$BB89EF75-E6F2-4BD2-B654-43640DB71951","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001"],"id":"Q56016505$12411DBC-95AC-4185-848D-4CEF6F9BB25A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>g9dohtmf2k8ro57ntd80bno0qww7bws</sha1>
+    </revision>
+    <revision>
+      <id>953810934</id>
+      <parentid>953810879</parentid>
+      <timestamp>2019-06-01T18:46:15Z</timestamp>
+      <contributor>
+        <username>JarektBot</username>
+        <id>153675</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P459]]: [[Q47246828]], #quickstatements; #temporary_batch_1559332665576</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4194" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"},"nl":{"language":"nl","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f3eb1eefd2d93e3952b037527e129c169bf93ec7","datavalue":{"value":"3858187","type":"string"}},"type":"statement","id":"Q56016505$BB89EF75-E6F2-4BD2-B654-43640DB71951","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56016505$12411DBC-95AC-4185-848D-4CEF6F9BB25A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ks3t83e8h2w3nmt48qarzhu6r304lus</sha1>
+    </revision>
+    <revision>
+      <id>974817955</id>
+      <parentid>953810934</parentid>
+      <timestamp>2019-07-06T04:45:49Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1919, [[:toollabs:quickstatements/#/batch/15424|batch #15424]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4393" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"},"nl":{"language":"nl","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1919"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f3eb1eefd2d93e3952b037527e129c169bf93ec7","datavalue":{"value":"3858187","type":"string"}},"type":"statement","id":"Q56016505$BB89EF75-E6F2-4BD2-B654-43640DB71951","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56016505$12411DBC-95AC-4185-848D-4CEF6F9BB25A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>46yy8mnbvfm19k2nuxo86r1qed8b6qt</sha1>
+    </revision>
+    <revision>
+      <id>1105824735</id>
+      <parentid>974817955</parentid>
+      <timestamp>2020-01-28T20:00:10Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1919 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/25456|batch #25456]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4490" xml:space="preserve">{"type":"item","id":"Q56016505","labels":{"de":{"language":"de","value":"Three new genera of Tineina resembling Aegeriadae"},"en":{"language":"en","value":"Three new genera of Tineina resembling Aegeriadae"},"nl":{"language":"nl","value":"Three new genera of Tineina resembling Aegeriadae"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1919"},"de":{"language":"de","value":"im Januar 1919 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"ad3c36be31419713fcb540f68cd2304b17600b96","datavalue":{"value":"10.5962\/BHL.PART.5634","type":"string"}},"type":"statement","id":"Q56016505$92BD7DFA-EA27-4794-81F5-A9D5EB65B34C","rank":"normal"}],"P5315":[{"mainsnak":{"snaktype":"value","property":"P5315","hash":"ae6e822746c782c49acd8da098294cb754a57b17","datavalue":{"value":"59084","type":"string"}},"type":"statement","id":"Q56016505$83427C5E-C877-492E-9BF7-EDC283256598","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$5F1B40AC-086E-4C90-9EEF-9BFEFE72003E","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"3a7a891091cf9d3a984ec874bd6d25f78603864e","datavalue":{"value":{"text":"Three new genera of Tineina resembling Aegeriadae","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q56016505$3171A2A9-DAD1-4A80-8927-F7DEF1074437","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2464285c9898eeffcdc2af46bc3a9742353278bd","datavalue":{"value":"26","type":"string"}},"type":"statement","id":"Q56016505$C46330B0-3DD3-4A5C-9D38-66D1CA14AD90","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"556c69c35eaf653239d8caa037b479001573d16f","datavalue":{"value":"120\u2013122","type":"string"}},"type":"statement","id":"Q56016505$A06E8B3F-623E-452D-8FAC-5F91BE6B08D6","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4f66ab460b16c1f17c51cec3b6f6a22e9febff86","datavalue":{"value":{"time":"+1919-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q56016505$38EED2B2-89CD-44C3-BFD8-E528F49F3118","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"9a6e5f52cfdfc70bb17d697788bd082f1d2f34ad","datavalue":{"value":"J. H. Durrant","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q56016505$F899DA41-DD6D-4F4B-81C8-15D9AE52FE09","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"ae82e331b0c92b0ca61f80fdd60146d69cb97208","datavalue":{"value":{"entity-type":"item","numeric-id":7064924,"id":"Q7064924"},"type":"wikibase-entityid"}},"type":"statement","id":"Q56016505$27AD6512-A9F6-46FA-A8D7-329169E1F676","rank":"normal"}],"P687":[{"mainsnak":{"snaktype":"value","property":"P687","hash":"f3eb1eefd2d93e3952b037527e129c169bf93ec7","datavalue":{"value":"3858187","type":"string"}},"type":"statement","id":"Q56016505$BB89EF75-E6F2-4BD2-B654-43640DB71951","rank":"normal"}],"P6216":[{"mainsnak":{"snaktype":"value","property":"P6216","hash":"f69dc45ce9c48664155022498b34100d801bd549","datavalue":{"value":{"entity-type":"item","numeric-id":19652,"id":"Q19652"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1001":[{"snaktype":"value","property":"P1001","hash":"fd03a46bac885aad8c96834e86183c078494dce6","datavalue":{"value":{"entity-type":"item","numeric-id":30,"id":"Q30"},"type":"wikibase-entityid"}}],"P459":[{"snaktype":"value","property":"P459","hash":"e8a997f8c7723e2bc8daa542a8b44577d4b3b7eb","datavalue":{"value":{"entity-type":"item","numeric-id":47246828,"id":"Q47246828"},"type":"wikibase-entityid"}}]},"qualifiers-order":["P1001","P459"],"id":"Q56016505$12411DBC-95AC-4185-848D-4CEF6F9BB25A","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>clojtiskr7xlwmjmd88fevr2qx8papn</sha1>
+    </revision>
+  </page>
+</mediawiki>

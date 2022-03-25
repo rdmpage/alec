@@ -1,0 +1,106 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q59446599</title>
+    <ns>0</ns>
+    <id>59348192</id>
+    <revision>
+      <id>805235613</id>
+      <timestamp>2018-12-05T04:23:24Z</timestamp>
+      <contributor>
+        <username>QuickStatementsBot</username>
+        <id>2769139</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1543976889986; invoked by SourceMD:CreateFromWikipediaDOIs</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2906" xml:space="preserve">{"type":"item","id":"Q59446599","labels":{"en":{"language":"en","value":"Ancestors of Broom's pigs"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1c7733e6f2e8567977abb144a40b1077c390e55","datavalue":{"value":"10.1080\/0035919X.2012.689265","type":"string"}},"type":"statement","id":"Q59446599$28F1F818-97CC-46B5-A63A-A309249F419C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$5EC5AFD5-E55B-49C3-AFC7-AC530030F0E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a49d4a5fd9e3538ec91696645db170d3386e4784","datavalue":{"value":{"text":"Ancestors of Broom's pigs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q59446599$82C0CDF3-2F58-4253-A125-B6C499F8808D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q59446599$EFC72940-CF76-4CCA-B001-B620C7699070","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c70f7d8f51edd7b4aaa1ba2202b21e218642d8d3","datavalue":{"value":"17-35","type":"string"}},"type":"statement","id":"Q59446599$34AF7657-A4D8-41C0-BD06-C64596931EF4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2b7b0d18d82a937c858ac31af110559dacdde746","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q59446599$7FF2FEB1-7798-4980-892D-56C6BE40F936","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cc3d377b05780bedf55e31689e0592a75af0948a","datavalue":{"value":{"time":"+2012-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q59446599$B0C127CA-01F4-46EC-BF93-53C8EA08E747","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"df924067eefd2b21e4558e6901ff8b681c1bcb3c","datavalue":{"value":{"entity-type":"item","numeric-id":6151615,"id":"Q6151615"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$AB334ADB-5EBB-4FDA-B2C7-CD27B59EDC31","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7465ba038fefb0df9914304b49152c5109732e2f","datavalue":{"value":"Martin Pickford","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q59446599$F8A37844-F46F-4972-BC7A-2206BE9A5DA6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>s7n7xtp398mi2vrprwdx3u60htgalby</sha1>
+    </revision>
+    <revision>
+      <id>820001189</id>
+      <parentid>805235613</parentid>
+      <timestamp>2018-12-25T19:12:18Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3022" xml:space="preserve">{"type":"item","id":"Q59446599","labels":{"en":{"language":"en","value":"Ancestors of Broom's pigs"},"nl":{"language":"nl","value":"Ancestors of Broom's pigs"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1c7733e6f2e8567977abb144a40b1077c390e55","datavalue":{"value":"10.1080\/0035919X.2012.689265","type":"string"}},"type":"statement","id":"Q59446599$28F1F818-97CC-46B5-A63A-A309249F419C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$5EC5AFD5-E55B-49C3-AFC7-AC530030F0E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a49d4a5fd9e3538ec91696645db170d3386e4784","datavalue":{"value":{"text":"Ancestors of Broom's pigs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q59446599$82C0CDF3-2F58-4253-A125-B6C499F8808D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q59446599$EFC72940-CF76-4CCA-B001-B620C7699070","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c70f7d8f51edd7b4aaa1ba2202b21e218642d8d3","datavalue":{"value":"17-35","type":"string"}},"type":"statement","id":"Q59446599$34AF7657-A4D8-41C0-BD06-C64596931EF4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2b7b0d18d82a937c858ac31af110559dacdde746","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q59446599$7FF2FEB1-7798-4980-892D-56C6BE40F936","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cc3d377b05780bedf55e31689e0592a75af0948a","datavalue":{"value":{"time":"+2012-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q59446599$B0C127CA-01F4-46EC-BF93-53C8EA08E747","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"df924067eefd2b21e4558e6901ff8b681c1bcb3c","datavalue":{"value":{"entity-type":"item","numeric-id":6151615,"id":"Q6151615"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$AB334ADB-5EBB-4FDA-B2C7-CD27B59EDC31","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7465ba038fefb0df9914304b49152c5109732e2f","datavalue":{"value":"Martin Pickford","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q59446599$F8A37844-F46F-4972-BC7A-2206BE9A5DA6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>j8ecvvgkes259j8hufkv6im7m5ooexn</sha1>
+    </revision>
+    <revision>
+      <id>961078265</id>
+      <parentid>820001189</parentid>
+      <timestamp>2019-06-12T23:12:52Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в лютому 2012, [[:toollabs:quickstatements/#/batch/13884|batch #13884]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3258" xml:space="preserve">{"type":"item","id":"Q59446599","labels":{"en":{"language":"en","value":"Ancestors of Broom's pigs"},"nl":{"language":"nl","value":"Ancestors of Broom's pigs"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2012"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1c7733e6f2e8567977abb144a40b1077c390e55","datavalue":{"value":"10.1080\/0035919X.2012.689265","type":"string"}},"type":"statement","id":"Q59446599$28F1F818-97CC-46B5-A63A-A309249F419C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$5EC5AFD5-E55B-49C3-AFC7-AC530030F0E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a49d4a5fd9e3538ec91696645db170d3386e4784","datavalue":{"value":{"text":"Ancestors of Broom's pigs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q59446599$82C0CDF3-2F58-4253-A125-B6C499F8808D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q59446599$EFC72940-CF76-4CCA-B001-B620C7699070","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c70f7d8f51edd7b4aaa1ba2202b21e218642d8d3","datavalue":{"value":"17-35","type":"string"}},"type":"statement","id":"Q59446599$34AF7657-A4D8-41C0-BD06-C64596931EF4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2b7b0d18d82a937c858ac31af110559dacdde746","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q59446599$7FF2FEB1-7798-4980-892D-56C6BE40F936","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cc3d377b05780bedf55e31689e0592a75af0948a","datavalue":{"value":{"time":"+2012-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q59446599$B0C127CA-01F4-46EC-BF93-53C8EA08E747","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"df924067eefd2b21e4558e6901ff8b681c1bcb3c","datavalue":{"value":{"entity-type":"item","numeric-id":6151615,"id":"Q6151615"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$AB334ADB-5EBB-4FDA-B2C7-CD27B59EDC31","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"7465ba038fefb0df9914304b49152c5109732e2f","datavalue":{"value":"Martin Pickford","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q59446599$F8A37844-F46F-4972-BC7A-2206BE9A5DA6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>b7ko5tu2fxf01o4r6e29o45atjw7m9a</sha1>
+    </revision>
+    <revision>
+      <id>1376886670</id>
+      <parentid>961078265</parentid>
+      <timestamp>2021-03-07T02:50:00Z</timestamp>
+      <contributor>
+        <username>PePeEfe</username>
+        <id>12774</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ Author Disambiguator set author [[Q1670043]] ([[:toollabs:editgroups/b/AD/ee769296|details]])</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3471" xml:space="preserve">{"type":"item","id":"Q59446599","labels":{"en":{"language":"en","value":"Ancestors of Broom's pigs"},"nl":{"language":"nl","value":"Ancestors of Broom's pigs"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 \u043b\u044e\u0442\u043e\u043c\u0443 2012"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"c1c7733e6f2e8567977abb144a40b1077c390e55","datavalue":{"value":"10.1080\/0035919X.2012.689265","type":"string"}},"type":"statement","id":"Q59446599$28F1F818-97CC-46B5-A63A-A309249F419C","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$5EC5AFD5-E55B-49C3-AFC7-AC530030F0E9","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"a49d4a5fd9e3538ec91696645db170d3386e4784","datavalue":{"value":{"text":"Ancestors of Broom's pigs","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q59446599$82C0CDF3-2F58-4253-A125-B6C499F8808D","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q59446599$EFC72940-CF76-4CCA-B001-B620C7699070","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"c70f7d8f51edd7b4aaa1ba2202b21e218642d8d3","datavalue":{"value":"17-35","type":"string"}},"type":"statement","id":"Q59446599$34AF7657-A4D8-41C0-BD06-C64596931EF4","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"2b7b0d18d82a937c858ac31af110559dacdde746","datavalue":{"value":"67","type":"string"}},"type":"statement","id":"Q59446599$7FF2FEB1-7798-4980-892D-56C6BE40F936","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"cc3d377b05780bedf55e31689e0592a75af0948a","datavalue":{"value":{"time":"+2012-02-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q59446599$B0C127CA-01F4-46EC-BF93-53C8EA08E747","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"df924067eefd2b21e4558e6901ff8b681c1bcb3c","datavalue":{"value":{"entity-type":"item","numeric-id":6151615,"id":"Q6151615"},"type":"wikibase-entityid"}},"type":"statement","id":"Q59446599$AB334ADB-5EBB-4FDA-B2C7-CD27B59EDC31","rank":"normal"}],"P50":[{"mainsnak":{"snaktype":"value","property":"P50","hash":"2f2885d3b95913a85a25bbec70fd3b4eef788356","datavalue":{"value":{"entity-type":"item","numeric-id":1670043,"id":"Q1670043"},"type":"wikibase-entityid"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}],"P1932":[{"snaktype":"value","property":"P1932","hash":"50d8e061ec018028789dfd2c747524240500fbd6","datavalue":{"value":"Martin Pickford","type":"string"}}]},"qualifiers-order":["P1545","P1932"],"id":"Q59446599$6149114A-349F-43CC-9D03-B5DCF996C2C6","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>d8uhmitirkub1vmeoiarebzppyu5jpy</sha1>
+    </revision>
+  </page>
+</mediawiki>

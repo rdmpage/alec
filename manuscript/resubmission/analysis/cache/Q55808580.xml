@@ -1,0 +1,302 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q55808580</title>
+    <ns>0</ns>
+    <id>55766341</id>
+    <revision>
+      <id>717567940</id>
+      <timestamp>2018-07-29T08:29:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbeditentity-create:0| */</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="102" xml:space="preserve">{"type":"item","id":"Q55808580","labels":[],"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>roqjwoio2baatax5lpzm0llh500yc5g</sha1>
+    </revision>
+    <revision>
+      <id>717567943</id>
+      <parentid>717567940</parentid>
+      <timestamp>2018-07-29T08:29:29Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|de */ Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="188" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>cjcn8oujtnukhfraistwbymcl4i4haw</sha1>
+    </revision>
+    <revision>
+      <id>717567948</id>
+      <parentid>717567943</parentid>
+      <timestamp>2018-07-29T08:29:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetlabel-add:1|en */ Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="275" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>n1ndwa8wfdwaa1arcco3ofnuil6ghu8</sha1>
+    </revision>
+    <revision>
+      <id>717567950</id>
+      <parentid>717567948</parentid>
+      <timestamp>2018-07-29T08:29:30Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P356]]: 10.1007/BF00984199</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="534" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>8dy7ot9z1f7jvfmmlqbb07c3d5jn91k</sha1>
+    </revision>
+    <revision>
+      <id>717567952</id>
+      <parentid>717567950</parentid>
+      <timestamp>2018-07-29T08:29:31Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P31]]: [[Q13442814]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="843" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>slb8vb4xxzbfgvsoik2zbf0ybnbcfkf</sha1>
+    </revision>
+    <revision>
+      <id>717567954</id>
+      <parentid>717567952</parentid>
+      <timestamp>2018-07-29T08:29:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1476]]: Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1173" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>08uizelff40yh67zmmtbjf89u13dm4s</sha1>
+    </revision>
+    <revision>
+      <id>717567957</id>
+      <parentid>717567954</parentid>
+      <timestamp>2018-07-29T08:29:32Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P478]]: 150</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1417" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sc541ao7jkkwahzgu3fiugrcx1fq07a</sha1>
+    </revision>
+    <revision>
+      <id>717567963</id>
+      <parentid>717567957</parentid>
+      <timestamp>2018-07-29T08:29:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P304]]: 237–262</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1670" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>dsopayb3nl5sjwv9df3xjwcfiwdwqkf</sha1>
+    </revision>
+    <revision>
+      <id>717567967</id>
+      <parentid>717567963</parentid>
+      <timestamp>2018-07-29T08:29:33Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P433]]: 3-4</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1914" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>guuxz37iy6g7clq2rh3vyzqymbkzein</sha1>
+    </revision>
+    <revision>
+      <id>717567969</id>
+      <parentid>717567967</parentid>
+      <timestamp>2018-07-29T08:29:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P577]]: 1985</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2293" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>lfbmcd2yi6rnih2e5i99duhcfikx1qp</sha1>
+    </revision>
+    <revision>
+      <id>717567973</id>
+      <parentid>717567969</parentid>
+      <timestamp>2018-07-29T08:29:34Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2093]]: B. L. Turner</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2548" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>nut9pbdc5tydxqohlupmsafwgurg1q0</sha1>
+    </revision>
+    <revision>
+      <id>717567977</id>
+      <parentid>717567973</parentid>
+      <timestamp>2018-07-29T08:29:35Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbsetqualifier-add:1| */ [[Property:P1545]]: 1</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="2734" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2zktpxyno6j99g99naebk5f6yfe9lli</sha1>
+    </revision>
+    <revision>
+      <id>717567980</id>
+      <parentid>717567977</parentid>
+      <timestamp>2018-07-29T08:29:36Z</timestamp>
+      <contributor>
+        <username>SuccuBot</username>
+        <id>300311</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P1433]]: [[Q2891391]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3045" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"}},"descriptions":[],"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"39d0fb85c1425e70050949f52e84a07c6bf557ea","datavalue":{"value":{"entity-type":"item","numeric-id":2891391,"id":"Q2891391"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$EC2A3E1F-B27A-456C-9EF9-8ABF3FC76BFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>tml60ulwddwcwtnq6lw5dnyj5eur4ls</sha1>
+    </revision>
+    <revision>
+      <id>726186412</id>
+      <parentid>717567980</parentid>
+      <timestamp>2018-08-15T05:20:13Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update:0| */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]], logfile on https://goo .gl/BezTim</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3176" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"nl":{"language":"nl","value":"Revision ofVerbesina sect.Pseudomontanoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"39d0fb85c1425e70050949f52e84a07c6bf557ea","datavalue":{"value":{"entity-type":"item","numeric-id":2891391,"id":"Q2891391"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$EC2A3E1F-B27A-456C-9EF9-8ABF3FC76BFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>23gkaq7ywr3l88hshqotj1a0bvokvz8</sha1>
+    </revision>
+    <revision>
+      <id>973905582</id>
+      <parentid>726186412</parentid>
+      <timestamp>2019-07-04T04:12:05Z</timestamp>
+      <contributor>
+        <username>Renamerr</username>
+        <id>2883061</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|uk */ наукова стаття, опублікована в 1985, #quickstatements</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3375" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"nl":{"language":"nl","value":"Revision ofVerbesina sect.Pseudomontanoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1985"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"39d0fb85c1425e70050949f52e84a07c6bf557ea","datavalue":{"value":{"entity-type":"item","numeric-id":2891391,"id":"Q2891391"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$EC2A3E1F-B27A-456C-9EF9-8ABF3FC76BFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>pz13t1by54q2no86ndi2kcg9f1vmoyn</sha1>
+    </revision>
+    <revision>
+      <id>1093679613</id>
+      <parentid>973905582</parentid>
+      <timestamp>2020-01-08T06:20:47Z</timestamp>
+      <contributor>
+        <username>Hogü-456</username>
+        <id>1790718</id>
+      </contributor>
+      <comment>/* wbsetdescription-add:1|de */ im Januar 1985 veröffentlichter wissenschaftlicher Artikel, [[:toollabs:quickstatements/#/batch/24856|batch #24856]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3472" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"nl":{"language":"nl","value":"Revision ofVerbesina sect.Pseudomontanoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1985"},"de":{"language":"de","value":"im Januar 1985 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"39d0fb85c1425e70050949f52e84a07c6bf557ea","datavalue":{"value":{"entity-type":"item","numeric-id":2891391,"id":"Q2891391"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$EC2A3E1F-B27A-456C-9EF9-8ABF3FC76BFA","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>a4glg1494vpsglqruxp1bgpkekyex36</sha1>
+    </revision>
+    <revision>
+      <id>1141065596</id>
+      <parentid>1093679613</parentid>
+      <timestamp>2020-03-23T04:52:26Z</timestamp>
+      <contributor>
+        <username>Sic19</username>
+        <id>2029201</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P2888]]: https://scigraph.springernature.com/pub.10.1007/bf00984199, [[:toollabs:quickstatements/#/batch/27105|batch #27105]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3777" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"nl":{"language":"nl","value":"Revision ofVerbesina sect.Pseudomontanoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1985"},"de":{"language":"de","value":"im Januar 1985 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"39d0fb85c1425e70050949f52e84a07c6bf557ea","datavalue":{"value":{"entity-type":"item","numeric-id":2891391,"id":"Q2891391"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$EC2A3E1F-B27A-456C-9EF9-8ABF3FC76BFA","rank":"normal"}],"P2888":[{"mainsnak":{"snaktype":"value","property":"P2888","hash":"95b8f3831fa56578c87a7ce14738b59730b619cf","datavalue":{"value":"https:\/\/scigraph.springernature.com\/pub.10.1007\/bf00984199","type":"string"}},"type":"statement","id":"Q55808580$46BE207D-B0E0-4492-B10C-003A9CC19CD0","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>noopkn1ont1qwu8xjjt7y2kvo4o1jzx</sha1>
+    </revision>
+    <revision>
+      <id>1193489963</id>
+      <parentid>1141065596</parentid>
+      <timestamp>2020-05-29T13:10:30Z</timestamp>
+      <contributor>
+        <username>Sic19</username>
+        <id>2029201</id>
+      </contributor>
+      <comment>/* wbcreateclaim-create:1| */ [[Property:P6179]]: 1009881626, [[:toollabs:quickstatements/#/batch/35284|batch #35284]]</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="4030" xml:space="preserve">{"type":"item","id":"Q55808580","labels":{"de":{"language":"de","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"en":{"language":"en","value":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)"},"nl":{"language":"nl","value":"Revision ofVerbesina sect.Pseudomontanoa"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"},"uk":{"language":"uk","value":"\u043d\u0430\u0443\u043a\u043e\u0432\u0430 \u0441\u0442\u0430\u0442\u0442\u044f, \u043e\u043f\u0443\u0431\u043b\u0456\u043a\u043e\u0432\u0430\u043d\u0430 \u0432 1985"},"de":{"language":"de","value":"im Januar 1985 ver\u00f6ffentlichter wissenschaftlicher Artikel"}},"aliases":[],"claims":{"P356":[{"mainsnak":{"snaktype":"value","property":"P356","hash":"9f98051f1b116d8774387a8e0d6992226f6491f7","datavalue":{"value":"10.1007\/BF00984199","type":"string"}},"type":"statement","id":"Q55808580$16C5B138-9B26-489D-A187-ABF145C8BC3E","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$B624795F-A4CC-4538-8A7E-A204F8342D00","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"d2c97e4af5c05cd71cab06f8481d5e8810abd3bd","datavalue":{"value":{"text":"Revision ofVerbesina sect.Pseudomontanoa (Asteraceae)","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q55808580$86D2CE7D-DE31-4A8D-985D-2921F11F6FAF","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"14fb2f89442584b7a023824858f4ef050a76e3a7","datavalue":{"value":"150","type":"string"}},"type":"statement","id":"Q55808580$179BC388-0E51-49C1-880E-6218D52B9983","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"00a99287e40af53610085fa4cc20c7e32ee74925","datavalue":{"value":"237\u2013262","type":"string"}},"type":"statement","id":"Q55808580$BB8C1D54-9674-4DA2-A0B2-872F4A62A2A4","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"c3dda93d020789352c4aaf77bfbc99eda01a0ce5","datavalue":{"value":"3-4","type":"string"}},"type":"statement","id":"Q55808580$813D96A0-44D2-468E-B394-09BAED3CE9E4","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"4367cda6537661c5710e711f17accacfd223c57e","datavalue":{"value":{"time":"+1985-00-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":9,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q55808580$1060993C-2196-49B5-98C9-A60A92F68607","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"d96b91ee10c681dc10cbc47cca686c855040b742","datavalue":{"value":"B. L. Turner","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q55808580$5B002B89-F809-4C75-81DE-90E871862765","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"39d0fb85c1425e70050949f52e84a07c6bf557ea","datavalue":{"value":{"entity-type":"item","numeric-id":2891391,"id":"Q2891391"},"type":"wikibase-entityid"}},"type":"statement","id":"Q55808580$EC2A3E1F-B27A-456C-9EF9-8ABF3FC76BFA","rank":"normal"}],"P2888":[{"mainsnak":{"snaktype":"value","property":"P2888","hash":"95b8f3831fa56578c87a7ce14738b59730b619cf","datavalue":{"value":"https:\/\/scigraph.springernature.com\/pub.10.1007\/bf00984199","type":"string"}},"type":"statement","id":"Q55808580$46BE207D-B0E0-4492-B10C-003A9CC19CD0","rank":"normal"}],"P6179":[{"mainsnak":{"snaktype":"value","property":"P6179","hash":"4095959bbd9afd968a189067118cf334e10e6bf4","datavalue":{"value":"1009881626","type":"string"}},"type":"statement","id":"Q55808580$880519F2-0ED2-4CF3-9AC8-E5E3B914F524","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>6d8twgx05g0dudoor5zaxnmn5lxcsa5</sha1>
+    </revision>
+  </page>
+</mediawiki>

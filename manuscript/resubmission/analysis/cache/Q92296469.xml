@@ -1,0 +1,78 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikidata</sitename>
+    <dbname>wikidatawiki</dbname>
+    <base>https://www.wikidata.org/wiki/Wikidata:Main_Page</base>
+    <generator>MediaWiki 1.38.0-wmf.25</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikidata</namespace>
+      <namespace key="5" case="first-letter">Wikidata talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="120" case="first-letter">Property</namespace>
+      <namespace key="121" case="first-letter">Property talk</namespace>
+      <namespace key="122" case="first-letter">Query</namespace>
+      <namespace key="123" case="first-letter">Query talk</namespace>
+      <namespace key="146" case="first-letter">Lexeme</namespace>
+      <namespace key="147" case="first-letter">Lexeme talk</namespace>
+      <namespace key="640" case="first-letter">EntitySchema</namespace>
+      <namespace key="641" case="first-letter">EntitySchema talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="1198" case="first-letter">Translations</namespace>
+      <namespace key="1199" case="first-letter">Translations talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+      <namespace key="2600" case="first-letter">Topic</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Q92296469</title>
+    <ns>0</ns>
+    <id>91466582</id>
+    <revision>
+      <id>1168440926</id>
+      <timestamp>2020-04-28T14:59:15Z</timestamp>
+      <contributor>
+        <username>Rdmpage</username>
+        <id>109040</id>
+      </contributor>
+      <comment>/* wbeditentity-create-item:0| */ #quickstatements; #temporary_batch_1588084028247</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3741" xml:space="preserve">{"type":"item","id":"Q92296469","labels":{"en":{"language":"en","value":"A New Species of the Genus Malthinellus (Coleoptera, Cantharidae) from Okinawa Island, Southwest Japan, with Notes on the Genus Malthinellus"}},"descriptions":[],"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296469$FA38E475-F36D-4498-AA06-41D3693DCD43","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86144c0011de7e4eb637f28278ed9c2309f4de4f","datavalue":{"value":{"text":"A New Species of the Genus Malthinellus (Coleoptera, Cantharidae) from Okinawa Island, Southwest Japan, with Notes on the Genus Malthinellus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q92296469$E5BE55FD-F1B9-4F0E-A8CD-DDA5376A5D18","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296469$20BBC445-69F6-457C-B0B3-E5968F1F71FC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"08cb1a27818c546daa7b9520f3d3d10b9b6a1129","datavalue":{"value":{"time":"+2007-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q92296469$CF4AB774-621E-4AED-9DAE-16077757FB4B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"cddcefadbc0963c3489e389b1baea1b6330177c3","datavalue":{"value":"K Takahashi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q92296469$1628BCB2-4BD2-4EEF-B6A8-C41CFABF6540","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a710c26ff94e068c4533f137502e19747f74725e","datavalue":{"value":{"entity-type":"item","numeric-id":21385876,"id":"Q21385876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296469$49C55580-2BCC-4156-BD79-A26A1F7C3F1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q92296469$C6FC7B69-D3A3-4DCE-8A70-E34F392A3975","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q92296469$4192C578-7899-472D-AFB1-73C218B03305","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ffee4bcbd04964af2fd158d0e3fc58747d180ee1","datavalue":{"value":"142","type":"string"}},"type":"statement","id":"Q92296469$6D8B8D65-28A5-4B44-860B-ABD2E0105332","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"3f5878e13d2a9f56027e02761efcf54ddd88e1fd","datavalue":{"value":"elytra-35-001-142","type":"string"}},"type":"statement","id":"Q92296469$7C84C6E3-D728-400C-A802-F8A43A6ADAE6","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"5b372184d51f35d3cfd513dd2c621f6a57fbc790","datavalue":{"value":"http:\/\/coleoptera.sakura.ne.jp\/Elytra\/35(1)142TakahashiK_&amp;_TakahashiN.pdf","type":"string"}},"type":"statement","id":"Q92296469$D1E5B96D-7A25-4943-9E4B-21B44280D54D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>fa28b69rzrhmm50iahnm2y28h7mbkxe</sha1>
+    </revision>
+    <revision>
+      <id>1168444831</id>
+      <parentid>1168440926</parentid>
+      <timestamp>2020-04-28T15:10:04Z</timestamp>
+      <contributor>
+        <username>Edoderoobot</username>
+        <id>1554155</id>
+      </contributor>
+      <comment>/* wbeditentity-update-languages-short:0||nl */ nl-description, [[User:Edoderoobot/Set-nl-description|python code]] - wetenschappelijk artikel</comment>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="3972" xml:space="preserve">{"type":"item","id":"Q92296469","labels":{"en":{"language":"en","value":"A New Species of the Genus Malthinellus (Coleoptera, Cantharidae) from Okinawa Island, Southwest Japan, with Notes on the Genus Malthinellus"},"nl":{"language":"nl","value":"A New Species of the Genus Malthinellus (Coleoptera, Cantharidae) from Okinawa Island, Southwest Japan, with Notes on the Genus Malthinellus"}},"descriptions":{"nl":{"language":"nl","value":"wetenschappelijk artikel"}},"aliases":[],"claims":{"P407":[{"mainsnak":{"snaktype":"value","property":"P407","hash":"daf1c4fcb58181b02dff9cc89deb084004ddae4b","datavalue":{"value":{"entity-type":"item","numeric-id":1860,"id":"Q1860"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296469$FA38E475-F36D-4498-AA06-41D3693DCD43","rank":"normal"}],"P1476":[{"mainsnak":{"snaktype":"value","property":"P1476","hash":"86144c0011de7e4eb637f28278ed9c2309f4de4f","datavalue":{"value":{"text":"A New Species of the Genus Malthinellus (Coleoptera, Cantharidae) from Okinawa Island, Southwest Japan, with Notes on the Genus Malthinellus","language":"en"},"type":"monolingualtext"}},"type":"statement","id":"Q92296469$E5BE55FD-F1B9-4F0E-A8CD-DDA5376A5D18","rank":"normal"}],"P31":[{"mainsnak":{"snaktype":"value","property":"P31","hash":"29465f78f13add11b617f0de4ade56cd1122c19c","datavalue":{"value":{"entity-type":"item","numeric-id":13442814,"id":"Q13442814"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296469$20BBC445-69F6-457C-B0B3-E5968F1F71FC","rank":"normal"}],"P577":[{"mainsnak":{"snaktype":"value","property":"P577","hash":"08cb1a27818c546daa7b9520f3d3d10b9b6a1129","datavalue":{"value":{"time":"+2007-05-00T00:00:00Z","timezone":0,"before":0,"after":0,"precision":10,"calendarmodel":"http:\/\/www.wikidata.org\/entity\/Q1985727"},"type":"time"}},"type":"statement","id":"Q92296469$CF4AB774-621E-4AED-9DAE-16077757FB4B","rank":"normal"}],"P2093":[{"mainsnak":{"snaktype":"value","property":"P2093","hash":"cddcefadbc0963c3489e389b1baea1b6330177c3","datavalue":{"value":"K Takahashi","type":"string"}},"type":"statement","qualifiers":{"P1545":[{"snaktype":"value","property":"P1545","hash":"2a1ced1dca90648ea7e306acbadd74fc81a10722","datavalue":{"value":"1","type":"string"}}]},"qualifiers-order":["P1545"],"id":"Q92296469$1628BCB2-4BD2-4EEF-B6A8-C41CFABF6540","rank":"normal"}],"P1433":[{"mainsnak":{"snaktype":"value","property":"P1433","hash":"a710c26ff94e068c4533f137502e19747f74725e","datavalue":{"value":{"entity-type":"item","numeric-id":21385876,"id":"Q21385876"},"type":"wikibase-entityid"}},"type":"statement","id":"Q92296469$49C55580-2BCC-4156-BD79-A26A1F7C3F1C","rank":"normal"}],"P478":[{"mainsnak":{"snaktype":"value","property":"P478","hash":"e86db1cce9ff385e1bb532ce0247d984a8cf2d91","datavalue":{"value":"35","type":"string"}},"type":"statement","id":"Q92296469$C6FC7B69-D3A3-4DCE-8A70-E34F392A3975","rank":"normal"}],"P433":[{"mainsnak":{"snaktype":"value","property":"P433","hash":"962ed10012ef254020e2a8c8a6c8ba7647d35a12","datavalue":{"value":"1","type":"string"}},"type":"statement","id":"Q92296469$4192C578-7899-472D-AFB1-73C218B03305","rank":"normal"}],"P304":[{"mainsnak":{"snaktype":"value","property":"P304","hash":"ffee4bcbd04964af2fd158d0e3fc58747d180ee1","datavalue":{"value":"142","type":"string"}},"type":"statement","id":"Q92296469$6D8B8D65-28A5-4B44-860B-ABD2E0105332","rank":"normal"}],"P724":[{"mainsnak":{"snaktype":"value","property":"P724","hash":"3f5878e13d2a9f56027e02761efcf54ddd88e1fd","datavalue":{"value":"elytra-35-001-142","type":"string"}},"type":"statement","id":"Q92296469$7C84C6E3-D728-400C-A802-F8A43A6ADAE6","rank":"normal"}],"P953":[{"mainsnak":{"snaktype":"value","property":"P953","hash":"5b372184d51f35d3cfd513dd2c621f6a57fbc790","datavalue":{"value":"http:\/\/coleoptera.sakura.ne.jp\/Elytra\/35(1)142TakahashiK_&amp;_TakahashiN.pdf","type":"string"}},"type":"statement","id":"Q92296469$D1E5B96D-7A25-4943-9E4B-21B44280D54D","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0zfr0nqr2m91qhzvcc3nqlhk3tyra7l</sha1>
+    </revision>
+  </page>
+</mediawiki>
