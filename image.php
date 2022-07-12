@@ -4,6 +4,7 @@
 
 error_reporting(E_ALL);
 
+require_once(dirname(__FILE__) . '/config.inc.php');
 require_once(dirname(__FILE__) . '/lib.php');
 
 $qid = 'Q6495649';
@@ -16,6 +17,7 @@ if (isset($_GET['qid']))
 
 $image_url = 'https://via.placeholder.com/100x100/EEEEEE/EEEEEE';
 
+//$image_url = $config['web_root'] . '/images/100x100.png';
 
 $url = 'https://www.wikidata.org/w/api.php?action=wbgetclaims&property=P18&entity=' . $qid . '&format=json';
 
