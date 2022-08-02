@@ -14,7 +14,7 @@ date_default_timezone_set('UTC');
 
 
 $site = 'local';
-$site = 'heroku';
+//$site = 'heroku';
 
 switch ($site)
 {
