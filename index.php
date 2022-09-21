@@ -113,7 +113,7 @@ function display_entity($id)
 	$og_list['og:title'] = $title;	
 	$og_list['og:type'] = 'website';	
 	$og_list['og:url'] = full_url($_SERVER);
-	$og_list['og:image'] = 'https://aipbvczbup.cloudimg.io/s/height/400/' . url_origin($_SERVER) . $config['web_root'] . 'image.php?qid=' . $id;	
+	$og_list['og:image'] = 'https://aezjkodskr.cloudimg.io/' . url_origin($_SERVER) . $config['web_root'] . 'image.php?qid=' . $id;	
 	$description = get_literal($obj->{'@graph'}[0]->description);
 	if ($description != '')
 	{
