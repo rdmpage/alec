@@ -4,15 +4,7 @@
     "name": "Roderic Page",
     "email": "rdmpage@gmail.com"
   }],
-  "repositories": [{
-    "type": "composer",
-    "url": "http://packages.myseosolution.de"
-  }],
   "require": {
-    "digitalbazaar/json-ld": "0.4.7",
-    "paslandau/pagerank": "dev-master"    
-  },
-  "config": {
-    "secure-http": false
+    "digitalbazaar/json-ld": "0.4.7"  
   }
 }
