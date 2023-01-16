@@ -66,7 +66,13 @@ $query = 'PREFIX schema: <http://schema.org/>
       	{
       		# publication in which this taxon name was established
         	?taxon wdt:P5326 ?item . 
+      	}  	
+		UNION
+      	{
+      		# publication with taxon as subject
+        	?item wdt:P921 ?taxon . 
       	}  		
+      		
   		
   		?item wdt:P31 ?item_type .
   		
@@ -85,7 +91,7 @@ $query = 'PREFIX schema: <http://schema.org/>
 		  }   		
 	
 
-}';
+} LIMIT 100';
 
 
 
