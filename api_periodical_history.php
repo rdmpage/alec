@@ -169,7 +169,7 @@ while (count($stack) > 0)
 	$qid = array_pop($stack);
 	$done[] = $qid;
 	
-	$o = get_edges_to($G, $qid, 'wdt:P1366|wdt:P156');
+	$o = get_edges_to($G, $qid, 'wdt:P1366|wdt:P156|wdt:P527');
 		
 	foreach ($o as $s)
 	{
@@ -179,7 +179,7 @@ while (count($stack) > 0)
 		}
 	}
 	
-	$o = get_edges_from($G, $qid, 'wdt:P1366|wdt:P156');
+	$o = get_edges_from($G, $qid, 'wdt:P1366|wdt:P156|wdt:P527'); // replaced by, followed by, has part(s)
 	
 	
 	foreach ($o as $t)

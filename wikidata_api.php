@@ -774,9 +774,9 @@ OPTIONAL {
    BIND(STR(?endDateValue) as ?endDate) 
   }   
   
-  # replaces, follows
+  # replaces, follows, part of the series
   OPTIONAL {
-   ?item wdt:P1365|wdt:P155 ?predecessor .  
+   ?item wdt:P1365|wdt:P155|wdt:P179 ?predecessor .  
    ?predecessor rdfs:label  ?predecessor_name .
    # filter languages otherwise we can be inundated
   FILTER(
@@ -788,9 +788,9 @@ OPTIONAL {
   	)     
   } 
 
-  # replaced by, followed by
+  # replaced by, followed by, has parts(s)
   OPTIONAL {
-   ?item wdt:P1366|wdt:P156 ?successor .  
+   ?item wdt:P1366|wdt:P156|wdt:P527 ?successor .  
    ?successor rdfs:label  ?successor_name .
    # filter languages otherwise we can be inundated
   FILTER(
