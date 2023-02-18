@@ -167,6 +167,13 @@ CONSTRUCT
  ?rg_author_identifier <http://schema.org/propertyID> "researchgate author" .
  ?rg_author_identifier <http://schema.org/value> ?rg_author .
  
+  # ResearchGate
+ ?item schema:identifier ?rg_pub_identifier .
+ ?rg_pub_identifier a <http://schema.org/PropertyValue> .
+ ?rg_pub_identifier <http://schema.org/propertyID> "researchgate publication" .
+ ?rg_pub_identifier <http://schema.org/value> ?rg_pub .
+
+ 
  # Twitter
  ?item schema:identifier ?twitter_identifier .
  ?twitter_identifier a <http://schema.org/PropertyValue> .
@@ -606,6 +613,12 @@ WHERE
  OPTIONAL {
    ?item wdt:P2038 ?rg_author .   
    BIND( IRI (CONCAT (STR(?item), "#rg_author")) as ?rg_author_identifier)
+  }   
+  
+  
+ OPTIONAL {
+   ?item wdt:P5875 ?rg_pub .   
+   BIND( IRI (CONCAT (STR(?item), "#rg_pub")) as ?rg_pub_identifier)
   }   
   
 OPTIONAL {

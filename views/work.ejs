@@ -332,6 +332,15 @@ if (item['@graph']) {
 				<a class="btn-small blue accent-3" href="https://biodiversity.org.au/afd/publication/<%- id %>" target="_new">AFD:<%- id %></a>
 			<% } %>				
 										
+
+					
+			<% 
+			// Researchgate publication
+			id = get_property_value(item.identifier, 'researchgate publication');	  
+			if (id != '') {  %>
+				<a class="btn-small blue accent-3" href="https://www.researchgate.net/publication/<%- id %>" target="_new">RG:<%- id %></a>
+			<% } %>				
+										
 	
 		
 		<% } %>	
