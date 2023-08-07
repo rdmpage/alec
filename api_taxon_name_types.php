@@ -63,7 +63,7 @@ $query = 'PREFIX schema: <http://schema.org/>
   }
   
   # ensure ?item is a nomenclatural type
-  ?item_type wdt:P279 wd:Q3707858 .
+  ?item_type wdt:P279* wd:Q3707858 .
   
   # labels
   ?item_type rdfs:label ?type_of_type_label .
