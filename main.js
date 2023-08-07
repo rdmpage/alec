@@ -100,6 +100,7 @@ function get_entity_types(entity) {
 	  case 'http://www.wikidata.org/entity/Q571': // book
 	  case 'http://www.wikidata.org/entity/Q3331189': // version, edition, or translation
 	  case 'http://www.wikidata.org/entity/Q1711593': // edited volume
+	  case 'http://www.wikidata.org/entity/Q732577': // publication (maybe this should be CreativeWork?)
 		schema_types.push('http://schema.org/Book');
 		break;
 

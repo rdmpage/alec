@@ -23,19 +23,30 @@ $url = 'https://www.wikidata.org/w/api.php?action=wbgetclaims&property=P18&entit
 
 $json = get($url, '*/*');
 
-//echo $json;
-
 $obj = json_decode($json);
 
 //print_r($obj);
 
 if (isset($obj->claims->{'P18'}))
 {
-	$image_url = 'https://commons.wikimedia.org/w/thumb.php?f=' . $obj->claims->{'P18'}[0]->mainsnak->datavalue->value . '&w=200';
+	$image_filename = $obj->claims->{'P18'}[0]->mainsnak->datavalue->value;
+	$image_filename = str_replace(' ', '_', $image_filename);
+
+	//$image_url = 'https://commons.wikimedia.org/w/thumb.php?f=' . $image_filename . '&w=200';
+	
+	// new method
+	$hash = md5($image_filename);
+	
+	$image_url = 'https://upload.wikimedia.org/wikipedia/commons/thumb/' 
+		. substr($hash, 0, 1) . '/' .  substr($hash, 0, 2) 
+		. '/' . $image_filename . '/200px-' . $image_filename;
+		
+	if (!preg_match('/\.jpg$/', $image_url))
+	{
+		$image_url .= '.jpg';
+	}
 }
 
-
 header("Location: $image_url");	
-
 
 ?>
