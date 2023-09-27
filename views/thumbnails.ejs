@@ -69,15 +69,19 @@ item = item['@graph'][0];
 			var thumbnailUrl = "https://alec-demo.herokuapp.com/images/100x100.png";
 		
 			if (item.dataFeedElement[i].image) {
+				thumbnailUrl = 'image.php?qid=' + wikidata_uri_to_qid(item.dataFeedElement[i]['@id']);
+				if (0) {
 				if (Array.isArray(item.dataFeedElement[i].image)) {
 					thumbnailUrl = item.dataFeedElement[i].image[0];
 				} else {
 					thumbnailUrl = item.dataFeedElement[i].image;
 				}
+				}
 			}
 			%>
 		
-			<img src="<%- thumbnailUrl %>?height=100" >
+			<!-- <img src="<%- thumbnailUrl %>?height=100" > -->
+			<img src="<%- thumbnailUrl %>" >
 		
 			</a>
 		

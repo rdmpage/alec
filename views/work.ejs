@@ -339,8 +339,14 @@ if (item['@graph']) {
 			id = get_property_value(item.identifier, 'researchgate publication');	  
 			if (id != '') {  %>
 				<a class="btn-small blue accent-3" href="https://www.researchgate.net/publication/<%- id %>" target="_new">RG:<%- id %></a>
-			<% } %>				
-										
+			<% } %>	
+			
+			<% 
+			// NDL
+			id = get_property_value(item.identifier, 'ndl');	  
+			if (id != '') {  %>
+				<a class="btn-small blue accent-3" href="https://dl.ndl.go.jp/pid/<%- id %>" target="_new">NDL PID:<%- id %></a>
+			<% } %>	
 	
 		
 		<% } %>	

@@ -167,6 +167,40 @@ function show_feed_works(id) {
 }
 
 //----------------------------------------------------------------------------
+function show_feed_organisation_is_collection(id) {
+  $.getJSON('api_organisation_is_collection.php?id=' +
+	id +
+	'&callback=?',
+	function(data) {
+	  if (data) {
+		if (data['@graph'].length > 0) {
+		  render(template_thumbnail_feed, {
+			item: data
+		  }, 'feed_is_collection');
+		}
+	  }
+	}
+  );
+}
+
+//----------------------------------------------------------------------------
+function show_feed_organisation_is_subject(id) {
+  $.getJSON('api_organisation_is_subject.php?id=' +
+	id +
+	'&callback=?',
+	function(data) {
+	  if (data) {
+		if (data['@graph'].length > 0) {
+		  render(template_datafeed, {
+			item: data
+		  }, 'feed_is_subject');
+		}
+	  }
+	}
+  );
+}
+
+//----------------------------------------------------------------------------
 function show_feed_person_is_subject(id) {
   $.getJSON('api_person_is_subject.php?id=' +
 	id +
@@ -686,7 +720,7 @@ function show_record(data) {
   //--------------------------------------------------------------------
   if (!have_type && types.indexOf('http://schema.org/Organization') !== -1) {
 
-	document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_publisher_publications"></div>';
+	document.getElementById('output').innerHTML = '<div id="details"></div><div id="feed_publisher_publications"></div><div id="feed_is_subject"></div><div id="feed_is_collection"></div>';
 
 	// display organisation
 	render(template_organisation, {
@@ -696,6 +730,13 @@ function show_record(data) {
 
 	// related info
 	show_publisher_publications(id);
+	
+	// publications about
+	show_feed_organisation_is_subject(id);
+	
+	// things in organisation
+	show_feed_organisation_is_collection(id);
+	
 
 	have_type = true;
 

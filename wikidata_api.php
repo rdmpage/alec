@@ -173,6 +173,12 @@ CONSTRUCT
  ?rg_pub_identifier <http://schema.org/propertyID> "researchgate publication" .
  ?rg_pub_identifier <http://schema.org/value> ?rg_pub .
 
+ # NDL
+ ?item schema:identifier ?ndl_identifier .
+ ?pmc_identifier a <http://schema.org/PropertyValue> .
+ ?ndl_identifier <http://schema.org/propertyID> "ndl" .
+ ?ndl_identifier <http://schema.org/value> ?ndl .
+
  
  # Twitter
  ?item schema:identifier ?twitter_identifier .
@@ -617,9 +623,15 @@ WHERE
   
   
  OPTIONAL {
+   ?item wdt:P9836 ?ndl .   
+   BIND( IRI (CONCAT (STR(?item), "#ndl")) as ?ndl_identifier)
+  }   
+  
+ OPTIONAL {
    ?item wdt:P5875 ?rg_pub .   
    BIND( IRI (CONCAT (STR(?item), "#rg_pub")) as ?rg_pub_identifier)
   }   
+  
   
 OPTIONAL {
    ?item wdt:P2002 ?twitter .   
