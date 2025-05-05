@@ -17,7 +17,7 @@ if (isset($_GET['qid']))
 
 $image_url = 'https://via.placeholder.com/100x100/EEEEEE/EEEEEE';
 
-$image_url = $config['web_root'] . '/images/100x100.png';
+$image_url = '://' . $SERVER['SERVER_NAME'] . $config['web_root'] . 'images/100x100.png';
 
 $url = 'https://www.wikidata.org/w/api.php?action=wbgetclaims&property=P18&entity=' . $qid . '&format=json';
 
