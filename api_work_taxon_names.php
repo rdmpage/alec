@@ -9,6 +9,7 @@ require_once(dirname(__FILE__) . '/wikidata_api.php');
 
 
 $id = 'Q56886408';
+$id = 'Q93875424';
 
 if (isset($_REQUEST['id']))
 {
@@ -42,21 +43,24 @@ $query = 'PREFIX schema: <http://schema.org/>
 	VALUES ?work { wd:' . $id . ' }
 	VALUES ?item_type { wd:Q16521 }
 	
+	SERVICE wdsubgraph:wikidata_main
 	{
-		# reference for taxon name
-		?provenance pr:P248 ?work . 
-    	?statement prov:wasDerivedFrom ?provenance .
-    
-	    ?item p:P225 ?statement . 
-	}
-	UNION
-    {
-      # publication in which this taxon name was established
-      ?item wdt:P5326 ?work . 
-    }  
-    
-    ?item wdt:P31 ?item_type .
-    ?item wdt:P225 ?name .	
+		{
+			# reference for taxon name
+			?provenance pr:P248 ?work . 
+			?statement prov:wasDerivedFrom ?provenance .
+		
+			?item p:P225 ?statement . 
+		}
+		UNION
+		{
+		  # publication in which this taxon name was established
+		  ?item wdt:P5326 ?work . 
+		}  
+		
+		?item wdt:P31 ?item_type .
+		?item wdt:P225 ?name .	
+    }
   	
 }';
 
@@ -72,7 +76,7 @@ if ($callback != '')
 {
 	echo $callback . '(';
 }
-echo sparql_construct_stream($config['sparql_endpoint'], $query);
+echo sparql_construct_stream($config['sparql_scholarly_endpoint'], $query);
 if ($callback != '')
 {
 	echo ')';

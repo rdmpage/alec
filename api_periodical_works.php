@@ -72,7 +72,8 @@ if ($callback != '')
 {
 	echo $callback . '(';
 }
-echo sparql_construct_stream($config['sparql_endpoint'], $query);
+// Use scholarly graph
+echo sparql_construct_stream($config['sparql_scholarly_endpoint'], $query);
 if ($callback != '')
 {
 	echo ')';

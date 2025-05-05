@@ -38,25 +38,55 @@ $query = 'PREFIX schema: <http://schema.org/>
 	}
 	WHERE
 {
-  # person
-  VALUES ?book { wd:' . $id . ' }
-    
-	?item wdt:P921 ?book .
-	?item wdt:P31 ?type .
-
-	?item wdt:P1476 ?title .
-
-	OPTIONAL {
-	?item wdt:P577 ?date .
-	BIND(STR(?date) as ?datePublished) 
-	}  		
+	# org
+	VALUES ?org { wd:' . $id .' }
 	
-  # Make DOI lowercase
- OPTIONAL {
-   ?item wdt:P356 ?doi_string .   
-   BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
-   BIND( LCASE(?doi_string) as ?doi)
-  }
+	# ugly query where we repeat the same query across the two graphs as we may have a
+	# mix of articles and books about an organisation
+	
+	# articles
+	{
+		?item wdt:P921 ?org .
+		?item wdt:P31 ?type .
+		?item wdt:P1476 ?title .
+		
+		OPTIONAL 
+		{
+			?item wdt:P577 ?date .
+			BIND(STR(?date) as ?datePublished) 
+		}  		
+		
+		# Make DOI lowercase
+		OPTIONAL 
+		{
+			?item wdt:P356 ?doi_string .   
+			BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
+			BIND( LCASE(?doi_string) as ?doi)
+		}
+	}
+	UNION
+	{
+		SERVICE wdsubgraph:wikidata_main 
+		{
+			?item wdt:P921 ?org .
+			?item wdt:P31 ?type .
+			?item wdt:P1476 ?title .
+			
+			OPTIONAL 
+			{
+				?item wdt:P577 ?date .
+				BIND(STR(?date) as ?datePublished) 
+			}  		
+			  
+			# Make DOI lowercase
+			OPTIONAL 
+			{
+				?item wdt:P356 ?doi_string .   
+				BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
+				BIND( LCASE(?doi_string) as ?doi)
+			}      
+		}
+	}
  }';
 
 
@@ -71,7 +101,7 @@ if ($callback != '')
 {
 	echo $callback . '(';
 }
-echo sparql_construct_stream($config['sparql_endpoint'], $query);
+echo sparql_construct_stream($config['sparql_scholarly_endpoint'], $query);
 if ($callback != '')
 {
 	echo ')';

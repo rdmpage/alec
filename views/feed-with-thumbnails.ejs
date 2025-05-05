@@ -29,7 +29,7 @@ item = item['@graph'][0];
 	<% for (var i in item.dataFeedElement) { %>
 		
 		<li class="collection-item avatar">		
-			<img src="image.php?qid=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>" alt="" class="square"> 
+			<img loading="lazy" src="image.php?qid=<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>" alt="" class="square"> 
 			
 		<span class="title">
 		<a href="<%= wikidata_uri_to_qid(item.dataFeedElement[i]['@id']) %>">

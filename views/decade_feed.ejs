@@ -100,9 +100,11 @@ for (var decade in decades) { %>
 			
 				<a href="<%= wikidata_uri_to_qid(decades[decade][year][i]['@id']) %>">
 			
-				<span style="padding:2px;position:absolute;left:0px;top:0px;width:100%;background-color:rgb(0,0,0,0.4);color:white;max-height:50%;overflow:hidden;"><%= get_literal(decades[decade][year][i].name) %>	</span>
+				<span style="padding:2px;position:absolute;left:0px;top:0px;width:100%;background-color:rgb(0,0,0,0.4);color:white;max-height:50%;overflow:hidden;">
+				<%= get_literal(decades[decade][year][i].name) %>	
+				</span>
 				
-				<img style="background:white;width:100%;height:100%;object-fit: cover;object-position: 50% 50%;" src="https://wikidata-thumbnails.herokuapp.com/<%- wikidata_uri_to_qid(decades[decade][year][i]['@id']) %>" >
+				<img loading="lazy" style="background:white;width:100%;height:100%;object-fit: cover;object-position: 50% 50%;" src="https://wikidata-thumbnails.herokuapp.com/<%- wikidata_uri_to_qid(decades[decade][year][i]['@id']) %>" >
 
 				
 				</a>		

@@ -9,6 +9,7 @@ require_once(dirname(__FILE__) . '/wikidata_api.php');
 
 
 $id = 'Q56886408';
+$id = 'Q2570594';
 
 if (isset($_REQUEST['id']))
 {
@@ -47,33 +48,40 @@ $query = 'PREFIX schema: <http://schema.org/>
 	}
 	WHERE
 	{
-	
+		hint:Query hint:optimizer "None" .
 		VALUES ?taxon { wd:' . $id . ' } 
 	
 		# filter by type of work
 		# wd:Q13442814 article
 		VALUES ?item_type { wd:Q13442814 } 
 		
-		{ 
- 			# Wikidata reference
-  			?taxon p:P225 ?statement. 
-  			?statement prov:wasDerivedFrom ?provenance .
-  
-  			# is it stated in a Wikidata item?
-  			?provenance pr:P248 ?item .
-  		}
-		UNION
-      	{
-      		# publication in which this taxon name was established
-        	?taxon wdt:P5326 ?item . 
-      	}  	
-		UNION
-      	{
-      		# publication with taxon as subject
-        	?item wdt:P921 ?taxon . 
-      	}  		
-      		
-  		
+		# scholarly graph
+		{
+			# publication with taxon as subject
+			?item wdt:P921 ?taxon . 
+		}  
+		# main graph
+		UNION 
+		{
+			SERVICE wdsubgraph:wikidata_main 
+			{
+				# Wikidata reference
+				?taxon p:P225 ?statement. 
+				?statement prov:wasDerivedFrom ?provenance .
+	  
+				# is it stated in a Wikidata item?
+				?provenance pr:P248 ?item .
+			}
+		}
+		UNION 
+		{
+			SERVICE wdsubgraph:wikidata_main 
+			{
+				# publication in which this taxon name was established
+				?taxon wdt:P5326 ?item . 
+			}  
+		}	
+   		
   		?item wdt:P31 ?item_type .
   		
   		?item wdt:P1476 ?title .
@@ -91,9 +99,7 @@ $query = 'PREFIX schema: <http://schema.org/>
 		  }   		
 	
 
-} LIMIT 100';
-
-
+}';
 
 $callback = '';
 if (isset($_GET['callback']))
@@ -105,7 +111,8 @@ if ($callback != '')
 {
 	echo $callback . '(';
 }
-echo sparql_construct_stream($config['sparql_endpoint'], $query);
+// Use scholarly graph
+echo sparql_construct_stream($config['sparql_scholarly_endpoint'], $query);
 if ($callback != '')
 {
 	echo ')';

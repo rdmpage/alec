@@ -37,15 +37,15 @@ $query = 'PREFIX schema: <http://schema.org/>
  ?work wdt:P50 ?author .
   
  # taxon name referenced by work
+ SERVICE wdsubgraph:wikidata_main {
  ?provenance pr:P248 ?work . 
  ?statement prov:wasDerivedFrom ?provenance .
     
  ?item p:P225 ?statement . 
  ?item wdt:P31 ?item_type .
  ?item wdt:P225 ?name .	
+ }
  }';
-
-
 
 $callback = '';
 if (isset($_GET['callback']))
@@ -57,7 +57,7 @@ if ($callback != '')
 {
 	echo $callback . '(';
 }
-echo sparql_construct_stream($config['sparql_endpoint'], $query);
+echo sparql_construct_stream($config['sparql_scholarly_endpoint'], $query);
 if ($callback != '')
 {
 	echo ')';

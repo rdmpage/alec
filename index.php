@@ -79,12 +79,23 @@ function display_entity($id)
 		
 	$ok = false;	
 		
-	// get entity
+	// get entity from main graph
 	$obj = get_item($id);
 	
 	if ($obj)
 	{
 		$ok = isset($obj->{'@graph'}[0]->{'@id'});
+	}
+	
+	if (!$ok)
+	{
+		// No luck, so try scholarly graph
+		$obj = get_scholarly_item($id);
+		
+		if ($obj)
+		{
+			$ok = isset($obj->{'@graph'}[0]->{'@id'});
+		}
 	}
 	
 	if (!$ok)
@@ -961,7 +972,8 @@ function default_display($error_msg = '')
 					
 					<!-- death by COVID-19 -->								
 					<div class="item">
-						<a href="Q21518323">
+						<!-- now a redirect <a href="Q21518323"> -->
+						<a href="Q21338525">
 							<span>Pakshirajan Lakshminarasimhan</span>
 							<img src="image.php?qid=Q21518323" >
 						</a>

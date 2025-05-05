@@ -11,6 +11,690 @@ require_once(dirname(__FILE__) .  '/lib.php');
 
 require_once(dirname(__FILE__) .  '/vendor/digitalbazaar/json-ld/jsonld.php');
 
+//----------------------------------------------------------------------------------------
+function get_scholarly_item($qid, $debug = false)
+{
+	global $config;
+
+	$uri = 'http://www.wikidata.org/entity/' . $qid;
+	
+	{
+	$sparql = 'PREFIX schema: <http://schema.org/>
+PREFIX identifiers: <https://registry.identifiers.org/registry/>
+PREFIX bibo: <http://purl.org/ontology/bibo/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+
+CONSTRUCT
+{
+ ?item a ?type . 
+  
+ ?item schema:name ?title .
+ ?item schema:name ?label .
+ ?item schema:image ?image .
+ 
+ ?item schema:url ?url .
+  
+ # scholarly article
+ ?item schema:name ?title .
+ ?item schema:volumeNumber ?volume .
+ ?item schema:issueNumber ?issue .
+ ?item schema:pagination ?page .
+ ?item schema:datePublished ?datePublished .
+  ?item schema:abstract ?abstract . # pending https://schema.org/abstract
+  
+ # author(s)
+  ?item schema:author ?author .
+  ?author schema:name ?author_name .
+  ?author schema:position ?author_order .
+  
+  ?author schema:identifier ?orcid_author_identifier .
+ ?orcid_author_identifier a <http://schema.org/PropertyValue> .
+ ?orcid_author_identifier <http://schema.org/propertyID> "orcid" .
+ ?orcid_author_identifier <http://schema.org/value> ?orcid .
+  
+  
+ # container
+  ?item schema:isPartOf ?container .
+  ?container schema:name ?container_title .
+  ?container schema:issn ?issn .
+  
+
+  # PDF 
+  ?item schema:encoding ?encoding .
+  ?encoding a <http://schema.org/MediaObject> .
+  ?encoding <http://schema.org/encodingFormat> "application/pdf" .
+  ?encoding <http://schema.org/contentUrl> ?pdf_url . 
+
+
+ # identifiers as property values
+ 
+ # bhl
+ ?item schema:identifier ?bhl_page_identifier .
+ ?bhl_page_identifier a <http://schema.org/PropertyValue> .
+ ?bhl_page_identifier <http://schema.org/propertyID> "bhl page" .
+ ?bhl_page_identifier <http://schema.org/value> ?bhl_page .
+
+ # biostor
+ ?item schema:identifier ?biostor_identifier .
+ ?biostor_identifier a <http://schema.org/PropertyValue> .
+ ?biostor_identifier <http://schema.org/propertyID> "biostor" .
+ ?biostor_identifier <http://schema.org/value> ?biostor .
+
+ # doi
+ ?item schema:identifier ?doi_identifier .
+ ?doi_identifier a <http://schema.org/PropertyValue> .
+ ?doi_identifier <http://schema.org/propertyID> "doi" .
+ ?doi_identifier <http://schema.org/value> ?doi .
+
+ # handle
+ ?item schema:identifier ?handle_identifier .
+ ?handle_identifier a <http://schema.org/PropertyValue> .
+ ?handle_identifier <http://schema.org/propertyID> "handle" .
+ ?handle_identifier <http://schema.org/value> ?handle .
+
+ # internetarchive
+ ?item schema:identifier ?internetarchive_identifier .
+ ?internetarchive_identifier a <http://schema.org/PropertyValue> .
+ ?internetarchive_identifier <http://schema.org/propertyID> "internetarchive" .
+ ?internetarchive_identifier <http://schema.org/value> ?internetarchive .
+
+ # jstor
+ ?item schema:identifier ?jstor_identifier .
+ ?jstor_identifier a <http://schema.org/PropertyValue> .
+ ?jstor_identifier <http://schema.org/propertyID> "jstor" .
+ ?jstor_identifier <http://schema.org/value> ?jstor .
+ 
+ 
+ # pmc
+ ?item schema:identifier ?pmc_identifier .
+ ?pmc_identifier a <http://schema.org/PropertyValue> .
+ ?pmc_identifier <http://schema.org/propertyID> "pmc" .
+ ?pmc_identifier <http://schema.org/value> ?pmc .
+
+ # pmid
+ ?item schema:identifier ?pmid_identifier .
+ ?pmid_identifier a <http://schema.org/PropertyValue> .
+ ?pmid_identifier <http://schema.org/propertyID> "pmid" .
+ ?pmid_identifier <http://schema.org/value> ?pmid .
+ 
+ # CiNii NAID
+ ?item schema:identifier ?naid_identifier .
+ ?naid_identifier a <http://schema.org/PropertyValue> .
+ ?naid_identifier <http://schema.org/propertyID> "naid" .
+ ?naid_identifier <http://schema.org/value> ?naid . 
+ 
+ # CNKI
+ ?item schema:identifier ?cnki_identifier .
+ ?cnki_identifier a <http://schema.org/PropertyValue> .
+ ?cnki_identifier <http://schema.org/propertyID> "cnki" .
+ ?cnki_identifier <http://schema.org/value> ?cnki . 
+ 
+# AFD publications
+ ?item schema:identifier ?afd_identifier .
+ ?afd_identifier a <http://schema.org/PropertyValue> .
+ ?afd_identifier <http://schema.org/propertyID> "afd" .
+ ?afd_identifier <http://schema.org/value> ?afd .  
+  
+# ResearchGate
+ ?item schema:identifier ?rg_pub_identifier .
+ ?rg_pub_identifier a <http://schema.org/PropertyValue> .
+ ?rg_pub_identifier <http://schema.org/propertyID> "researchgate publication" .
+ ?rg_pub_identifier <http://schema.org/value> ?rg_pub .
+
+ # NDL
+ ?item schema:identifier ?ndl_identifier .
+ ?pmc_identifier a <http://schema.org/PropertyValue> .
+ ?ndl_identifier <http://schema.org/propertyID> "ndl" .
+ ?ndl_identifier <http://schema.org/value> ?ndl .
+
+ # VIAF
+ ?item schema:identifier ?viaf_identifier .
+ ?viaf_identifier a <http://schema.org/PropertyValue> .
+ ?viaf_identifier <http://schema.org/propertyID> "viaf" .
+ ?viaf_identifier <http://schema.org/value> ?viaf .
+
+ # zoobank publication
+ ?item schema:identifier ?zoobank_pub_identifier .
+ ?zoobank_pub_identifier a <http://schema.org/PropertyValue> .
+ ?zoobank_pub_identifier <http://schema.org/propertyID> "zoobank_pub" .
+ ?zoobank_pub_identifier <http://schema.org/value> ?zoobank_pub_uuid .
+
+ # persee
+ ?item schema:identifier ?persee_identifier .
+ ?persee_identifier a <http://schema.org/PropertyValue> .
+ ?persee_identifier <http://schema.org/propertyID> "persee" .
+ ?persee_identifier <http://schema.org/value> ?persee .
+
+ # Book identifiers
+  
+  # Google Books
+ ?item schema:identifier ?googlebooks_identifier .
+ ?googlebooks_identifier a <http://schema.org/PropertyValue> .
+ ?googlebooks_identifier <http://schema.org/propertyID> "google books" .
+ ?googlebooks_identifier <http://schema.org/value> ?googlebooks .     
+  
+  # ISBNs
+  ?item schema:isbn ?isbn13 .
+  ?item schema:isbn ?isbn10 .
+
+
+ 
+# subjects
+ ?item schema:about ?subject .
+ ?subject schema:name ?subject_name .
+ ?subject schema:image ?subject_image .
+ 
+# licensing
+ ?item schema:license ?license_url .
+ 
+  # publisher
+  ?item schema:publisher ?publisher .
+  ?publisher schema:name ?publisher_name .
+
+}
+WHERE
+{
+	 VALUES ?item { wd:' . $qid . ' }
+	
+	?item wdt:P31 ?type .
+	
+	OPTIONAL 
+	{
+		?item wdt:P1476 ?title .
+	}    
+	
+	# Some entities such as Q21337383 have lots of labels and this can cause queries to take too long
+	OPTIONAL 
+	{
+		?item rdfs:label ?label .
+		FILTER (lang(?label) = "en")
+	}    
+	
+	OPTIONAL 
+	{
+		?item wdt:P18 ?image .
+	}    
+		
+	# authors
+	OPTIONAL 
+	{
+		{
+			?item p:P2093 ?author .
+			?author ps:P2093 ?author_name .
+			?author pq:P1545 ?author_order. 	
+		}
+		UNION
+		{
+			?item p:P50 ?statement .
+		
+			OPTIONAL
+			{
+				?statement pq:P1545 ?author_order. 
+			}
+		
+			?statement ps:P50 ?author. 
+			SERVICE wdsubgraph:wikidata_main
+			{
+				?author rdfs:label ?author_name .  
+				FILTER (lang(?author_name) = "en")
+				
+				OPTIONAL
+				{
+					?author wdt:P496 ?orcid .
+					BIND( IRI (CONCAT (STR(?author), "#orcid")) as ?orcid_author_identifier)
+				}
+			}
+		}
+	}    
+	
+	# container
+	OPTIONAL 
+	{
+		?item wdt:P1433|wdt:P361 ?container .
+		SERVICE wdsubgraph:wikidata_main 
+		{
+			?container wdt:P1476 ?container_title .
+			OPTIONAL 
+			{
+				?container wdt:P236 ?issn .
+			}  
+		}  
+	}
+	
+	# date
+	OPTIONAL 
+	{
+		?item wdt:P577 ?date .
+		BIND(STR(?date) as ?datePublished) 
+	}
+	
+	OPTIONAL 
+	{
+		?item schema:description ?description .
+		
+		# filter languages otherwise we can be inundated
+		FILTER(
+			LANG(?description) = "en" 
+			|| LANG(?description) = "fr" 
+			|| LANG(?description) = "de" 
+			|| LANG(?description) = "es" 
+			|| LANG(?description) = "zh"
+		)
+	}  
+	
+	OPTIONAL 
+	{
+		?item skos:altLabel ?alternateName .
+		# filter languages otherwise we can be inundated
+		FILTER(
+			LANG(?alternateName) = "en" 
+			|| LANG(?alternateName) = "fr" 
+			|| LANG(?alternateName) = "de" 
+			|| LANG(?alternateName) = "es" 
+			|| LANG(?alternateName) = "zh"
+		)   
+	}   
+	
+	# scholarly articles -------------------------------------------------------------------
+	OPTIONAL 
+	{
+		?item wdt:P478 ?volume .
+	}   
+	
+	OPTIONAL 
+	{
+		?item wdt:P433 ?issue .
+	}  
+	
+	OPTIONAL 
+	{
+		?item wdt:P304 ?page .
+	}
+	
+	# first line as proxy for abstract
+	OPTIONAL
+	{
+		?item wdt:P1922 ?abstract .
+	}  
+	
+	# full text
+	OPTIONAL 
+	{
+		?item wdt:P953 ?url .  
+	}
+	
+	# PDF
+	
+	OPTIONAL 
+	{
+		?item p:P953 ?encoding .
+		?encoding ps:P953 ?source_url . # URL
+		?encoding pq:P2701 wd:Q42332 .    # PDF
+		?encoding pq:P1065 ?pdf_url . 	# Archive URL   	
+	}  
+	
+	# identifiers --------------------------------------------------------------------------
+	
+	
+	# identifiers as property value pairs
+	
+	OPTIONAL
+	{
+		?item wdt:P687 ?bhl_page .   
+		BIND( IRI (CONCAT (STR(?item), "#bhl_page")) as ?bhl_page_identifier)
+	}    
+	
+	OPTIONAL 
+	{
+		?item wdt:P5315 ?biostor .   
+		BIND( IRI (CONCAT (STR(?item), "#biostor")) as ?biostor_identifier)
+	}   
+	
+	# Make DOI lowercase
+	OPTIONAL 
+	{
+		?item wdt:P356 ?doi_string .   
+		BIND( IRI (CONCAT (STR(?item), "#doi")) as ?doi_identifier)
+		BIND( LCASE(?doi_string) as ?doi)
+	}    
+	
+	OPTIONAL
+	{
+		?item wdt:P1184 ?handle .   
+		BIND( IRI (CONCAT (STR(?item), "#handle")) as ?handle_identifier)
+	} 
+	
+	OPTIONAL 
+	{
+		?item wdt:P888 ?jstor .   
+		BIND( IRI (CONCAT (STR(?item), "#jstor")) as ?jstor_identifier)
+	} 
+	
+	OPTIONAL 
+	{
+		?item wdt:P2409 ?naid .   
+		BIND( IRI (CONCAT (STR(?item), "#naid")) as ?naid_identifier)
+	} 
+	
+	OPTIONAL 
+	{
+		?item wdt:P6769 ?cnki .   
+		BIND( IRI (CONCAT (STR(?item), "#cnki")) as ?cnki_identifier)  
+		OPTIONAL 
+		{
+			?item wdt:P724 ?internetarchive .   
+			BIND( IRI (CONCAT (STR(?item), "#internetarchive")) as ?internetarchive_identifier)
+		}
+	} 
+	
+	OPTIONAL 
+	{
+		?item wdt:P6982 ?afd .   
+		BIND( IRI (CONCAT (STR(?item), "#afd")) as ?afd_identifier)
+	} 
+	
+	OPTIONAL {
+	?item wdt:P698 ?pmid .   
+	BIND( IRI (CONCAT (STR(?item), "#pmid")) as ?pmid_identifier)
+	} 
+	
+	OPTIONAL 
+	{
+		?item wdt:P932 ?pmc .   
+		BIND( IRI (CONCAT (STR(?item), "#pmc")) as ?pmc_identifier)
+	}       
+	
+	OPTIONAL 
+	{
+		?item wdt:P9836 ?ndl .   
+		BIND( IRI (CONCAT (STR(?item), "#ndl")) as ?ndl_identifier)
+	}   
+	
+	OPTIONAL 
+	{
+		?item wdt:P5875 ?rg_pub .   
+		BIND( IRI (CONCAT (STR(?item), "#rg_pub")) as ?rg_pub_identifier)
+	} 
+	
+	
+	OPTIONAL 
+	{
+		?item wdt:P2007 ?zoobank_pub_uuid .   
+		BIND( IRI (CONCAT (STR(?item), "#zoobank_pub")) as ?zoobank_pub_identifier)
+	}  
+	
+	OPTIONAL 
+	{
+		?item wdt:P2732 ?persee .   
+		BIND( IRI (CONCAT (STR(?item), "#persee")) as ?persee_identifier)
+	}        
+	
+	# Book identifiers (migth be recorded for scholarly articles)
+	
+	# Google Books
+	OPTIONAL 
+	{
+		?item wdt:P675 ?googlebooks .   
+		BIND( IRI (CONCAT (STR(?item), "#googlebooks")) as ?googlebooks_identifier)
+	}        
+	
+	# ISBN
+	OPTIONAL 
+	{
+		?item wdt:P212 ?isbn13 .   
+	} 
+	 
+	OPTIONAL 
+	{
+		?item wdt:P957 ?isbn10 .   
+	}        
+	
+	# license
+	OPTIONAL 
+	{
+		?item wdt:P275 ?license .  
+		?license wdt:P856 ?license_url .  
+	}     
+	
+	OPTIONAL 
+	{
+		?item wdt:P123 ?publisher .  
+		?publisher rdfs:label  ?publisher_name .
+		# filter languages otherwise we can be inundated
+		FILTER(
+			LANG(?publisher_name) = "en" 
+			|| LANG(?publisher_name) = "fr" 
+			|| LANG(?publisher_name) = "de" 
+			|| LANG(?publisher_name) = "es" 
+			|| LANG(?publisher_name) = "zh"
+		)
+	}  
+	
+	OPTIONAL 
+	{
+		?item wdt:P856 ?url .  
+	}   
+	
+	# main subject
+	OPTIONAL 
+	{
+		?item wdt:P921 ?subject .  
+		SERVICE wdsubgraph:wikidata_main 
+		{
+			?subject rdfs:label ?subject_name
+			FILTER (LANG(?subject_name) = "en" )
+	
+			OPTIONAL 
+			{
+				?subject wdt:P18 ?subject_image .
+			}
+		}
+	
+	}   
+	
+}';
+}
+
+		
+	// Get item
+	
+	if (0)
+	{
+		$json = get(
+			$config['sparql_scholarly_endpoint']. '?query=' . urlencode($sparql), 
+			'application/ld+json'
+		);
+	}
+	else
+	{
+		$json = post(
+			$config['sparql_scholarly_endpoint'], 
+			'application/ld+json',
+			'query=' . $sparql
+		);
+	}	
+	
+	if (0)
+	{
+		echo '<pre>';
+		echo $json;
+		echo '</pre>';
+	}
+	
+	// Frame the JSON-LD to make it easier to parse
+	$doc = json_decode($json);
+		
+	$context = (object)array(
+		'@vocab' 	 	=> 'http://schema.org/'			
+	);
+		
+	// author is always an array
+	$author = new stdclass;
+	$author->{'@id'} = "author";
+	//$author->{'@author'} = "@set";
+	$author->{'@author'} = "@list"; 
+
+	$context->{'author'} = $author;
+
+	// ISSN is always an array
+	$issn = new stdclass;
+	$issn->{'@id'} = "issn";
+	$issn->{'@container'} = "@set";
+
+	$context->{'issn'} = $issn;
+	
+	// identifier
+	$identifier = new stdclass;
+	$identifier->{'@id'} = "identifier";
+	$identifier->{'@container'} = "@set";
+	
+	$context->{'identifier'} = $identifier;
+
+	// ISSN
+	$issn = new stdclass;
+	$issn->{'@id'} = "issn";
+	$issn->{'@container'} = "@set";
+	
+	$context->{'issn'} = $issn;
+	
+	// about
+	$about = new stdclass;
+	$about->{'@id'} = "about";
+	$about->{'@container'} = "@set";
+
+	$context->{'about'} = $about;
+	
+	// image
+	$image = new stdclass;
+	$image->{'@id'} = "image";
+	$image->{'@type'} = "@id";
+	
+	$context->{'image'} = $image;
+	
+	// license
+	$license = new stdclass;
+	$license->{'@id'} = "license";
+	$license->{'@type'} = "@id";
+	
+	$context->{'license'} = $license;
+	
+	// sameAs
+	$sameas = new stdclass;
+	$sameas->{'@id'} = "sameAs";
+	$sameas->{'@type'} = "@id";
+	$sameas->{'@container'} = "@set";
+	
+	$context->{'sameAs'} = $sameas;
+	
+	// url
+	$url = new stdclass;
+	$url->{'@id'} = "url";
+	$url->{'@type'} = "@id";
+	$url->{'@container'} = "@set";
+	
+	$context->{'url'} = $url;
+		
+	// contentUrl
+	$contentUrl = new stdclass;
+	$contentUrl->{'@id'} = "contentUrl";
+	$contentUrl->{'@type'} = "@id";
+	
+	$context->{'contentUrl'} = $contentUrl;
+	
+	// encoding
+	$encoding = new stdclass;
+	$encoding->{'@id'} = "encoding";
+	$encoding->{'@type'} = "@id";
+	$encoding->{'@container'} = "@set";
+	
+	$context->{'encoding'} = $encoding;
+	
+	// publisher
+	$publisher = new stdclass;
+	$publisher->{'@id'} = "publisher";
+	$publisher->{'@type'} = "@id";
+	$publisher->{'@container'} = "@set";
+	
+	$context->{'publisher'} = $publisher;
+
+	// Find work type
+	$n = count($doc);
+	$type = '';
+	$i = 0;
+	while ($i < $n && $type == '')
+	{
+		if ($doc[$i]->{'@id'} == $uri)
+		{
+			$type =  $doc[$i]->{'@type'}[0];
+		}
+		$i++;
+	}
+
+	if (0)
+	{
+		$data = jsonld_compact($doc, $context);
+	}
+	else
+	{
+
+		$frame = (object)array(
+				'@context' => $context,
+				'@type' => $type
+			);
+		
+		$data = jsonld_frame($doc, $frame);
+		
+		/*
+		echo '<pre>';
+		print_r($data);
+		echo '</pre>';
+		*/
+		
+		
+		// OK, RDF doesn't have a notion of order,
+		// and for this app I want authors in the correct order. So, SPARQL stores 
+		// order in "schema:positoon" so we use that to build an ordered array.
+		
+		if (isset($data->{'@graph'}[0]->author))
+		{
+			$author_list = array();
+			
+			if (is_object($data->{'@graph'}[0]->author))
+			{
+				// one author
+				unset($author->position);
+				$author_list[] = $data->{'@graph'}[0]->author;			
+			}
+			else
+			{
+				// array of authors
+				foreach ($data->{'@graph'}[0]->author as $author_item)
+				{
+					if (isset($author_item->position))
+					{
+						$index = (Integer)$author_item->position;
+						unset($author_item->position);
+						$author_list[$index] = $author_item;
+					}
+			
+				}
+				ksort($author_list, SORT_NUMERIC);
+			}
+	
+			$data->{'@graph'}[0]->author = array_values($author_list);
+		}
+		
+	}
+	
+	if ($debug)
+	{
+		echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n";	
+	}
+	
+	return $data;	
+
+}
+
 
 
 
@@ -1170,8 +1854,7 @@ function sparql_construct_stream($sparql_endpoint, $query, $format='application/
 	{
 		$doc = $obj;
 		
-		//echo '<pre>' . print_r($obj) . '<pre>';
-		
+		//echo '<pre>' . print_r($obj) . '<pre>';		
 		
 		$context = (object)array(
 			'@vocab' => 'http://schema.org/'	,
@@ -1206,8 +1889,8 @@ function sparql_construct_stream($sparql_endpoint, $query, $format='application/
 			'@type' => 'http://schema.org/DataFeed'
 		);
 			
+			
 		$data = jsonld_frame($doc, $frame);
-	
 		
 		$response = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);		
 	}
